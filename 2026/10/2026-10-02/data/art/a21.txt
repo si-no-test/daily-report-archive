@@ -1,0 +1,43 @@
+FINAL_URL: https://thepaypers.com/payments/news/bancomat-bizum-epiwero-sibsmb-way-and-vipps-mobilepay-launch-a-european-interoperability-entity
+STATUS: ok
+CHARS: 5593
+---CONTENT---
+Bancomat, Bizum, EPI/Wero, SIBS–MB WAY, and Vipps MobilePay launch a European interoperability entity
+Five European payment providers have established the European Network for Payments (ENP), a jointly owned company that will operate and scale interoperability between their payment solutions. The founding partners are Italy-based Bancomat, Spain-based Bizum, Belgium-based EPI Company, which operates Wero, Portugal-based SIBS, operator of MB WAY, and Norway-based Vipps MobilePay.
+ENP is headquartered in Spain and will operate the common interoperability hub that the partners committed to under a Memorandum of Understanding signed in February 2026.
+From memorandum to operating entity
+The founding partners will hold equal stakes in ENP. The entity will oversee technical coordination and decide how the network adds new functionalities and new participating solutions. The framework is open to other established European payment solutions in the future. Any new member will need the agreement of the existing partners and must meet the network's technical and operational requirements.
+Kim Fuglsang Kristoffersen , Head of Strategic Partnerships at Vipps MobilePay , said that Europe needs to move fast in building strong, independent European payment solutions. With this in mind, ENP will connect the existing solutions through a shared technical and operational layer based on European standards, including instant A2A payments. Each solution will keep its own brand and user experience. The aim is to let users of one domestic solution pay across borders, P2P, in store, and online, without switching to another service.
+The combined user base gives the network scale from the start. According to the partners, the solutions together serve approximately 130 million users in 13 European countries, which represents more than 70% of the population of the EU and Norway.
+The participating solutions and ENP are preparing the technical implementation. The rollout will be phased. Cross-border P2P payments come first, and ecommerce and point-of-sale (POS) payments follow in later phases. Fernando Rodríguez , Deputy General Manager for International Expansion at Bizum , said that this initiative strengthens Europe’s strategic autonomy and paves the way for a new generation of connected digital payments designed to meet the needs of consumers and merchants.
+Sovereignty and ecosystem implications
+The partners describe the initiative as a step towards a sovereign and interoperable European payments framework. The model connects established national solutions rather than replacing them with a single pan-European product, so each domestic brand stays in place.
+Fabrizio Burlando , CEO of Bancomat , said the project reinforces the role of banks and European infrastructures in digital payments. João Mello Franco , CEO of SIBS , said the model would let Europeans use the payment solutions they already use at home when they travel, shop, or do business abroad. The same official said it would help merchants serve customers from across Europe without major investment. That point matters for merchants because they would not need to integrate several separate domestic solutions to accept payments from customers in other countries.
+Martina Weimert , CEO of EPI , pointed to how far Wero has already come in its own market. According to her, consumers are already paying with Wero online, and Belgium is an example of Wero expanding into physical stores.
+Several steps are still ahead. The partners must complete the technical implementation, and the e-commerce and POS phases must follow the peer-to-peer launch. The network's reach may also grow if other established European solutions join under the agreed conditions.
+Keywords: partnership payments A2A payments P2P payments ecommerce digital payments
+American Express launches corporate cashback card with expense tools
+01 Oct 2026 / 5 min read / Payments
+Volt obtains Australian Financial Services Licence from ASIC
+01 Oct 2026 / 5 min read / Payments
+IFC commits USD 90 million to Airtel Money ahead of London IPO
+01 Oct 2026 / 5 min read / Payments
+Mashreq and Citi complete a tokenised deposit payment on Swift ledger
+01 Oct 2026 / 5 min read / Payments
+Mastercard expands Agent Pay with trust and intelligence services
+01 Oct 2026 / 5 min read / Payments
+Unfiltered: chargebacks are a relic
+30 Sep 2026 / 8 min read / Payments
+The Banking View by The Paypers: interviews from bank executives on payments and financial crime
+25 Sep 2026 / 10 min read / Payments
+The Banking View | The great cross-border payments reset: why banks must move now
+25 Sep 2026 / 8 min read / Payments
+Reducing involuntary churn: how tokenization and payment recovery are reshaping subscriptions
+09 Sep 2026 / 10 min read / Payments
+The Paypers' 2026 global overview of payment orchestration providers
+01 Sep 2026 / 6 min read / Payments
+The Paypers is a global hub for market insights, real-time news, expert interviews, and in-depth analyses and resources across payments, fintech, and the digital economy. We deliver reports, webinars, and commentary on key topics, including regulation, real-time payments, cross-border payments and ecommerce, digital identity, payment innovation and infrastructure, Open Banking, Embedded Finance, crypto, fraud and financial crime prevention, and more – all developed in collaboration with industry experts and leaders.
+TradFi and DeFi Convergence
+KYC, KYB and Digital Identity
+No part of this site can be reproduced without explicit permission of The Paypers (v2.7).
+Privacy Policy / Cookie Statement

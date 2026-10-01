@@ -1,0 +1,29 @@
+FINAL_URL: https://www.pymnts.com/news/delivery/2026/doordash-slides-into-your-dms-with-dinner/
+STATUS: ok
+CHARS: 4946
+---CONTENT---
+DoorDash Slides Into Your DMs With Dinner
+DoorDash customers can now order by text via Apple’s Messages.
+DoorDash is letting third-party AI agents in, whereas Amazon is keeping them out.
+Third-party AI agents still bring DoorDash little volume, but its own agent knows the customer.
+DoorDash customers can now order dinner by sending a text. The company’s new artificial intelligence (AI) agent works inside Apple’s Messages, builds the cart and handles checkout without the DoorDash app ever opening.
+DoorDash unveiled the text-to-order agent on Wednesday (Sept. 30) and opened a waitlist for a U.S. beta. The agent matches a texter’s phone number to a DoorDash profile, Bloomberg reported . It then draws on that customer’s order history and preferences and pays with the stored payment method.
+The product extends Ask DoorDash, the in-app assistant the company launched in June. “Every other AI agent is meeting you for the first time. We’ve known you for years,” Co-Founder Andy Fang said at the company’s Dash Forward event, Implicator reported Wednesday.
+Shoppers Order Without the DoorDash App
+Customers can ask for a dish, request a local recommendation or text “order my usual,” the company said . The agent searches nearby restaurants, scans menus and suggests a cart. It texts photos of the food from the restaurant’s DoorDash store page and can sort mixed dietary needs for a group order. With permission, it can also message customers about a usual coffee order before they ask. Customers confirm the order in the thread, and the agent completes checkout.
+The in-app version shows why DoorDash wants the agent in more places. The average U.S. customer can choose from more than 800,000 menu items and grocery products, the company said. Grocery baskets built with Ask DoorDash come together five times faster, and nearly half of Ask DoorDash restaurant orders went to places the customer had never tried, DoorDash added.
+We’d love to be your preferred source for news .
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+Repeat orders make up a large share of that use. More than 30% of grocery orders through Ask DoorDash are routine restocks, the company said. A new one-tap prompt now rebuilds those carts in the app. The assistant also scans the grocer’s shelves for cheaper swaps before checkout.
+The text agent is still finding its bearings. Bloomberg’s testing of an early version found prices that differed from those in the app. DoorDash said waitlist users will get a newer version.
+DoorDash is opening the same system to workplace AI. A new tool lets enterprise AI assistants place DoorDash orders without the app, Bloomberg reported. A Slack bot, for example, could collect lunch requests from a team and place one group order. SpaceXAI, Cognition and Mercor already use the tool internally. The connector runs on the Model Context Protocol, an open standard for linking AI agents to outside software, Implicator noted .
+Other platforms are drawing the line in a different place. Amazon blocked Meta’s Muse agent from shopping its site in September after Meta declined to remove it. Amazon builds its own shopping tools, including its Rufus assistant, and has sued Perplexity over its Comet shopping agent. DoorDash is taking the other route: it is in talks with Meta about an official Muse connection, according to Bloomberg.
+DoorDash Keeps the Customer Relationship
+That openness has yet to pay off. Agentic order volume from AI partners was still low, DoorDash CEO Tony Xu told analysts in August, according to PYMNTS reporting of the second-quarter earnings call. Xu nonetheless made the case for taking steps out of ordering. “Whenever you’re reducing friction in a product, you get more usage,” he said.
+DoorDash’s own agent has an edge that third-party agents lack. Adding customer memory to Ask DoorDash lifted grocery checkout conversion by about 24% and basket sizes by 17% in a seven-day evaluation, InfoQ reported , citing DoorDash’s engineering write-up. Third-party agents start without that history.
+“Recommendation is the easy part. Certainty and trust is the product,” PYMNTS CEO Karen Webster wrote in a Wednesday analysis. The company that owns the shopping conversation and the company that completes the order can both build a business, she argued. Only the one completing the order gets paid no matter where the shopper starts. In Messages, DoorDash is both. Its agent does the recommending, and DoorDash confirms each order with the customer, charges the card on file and sends a Dasher to the door.
+Europe’s Payee Checks Set the Pace as US Plans Take Shape
+Banks' Blockchain Bet Comes Down to Moving the Money
+OpenAI Cracks Down on Insiders Sharing Data With Safety Watchdog
+Microsoft Targets Contact Center Market With Real-Time AI Voice Models
+AI , digital transformation , DoorDash , food and beverages , News , PYMNTS News , Restaurants

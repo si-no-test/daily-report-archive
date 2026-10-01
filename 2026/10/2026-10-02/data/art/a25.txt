@@ -1,0 +1,4 @@
+FINAL_URL: https://www.coindesk.com/policy/2026/10/01/sec-proposes-crypto-custody-rules
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 404: Not Found

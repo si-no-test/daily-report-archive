@@ -1,0 +1,21 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-targets-contact-center-market-with-real-time-ai-voice-models/
+STATUS: ok
+CHARS: 3017
+---CONTENT---
+Microsoft Targets Contact Center Market With Real-Time AI Voice Models
+Microsoft has launched three new artificial intelligence models that can be used to power customer service agents, multilingual assistants, interactive learning experiences and live captions and voice-driven interfaces, according to a Thursday (Oct. 1) blog post .
+“Together, they give developers more choice in how to build natural voice experiences,” Naomi Moneypenny , senior director of product development, Microsoft Foundry Models, said in the post.
+One model, MAI-Transcribe-2-Streaming , turns live speech into text as it arrives. This model transcribes continuously across 60 languages, with automatic language detection, produces its first hypotheses within the low hundreds of milliseconds and commits to a stable transcript when the utterance ends, according to the post.
+We’d love to be your preferred source for news .
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+“That distinction matters when an application needs to act while someone is speaking,” Moneypenny said. “A customer-service agent can begin identifying a caller’s request before the sentence is complete. A voice assistant can start reasoning or preparing a tool call sooner. A live transcription experience can surface words almost as quickly as they are spoken.”
+The second new model released Thursday, MAI-Voice-2.1 , is a multilingual text-to-speech model that Microsoft describes as being its most expressive such model yet. This model generates “natural, expressive speech” in 23 languages and is designed to be used when voice quality is central to the experience, according to the post.
+The third new model, MAI-Voice-2.1-Flash , is optimized for responsive, high-volume voice applications. It supports the same languages and cross-language voice identities as MAI-Voice-2.1 but is meant to be used when response time and volume are most important.
+“Developers can choose MAI-Voice-2.1 when expressive fidelity is the priority, or Flash when they need to balance natural speech with responsiveness and cost at scale,” Moneypenny said in the post.
+Microsoft announced in July that it will spend $2.5 billion on a new unit called the Microsoft Frontier Company that is aimed at helping the tech giant’s customers implement AI . The new unit will also embed 6,000 industry and engineering experts with the firm’s customers in what it called a step above what is known as “forward deployed engineering.”
+PYMNTS reported in July that the money for artificial intelligence companies is in enterprise and that AI model makers are racing to address the gap between ideation and integration.
+NYC Launches Nation’s First Municipal Click-to-Cancel Rule
+Europe’s Payee Checks Set the Pace as US Plans Take Shape
+Banks' Blockchain Bet Comes Down to Moving the Money
+OpenAI Cracks Down on Insiders Sharing Data With Safety Watchdog
+artificial intelligence , Microsoft , News , PYMNTS News , Voice AI , What's Hot

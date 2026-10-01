@@ -1,0 +1,13 @@
+FINAL_URL: https://www.crowdfundinsider.com/2026/10/314828-digital-banking-za-bank-reports-profitability/
+STATUS: fail
+CHARS: 1455
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+ZA Bank is one of the first approved digital banks in Hong Kong. This week, the company reported “sustained profitability.”
+According to a release, for the 6 months ending in June, the bank generated a net profit of HKD 70.6 million (~USD 9million), an increase of 1.5X versus the same period year prior.
+ZA Bank said its core business drove the positive results, with net interest margin rising to 2.99% and net revenue reaching HKD 578 million.
+The bank said that wealth management grew by 76% year over year. ZA Bank was the first digital bank in Hong Kong to offer wealth management.
+Net fee and commission income reached HKD 123 million for the period, with stock turnover rising nearly sevenfold, while investment AUM increased by 155%.
+Calvin Ng , CEO of ZA Bank, commented on the results:
+“ZA Bank has achieved sustained profitability, demonstrating strong growth momentum and earnings resilience that stands as a testament to the trust the market and our users place in us. Our industry-outperforming net interest margin, combined with record-high net profit and non-interest income, fully validates the strength and sustainability of our “product-driven, user-first” model. As we embark on a new chapter, we will continue to deepen our one-stop services spanning wealth management, investment and spending, rewarding every vote of confidence with a reliable, efficient and human-centric digital banking experience.”
+Sponsored Links by DQ Promote

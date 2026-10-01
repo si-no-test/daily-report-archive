@@ -1,0 +1,4 @@
+FINAL_URL: https://www.finextra.com/newsarticle/48517/european-payments-groups-join-forces-to-take-on-us-giants
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

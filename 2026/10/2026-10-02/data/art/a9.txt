@@ -1,0 +1,30 @@
+FINAL_URL: https://www.crowdfundinsider.com/2026/10/314359-fintech-firm-jeeves-reports-new-funding-to-scale-stablecoin-native-banking-platform/
+STATUS: ok
+CHARS: 3597
+---CONTENT---
+Miami-based Fintech Jeeves has closed a $110 million equity round to grow its stablecoin-native banking platform for companies that operate across borders. CoinFund led the financing , with AllianceBernstein, Andreessen Horowitz, Coinbase Ventures, CRV, GIC, Global PayTech Ventures, ParaFi, Vista, Wintermute, Y Combinator and additional backers joining the round .
+The company positions itself as a single operating system for corporate finance rather than a collection of disconnected banking products.
+Customers can issue physical and virtual cards, send cross-border payments, manage spend, run accounts payable, and hold local or dollar accounts through one interface.
+Settlement sits on stablecoin rails in the background.
+Finance teams do not need to handle wallets, tokens, or blockchains; they see faster transfers and lower costs than traditional correspondent banking typically allows.
+Clients cited by the company include BMW, H&M, Lululemon, Burger King, Kavak and XP.
+More than 80 percent of customers use more than one Jeeves product.
+Growth figures released with the raise show why investors returned.
+Annualized platform volume across cards and payments now exceeds $5 billion after tripling year over year.
+Revenue has risen sharply over the past year. Stablecoin activity is the fastest-growing slice.
+Eight months earlier, on-chain settlement on the platform was effectively nonexistent.
+That figure is now running at about $1.5 billion on an annualized basis, as businesses move funds between markets where wires are slow and expensive.
+A large share of international volume already settles in dollar- or euro-backed stablecoins such as USDC and EURC.
+Jeeves is using the capital to widen both geography and product.
+Its stablecoin card program is expanding from 25 to 35 countries, adding Argentina , Costa Rica, the Dominican Republic, Guatemala, Panama, Peru, Paraguay and Uruguay.
+Combined with existing coverage in North America, the United Kingdom and Europe, that footprint covers most of Central and South America.
+The firm is also opening a Madrid office to support European growth. Alongside the raise, it is launching a proprietary stablecoin wallet with payouts to 190 countries, a global AI spend-tracking tool, and an accounts receivable module.
+The goal is one system for sending money, tracking expenses, and collecting payments without stitching together banks and spreadsheets in every market.
+Founder and chief executive Dileep Thazhmon has argued that multinational firms are tired of infrastructure built for domestic banking.
+In his view, stablecoin rails are the only practical way to give a company in São Paulo the same speed and cost structure when paying a supplier in Berlin that it would have for a domestic transfer.
+CoinFund managing partner David Pakman said few firms have built a full enterprise stack on stablecoins rather than treating them as an add-on.
+He pointed to Jeeves’ existing distribution across Latin America, the United States and Europe as the reason the firm led the round.
+The company was founded around 2019–2020 after Thazhmon’s earlier experience running a cross-border business .
+It later went through Y Combinator and built licenses and infrastructure it owns rather than renting from banks.
+That ownership, investors say, supports tighter unit economics and a consistent product across many countries. The latest financing is intended to turn Jeeves from a payments and card tool into core banking infrastructure for enterprises that already treat multiple countries as their home market.
+Sponsored Links by DQ Promote

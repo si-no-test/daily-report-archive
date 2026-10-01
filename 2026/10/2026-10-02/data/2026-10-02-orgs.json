@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "美國線上支付處理商，為數位服務平台提供收單、帳務與嵌入式金融服務。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://www.visa.com",
+  "intro": "全球最大卡片支付網路之一，提供跨境與數位支付基礎設施。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要卡片支付網路，提供支付、開放銀行與安全服務。"
+ },
+ {
+  "name": "巴克萊銀行",
+  "url": "https://www.barclays.com",
+  "intro": "英國大型跨國銀行，業務涵蓋零售、企業與投資銀行。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "美國AI公司，開發Claude系列模型與模型上下文協定（MCP）。"
+ },
+ {
+  "name": "微軟",
+  "url": "https://www.microsoft.com",
+  "intro": "美國軟體與雲端服務公司，提供Azure與企業AI產品。"
+ },
+ {
+  "name": "DoorDash",
+  "url": "https://www.doordash.com",
+  "intro": "美國外送與本地商務平台，推出AI代理協助點餐。"
+ },
+ {
+  "name": "Fiserv",
+  "url": "https://www.fiserv.com",
+  "intro": "美國支付與金融科技處理商，為銀行與商家提供核心系統與支付服務。"
+ },
+ {
+  "name": "Fireblocks",
+  "url": "https://www.fireblocks.com",
+  "intro": "提供數位資產託管與轉移基礎設施的金融科技公司。"
+ },
+ {
+  "name": "VersaBank",
+  "url": "https://www.versabank.com",
+  "intro": "加拿大數位銀行，發行Roughrider穩定幣。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國大型加密資產交易所與託管服務商。"
+ },
+ {
+  "name": "美國證券交易委員會",
+  "url": "https://www.sec.gov",
+  "intro": "美國聯邦證券主管機關，負責證券市場與投資顧問監理。"
+ },
+ {
+  "name": "Circle",
+  "url": "https://www.circle.com",
+  "intro": "USDC穩定幣發行商。"
+ },
+ {
+  "name": "Jeeves",
+  "url": "https://www.tryjeeves.com",
+  "intro": "提供跨境企業卡片與費用管理的金融科技公司，後端以穩定幣結算。"
+ }
+]

@@ -1,0 +1,25 @@
+FINAL_URL: https://www.crowdfundinsider.com/2026/10/314681-citi-opens-multi-market-instant-payments-via-swift/
+STATUS: ok
+CHARS: 3209
+---CONTENT---
+Citigroup ( NYSE: C ) has recently activated instant payments across several countries through Swift’s payments scheme, giving correspondent banks a simpler path into domestic real-time rails without building a local presence in each market.
+Announced on 29 September 2026 , the capability is delivered through Citi’s WorldLink Payment Services and its Global Clearing network.
+Participating institutions can reach multiple instant payment systems from a single account structure and their existing Swift connection.
+That arrangement is designed to remove the usual requirement for separate local bank accounts, bilateral correspondent deals, and country-by-country technical builds.
+The first live corridors include Australian dollars via Australia’s New Payments Platform (NPP), sterling via the United Kingdom ’s Faster Payments System (FPS), and Indian rupees via India’s Immediate Payment Service (IMPS).
+Citi has also widened its US dollar clearing so that participating banks can credit funds in real time to beneficiaries that hold accounts with Citi in the United States. Further currencies and markets are planned.
+More than 12,500 financial institutions already connected to Swift can use the model, provided they are participating bank clients of Citi.
+Until now, a bank that wanted instant reach in several countries typically had to open accounts, negotiate local partnerships, and connect separately to each national clearing system.
+Citi’s approach consolidates those steps into one relationship.
+The bank is using established domestic instant rails together with mature ISO 20022 (MX) messaging.
+Combined with WorldLink’s broader offering, clients can tap nine instant-payment schemes plus near real-time wires across 20 currencies and 54 markets.
+WorldLink itself supports payments in 135 currencies and integrated foreign exchange across more than 4,500 currency pairs.
+Debopama Sen , Citi’s head of payments in Services, said the industry is moving toward always-on, interconnected money movement.
+Collaboration with Swift, she argued, lets banks attach to instant capabilities in several markets through a scalable model that improves speed, transparency, and coverage.
+The launch sits inside a wider Citi Services push for real-time, around-the-clock cross-border flows of cash, liquidity, and securities .
+It also follows Citi’s recent live transactions on Swift’s blockchain -based ledger, which the bank has described as part of the same strategy for interoperable, always-available payments.
+For correspondent banks, the practical effect is faster product rollout.
+Instead of multi-year builds in each corridor, they can offer customers instant or near-instant international transfers through infrastructure they already use.
+That may matter as corporates and smaller firms increasingly expect domestic-style speed when they send money abroad.
+Citi frames the service as a bridge between Swift ’s new retail payments scheme and its own clearing franchise. Whether or not other global banks follow with similar multi-market offerings will help determine how quickly instant cross-border payments become a standard feature rather than a specialist add-on.
+Sponsored Links by DQ Promote

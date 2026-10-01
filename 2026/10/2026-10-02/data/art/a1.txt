@@ -1,0 +1,21 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/st-louis-fed-adapts-fred-database-for-ai-agents/
+STATUS: ok
+CHARS: 2711
+---CONTENT---
+St. Louis Fed Adapts FRED Database for AI Agents
+Federal Reserve Economic Data ( FRED ) has introduced a FRED MCP Connector that uses the Model Context Protocol (MCP) to simplify connecting FRED data with artificial intelligence systems, Federal Reserve Board Governor Christopher J. Waller said Thursday (Oct. 1).
+In a speech delivered during FRED Con at the Federal Reserve Bank of St. Louis , Waller said the FRED MCP Connector enables users to deploy the AI agent of their choice to find and retrieve data from FRED.
+“Why is this a big deal? Up till now, FRED has been designed to be viewed and understood by humans,” Waller said. “But an AI bot sees and interprets data very differently. And that means the FRED team must adapt how FRED is presented to this new type of viewer so that the data are conveyed back to the agent’s master accurately and in a well-documented manner.”
+We’d love to be your preferred source for news .
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+FRED is an online database that includes hundreds of thousands of economic data time series from national, international, public and private sources, according to a “ What is Fred? ” page on the website of the Federal Reserve Bank of St. Louis. FRED is created and maintained by the St. Louis Fed’s Research Department, per the page.
+The Model Context Protocol is an open standard introduced by Anthropic in 2024 to make AI systems more useful in real-world business settings by allowing them to connect to business tools, databases and workflows, PYMNTS reported in November 2025.
+Waller said Wednesday that FRED’s role as a reliable source of data produced by other organizations may be challenged by AI that may not accurately cite the sources of data and may make errors in interpreting data.
+Today, half of the visits to FRED are from AI agents that are retrieving data. While AI agents have generally been “very accurate,” they don’t always correctly attribute to the original source the data they gather during a visit to FRED, Waller said.
+The FRED MCP Connector will help ensure that AI bots convey the data accurately, Waller said.
+“In addition to creating that new architecture, the FRED staff is developing new skills to help AI agents that visit FRED to understand and work with economic data more effectively and accurately,” Waller said.
+NYC Launches Nation’s First Municipal Click-to-Cancel Rule
+Europe’s Payee Checks Set the Pace as US Plans Take Shape
+Banks' Blockchain Bet Comes Down to Moving the Money
+OpenAI Cracks Down on Insiders Sharing Data With Safety Watchdog
+artificial intelligence , data , federal reserve , News , PYMNTS News , What's Hot

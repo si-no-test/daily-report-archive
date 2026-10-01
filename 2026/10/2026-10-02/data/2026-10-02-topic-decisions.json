@@ -1,0 +1,67 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "european-network-for-payments-enp",
+  "title": "歐洲支付網路ENP互通中樞分階段推出",
+  "theme": "innovation",
+  "keywords": [
+   "ENP",
+   "European Network for Payments",
+   "Wero",
+   "Bizum",
+   "跨境即時支付"
+  ],
+  "headline": "歐洲五大國內支付系統成立ENP，串聯約1.3億用戶",
+  "one_line_update": "Bancomat、Bizum、Wero、MB WAY與Vipps MobilePay於10月1日成立ENP，先上跨境個人轉帳，電商與實體店後續跟進。",
+  "source_title": "Bancomat, Bizum, EPI/Wero, SIBS–MB WAY, and Vipps MobilePay launch a European interoperability entity",
+  "source_url": "https://thepaypers.com/payments/news/bancomat-bizum-epiwero-sibsmb-way-and-vipps-mobilepay-launch-a-european-interoperability-entity"
+ },
+ {
+  "action": "create",
+  "topic_id": "barclays-claude-enterprise-rollout",
+  "title": "巴克萊銀行Claude全行導入分階段進程",
+  "theme": "ai",
+  "keywords": [
+   "Barclays",
+   "巴克萊",
+   "Claude Code",
+   "Anthropic",
+   "銀行AI導入"
+  ],
+  "headline": "巴克萊擴大導入Claude，目標年底一半開發人員使用",
+  "one_line_update": "巴克萊於10月1日宣布Claude Code預期2026年底涵蓋50%開發人員、2027年成多數，並已用於知識助理與每日約12萬封郵件分流。",
+  "source_title": "Barclays scales Claude to upgrade operations and improve client experience",
+  "source_url": "https://www.anthropic.com/news/barclays-scales-claude"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "sec-crypto-custody-rule-revival",
+  "headline": "SEC提出加密資產保管規則草案",
+  "one_line_update": "SEC於10月1日提出760頁加密資產保管規則草案，開放60天評論，納入州立信託公司並設有限自行保管例外。",
+  "source_title": "SEC proposes new crypto custody rules for investment advisers and funds",
+  "source_url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda"
+ },
+ {
+  "action": "create",
+  "topic_id": "fiserv-stablecoin-digital-asset-platform",
+  "title": "Fiserv穩定幣數位資產平台上線與擴展",
+  "theme": "blockchain",
+  "keywords": [
+   "Fiserv",
+   "穩定幣",
+   "Roughrider",
+   "FIUSD",
+   "代幣化存款"
+  ],
+  "headline": "Fiserv穩定幣平台上線，北達科他州Roughrider幣率先運行",
+  "one_line_update": "Fiserv於10月1日宣布數位資產平台上線，首個為VersaBank發行、運行於Solana的Roughrider幣；自家FIUSD進度未提。",
+  "source_title": "Fiserv's stablecoin system starts",
+  "source_url": "https://www.paymentsdive.com/news/fiserv-north-dakota-stablecoin-system-digital-asset/831901/"
+ }
+]

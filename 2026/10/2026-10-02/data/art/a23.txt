@@ -1,0 +1,23 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/barclays-accelerates-ai-rollout-with-anthropic-claude-code/
+STATUS: ok
+CHARS: 3389
+---CONTENT---
+Barclays Accelerates AI Rollout With Anthropic’s Claude Code
+British universal bank Barclays expects half of its developers to be using Anthropic ’s agentic artificial intelligence coding tool Claude Code by the end of the year, and most of them to be using it by the end of 2027, Anthropic said in a Thursday (Oct. 1) press release.
+The growing adoption of Claude Code is part of an expanded strategic collaboration of Barclays and Anthropic that will see the bank integrate AI systems across its global operations, according to the release.
+Craig Bright , group co-chief operating officer at Barclays, said in the release that AI systems are reshaping software engineering and cybersecurity and that the bank is adding agentic capabilities for building, testing, securing and operating technology.
+“At Barclays, we’re using Claude to help modernize legacy platforms, improve software quality and allow our technical experts to focus on the most complex challenges,” Bright said. “The combination of skilled engineers, cyber specialists and trusted AI capabilities has the potential to fundamentally improve how technology is developed and managed across large-scale enterprises.”
+We’d love to be your preferred source for news .
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+Barclays and Anthropic have already implemented other AI systems across the bank. Examples include Barclays’ Colleague Knowledge Assistant, which is used by more than 16,000 Barclays UK employees and has handled over 1 million searches since 2025, and Claude models used within Barclays’ Global Markets business, which process 120,000 emails from clients each day and help colleagues act on them, according to the release.
+Ann Marie Darling , group co-chief operating officer at Barclays, said in the release that the expanded use of Claude at the bank will transform how work gets done and enable better outcomes.
+“By reducing time spent on routine activities and streamlining decision-making, we can enable colleagues to focus their expertise where it matters most, solving more complex problems, accelerating innovation, and delivering better outcomes for our customers, clients and business,” Darling said.
+Anthropic Chief Commercial Officer Paul Smith said in the release: “Our work with Barclays is a significant milestone for us in the U.K. Barclays serves millions of customers and clients across the globe, so their standard for AI is high. That’s why Barclays is rolling Claude out with strong security and oversight.”
+The PYMNTS Intelligence report “ The Enterprise AI Payback Curve: Adoptions Accelerates as Returns Take Shape ” found in August that 95% of banks and insurers are broadly deploying or more intensively embedding new AI tools in the back-office function of data and technology.
+The report also found that 95% of banks and insurers said that new forms of AI have proven to be very or extremely effective in the functions in which they are used.
+For all PYMNTS AI coverage, subscribe to the daily AI newsletter .
+Cars24 Turns Test Drive Chatter Into a 35% Sales Lift
+NYC Launches Nation’s First Municipal Click-to-Cancel Rule
+Europe’s Payee Checks Set the Pace as US Plans Take Shape
+Banks' Blockchain Bet Comes Down to Moving the Money
+Anthropic , artificial intelligence , Banks , Barclays , News , PYMNTS News , What's Hot

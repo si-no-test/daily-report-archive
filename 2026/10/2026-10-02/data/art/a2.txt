@@ -1,0 +1,23 @@
+FINAL_URL: https://www.paymentsdive.com/news/fiserv-north-dakota-stablecoin-system-digital-asset/831901/
+STATUS: ok
+CHARS: 4227
+---CONTENT---
+Fiserv’s stablecoin system starts
+The mega processor’s system for hosting digital currencies is up and running, with North Dakota’s stablecoin the first digital asset to go live.
+Payments processor Fiserv went live with its new system for stablecoins, rolling out the Roughrider Coin backed by Bank of North Dakota.
+The Milwaukee-based processor locked arms with other companies in the stablecoin sphere to make it happen: The digital asset bank VersaBank issued the Roughrider coin, Fireblocks provides its digital asset infrastructure and the Solana blockchain will carry the transactions, according to a Thursday press release .
+The debut of Fiserv’s system marks “a significant milestone in the commercialization of stablecoin-enabled banking and payments,” the company said in the release. In the case of the Roughrider coin, the system is “designed to enable more efficient money movement across the state’s interbank network.”
+A Fiserv spokesperson said the new platform went live this week.
+Meanwhile, Fiserv's new CEO, Takis Georgakopoulos, continues to be under pressure from the activist investor Jana Partners to divest parts of the business. Aside from new management, the company has also struggled to meet its growth expectations this year.
+Fiserv’s head of embedded finance and digital assets, Sunil Sachdev, promised in the release that the new system would provide new efficiencies for banks and credit unions while meeting regulatory and security standards.
+North Dakota, which is the only state to operate its own bank, said that some 90 financial institutions in the state would have access for making bank-to-bank transfers with the digital currency.
+A stablecoin is a digital asset that is designed to be less volatile than some of the other hundreds of digital coins, such as bitcoin, that are circulating. The stablecoin maintains more stability by being tied to an asset that better maintains its value, typically the U.S. dollar.
+Last October, North Dakota became t he second state in the U.S. to launch its own digital currency. Wyoming launched its Frontier Stable Token in August last year, a month after Congress passed the Genius Act to provide a federal regulatory framework for stablecoins.
+Fiserv will provide the infrastructure for issuance, reserve, custody and settlement of the stablecoin transactions, the release said.
+Last June, Fiserv said it would launch its own stablecoin, FIUSD , aiming to leverage use across its network of 10,000 financial institutions, six million merchant locations and 90 billion annual transactions.
+The company had said it would set up FIUSD by the end of last year, but there was no mention of it in the release Thursday. The spokesperson didn’t immediately comment on the status of the company’s own stablecoin.
+In stead, Fiserv on Thursday emphasized the role its system is playing in hosting the North Dakota stablecoin, including making it available for corporate clients, their finance teams and cross-border purposes.
+“The launch of our digital asset platform is an important milestone for Fiserv and the financial institutions we serve,” Sachdev said in the release. “By moving from concept to production with leading institutions, we are helping clients unlock new efficiencies in banking and payments while maintaining the trust, security and regulatory standards they expect.”
+Specifically, Fiserv’s system will enable financial institutions, companies, online marketplaces and fintechs to use stablecoins, issue payment cards tied to stablecoins and automate treasury tasks, the release said. It will also support tokenized deposits, and currency exchange services.
+When it introduced the coin last year, North Dakota explained that the digital asset would also allow the state to participate in global money movement and give merchants another payment option. North Dakota’s bank said the Roughrider moniker was chosen as a “salute” to President Theodore Roosevelt, whose militia was dubbed Rough Riders and fought in Cuba during the Spanish-American war.
+A third state, Nebraska, has also taken an interest in digital currencies, with its 2021 Financial Innovation Act. The law created a new charter for digital asset depository institutions.

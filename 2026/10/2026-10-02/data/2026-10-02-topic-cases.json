@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **Stripe**於9月30日宣布收購嵌入式融資平台Parafin，該公司累計已向約6萬家企業撥貸30億美元",
+  "summary": "Stripe於9月30日宣布收購嵌入式融資新創Parafin，交易金額未揭露，預計在未來數月內完成。Parafin成立於2020年，2024年底估值為7.5億美元，首筆現金預支發放於2021年，累計已",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **歐洲支付網路ENP（European Network for Payments）**於10月1日由Bancomat、Bizum、Wero、MB WAY與Vipps MobilePay宣布成立，串聯約1.3億名用戶",
+  "summary": "義大利Bancomat、西班牙Bizum、比利時EPI（營運Wero）、葡萄牙SIBS（營運MB WAY）與挪威Vipps MobilePay五家業者，成立共同持股的歐洲支付網路ENP，總部設在西班牙",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **巴克萊銀行（Barclays）**於10月1日宣布擴大與Anthropic合作，目標2026年底一半開發人員使用Claude Code",
+  "summary": "巴克萊銀行於10月1日宣布擴大與Anthropic的合作，在全球營運中使用Claude加速軟體開發、現代化舊系統並提升營運效率。預期Claude Code在2026年底涵蓋50%開發人員，2027年成",
+  "theme": "ai"
+ },
+ {
+  "title": "- **聖路易聯邦準備銀行（St. Louis Fed）**於10月1日由聯準會理事沃勒（Christopher Waller）宣布推出FRED MCP連接器，FRED一半訪問量已來自AI代理",
+  "summary": "聯準會理事沃勒在聖路易聯邦準備銀行舉辦的FRED Con上宣布，FRED推出以模型上下文協定（MCP）打造的FRED MCP連接器，讓使用者可用自己選擇的AI代理尋找並取得FRED資料。他指出，目前F",
+  "theme": "ai"
+ },
+ {
+  "title": "- **美國證券交易委員會（SEC）**於10月1日提出加密資產保管規則草案，開放投資顧問與基金自行保管加密資產的有限例外",
+  "summary": "SEC於10月1日提出加密資產保管規則草案，涵蓋投資顧問與受監管基金，是主席阿特金斯（Paul Atkins）議程中最後一塊重要拼圖。草案長達760頁，開放60天公開評論，並明列可擔任保管機構的業者類",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Fiserv**於10月1日宣布穩定幣平台上線，北達科他州Roughrider幣成為首個上線的數位資產",
+  "summary": "支付處理商Fiserv於10月1日宣布其託管數位貨幣的新系統上線，首個上線的是北達科他州銀行（Bank of North Dakota）背書的Roughrider幣。Roughrider幣由數位資產銀",
+  "theme": "blockchain"
+ }
+]

@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-02",
+  "archived_at": "2026-10-01T23:18:15Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "51e17f2be0411c78b7c5ecda9ff54a5cd47fe2a1",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 43,
+  "total_bytes": 755064,
+  "files": [
+    {
+      "path": "data/2026-10-02-candidates.txt",
+      "bytes": 66828,
+      "sha256": "e7a738e4855e43b04f326df7898f7a22ce52b766f327d3dde327c6c5f4d2246a"
+    },
+    {
+      "path": "data/2026-10-02-glossary.json",
+      "bytes": 1876,
+      "sha256": "f41a084cee9f9f956a524a291857c7cdb6460c8af6f1be53dd0ca44337c0a826"
+    },
+    {
+      "path": "data/2026-10-02-manifest.txt",
+      "bytes": 3460,
+      "sha256": "dc09116ba49b5ab659fe02b40feb0b8bc06e2cae03696a8381aa196ecb253ea5"
+    },
+    {
+      "path": "data/2026-10-02-orgs.json",
+      "bytes": 2126,
+      "sha256": "a2c0fd5c2571d9c2ab2b9a3cde401cec0d5012d855a46749050bcde25fc129fb"
+    },
+    {
+      "path": "data/2026-10-02-topic-cases.json",
+      "bytes": 2582,
+      "sha256": "b4c805af200eeb0f7397c2643d4c2f16a73454b43ef4157cf06fb47d94d580fd"
+    },
+    {
+      "path": "data/2026-10-02-topic-decisions.json",
+      "bytes": 2783,
+      "sha256": "7b2589e2d16f918c6e688f06d440545138c31c01ff6f0113aa3e99b40a1ab196"
+    },
+    {
+      "path": "data/2026-10-02.json",
+      "bytes": 22100,
+      "sha256": "7087de69cff549ed935d9d722ed420e924e3a498947fb16318590d701140f7fc"
+    },
+    {
+      "path": "data/art/a1.txt",
+      "bytes": 2900,
+      "sha256": "fd5525b603f623a2826f631b1245ed3797391fe11f8934d4d5195fab6bf99bdf"
+    },
+    {
+      "path": "data/art/a10.txt",
+      "bytes": 165,
+      "sha256": "ca9aa559cd263b5c21712441ee1832382f85d484c0ca7230c29ee61c8ff05665"
+    },
+    {
+      "path": "data/art/a2.txt",
+      "bytes": 4410,
+      "sha256": "82c90b70e3a847436c87138ccc993ca817dd1865a91f39477748e80ba337e5eb"
+    },
+    {
+      "path": "data/art/a21.txt",
+      "bytes": 5783,
+      "sha256": "bf8a59b4920be68e8184897a6a2ecdfa2ebc7fd4caad7b5deabf12cd38981571"
+    },
+    {
+      "path": "data/art/a22.txt",
+      "bytes": 4926,
+      "sha256": "dec18da6f3ac126b798c5854d8582c6f695d6ec497ba6641cafd11f98605d582"
+    },
+    {
+      "path": "data/art/a23.txt",
+      "bytes": 3593,
+      "sha256": "cc188892633251cb71f7d60e6093d06cea23dcd084062d2a99c2ff8f356b9a13"
+    },
+    {
+      "path": "data/art/a24.txt",
+      "bytes": 193,
+      "sha256": "2ba8baaf9e8ce16b949fd6096d580fb74fd9daaf348ff4a1a37a7d66f2918e7f"
+    },
+    {
+      "path": "data/art/a25.txt",
+      "bytes": 153,
+      "sha256": "c96027f8d4f0d5ef707f22fba2dc8b6296dac720400e6d2461181aac6a9a3807"
+    },
+    {
+      "path": "data/art/a3.txt",
+      "bytes": 162,
+      "sha256": "904da9db4b05bcd7e6897ee2174ff1fbeaf80747f2e43416b71cd5e8e2ec3d3a"
+    },
+    {
+      "path": "data/art/a30.txt",
+      "bytes": 2368,
+      "sha256": "de352c47488259a56d84677abbe050875a191039849274080421137108df2ebf"
+    },
+    {
+      "path": "data/art/a4.txt",
+      "bytes": 3231,
+      "sha256": "206bef882f82d8b3ee8ce485ba5b62f796b5682a57264490e56e7ead2b59180c"
+    },
+    {
+      "path": "data/art/a5.txt",
+      "bytes": 3380,
+      "sha256": "3b0fa2dc3c1f0bd229b647b0b765ce6ab6b75c53488c1fcffcfe21bd0972d18c"
+    },
+    {
+      "path": "data/art/a6.txt",
+      "bytes": 193,
+      "sha256": "2ba8baaf9e8ce16b949fd6096d580fb74fd9daaf348ff4a1a37a7d66f2918e7f"
+    },
+    {
+      "path": "data/art/a7.txt",
+      "bytes": 1678,
+      "sha256": "3e86192ab9a484e9e9d1d76f5f740de8fdaaf760a006d00a2f149b327f5f3403"
+    },
+    {
+      "path": "data/art/a8.txt",
+      "bytes": 5128,
+      "sha256": "b7d57119f7b1084ef168fbad8b69c9135bfa74bedd86815d3e8915e30c8bcdcb"
+    },
+    {
+      "path": "data/art/a9.txt",
+      "bytes": 3786,
+      "sha256": "e9258a852240b86498d651f743749692656f557afa93ad20cb65fbf23573babc"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 67092,
+      "sha256": "8b23972c69886c9f14464415999aafb6ed530b59b3c98b9dd0125d537c1447a3"
+    },
+    {
+      "path": "data/f_a47457.txt",
+      "bytes": 177,
+      "sha256": "7634cca3838f605ff7e2c771a56ef2d27a2dc3eb0f53b51674044c41e6dfb7f7"
+    },
+    {
+      "path": "data/f_a5a7a0.txt",
+      "bytes": 6400,
+      "sha256": "c812eeae822b150c77c1dd51b7cc91cc5063d7b652ef6a00abadb8da6ac5234a"
+    },
+    {
+      "path": "data/f_f6e45c.txt",
+      "bytes": 5152,
+      "sha256": "19b15b01324d82fb7593ceac4886d4f8124b95cb0701290cf66eb65285622eb6"
+    },
+    {
+      "path": "outbox/2026-10-02-archive.html",
+      "bytes": 112318,
+      "sha256": "919b8a2459b7570517b790bd99d58daa640b867f95b96010c88b4bb6a555581e"
+    },
+    {
+      "path": "outbox/2026-10-02-email.html",
+      "bytes": 10706,
+      "sha256": "2ce557b5bc96e628bb6ab45046addb9d04f071a1f13b3d692a38413ee5508372"
+    },
+    {
+      "path": "published/2026-10-02.html",
+      "bytes": 555,
+      "sha256": "1ccc1141713c86a728acd10b7769c20287788c9d693f452ec499960e031436c5"
+    },
+    {
+      "path": "published/2026-10-02/ai.html",
+      "bytes": 41090,
+      "sha256": "e49f6ec17a69a944aff5fac77b15a3e4845c432dbfff95db69850640ab4e2552"
+    },
+    {
+      "path": "published/2026-10-02/blockchain.html",
+      "bytes": 48216,
+      "sha256": "4f0b46983b78513ccd7a59a043a5958256e20a3142bcdc92bd64b68ac9c33377"
+    },
+    {
+      "path": "published/2026-10-02/index.html",
+      "bytes": 23063,
+      "sha256": "2e1dcaa31fad7d4714333b3a9e424eb74f17542e481db9eeff648f9a2554df34"
+    },
+    {
+      "path": "published/2026-10-02/innovation.html",
+      "bytes": 52378,
+      "sha256": "edfe3642a6f315f8e9830a9ac6e6b9bb0d3731f6bbf0b53647073253039516da"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 191287,
+      "sha256": "7c36fa490abb6df28f6ae93e0481ae4f2adc5f4d197afe82f6b60f568499a1e7"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "47738ba31e48c80683b2d3428259d8392399c96c193f367e1f3193b6eab2dc13"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "1ccc1141713c86a728acd10b7769c20287788c9d693f452ec499960e031436c5"
+    },
+    {
+      "path": "published/topics/barclays-claude-enterprise-rollout.html",
+      "bytes": 1458,
+      "sha256": "0f46528432dd6a67f2cb589a6b72f5eb82ce0c09eb134851736db3ecdf12b893"
+    },
+    {
+      "path": "published/topics/european-network-for-payments-enp.html",
+      "bytes": 1541,
+      "sha256": "352eb6aa90ebf8134a4e7df42a8a80a3bd7b3687c5d863f9cc4bef88ab05ff99"
+    },
+    {
+      "path": "published/topics/fiserv-stablecoin-digital-asset-platform.html",
+      "bytes": 1443,
+      "sha256": "f31dfcd9f1db1ec0b8807546d0c168a7edbca337693e06cb1beb8b7ff25ecf92"
+    },
+    {
+      "path": "published/topics/sec-crypto-custody-rule-revival.html",
+      "bytes": 2369,
+      "sha256": "9f5ff192745cb540ee5326d451f8948b9a2d1bea546a920c552e8d51281acd47"
+    },
+    {
+      "path": "source/2026-10-02-report.txt",
+      "bytes": 42326,
+      "sha256": "5ad905dd3db75fc2271195ad78f29519a80bc2afe6b93fbd381ca1b8044e3bef"
+    },
+    {
+      "path": "source/2026-10-02-summary.txt",
+      "bytes": 2342,
+      "sha256": "ce0d4518e2ee1a891bf9dcd7f36806d4a511dd21eec40e9f9c14d1cc667471ee"
+    }
+  ]
+}

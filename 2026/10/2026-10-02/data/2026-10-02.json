@@ -1,0 +1,276 @@
+{
+ "date": "2026-10-02",
+ "generated_at": "2026-10-01T23:17:28.487563+00:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Stripe swallows Parafin",
+   "display_title": "Stripe於9月30日宣布收購嵌入式融資平台Parafin，該公司累計已向約6萬家企業撥貸30億美元",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/stripe-swallows-parafin/831903/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/stripe-swallows-parafin/831903/",
+     "status": "ok",
+     "chars": 4985
+    }
+   ],
+   "date_evidence": "Thu, 01 Oct 2026 10:54:00 -0400",
+   "summary": "Stripe於9月30日宣布收購嵌入式融資新創Parafin，交易金額未揭露，預計在未來數月內完成。Parafin成立於2020年，2024年底估值為7.5億美元，首筆現金預支發放於2021年，累計已向美國與加拿大約6萬家企業提供30億美元",
+   "core_fact": "Stripe於9月30日宣布收購嵌入式融資新創Parafin，交易金額未揭露，預計在未來數月內完成。Parafin成立於2020年，2024年底估值為7.5億美元，首筆現金預支發放於2021年，累計已向美國與加拿大約6萬家企業提供30億美元信用，去年12月自述年化營收規模為1億美元。全文揭露的細節包括：Parafin透過Gusto、SpotOn與DoorDash等軟體平台嵌入信貸，並由Cross River Bank提供銀行端支援；Stripe則服務約1.8萬家數位服務平台。這是Stripe兩個月內的第二宗收購，8月才以報導中的約75億美元買下AI路由服務商OpenRouter。",
+   "deep_facts": [
+    "Parafin累計向美加約6萬家企業撥貸30億美元，去年12月自述年化營收1億美元",
+    "Parafin透過Gusto、SpotOn、DoorDash嵌入信貸，並由Cross River Bank支援",
+    "Stripe服務約1.8萬家數位服務平台，8月才以報導中約75億美元收購OpenRouter"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "European payments groups join forces to take on US giants",
+   "display_title": "歐洲支付網路ENP（European Network for Payments）於10月1日由Bancomat、Bizum、Wero、MB WAY與Vipps MobilePay宣布成立，串聯約1.3億名用戶",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48517/european-payments-groups-join-forces-to-take-on-us-giants",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48517/european-payments-groups-join-forces-to-take-on-us-giants",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://thepaypers.com/payments/news/bancomat-bizum-epiwero-sibsmb-way-and-vipps-mobilepay-launch-a-european-interoperability-entity",
+     "status": "ok",
+     "chars": 5593
+    }
+   ],
+   "date_evidence": "Thu, 01 Oct 2026 14:30:00 GMT",
+   "summary": "義大利Bancomat、西班牙Bizum、比利時EPI（營運Wero）、葡萄牙SIBS（營運MB WAY）與挪威Vipps MobilePay五家業者，成立共同持股的歐洲支付網路ENP，總部設在西班牙，延續今年2月簽署的合作備忘錄。五家合計",
+   "core_fact": "義大利Bancomat、西班牙Bizum、比利時EPI（營運Wero）、葡萄牙SIBS（營運MB WAY）與挪威Vipps MobilePay五家業者，成立共同持股的歐洲支付網路ENP，總部設在西班牙，延續今年2月簽署的合作備忘錄。五家合計服務約1.3億名用戶、涵蓋13個歐洲國家，據稱超過歐盟與挪威人口的70%。創始夥伴持股相等，新成員須經既有夥伴同意並符合技術與營運條件。推出採分階段，先上跨境個人間轉帳，電子商務與實體店支付於後續階段跟進。",
+   "deep_facts": [
+    "ENP總部設在西班牙，五家創始夥伴持股相等",
+    "約1.3億用戶、13國，超過歐盟與挪威人口70%",
+    "先上跨境P2P，電商與POS於後續階段，新成員須經既有夥伴同意"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Monarch acquires HMBradley",
+   "display_title": "Monarch於10月1日宣布收購數位銀行新創HMBradley（現名MBI），同日公布年度經常性收入達1億美元",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48523/monarch-acquires-hmbradley",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 02 Oct 2026 00:01:00 GMT",
+   "summary": "個人理財平台Monarch於10月1日宣布收購數位銀行新創MBI，即原HMBradley，交易條件未揭露，這是Monarch成立以來的首宗收購。Monarch創立於2018年，已有逾100萬名活躍會員、推出付費方案Monarch Plus，",
+   "core_fact": "個人理財平台Monarch於10月1日宣布收購數位銀行新創MBI，即原HMBradley，交易條件未揭露，這是Monarch成立以來的首宗收購。Monarch創立於2018年，已有逾100萬名活躍會員、推出付費方案Monarch Plus，並同日表示年度經常性收入達1億美元。HMBradley團隊將組成新單位Monarch Labs，由MBI共同創辦人暨執行長Zach Bruhnke領軍，負責新產品與成長領域；HMBradley過去約十年建置消費銀行產品與底層基礎設施，包括以自動化規則存錢與搬錢的Routines系統。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Digital Banking: ZA Bank Reports Profitability",
+   "display_title": "ZA Bank於10月1日公布2026年上半年淨利7,060萬港元，淨利息收益率升至2.99%",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/314828-digital-banking-za-bank-reports-profitability/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 01 Oct 2026 16:51:53 +0000",
+   "summary": "香港首批獲准設立的純網銀ZA Bank在10月1日前後公布截至6月的上半年業績，淨利為7,060萬港元，約合900萬美元；淨收入為5.78億港元，淨利息收益率升至2.99%。財富管理業務年增76%，淨手續費及佣金收入達1.23億港元，股票成",
+   "core_fact": "香港首批獲准設立的純網銀ZA Bank在10月1日前後公布截至6月的上半年業績，淨利為7,060萬港元，約合900萬美元；淨收入為5.78億港元，淨利息收益率升至2.99%。財富管理業務年增76%，淨手續費及佣金收入達1.23億港元，股票成交量成長近七倍，投資資產管理規模年增155%。公司執行長Calvin Ng表示，這是以「產品導向、用戶優先」模式取得的持續獲利，並稱ZA Bank是香港第一家提供財富管理的純網銀。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
+   "display_title": "WeMoney近日推出建立於澳洲消費者數據權（CDR）的AI貸款評估服務WeMoney Connect，申請人可從超過118家銀行與金融機構授權資料",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48525/australias-wemoney-launches-ai-and-open-banking-powered-lending-assessment-service",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 02 Oct 2026 00:01:00 GMT",
+   "summary": "澳洲個人理財平台WeMoney推出WeMoney Connect，目前為限量搶先使用階段，對象為澳洲銀行、非銀行放款機構與貸款經紀商。服務提供申請人收入、支出與負債的可溯源驗證檢視，並透過名為Agentic Assess的功能，把每家放款機",
+   "core_fact": "澳洲個人理財平台WeMoney推出WeMoney Connect，目前為限量搶先使用階段，對象為澳洲銀行、非銀行放款機構與貸款經紀商。服務提供申請人收入、支出與負債的可溯源驗證檢視，並透過名為Agentic Assess的功能，把每家放款機構自己的授信政策套用到這些證據上。資料經由澳洲消費者數據權（CDR）制度，以Mastercard Open Finance的開放銀行基礎設施分享；申請人在貸款申請流程中選擇「以WeMoney登入」、挑選銀行並授權欲分享的資料後，檔案可在數分鐘內達到可決策狀態。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Barclays ramps up use of Anthropic's Claude",
+   "display_title": "巴克萊銀行（Barclays）於10月1日宣布擴大與Anthropic合作，目標2026年底一半開發人員使用Claude Code",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48519/barclays-ramps-up-use-of-anthropics-claude",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48519/barclays-ramps-up-use-of-anthropics-claude",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.anthropic.com/news/barclays-scales-claude",
+     "status": "ok",
+     "chars": 4785
+    }
+   ],
+   "date_evidence": "Fri, 02 Oct 2026 00:01:00 GMT",
+   "summary": "巴克萊銀行於10月1日宣布擴大與Anthropic的合作，在全球營運中使用Claude加速軟體開發、現代化舊系統並提升營運效率。預期Claude Code在2026年底涵蓋50%開發人員，2027年成為多數軟體工程師的工具。已落地的案例包括",
+   "core_fact": "巴克萊銀行於10月1日宣布擴大與Anthropic的合作，在全球營運中使用Claude加速軟體開發、現代化舊系統並提升營運效率。預期Claude Code在2026年底涵蓋50%開發人員，2027年成為多數軟體工程師的工具。已落地的案例包括2025年上線的同仁知識助理：透過檢索增強生成（RAG）架構，已有逾1.6萬名同仁使用、處理逾100萬次搜尋，協助支援英國逾2,000萬名零售客戶；全球市場部門則以Claude分類、補充資訊並判斷來信的最佳處理路徑，平台每日處理約12萬封電子郵件。",
+   "deep_facts": [
+    "Claude Code目標2026年底涵蓋50%開發人員，2027年成多數",
+    "同仁知識助理逾1.6萬人使用、逾100萬次搜尋",
+    "全球市場部門平台每日處理約12萬封郵件"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "St. Louis Fed Adapts FRED Database for AI Agents",
+   "display_title": "聖路易聯邦準備銀行（St. Louis Fed）於10月1日由聯準會理事沃勒（Christopher Waller）宣布推出FRED MCP連接器，FRED一半訪問量已來自AI代理",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/st-louis-fed-adapts-fred-database-for-ai-agents/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/st-louis-fed-adapts-fred-database-for-ai-agents/",
+     "status": "ok",
+     "chars": 2711
+    }
+   ],
+   "date_evidence": "Thu, 01 Oct 2026 18:15:58 +0000",
+   "summary": "聯準會理事沃勒在聖路易聯邦準備銀行舉辦的FRED Con上宣布，FRED推出以模型上下文協定（MCP）打造的FRED MCP連接器，讓使用者可用自己選擇的AI代理尋找並取得FRED資料。他指出，目前FRED一半的訪問量來自AI代理，這些代理",
+   "core_fact": "聯準會理事沃勒在聖路易聯邦準備銀行舉辦的FRED Con上宣布，FRED推出以模型上下文協定（MCP）打造的FRED MCP連接器，讓使用者可用自己選擇的AI代理尋找並取得FRED資料。他指出，目前FRED一半的訪問量來自AI代理，這些代理整體準確度很高，但並不總是正確標明原始資料來源。FRED含數十萬筆來自各國與公私部門的經濟時間序列，過去設計是給人類閱讀，AI機器人解讀資料的方式與人不同，因此FRED團隊需要調整資料呈現方式。",
+   "deep_facts": [
+    "FRED目前一半訪問量來自AI代理",
+    "AI代理整體準確但不一定正確標明原始來源",
+    "FRED團隊正開發讓代理理解經濟資料的技能"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Microsoft Targets Contact Center Market With Real-Time AI Voice Models",
+   "display_title": "微軟（Microsoft）於10月1日推出三款即時語音AI模型，鎖定客服中心與多語言語音助理",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-targets-contact-center-market-with-real-time-ai-voice-models/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 01 Oct 2026 20:12:59 +0000",
+   "summary": "微軟於10月1日發表三款AI模型：MAI-Transcribe-2-Streaming能即時將語音轉成文字，支援60種語言並自動偵測語言，首次輸出在數百毫秒內；MAI-Voice-2.1是多語言文字轉語音模型，支援23種語言，微軟稱是其表現",
+   "core_fact": "微軟於10月1日發表三款AI模型：MAI-Transcribe-2-Streaming能即時將語音轉成文字，支援60種語言並自動偵測語言，首次輸出在數百毫秒內；MAI-Voice-2.1是多語言文字轉語音模型，支援23種語言，微軟稱是其表現力最強的此類模型；MAI-Voice-2.1-Flash則針對高流量、低延遲場景優化。微軟主管表示，客服代理可在句子說完前就開始辨識來電者需求。微軟7月宣布將投入25億美元成立Microsoft Frontier Company，並派駐6,000名產業與工程專家到客戶端。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "DoorDash Slides Into Your DMs With Dinner",
+   "display_title": "DoorDash於9月30日發表可在Apple訊息中點餐結帳的AI代理，並開放美國測試等候名單",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/delivery/2026/doordash-slides-into-your-dms-with-dinner/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 01 Oct 2026 19:40:53 +0000",
+   "summary": "DoorDash於9月30日發表文字點餐代理，在蘋果iMessage中建立購物車並完成結帳，過程不需開啟DoorDash App，目前開放美國測試等候名單。代理依來訊電話號碼比對DoorDash會員檔案，參考訂單紀錄與偏好，並使用已儲存的付",
+   "core_fact": "DoorDash於9月30日發表文字點餐代理，在蘋果iMessage中建立購物車並完成結帳，過程不需開啟DoorDash App，目前開放美國測試等候名單。代理依來訊電話號碼比對DoorDash會員檔案，參考訂單紀錄與偏好，並使用已儲存的付款方式。DoorDash也推出讓企業AI助理下單的工具，採模型上下文協定（MCP），SpaceXAI、Cognition與Mercor已在內部使用。公司指出，Ask DoorDash建出的雜貨購物車速度快五倍，近半數餐廳訂單去到客戶從未嘗試的店家；彭博測試早期版本時發現價格與App不一致。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+   "display_title": "美國證券交易委員會（SEC）於10月1日提出加密資產保管規則草案，開放投資顧問與基金自行保管加密資產的有限例外",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+     "status": "ok",
+     "chars": 6182
+    }
+   ],
+   "date_evidence": "Thu, 01 Oct 2026 20:20:04 +0000",
+   "summary": "SEC於10月1日提出加密資產保管規則草案，涵蓋投資顧問與受監管基金，是主席阿特金斯（Paul Atkins）議程中最後一塊重要拼圖。草案長達760頁，開放60天公開評論，並明列可擔任保管機構的業者類別，包括州立信託公司，同時規範紀錄保存、",
+   "core_fact": "SEC於10月1日提出加密資產保管規則草案，涵蓋投資顧問與受監管基金，是主席阿特金斯（Paul Atkins）議程中最後一塊重要拼圖。草案長達760頁，開放60天公開評論，並明列可擔任保管機構的業者類別，包括州立信託公司，同時規範紀錄保存、聯邦揭露與稽核要求。對自行保管設下限制：投資顧問須先確認找不到合格保管機構，且具備相應專業，並須每季檢視是否已有保管機構可用，官員稱這類情形預期並不常見，例如剛發行、保管機構尚未支援的新代幣。這項提案發布後一天，SEC委員赫斯特．皮爾斯（Hester Peirce）離任，SEC只剩兩位委員，並已把法定人數門檻由三人降為兩人。",
+   "deep_facts": [
+    "草案760頁、60天公開評論，並允許州立信託公司擔任保管機構",
+    "自行保管須先確認無合格保管機構且每季重新檢視",
+    "SEC法定人數由三位降為兩位，皮爾斯離任後剩兩位委員"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Fiserv's stablecoin system starts",
+   "display_title": "Fiserv於10月1日宣布穩定幣平台上線，北達科他州Roughrider幣成為首個上線的數位資產",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/fiserv-north-dakota-stablecoin-system-digital-asset/831901/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/fiserv-north-dakota-stablecoin-system-digital-asset/831901/",
+     "status": "ok",
+     "chars": 4227
+    }
+   ],
+   "date_evidence": "Thu, 01 Oct 2026 10:52:00 -0400",
+   "summary": "支付處理商Fiserv於10月1日宣布其託管數位貨幣的新系統上線，首個上線的是北達科他州銀行（Bank of North Dakota）背書的Roughrider幣。Roughrider幣由數位資產銀行VersaBank發行，Fireblo",
+   "core_fact": "支付處理商Fiserv於10月1日宣布其託管數位貨幣的新系統上線，首個上線的是北達科他州銀行（Bank of North Dakota）背書的Roughrider幣。Roughrider幣由數位資產銀行VersaBank發行，Fireblocks提供數位資產基礎設施，交易在Solana區塊鏈上運行；北達科他州表示約90家金融機構可用它進行銀行間轉帳。Fiserv將提供發行、準備金、託管與清算的基礎建設，並支援穩定幣卡、財資自動化、代幣化存款與外匯服務。全文顯示，Fiserv去年6月宣布的自家穩定幣FIUSD原定去年底推出，但此次聲明並未提及，其新任執行長Takis Georgakopoulos正面臨行動主義投資人Jana Partners要求出售部分業務的壓力。",
+   "deep_facts": [
+    "Roughrider幣由VersaBank發行、Fireblocks提供基礎設施、運行於Solana",
+    "北達科他州約90家金融機構可用於銀行間轉帳",
+    "自家FIUSD原定去年底推出，此次聲明未提及"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Fintech Firm Jeeves Reports New Funding to Scale Stablecoin Native Banking Platform",
+   "display_title": "Jeeves於10月1日宣布完成1.1億美元股權融資，穩定幣結算年化規模約15億美元",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/314359-fintech-firm-jeeves-reports-new-funding-to-scale-stablecoin-native-banking-platform/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 01 Oct 2026 22:30:38 +0000",
+   "summary": "邁阿密金融科技公司Jeeves於10月1日宣布完成1.1億美元股權融資，由CoinFund領投，AllianceBernstein、Andreessen Horowitz、Coinbase Ventures、GIC、Wintermute等參",
+   "core_fact": "邁阿密金融科技公司Jeeves於10月1日宣布完成1.1億美元股權融資，由CoinFund領投，AllianceBernstein、Andreessen Horowitz、Coinbase Ventures、GIC、Wintermute等參與。該公司提供跨境企業卡片、支付、支出管理、應付帳款與本地或美元帳戶，結算在背景使用穩定幣軌道。年化平台交易量超過50億美元，較前一年成長三倍；鏈上結算八個月前幾乎為零，現約年化15億美元，大量國際交易以USDC與EURC結算。穩定幣卡片計畫將由25國擴大到35國，並在馬德里設辦公室。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
+   "display_title": "NEAR Intents於10月1日遭智能合約漏洞利用損失約380萬美元，並承諾全額賠付受影響用戶",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 01 Oct 2026 14:18:12 +0000",
+   "summary": "跨鏈兌換協議NEAR Intents於10月1日因智能合約漏洞遭利用，損失約380萬美元，暫停服務並承諾全額賠償，合約漏洞已修補。成因是Omni存提款基礎設施與合約互動時的錯誤，造成BNB Chain、Polygon、TON、Optimis",
+   "core_fact": "跨鏈兌換協議NEAR Intents於10月1日因智能合約漏洞遭利用，損失約380萬美元，暫停服務並承諾全額賠償，合約漏洞已修補。成因是Omni存提款基礎設施與合約互動時的錯誤，造成BNB Chain、Polygon、TON、Optimism、Avalanche、Stellar等11條區塊鏈的存款與提款暫停，預計約再有12小時無法使用。被盜資金轉入KuCoin交易所並橋接為比特幣，團隊稱已聯繫執法單位與區塊鏈分析平台追蹤。CoinDesk統計，第3季加密貨幣駭客損失達12.6億美元，另據Cointelegraph，共247起事件，僅9月就約7.69億美元。",
+   "deep_facts": []
+  }
+ ]
+}

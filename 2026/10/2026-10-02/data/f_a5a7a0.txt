@@ -1,0 +1,45 @@
+FINAL_URL: https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda
+STATUS: ok
+CHARS: 6182
+---CONTENT---
+SEC proposes new crypto custody rules for investment advisers and funds
+The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.
+By Jesse Hamilton | Edited by Nikhilesh De
+Updated Oct 1, 2026, 5:08 p.m. EDT Published Oct 1, 2026, 4:20 p.m. EDT
+3 min read Make preferred on Share this article
+X (Twitter) LinkedIn Facebook Email
+The U.S. Securities and Exchange Commission proposed its crypto custody rule on Thursday, adding another major piece to the agency’s digital asset agenda.
+The custody rule would provide clarity for what firms can hold the crypto asset of investment firms’ clients, but it also seeks to open a self-custody ability for advisers to hold their clients’ funds themselves in limited circumstances.
+Thursday’s publication is the latest push by the SEC to publish crypto rules, following last month’s Innovation Exemption and August’s Reg Crypto releases.
+The U.S. Securities and Exchange Commission is aiming to clarify how investment firms can handle and keep customer crypto assets in a new rule proposed Thursday .
+The proposal "would provide a clear regulatory framework for the custody of crypto assets, giving investment advisers and funds a compliant pathway where none existed before — and replacing the grey of uncertainty created by custody rules crafted for a bygone era,” said SEC Chairman Paul Atkins in a statement .
+The SEC’s new approach would clarify what kinds of companies can properly hold crypto assets and how investment advisers and regulated funds need to keep records and make federal disclosures. It would also offer new clarifications of industry practices and auditing requirements.
+According to the 760-page proposal , the SEC will allow for self-custody by advisers seeking to hold their clients' funds. The agency is using the term "self-custody" as an asset management firm practice, not how crypto companies typically use the term. It would first require that an adviser can’t find a qualified custodian ready to take the assets, which would likely be an unusual circumstance after the rule is implemented, and it also requires certain expertise for the investment firm to hold crypto assets. Additionally, that ability to hold their own clients assets would have to be reviewed every quarter to see if a custodian has become available, an SEC official said.
+The official granted that the circumstance for self-custody — which stems from an industry request to the Crypto Task Force — would likely be unusual, though it could apply to a newly launched token that custodians didn't yet support.
+Atkins said that existing custody rules "were designed to protect the assets of advisory clients and regulated funds from loss, theft, misuse, and misappropriation," but they only consider "the custody and safekeeping only of traditional assets — an untenable situation in the 21st century."
+The newly proposed rule, open for a 60-day public comment period, would also permit the use of state-chartered trusts as custodians.
+Examining the intersection of cryptocurrency and government.
+By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy .
+The latest move to advance a pro-crypto U.S. securities agenda comes the day before the exit of Commissioner Hester Peirce, who has led the agency's Crypto Task Force since its inception. She leaves on Friday and will be a professor in Virginia, leaving the agency with just two commissioners. The SEC moved to reduce the number of commissioners that are required to form a quorum earlier this week , saying that while in the past it required at least three commissioners, it will now require two. If one of those two commissioners is conflicted out of engaging with a certain action, the remaining commissioner can form a quorum.
+With the movement on the custody issue, the SEC has now put a checkmark in every major topic on the crypto agenda originally set out by Atkins.
+The SEC recently published its long-anticipated "Innovation Exemption" for tokenizing securities, laying out pathways for companies to put traditional securities products on a blockchain. The SEC also proposed its Regulation Crypto Asset, explaining how companies can fundraise using digital assets without running afoul of federal regulations.
+UPDATE (Oct. 1, 2026, 20:55 UTC): Adds additional detail from release and links.
+SEC Custody Breaking News
+1 Another Trump memecoin dinner advertised for token's top investors 4 hours ago
+2 Crypto for Advisors: The CLARITY Act failed, but the rules came anyway 8 hours ago
+3 NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues 8 hours ago
+4 Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report 11 hours ago
+5 Illinois agrees to six-month delay of crypto tax as industry continues court battle 11 hours ago
+6 Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter 11 hours ago
+7 Synthetic tokenized stocks are bad for American investors 12 hours ago
+8 Bitcoin kicks off new quarter in the old $82,000-$85,000 price range 12 hours ago
+9 Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume 13 hours ago
+10 MetaMask security incident forces Ethereum staking exits, no funds at risk 16 hours ago
+The Definitive Stablecoin Landscape Series: Asia Pacific
+The Definitive Stablecoin Landscape Series: Asia Pacific
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+Another Trump memecoin dinner advertised for token's top investors
+Illinois agrees to six-month delay of crypto tax as industry continues court battle
+U.S. CFTC seeks event contract definitions that may defy states' gambling claims
