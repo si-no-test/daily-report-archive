@@ -1,0 +1,67 @@
+[
+ {
+  "name": "摩根大通",
+  "url": "https://www.jpmorganchase.com",
+  "intro": "美國最大銀行之一，提供商業銀行、投資銀行與資產管理服務。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要卡片支付網路，提供支付、開放銀行與安全服務。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "ChatGPT 開發商，提供大型語言模型與 AI 代理產品。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國大型加密資產交易平台，亦提供託管與機構服務。"
+ },
+ {
+  "name": "Circle",
+  "url": "https://www.circle.com",
+  "intro": "美元穩定幣 USDC 的發行商。"
+ },
+ {
+  "name": "Bloomberg",
+  "url": "https://www.bloomberg.com",
+  "intro": "全球金融資訊與數據服務商，提供終端機、新聞與資料服務。"
+ },
+ {
+  "name": "EMVCo",
+  "url": "https://www.emvco.com",
+  "intro": "由主要卡組織共同持有的標準組織，制定卡片支付的全球技術規格。"
+ },
+ {
+  "name": "Robinhood",
+  "url": "https://robinhood.com",
+  "intro": "美國線上券商與加密交易平台，提供股票、加密與代幣化資產服務。"
+ },
+ {
+  "name": "花旗",
+  "url": "https://www.citigroup.com",
+  "intro": "全球性大型銀行，提供企業金融、市場與零售銀行服務。"
+ },
+ {
+  "name": "第一資本",
+  "url": "https://www.capitalone.com",
+  "intro": "美國大型信用卡與消費金融銀行，積極導入資料與 AI 平台。"
+ },
+ {
+  "name": "歐洲中央銀行",
+  "url": "https://www.ecb.europa.eu",
+  "intro": "歐元區貨幣政策與支付清算基礎設施的主管機關。"
+ },
+ {
+  "name": "美國通貨監理署",
+  "url": "https://www.occ.gov",
+  "intro": "美國國家銀行與聯邦儲蓄機構的聯邦監理機關，負責核發國家銀行執照。"
+ },
+ {
+  "name": "亞馬遜網路服務",
+  "url": "https://aws.amazon.com",
+  "intro": "亞馬遜旗下雲端運算服務，提供運算、儲存與 AI 平台。"
+ }
+]

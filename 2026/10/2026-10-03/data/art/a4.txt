@@ -1,0 +1,32 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/bank-ai-job-postings-jump-49percent-agents-go-work/
+STATUS: ok
+CHARS: 4930
+---CONTENT---
+Bank AI Job Postings Jump 49% as Agents Go to Work
+The hottest skill on Wall Street is getting AI agents to work together. Agent orchestration mentions in bank job postings jumped 1,721% this year as AI postings rose 49%.
+Banks want people who can keep AI in check. Postings that mention responsible AI rose 657% and AI governance mentions climbed 394%. Federal regulators left oversight of generative and agentic AI to the banks.
+JPMorgan is rebalancing who it hires. CEO Jamie Dimon said he expects more AI specialists and fewer bankers in certain categories, while the bank builds agents that can run for hours on their own.
+Wall Street banks are accelerating artificial intelligence hiring as they shift from chatbots to AI agents. Hiring is expanding beyond model builders to engineers who put agents to work across trading desks, compliance units and back-office operations.
+AI-related job postings at banks including JPMorgan Chase , Citigroup and Capital One rose 49% this year to 139,819, CNBC reported Friday (Oct. 2), citing Draup data. Draup, an enterprise hiring analytics firm, builds its counts from public job listings and platforms such as LinkedIn .
+Agent Orchestration Becomes Wall Street ’s Hottest AI Skill
+References to agent orchestration rose 1,721% in bank job postings this year, the report said. Agent orchestration is the skill of getting several AI agents to work together on one task. It grew from a small base, with mentions climbing from 108 in 2025 to 1,967 this year.
+“This is arguably the hottest skill on Wall Street,” said Draup CEO Vijay Swaminathan , per the report.
+Demand for the tools behind orchestration grew, too. Postings citing LangGraph, a framework for multistep automated workflows, rose 679%, while mentions of LlamaIndex, which links AI systems to company data, gained 291%, according to the report.
+Even a team of agents built to approve employee vacation requests piles up edge cases and exceptions, Swaminathan said, per the report. Orchestration matters most to forward-deployed engineers. They decide which agents a workflow needs, what each one does, which technology to use and when a human overseer steps in.
+Banks Hire to Keep AI Agents in Check
+We’d love to be your preferred source for news .
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+Banks also want people who can keep AI agents in check. Postings that reference responsible AI rose 657% this year, AI governance mentions climbed 394% and risk management mentions grew 359%, the report said.
+The hiring push follows a regulatory gap. Revised model risk guidance issued April 17 by the Federal Reserve , the Office of the Comptroller of the Currency and the Federal Deposit Insurance Corp. superseded a framework in place since 2011. It left generative and agentic AI outside its scope. The agencies called these technologies “novel and rapidly evolving,” leaving banks to rely on their own risk management and governance practices.
+Without prescriptive rules from regulators, banks need to build AI oversight into their existing risk, compliance, technology and business functions. Custody bank BNY offers one model. It deployed two types of AI agents built by its AI Hub with limits in place, PYMNTS reported in June 2025. One type finds system vulnerabilities and writes code to patch them, then asks a human manager for approval. The other validates payment instructions.
+JPMorgan Pushes AI Agents to Run for Hours
+JPMorgan Chase is pushing its agents to run longer on their own. The bank plans to deploy AI agents this year that can work without human input for an hour or two, Chief Analytics Officer Derek Waldron said, according to a June 9 CNBC report. Agents have typically run for two or three minutes on a task, he said.
+The new agents will coordinate workflows across several software environments, and Waldron said he expects them to stay coherent for days and eventually weeks, per the report. JPMorgan already credits AI tools with a 20% lift in gross sales.
+JPMorgan is rethinking its workforce, too. The bank expects to hire more AI specialists and fewer bankers in certain categories, CEO Jamie Dimon said in May.
+The demand reaches beyond Wall Street. It was reported in March that the forward-deployed engineer has become one of AI’s fastest-growing jobs. Monthly job listings for the role rose more than 800% between January and September 2025. OpenAI , Anthropic and Cohere are among the companies expanding these teams.
+For all PYMNTS AI coverage, subscribe to the daily AI newsletter .
+OpenAI Hires Former White House Cyber Official as Regulators Probe AI Dangers
+EMVCo Framework Targets Consumer Intent in Agentic Payments
+American Airlines Lets Loyalty Program Members Combine Cash and Miles
+Stablecoins Hand Manufacturers a Working Capital Windfall, if CFOs Move
+artificial intelligence , Banks , jobs , News , PYMNTS News

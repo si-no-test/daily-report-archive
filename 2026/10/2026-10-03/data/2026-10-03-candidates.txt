@@ -1,0 +1,577 @@
+=== ⚠️ 必做搜尋（腳本不代抓，AI 各執行一次；漏做＝少掉一半來源）===
+[A] 非 RSS 固定來源 10 條：
+  American Banker（T1）：site:americanbanker.com after:2026-10-02
+  工商時報（T1）：site:ctee.com.tw (金融科技 OR AI OR 穩定幣) after:2026-10-02
+  經濟日報（T1）：site:money.udn.com (金融科技 OR 數位金融 OR AI) after:2026-10-02
+  The Financial Brand（T2）：site:thefinancialbrand.com after:2026-10-02
+  Reuters（T1）：site:reuters.com (fintech OR blockchain OR stablecoin OR "AI banking") after:2026-10-02
+  Bloomberg（T1）：site:bloomberg.com ("AI fintech" OR "AI banking" OR stablecoin OR "digital finance") after:2026-10-02
+  Financial Times（T1）：site:ft.com (fintech OR "AI banking" OR "digital finance") after:2026-10-02
+  Wall Street Journal（T1）：site:wsj.com (fintech OR "AI banking" OR stablecoin OR crypto) after:2026-10-02
+  Nikkei（T1）：site:nikkei.com (fintech OR AI OR 金融科技) after:2026-10-02
+  SCMP（T1）：site:scmp.com (fintech OR "digital bank" OR "AI finance") after:2026-10-02
+[B] 專題查詢 5 條（綁主題，確保指定議題不漏）：
+  Open USD 專題（T1）：("Open USD" OR "Open Standard" OR OUSD) (stablecoin OR bank OR payment) after:2026-10-02
+  Open USD｜PYMNTS（T1）：site:pymnts.com ("Open USD" OR "Open Standard") after:2026-10-02
+  量子威脅｜金融（T1）：("post-quantum" OR "quantum-safe" OR PQC) (bank OR payment OR financial) after:2026-10-02
+  量子威脅｜台灣（T1）：(後量子 OR 量子加密 OR 量子威脅) (銀行 OR 金管會 OR 金融) after:2026-10-02
+  量子威脅｜BIS（T1）：site:bis.org (quantum OR "Project Leap") after:2026-10-02
+[C] RSS 失敗、需 site: 替代 2 條：
+  Fintech Futures（T2）：HTTPError
+  Fintech Nexus（T2）：HTTPError
+[A][B][C] 各執行一次；結果走第一關／第二關日期審計後才可採用。
+
+=== 抓取統計 ===
+  CoinDesk：feed 內 25 則，當日合格 14 則
+  The Block：feed 內 19 則，當日合格 11 則
+  Finextra：feed 內 54 則，當日合格 15 則
+  PYMNTS：feed 內 10 則，當日合格 10 則
+  iThome：feed 內 30 則，當日合格 15 則
+  TechCrunch Fintech：feed 內 20 則，當日合格 2 則
+  TechCrunch AI：feed 內 20 則，當日合格 15 則
+  Cointelegraph：feed 內 30 則，當日合格 15 則
+  TechNews：feed 內 40 則，當日合格 15 則
+  Payments Dive：feed 內 10 則，當日合格 1 則
+  Banking Dive：feed 內 10 則，當日合格 4 則
+  Finovate：feed 內 12 則，當日合格 5 則
+  Crowdfund Insider：feed 內 10 則，當日合格 10 則
+  Ledger Insights：feed 內 1 則，當日合格 0 則
+  Tearsheet：feed 內 10 則，當日合格 2 則
+
+=== 候選清單（僅 2026-10-03 / 2026-10-02，已剔黑名單與重複；日期由程式驗證。標【低信心日期】者為例外，需人工審計）===
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 全端框架SvelteKit 3整理開發工具鏈，舊專案升級需更新設定與工具版本
+  URL: https://www.ithome.com.tw/news/179377
+  日期原文: 2026-10-02  06:10:52
+  摘要: Svelte團隊正式發布全端應用框架SvelteKit 3，新版調整專案設定方式，將SvelteKit相關設定集中到Vite設定檔，同時提高開發工具的最低版本要求，包括採用TypeScript 6與建置工具Vite 8。官方也提供自動遷移工具，協助既有專案升級。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 【資安週報】0929~1002，臺灣8月勒索軟體事件20起居亞太第三，全球聚焦AI代理安全風險與防護布局
+  URL: https://www.ithome.com.tw/news/179381
+  日期原文: 2026-10-02  05:10:00
+  摘要: 本週資安威脅焦點集中於勒索軟體與企業資安事件，近期統計顯示，臺灣8月至少發生20起勒索軟體事件，也有多家上市櫃公司發布資安重訊，包括柏文、神腦與鈊象等，華碩也傳出通知部分線上商店客戶資料可能遭未授權存取的情形，顯示企業遭受攻擊與資料外洩風險仍持續升高。此外，針對網路、端點與應用程式漏洞的攻擊接連曝光，成為另一項值得關注的威脅動向。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 五大科技巨頭主動型Agent大比較，一張表告訴你Dots、Muse和Spark有何不同
+  URL: https://www.ithome.com.tw/news/179380
+  日期原文: 2026-10-02  04:10:28
+  摘要: 主動型Agent助理產品大爆發。從今年5月開始，多家科技巨頭陸續跨進主動型Agent市場，到了8、9月更進入密集推出期，大廠紛紛推出了主打24小時全天候運作的AI Agent，在沒有新的提示指令下持續執行。 年初全球爆紅的OpenClaw（龍蝦），掀起了新一波AI代理的熱潮。相較於過去多半依據使用者指令行動的Agent，OpenClaw可以持續運作、定期執行任務，甚至在沒有持續提示的情況下主動完成
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 案件太多、敏感卷證又不能上商用AI，法務部啟動三年主權AI計畫
+  URL: https://www.ithome.com.tw/news/179379
+  日期原文: 2026-10-02  04:10:50
+  摘要: 「案件這麼多，又不讓我用AI，要我怎麼辦？」時任法務部綜合規劃司副司長古慧珍在8月底數位政府高峰會上，用這句第一線同仁可能的抱怨，點出法務部推動AI的兩難：檢察官、觀護人需要工具幫忙整理資料和文書，但卷宗內有個資、案情和偵查脈絡，不能直接上傳到商用AI。 法務部的解法是，要用三年時間建立自己的三層式主權AI平臺：底層共用算力與資料湖，中層提供法務專屬大型語言模型推論系統，上層則是自主開發的AI助理
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 微軟推出首款自研即時串流語音轉錄模型，並更新MAI語音模型
+  URL: https://www.ithome.com.tw/news/179375
+  日期原文: 2026-10-02  03:10:27
+  摘要: 微軟AI部門Microsoft AI（MAI）周四（10/1）推出首款自研即時串流語音轉錄模型MAI-Transcribe-2-Streaming，支援60種語言及持續自動語言偵測，收到音訊後約100毫秒即可開始輸出初步轉錄內容。同一天微軟也更新文字轉語音模型MAI-Voice系列，推出MAI-Voice-2.1及低延遲版本MAI-Voice-2.1-Flash。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 【資安日報】10月2日，臺北市政府網站發生服務中斷事件，起因為跳電後機房過熱造成儲存設備關閉
+  URL: https://www.ithome.com.tw/news/179374
+  日期原文: 2026-10-02  02:10:42
+  摘要: 本日新聞焦點 ● OpenAI調查失控AI代理人活動，已通知逾100個組織 ● FBI與歐洲警方打擊勒索軟體組織KillSec，逮捕疑似主嫌的16歲少年 ● 中國駭客鎖定臺灣學界與智庫，仿Gmail附件預覽及政府文件為誘餌
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 AWS開源20億參數Strands Decider，專門替AI代理人快速做決策
+  URL: https://www.ithome.com.tw/news/179373
+  日期原文: 2026-10-02  02:10:03
+  摘要: AWS旗下Strands團隊周四（10/1）開源Strands Decider 2B決策模型，專門替AI代理人快速進行分類、工具選擇及安全判斷等工作。模型共有20億個參數，可直接在本機CPU或GPU執行，並以低延遲完成決策。AWS同步公開模型權重、訓練資料及訓練程式碼。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 Meta推出主打小型企業用的Muse for Small Business
+  URL: https://www.ithome.com.tw/news/179371
+  日期原文: 2026-10-02  01:10:40
+  摘要: Meta推出高話題性的消費者AI助理Muse後，本週推出針對小型企業的Muse for Small Business，能幫小型店家處理行銷、行政或客戶服務等事務。 Meta說明，小型企業主通常身兼數職，同時擔任會計、行銷、營運和客服等工作，無法專注於核心業務。而單純的聊天機器人無法解決複雜的商業問題，Muse for Small Business的目的就是成為企業的營運工具鏈的一環，了解小型企業目
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 研究人員揭露惡意軟體BambooToken，透過MQTT通訊協定控制Windows與Linux電腦
+  URL: https://www.ithome.com.tw/news/179370
+  日期原文: 2026-10-02  12:10:28
+  摘要: 資安業者Lumen近日揭露新型惡意軟體BambooToken，根據樣本與網路遙測，該惡意軟體至少自2023年2月起開始活動，並持續至2026年7月，主要出現在亞洲及南美，已有十多家企業受害，包括行動App後端、旅館、生技、法律、金融、加密貨幣及軟體開發業者。目前該惡意軟體尚無法歸因於特定攻擊組織，但Lumen認為其攻擊目標與活動模式，符合中國相關威脅行動的特徵。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 開源AI代理框架Pi邁入1.0，另推出長時間代理框架Pi Durable
+  URL: https://www.ithome.com.tw/news/179369
+  日期原文: 2026-10-02  12:10:12
+  摘要: Earendil發布開源AI代理框架Pi 1.0，同時推出實驗性代理執行框架Pi Durable，讓開發者建立可長時間執行的AI代理應用。當執行中的服務重新啟動或意外中斷，Pi Durable可以讀取先前保存的進度，接著處理尚未完成的工作，也支援多條對話同時執行及多人介入同一代理任務。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 OpenAI調查失控AI代理人活動，已通知逾100個組織
+  URL: https://www.ithome.com.tw/news/179368
+  日期原文: 2026-10-02  12:10:47
+  摘要: OpenAI周三（9/30）公布AI代理人未對齊行為的最新調查進度，指出截至9月26日，已就相關異常活動通知超過100個組織，目前仍在持續回溯歷史紀錄，預期還會發現更多案例。 這項調查源於OpenAI先前發現內部研究模型入侵Hugging Face的事件。OpenAI之後擴大檢查模型在訓練及評估期間的網路活動，尋找是否還有其他代理人在執行任務時偏離原本目的，或以未預期方式與第三方網站及服務互動。目
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 加州禁止AI自行決定解僱員工，成全美首例
+  URL: https://www.ithome.com.tw/news/179367
+  日期原文: 2026-10-02  11:10:25
+  摘要: 美國加州州長Gavin Newsom周三（9/30）簽署SB 947，禁止雇主完全依賴AI或自動化決策系統，決定對員工採取懲戒或解僱措施，要求這類重大人事決策必須有人類參與審查，成為全美首個禁止雇主完全依賴AI做出懲戒或解僱決定的州別。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 FBI聯手歐洲警方打擊勒索軟體組織KillSec，逮捕疑似主嫌的16歲少年
+  URL: https://www.ithome.com.tw/news/179366
+  日期原文: 2026-10-02  11:10:07
+  摘要: FBI與歐洲多國執法機關於9月30日展開KillSwitch行動，打擊勒索軟體組織Kill Security（簡稱KillSec）。
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 Gartner預測2030年部署面向公眾的AI服務的企業，有80%將經歷成本耗盡攻擊，致營運成本超額
+  URL: https://www.ithome.com.tw/news/179365
+  日期原文: 2026-10-02  11:10:54
+  摘要: 9月15日在澳洲黃金海岸舉行的Gartner IT Symposium/Xpo大會期間，產業研究與顧問機構Gartner發布2027年暨未來核心策略預測，區分為三大類別：無所不在的機器人（robots everywhere）、由投入成本轉向創造價值（cost to value）、以及未知的未知（unknown unknowns）
+[T1|AI/台灣科技|iThome|2026-10-02] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 Aurora PostgreSQL現可查詢S3資料湖，由DuckDB引擎負責Iceberg與Parquet分析
+  URL: https://www.ithome.com.tw/news/179362
+  日期原文: 2026-10-02  08:10:31
+  摘要: AWS將DuckDB分析引擎嵌入Aurora PostgreSQL，使其具備直接查詢資料湖的功能。開發者可從Aurora查詢Amazon S3中的Apache Iceberg與Parquet資料，再與資料庫內的交易資料一起處理，不必先把資料湖中的歷史資料複製進Aurora。
+[T1|區塊鏈|CoinDesk|2026-10-03] Bank group sues U.S. regulator over granting crypto trust charters
+  URL: https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters
+  日期原文: Fri, 02 Oct 2026 21:23:20 +0000
+  摘要: The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.
+[T1|區塊鏈|CoinDesk|2026-10-03] BNY in talks with Kraken parent Payward over infrastructure partnership
+  URL: https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership
+  日期原文: Fri, 02 Oct 2026 17:34:40 +0000
+  摘要: The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.
+[T1|區塊鏈|CoinDesk|2026-10-03] Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%
+  URL: https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98
+  日期原文: Fri, 02 Oct 2026 17:15:35 +0000
+  摘要: Once home to more than $2 billion in crypto assets, Blast is shutting down as activity fades, costs rise, and bigger platforms like Coinbase and Robinhood build networks of their own.
+[T1|區塊鏈|CoinDesk|2026-10-03] Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown
+  URL: https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec
+  日期原文: Fri, 02 Oct 2026 17:12:48 +0000
+  摘要: The former SEC chairman who may be tapped to oversee the Trump administration's AI work has a potentially divisive history as a watchdog of tech innovation.
+[T1|區塊鏈|CoinDesk|2026-10-02] America at a crossroads: Commissioner Peirce’s parting challenge
+  URL: https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge
+  日期原文: Fri, 02 Oct 2026 13:22:19 +0000
+  摘要: It is incumbent upon us to continue Commissioner Peirce’s mission, writes Will Schwartz, policy associate at the Blockchain Association.
+[T1|區塊鏈|CoinDesk|2026-10-02] U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%
+  URL: https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2
+  日期原文: Fri, 02 Oct 2026 12:31:53 +0000
+  摘要: Bitcoin held earlier gains following the report, up more than 2% over the past 24 hours and just below $87,000.
+[T1|區塊鏈|CoinDesk|2026-10-02] Cboe wants to turn VIX into a never-ending trade
+  URL: https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover
+  日期原文: Fri, 02 Oct 2026 11:30:00 +0000
+  摘要: Your day-ahead look for Oct. 2, 2026
+[T1|區塊鏈|CoinDesk|2026-10-02] Live updates: Bitcoin reverses big early gains following soft U.S. jobs data
+  URL: https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report
+  日期原文: Fri, 02 Oct 2026 11:22:40 +0000
+  摘要: Bond yields also suffered a major whipsaw, turning higher by the afternoon after early declines.
+[T1|區塊鏈|CoinDesk|2026-10-02] Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%
+  URL: https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60
+  日期原文: Fri, 02 Oct 2026 10:31:16 +0000
+  摘要: Bitcoin dominance is closing in on 60% while USDT's has slipped to 6.3%, pointing to a market growing more comfortable with risk.
+[T1|區塊鏈|CoinDesk|2026-10-02] Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions
+  URL: https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500
+  日期原文: Fri, 02 Oct 2026 09:14:21 +0000
+  摘要: Rising open interest and funding rates signal renewed demand for bullish bitcoin exposure.
+[T1|區塊鏈|CoinDesk|2026-10-02] Tether's USDT is 'coming home' to Bitcoin after more than a decade
+  URL: https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade
+  日期原文: Fri, 02 Oct 2026 08:28:19 +0000
+  摘要: A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.
+[T1|區塊鏈|CoinDesk|2026-10-02] Bitcoin tops $86,000 ahead of U.S. jobs report
+  URL: https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report
+  日期原文: Fri, 02 Oct 2026 08:11:54 +0000
+  摘要: Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.
+[T1|區塊鏈|CoinDesk|2026-10-02] SEC proposes new crypto custody rules for investment advisers and funds
+  URL: https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda
+  日期原文: Thu, 01 Oct 2026 20:20:04 +0000
+  摘要: The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.
+[T1|區塊鏈|CoinDesk|2026-10-02] Another Trump memecoin dinner advertised for token's top investors
+  URL: https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors
+  日期原文: Thu, 01 Oct 2026 18:45:29 +0000
+  摘要: The company managing the memecoin calls the November event the "most exclusive dinner in the world."
+[T1|區塊鏈|The Block|2026-10-03] Drift opens exploit recovery claims with initial payouts of just over 1% of user losses
+  URL: https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581
+  日期原文: Fri, 02 Oct 2026 17:10:40 +0000
+  摘要: DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.
+[T1|區塊鏈|The Block|2026-10-03] Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue
+  URL: https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583
+  日期原文: Fri, 02 Oct 2026 16:54:29 +0000
+  摘要: Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw via the app.
+[T1|區塊鏈|The Block|2026-10-02] Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints
+  URL: https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570
+  日期原文: Fri, 02 Oct 2026 13:34:40 +0000
+  摘要: Bitcoin climbed back toward $87,000 on Friday as sellers cleared out around $85,000, according to Glassnode.
+[T1|區塊鏈|The Block|2026-10-02] BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman
+  URL: https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560
+  日期原文: Fri, 02 Oct 2026 12:28:54 +0000
+  摘要: BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions.
+[T1|區塊鏈|The Block|2026-10-02] ECB outlines three models for putting central bank money onchain
+  URL: https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552
+  日期原文: Fri, 02 Oct 2026 10:17:39 +0000
+  摘要: The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.
+[T1|區塊鏈|The Block|2026-10-02] Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds
+  URL: https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547
+  日期原文: Fri, 02 Oct 2026 05:50:41 +0000
+  摘要: US spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025.
+[T1|區塊鏈|The Block|2026-10-02] SEC’s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says
+  URL: https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538
+  日期原文: Fri, 02 Oct 2026 05:04:41 +0000
+  摘要: Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.
+[T1|區塊鏈|The Block|2026-10-02] Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity
+  URL: https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504
+  日期原文: Fri, 02 Oct 2026 00:22:58 +0000
+  摘要: Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.
+[T1|區塊鏈|The Block|2026-10-02] SEC proposes framework allowing investment advisers, funds to self-custody crypto
+  URL: https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498
+  日期原文: Thu, 01 Oct 2026 21:00:53 +0000
+  摘要: SEC proposed a crypto framework for investment advisers & funds, allowing self-custody in some cases & state trust companies as custodians.
+[T1|區塊鏈|The Block|2026-10-02] Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review
+  URL: https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452
+  日期原文: Thu, 01 Oct 2026 19:10:36 +0000
+  摘要: Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.
+[T1|區塊鏈|The Block|2026-10-02] Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade
+  URL: https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419
+  日期原文: Thu, 01 Oct 2026 16:17:23 +0000
+  摘要: Co-author Jérôme de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change.
+[T1|支付/金融創新|PYMNTS|2026-10-03] OpenAI Hires Former White House Cyber Official as Regulators Probe AI Dangers
+  URL: https://www.pymnts.com/news/artificial-intelligence/2026/openai-hires-former-white-house-cyber-official-regulators-probe-ai-dangers/
+  日期原文: Fri, 02 Oct 2026 21:56:38 +0000
+  摘要: The former leader of artificial intelligence policy at the White House’s Office of the National Cyber Director, Thomas Lind, joined OpenAI, The Information reported Friday (Oct. 2), citing the head of
+[T1|支付/金融創新|PYMNTS|2026-10-03] EMVCo Framework Targets Consumer Intent in Agentic Payments
+  URL: https://www.pymnts.com/news/artificial-intelligence/2026/emvco-framework-targets-consumer-intent-agentic-payments/
+  日期原文: Fri, 02 Oct 2026 21:42:14 +0000
+  摘要: Artificial intelligence agents add information to a card payment that merchants, issuers and networks don’t routinely exchange today: what the consumer authorized the agent to do and whether the trans
+[T1|支付/金融創新|PYMNTS|2026-10-03] American Airlines Lets Loyalty Program Members Combine Cash and Miles
+  URL: https://www.pymnts.com/transportation/travel-payments/2026/american-airlines-lets-loyalty-program-members-combine-cash-and-miles/
+  日期原文: Fri, 02 Oct 2026 20:52:01 +0000
+  摘要: American Airlines is going to let eligible members of its AAdvantage loyalty program combine cash and miles when booking flights on its website (aa.com) and digital app, the company said in a Friday (
+[T1|支付/金融創新|PYMNTS|2026-10-03] Stablecoins Hand Manufacturers a Working Capital Windfall, if CFOs Move
+  URL: https://www.pymnts.com/news/b2b-payments/2026/stablecoins-hand-manufacturers-a-working-capital-windfall-if-cfos-move/
+  日期原文: Fri, 02 Oct 2026 20:25:05 +0000
+  摘要: Stablecoins are technically capable of eliminating one of global manufacturing’s oldest financial inefficiencies. The simple, persistent, and compounding friction of money that spends too much time tr
+[T1|支付/金融創新|PYMNTS|2026-10-03] AWS Launches AI Agent to Audit Customer Cloud Environments
+  URL: https://www.pymnts.com/news/artificial-intelligence/2026/aws-launches-ai-agent-to-audit-customer-cloud-environments/
+  日期原文: Fri, 02 Oct 2026 19:37:36 +0000
+  摘要: Amazon Web Services (AWS) has announced the public preview of an artificial intelligence-powered service that analyzes the user’s AWS cloud environment and recommends ways to improve its cost, securit
+[T1|支付/金融創新|PYMNTS|2026-10-03] Bank AI Job Postings Jump 49% as Agents Go to Work
+  URL: https://www.pymnts.com/news/artificial-intelligence/2026/bank-ai-job-postings-jump-49percent-agents-go-work/
+  日期原文: Fri, 02 Oct 2026 19:20:24 +0000
+  摘要: Wall Street banks are accelerating artificial intelligence hiring as they shift from chatbots to AI agents. Hiring is expanding beyond model builders to engineers who put agents to work across trading
+[T1|支付/金融創新|PYMNTS|2026-10-03] Job Growth Moderates as Labor Market Remains Stable
+  URL: https://www.pymnts.com/economy/2026/job-growth-moderates-as-labor-market-remains-stable/
+  日期原文: Fri, 02 Oct 2026 18:44:31 +0000
+  摘要: Nonfarm payroll, employment in all major industries and the unemployment rate “changed little” in September, the Bureau of Labor Statistics (BLS) said Friday (Oct. 2) in its latest employment situatio
+[T1|支付/金融創新|PYMNTS|2026-10-03] Ford and Rockwell Fast-Track Rookie Technicians With AI
+  URL: https://www.pymnts.com/news/artificial-intelligence/2026/ford-and-rockwell-fast-track-rookie-technicians-with-ai/
+  日期原文: Fri, 02 Oct 2026 17:22:03 +0000
+  摘要: A mechanic at a Ford dealership who has never pulled the engine from a Super Duty pickup can now follow instructions from artificial intelligence (AI) through the job. Removing the engine alone takes 
+[T1|支付/金融創新|PYMNTS|2026-10-03] OCC Grants Clean Bill of Health to 13 Banks in Latest Community Lending Audit
+  URL: https://www.pymnts.com/legal/bank-regulation/2026/occ-grants-clean-bill-health-13-banks-latest-community-lending-audit/
+  日期原文: Fri, 02 Oct 2026 17:06:21 +0000
+  摘要: The Office of the Comptroller of the Currency rated three banks “outstanding” and 10 “satisfactory” in its latest list of banks examined for Community Reinvestment Act (CRA) compliance, the OCC said i
+[T1|支付/金融創新|PYMNTS|2026-10-03] Maryland Gov. Wes Moore Tees Up State Leaders’ AI Regulation Plan
+  URL: https://www.pymnts.com/news/artificial-intelligence/2026/maryland-governor-wes-moore-tees-up-state-leaders-ai-regulation-plan/
+  日期原文: Fri, 02 Oct 2026 16:47:36 +0000
+  摘要: With federal artificial intelligence regulation tied up in Congress, Maryland Gov. Wes Moore is spearheading a bipartisan effort among state leaders to fill the void. Moore, who also serves as chair o
+[T1|金融創新/AI|Finextra|2026-10-02] YouTuber raises $15m for Brazil's 'Cash App'
+  URL: https://www.finextra.com/newsarticle/48527/youtuber-raises-15m-for-brazils-cash-app?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 15:15:00 GMT
+  摘要: NG.Cash, the "Brazilian Cash App" founded by a former YouTuber, has raised $15 million to back its efforts to bring credit and crypto services to the country's young, unbanked population.
+[T1|金融創新/AI|Finextra|2026-10-02] Lloyds survey reveals 71% of UK FIs believe tokenisation will reshape financial services
+  URL: https://www.finextra.com/newsarticle/48526/lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 11:07:00 GMT
+  摘要: Lloyds' 10th annual Financial Institutions Sentiment Survey, conducted between April and May 2026, showed that 71% of the 100 senior leaders surveyed across UK banks, insurers, financial sponsors and 
+[T1|金融創新/AI|Finextra|2026-10-02] Barclays ramps up use of Anthropic's Claude
+  URL: https://www.finextra.com/newsarticle/48519/barclays-ramps-up-use-of-anthropics-claude?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 00:01:00 GMT
+  摘要: Barclays is extending its use of Anthropic's Claude in an effort to accelerate software development, modernise its legacy systems and boost operational efficiency.
+[T1|金融創新/AI|Finextra|2026-10-02] Monarch acquires HMBradley
+  URL: https://www.finextra.com/newsarticle/48523/monarch-acquires-hmbradley?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 00:01:00 GMT
+  摘要: Personal finance platform Monarch has acquired MBI, the digital banking fintech formerly known as HMBradley.
+[T1|金融創新/AI|Finextra|2026-10-02] Australia's WeMoney launches AI and open banking-powered lending assessment service
+  URL: https://www.finextra.com/newsarticle/48525/australias-wemoney-launches-ai-and-open-banking-powered-lending-assessment-service?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 00:01:00 GMT
+  摘要: Australia's WeMoney has launched an AI-powered lending assessment service built on the country's Consumer Data Right.
+[T1|金融創新/AI|Finextra|2026-10-02] Sibos 2026: What does a successful ESG strategy look like?
+  URL: https://www.finextra.com/newsarticle/48524/sibos-2026-what-does-a-successful-esg-strategy-look-like?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 01 Oct 2026 18:38:00 GMT
+  摘要: How can global financial institutions maintain a coherent sustainability strategy with constantly shifting expectations? This was discussed at Sibos Miami 2026 by a panel of experts.
+[T1|金融創新/AI|Finextra|2026-10-02] Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy
+  URL: https://www.finextra.com/newsarticle/48521/sibos-2026-dont-just-think-tech-think-talent-to-achieve-broad-ai-literacy?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 01 Oct 2026 17:38:00 GMT
+  摘要: It’s not just the tech banks need to think about. The talent that is needed to make most organisational AI aspirations a reality is a huge part of the successful AI adoption — per an expert panel at t
+[T1|金融創新/AI|Finextra|2026-10-02] Bloomberg closes Canoe Intelligence acquisition
+  URL: https://www.finextra.com/pressarticle/111105/bloomberg-closes-canoe-intelligence-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 01 Oct 2026 18:24:00 GMT
+  摘要: Bloomberg today announced the completion of its acquisition of Canoe Intelligence (“Canoe”), a leading AI-powered data management and intelligence platform for automating private markets data collecti
+[T1|金融創新/AI|Finextra|2026-10-02] BMO joins Project Agorá
+  URL: https://www.finextra.com/pressarticle/111106/bmo-joins-project-agor?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 01 Oct 2026 18:26:00 GMT
+  摘要: BMO today announced its participation in Project Agorá, the global public-private collaboration convened by the Bank for International Settlements (BIS) and the Institute of International Finance (IIF
+[T1|金融創新/AI|Finextra|2026-10-02] Walapay raises $4.6m
+  URL: https://www.finextra.com/pressarticle/111107/walapay-raises-46m?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 01 Oct 2026 19:56:00 GMT
+  摘要: Walapay, global payments infrastructure for account issuance, collections, FX, and payouts, today announced a $4.6 million seed round led by Generative Ventures, with participation from Commerce Ventu
+[T1|金融創新/AI|Finextra|2026-10-02] New York and Wyoming regulators ink virtual currency MoU
+  URL: https://www.finextra.com/pressarticle/111108/new-york-and-wyoming-regulators-ink-virtual-currency-mou?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 01 Oct 2026 19:58:00 GMT
+  摘要: The New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow and the Wyoming Division of Banking Commissioner Jeremiah Bishop today announced a memorandum of understan
+[T1|金融創新/AI|Finextra|2026-10-02] Mosaic Processing asks software platforms to examine payment costs
+  URL: https://www.finextra.com/pressarticle/111109/mosaic-processing-asks-software-platforms-to-examine-payment-costs?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 09:00:00 GMT
+  摘要: Mosaic Processing invites software platforms to review how payment acceptance fits into their products, customer relationships and business economics. The invitation includes booking, membership, bill
+[T1|金融創新/AI|Finextra|2026-10-02] BMO and Mastercard enable corporate card clients to manage virtual card payments
+  URL: https://www.finextra.com/pressarticle/111110/bmo-and-mastercard-enable-corporate-card-clients-to-manage-virtual-card-payments?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 10:00:00 GMT
+  摘要: BMO and Mastercard today announced the availability of a new embedded Commercial payments capability that enables eligible Corporate Card clients to initiate and manage BMO Commercial virtual card pay
+[T1|金融創新/AI|Finextra|2026-10-02] WealthAi launches AI agents to oversee client onboarding and KYC process
+  URL: https://www.finextra.com/pressarticle/111111/wealthai-launches-ai-agents-to-oversee-client-onboarding-and-kyc-process?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 11:50:00 GMT
+  摘要: WealthAi, the AI operating system OS for wealth managers and advisers, has launched a new suite of AI agents designed to oversee the client onboarding and KYC process end-to-end.
+[T1|金融創新/AI|Finextra|2026-10-02] Coinpayments appoints founder Alex Alexandrov as group CEO
+  URL: https://www.finextra.com/pressarticle/111113/coinpayments-appoints-founder-alex-alexandrov-as-group-ceo?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Fri, 02 Oct 2026 13:18:00 GMT
+  摘要: Coinpayments , the global digital assets payments infrastructure provider, has announced the appointment of founder Alex Alexandrov as Group CEO. Alexandrov founded the company in 2013 and has served 
+[T2|AI|TechCrunch AI|2026-10-03] Sean Parker is rebuilding Stability AI around music
+  URL: https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/
+  日期原文: Fri, 02 Oct 2026 21:09:14 +0000
+  摘要: Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
+[T2|AI|TechCrunch AI|2026-10-03] Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
+  URL: https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+  日期原文: Fri, 02 Oct 2026 18:11:27 +0000
+  摘要: Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk
+[T2|AI|TechCrunch AI|2026-10-03] Call it AI, call it Super Intelligence, only 2% of consumers are buying it
+  URL: https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/
+  日期原文: Fri, 02 Oct 2026 17:56:00 +0000
+  摘要: This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call
+[T2|AI|TechCrunch AI|2026-10-03] It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
+  URL: https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/
+  日期原文: Fri, 02 Oct 2026 17:48:16 +0000
+  摘要: This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump call
+[T2|AI|TechCrunch AI|2026-10-03] TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants
+  URL: https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/
+  日期原文: Fri, 02 Oct 2026 17:32:05 +0000
+  摘要: Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
+[T2|AI|TechCrunch AI|2026-10-03] Circuit Breaker Labs hopes to make AI safer for your kids (and you)
+  URL: https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/
+  日期原文: Fri, 02 Oct 2026 17:00:00 +0000
+  摘要: With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created "crash-test dummies" to solve tha
+[T2|AI|TechCrunch AI|2026-10-02] Pope Leo XIV is not a fan of AI-generated art
+  URL: https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/
+  日期原文: Fri, 02 Oct 2026 15:39:41 +0000
+  摘要: "There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the pope 
+[T2|AI|TechCrunch AI|2026-10-02] TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer
+  URL: https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/
+  日期原文: Fri, 02 Oct 2026 14:30:00 +0000
+  摘要: Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.
+[T2|AI|TechCrunch AI|2026-10-02] Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president
+  URL: https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/
+  日期原文: Thu, 01 Oct 2026 21:08:11 +0000
+  摘要: President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
+[T2|AI|TechCrunch AI|2026-10-02] ChatGPT can now virtually try on clothes for you
+  URL: https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/
+  日期原文: Thu, 01 Oct 2026 19:21:53 +0000
+  摘要: OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.
+[T2|AI|TechCrunch AI|2026-10-02] Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground
+  URL: https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/
+  日期原文: Thu, 01 Oct 2026 19:18:03 +0000
+  摘要: Google launched its first advanced chip into orbit to pave the way for space data centers.
+[T2|AI|TechCrunch AI|2026-10-02] OpenAI cuts ties with 3 safety researchers, WSJ reports
+  URL: https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/
+  日期原文: Thu, 01 Oct 2026 18:14:42 +0000
+  摘要: OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.
+[T2|AI|TechCrunch AI|2026-10-02] Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)
+  URL: https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/
+  日期原文: Thu, 01 Oct 2026 17:50:19 +0000
+  摘要: Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.
+[T2|AI|TechCrunch AI|2026-10-02] Amazon releases its own Jev clone as decision models flood the web
+  URL: https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/
+  日期原文: Thu, 01 Oct 2026 16:49:22 +0000
+  摘要: Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.
+[T2|AI|TechCrunch AI|2026-10-02] Shopify debuts Canvas, a way to build online stores by chatting with AI
+  URL: https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/
+  日期原文: Thu, 01 Oct 2026 16:44:35 +0000
+  摘要: Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.
+[T2|AI/台灣科技|TechNews|2026-10-03] 尋找超新星爆發前的「母星」，NASA 錢卓拉最新發現 84 個神祕天體帶來破案曙光
+  URL: https://technews.tw/2026/10/03/nasa-chandra-latest-galaxy-images/
+  日期原文: Fri, 02 Oct 2026 16:00:42 +0000
+  摘要: 美國太空總署（NASA）的錢卓拉 X 射線天文台（Chandra X-ray Observatory）9 月 […]
+[T2|AI/台灣科技|TechNews|2026-10-03] NASA 採樣揭露貝努小行星身世，實為內外太陽系物質「混血兒」
+  URL: https://technews.tw/2026/10/03/origin-of-asteroid-bennu-revealed/
+  日期原文: Fri, 02 Oct 2026 16:00:15 +0000
+  摘要: 蘇黎世聯邦理工學院（ETH Zurich）研究人員對貝努小行星（101955 Bennu）樣本的最新分析顯示， […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 欲藉 2 奈米盼重返高通供應鏈，台積電一單不漏全數拿下讓三星盼了個寂寞
+  URL: https://finance.technews.tw/2026/10/02/samsung-hopes-to-rejoin-qualcomms-supply-chain-by-leveraging-its-2nm-technology/
+  日期原文: Fri, 02 Oct 2026 12:40:23 +0000
+  摘要: 近期以來，因為台積電受到 AI 晶片需求大增，使得產能進一步吃緊，加上外傳三星的 2 奈米的良率提升，還進一步 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 牧德9月營收3.73 億元
+  URL: https://finance.technews.tw/2026/10/02/machvision-3563-202609-financial-report/
+  日期原文: Fri, 02 Oct 2026 12:10:06 +0000
+  摘要: 牧德（3563）今（2）日公布 9 月營收，達 3.73 億元，較 8 月成長 3.2%，較去年同期成長 63 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 光寶擴大 AI 電源產能，砸 88.5 億元擴產高雄
+  URL: https://finance.technews.tw/2026/10/02/lite-on-expands-ai-power-supply-capacity-investing-nt8-85-billion-kaohsiung/
+  日期原文: Fri, 02 Oct 2026 12:08:33 +0000
+  摘要: 因應 AI 資料中心高功率電源需求持續成長，光寶科技加快擴充相關產能。光寶今（2）日公告，為因應營收成長及後續 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 義隆9月營收6.02 億元
+  URL: https://finance.technews.tw/2026/10/02/elan-2458-202609-financial-report/
+  日期原文: Fri, 02 Oct 2026 10:40:05 +0000
+  摘要: 義隆（2458）今（2）日公布 9 月營收，達 6.02 億元，較 8 月成長 -18.7%，較去年同期成長 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 倉和9月營收月增4.2%
+  URL: https://finance.technews.tw/2026/10/02/brave-screen-6538-202609-financial-report/
+  日期原文: Fri, 02 Oct 2026 10:10:07 +0000
+  摘要: 倉和（6538）公布 9 月合併營收 1.75 億元，較上（8）月成長 4.2%，與去年同期相比為年增 43. […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 明泰9月營收24.17 億元
+  URL: https://finance.technews.tw/2026/10/02/alpha-3380-202609-financial-report/
+  日期原文: Fri, 02 Oct 2026 10:10:06 +0000
+  摘要: 明泰（3380）今（2）日公布 9 月營收，達 24.17 億元，較 8 月成長 -19.0%，較去年同期成長 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] Shield AI 攜手台灣合作夥伴推動自主系統在地化，持續擴大在台佈局與人才招募
+  URL: https://technews.tw/2026/10/02/shield-ai-is-planning-to-increase-cooperations-with-taiwanese-supply-chians-and-recruit-more-taiwanese-talents/
+  日期原文: Fri, 02 Oct 2026 10:10:00 +0000
+  摘要: Shield AI 於 2025 年在台北 101 大樓設立辦公室，攜手台灣產業夥伴積極推動自主系統在地化，並 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 烏克蘭前防長要打造「機器人軍團」，Shield AI 創辦人：十年內應該很難實現
+  URL: https://technews.tw/2026/10/02/brandon-tseng-thinks-fedorovs-army-of-robots-cant-be-done-within-10-years/
+  日期原文: Fri, 02 Oct 2026 09:41:47 +0000
+  摘要: Shield AI 今日於台北 101 分公司總部，由創辦人曾國光（Brandon Tseng）出面舉行媒體簡 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 皮尤調查：越來越多人認為社媒危害民主，全球疑慮升高
+  URL: https://infosecu.technews.tw/2026/10/02/pew-survey-social-media-harms-democracy-global-concerns-rising/
+  日期原文: Fri, 02 Oct 2026 09:40:22 +0000
+  摘要: 美國智庫組織皮尤研究中心 1 日表示，越來越多人認為社群媒體操縱並分化民眾、危害民主，反映全球各地日益加劇的疑 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 不用滑鼠可操控電腦，興大材料系開發 AI 體感智慧衣
+  URL: https://technews.tw/2026/10/02/nchu-materials-science-department-develops-ai-haptic-smart-clothing-mouse-free-computer-control/
+  日期原文: Fri, 02 Oct 2026 09:30:25 +0000
+  摘要: 國立中興大學材料科學與工程學系今天公布開發「AI 體感智慧衣」，利用紡織材料與人體活動產生的自然靜電感測動作， […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 報告揭 OpenAI 代理擅闖政府網站，試圖抹除活動軌跡
+  URL: https://technews.tw/2026/10/02/openai-agent-trespasses-government-websites-erases-activity-traces/
+  日期原文: Fri, 02 Oct 2026 09:20:03 +0000
+  摘要: 1 日公布的報告，OpenAI 開發的人工智慧（AI）代理未經授權入侵政府網站後，還試圖抹除活動痕跡。 法新社 […]
+[T2|AI/台灣科技|TechNews|2026-10-02] 首批兩架全新 F-16V 飛抵台東，更強動力與全新機體補強空防
+  URL: https://technews.tw/2026/10/02/first-2-f-16v-arrived-in-taitung-air-force-base/
+  日期原文: Fri, 02 Oct 2026 09:12:30 +0000
+  摘要: 歷經多年等待，台灣向美國採購 66 架 F-16V 戰機的計畫終於迎來重大里程碑，首批兩架單座型戰機於今（2） […]
+[T2|AI/台灣科技|TechNews|2026-10-02] BMW iX3 訂單破 2 千輛還降價，頂規只要 312 萬
+  URL: https://technews.tw/2026/10/02/bmw-ix3-taiwan-launch/
+  日期原文: Fri, 02 Oct 2026 09:09:10 +0000
+  摘要: BMW 今日正式在台灣發表全新電動休旅車 iX3，不僅追加新的入門車型，先前預購的兩款還追加配備，然後再降價， […]
+[T2|區塊鏈|Cointelegraph|2026-10-03] Here’s what happened in crypto today
+  URL: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 20:46:58 +0000
+  摘要: Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+[T2|區塊鏈|Cointelegraph|2026-10-03] European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO
+  URL: https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 20:40:47 +0000
+  摘要: Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.
+[T2|區塊鏈|Cointelegraph|2026-10-03] $4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report
+  URL: https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 18:41:17 +0000
+  摘要: The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.
+[T2|區塊鏈|Cointelegraph|2026-10-03] Blast to wind down Ethereum L2 after costs outpace revenue
+  URL: https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 18:24:05 +0000
+  摘要: Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.
+[T2|區塊鏈|Cointelegraph|2026-10-03] 71% of UK finance leaders expect tokenization to reshape financial services: Lloyds
+  URL: https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 16:20:24 +0000
+  摘要: A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.
+[T2|區塊鏈|Cointelegraph|2026-10-02] Crypto’s billions are back, but the premiums aren’t
+  URL: https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 15:32:53 +0000
+  摘要: Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.
+[T2|區塊鏈|Cointelegraph|2026-10-02] Bitcoin briefly hits $87K as weak US jobs data sends bond yields lower
+  URL: https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 15:27:31 +0000
+  摘要: Bitcoin climbed after weaker-than-expected payrolls pushed Treasury yields lower, but order-book resistance kept BTC from reaching new macro highs.
+[T2|區塊鏈|Cointelegraph|2026-10-02] ‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens
+  URL: https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 14:12:48 +0000
+  摘要: European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.
+[T2|區塊鏈|Cointelegraph|2026-10-02] Furious debate about THORChain vs NEAR shows idealism has limits
+  URL: https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 13:30:00 +0000
+  摘要: The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.
+[T2|區塊鏈|Cointelegraph|2026-10-02] Circle urges EU to revise stablecoin reserve rules in MiCA review
+  URL: https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 12:25:56 +0000
+  摘要: Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.
+[T2|區塊鏈|Cointelegraph|2026-10-02] BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B
+  URL: https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 11:40:21 +0000
+  摘要: Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.
+[T2|區塊鏈|Cointelegraph|2026-10-02] Bitcoin treasuries may struggle to match Strategy, says Ammous
+  URL: https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 10:54:33 +0000
+  摘要: Strategy’s scale and cash reserves give it an edge over treasury rivals, according to Saifedean Ammous, author of “The Bitcoin Standard.”
+[T2|區塊鏈|Cointelegraph|2026-10-02] CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain
+  URL: https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 10:29:35 +0000
+  摘要: Arthur Hayes said money printing could lift crypto prices, while CONNECT Seoul speakers examined Wall Street’s competitive edge onchain.
+[T2|區塊鏈|Cointelegraph|2026-10-02] Bitcoin reaches for $87K as short liquidations top $120M
+  URL: https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 09:37:06 +0000
+  摘要: Bitcoin buyers broke through a wall of ask liquidity to reach new October BTC price highs near $87,800, with the area immediately above now a new resistance hurdle.
+[T2|區塊鏈|Cointelegraph|2026-10-02] Aave founder says V3 unaffected after third-party adapter exploit drains $305K
+  URL: https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Fri, 02 Oct 2026 09:30:49 +0000
+  摘要: Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploited a third-party adapter to drain about $305,000 from two Safe multisig wallets.
+[T2|支付/金融創新|Payments Dive|2026-10-02] How stablecoins speed int’l payments
+  URL: https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/
+  日期原文: Fri, 02 Oct 2026 10:21:56 -0400
+  摘要: Startup Latitude Global pitches faster, cheaper cross-border payments by sending them on modern stablecoin rails.
+[T2|金融創新|Finovate|2026-10-03] PayNearMe Launches AI Servicing and Collections Agent
+  URL: https://finovate.com/paynearme-launches-ai-servicing-and-collections-agent/
+  日期原文: Fri, 02 Oct 2026 22:10:24 +0000
+  摘要: Payment experience company PayNearMe unveiled its latest tool this week. The California-based company is launching an AI Servicing and Collections Agent, an AI agent to facilitate inbound self-service
+[T2|金融創新|Finovate|2026-10-02] Finovate Global Indonesia: Payments, MSMEs, and the Challenge of Progress
+  URL: https://finovate.com/finovate-global-indonesia-payments-msmes-and-the-challenge-of-progress/
+  日期原文: Fri, 02 Oct 2026 14:13:38 +0000
+  摘要: This week’s edition of Finovate Global features the latest fintech news from Indonesia. Digital financial platform DANA secures investment Indonesian digital financial platform DANA has secured an inv
+[T2|金融創新|Finovate|2026-10-02] Stripe Agrees to Acquire Embedded Finance Platform Parafin
+  URL: https://finovate.com/stripe-agrees-to-acquire-embedded-finance-platform-parafin/
+  日期原文: Fri, 02 Oct 2026 04:48:52 +0000
+  摘要: Payment infrastructure fintech Stripe has agreed to acquire embedded finance platform Parafin. The move comes about a month after the California-based company acquired legal infrastructure startup Cle
+[T2|金融創新|Finovate|2026-10-02] Hyperlayer’s Rob Rooney on Why Banks and Credit Unions Are Poised to Win in the AI Era
+  URL: https://finovate.com/hyperlayers-rob-rooney-on-why-banks-and-credit-unions-are-poised-to-win-in-the-ai-era/
+  日期原文: Thu, 01 Oct 2026 22:17:15 +0000
+  摘要: For years the discourse on technological innovation in banking and financial services favored the fintechs. But is it possible that the ones best positioned to take advantage of the biggest technologi
+[T2|金融創新|Finovate|2026-10-02] EquiTrust Life Partners with Sureify to Streamline Data Exchange
+  URL: https://finovate.com/equitrust-life-partners-with-sureify-to-streamline-data-exchange/
+  日期原文: Thu, 01 Oct 2026 20:26:13 +0000
+  摘要: EquiTrust Life Insurance Company announced a strategic partnership with life and annuity platform Sureify this week. The collaboration is designed to advance EquiTrust’s digital transformation, modern
+[T2|金融創新/募資|Crowdfund Insider|2026-10-03] Yellow Card, Mastercard, Trulioo Headline This Week’s Product Releases and Partnerships
+  URL: https://www.crowdfundinsider.com/2026/10/315141-yellow-card-mastercard-trulioo-headline-this-weeks-product-releases-and-partnerships/
+  日期原文: Fri, 02 Oct 2026 22:33:28 +0000
+  摘要: Yellow Card expands into Canada Nigeria-founded Yellow Card, a stablecoin infrastructure provider, enables banks, fintechs, and multinational businesses to access US dollars, manage treasury, and move
+[T2|金融創新/募資|Crowdfund Insider|2026-10-03] Global Bond Yields Hit Multi-Decade Highs as Stocks Hold and Crypto Consolidates into Q4 : Analysis
+  URL: https://www.crowdfundinsider.com/2026/10/314984-global-bond-yields-hit-multi-decade-highs-as-stocks-hold-and-crypto-consolidates-into-q4-analysis/
+  日期原文: Fri, 02 Oct 2026 22:16:28 +0000
+  摘要: Government bond markets worldwide came under renewed strain at the start of October as investors reassessed the path of inflation and growth, pushing sovereign yields to levels not seen in decades and
+[T2|金融創新/募資|Crowdfund Insider|2026-10-03] Cross-Chain Trading Protocol NEAR Intents Halts Services After $3.8 Million Exploit, Pledges Full Compensation
+  URL: https://www.crowdfundinsider.com/2026/10/315020-cross-chain-trading-protocol-near-intents-halts-services-after-3-8-million-exploit-pledges-full-compensation/
+  日期原文: Fri, 02 Oct 2026 22:12:25 +0000
+  摘要: NEAR Intents suspended its services on October 1, 2026, after identifying a security incident that the team preliminarily linked to roughly $3.8 million in losses. The cross-chain trading protocol sai
+[T2|金融創新/募資|Crowdfund Insider|2026-10-03] XRP Treasury Firm Evernorth Clears Shareholder Vote Ahead of Oct 8 Nasdaq Debut
+  URL: https://www.crowdfundinsider.com/2026/10/315002-xrp-treasury-firm-evernorth-clears-shareholder-vote-ahead-of-oct-8-nasdaq-debut/
+  日期原文: Fri, 02 Oct 2026 20:17:17 +0000
+  摘要: Evernorth Holdings has cleared a decisive shareholder hurdle on the way to a planned Nasdaq listing, after investors in its blank-check merger partner backed the deal that would turn the firm into a p
+[T2|金融創新/募資|Crowdfund Insider|2026-10-03] Zano Attacker Minted 36.9M Unauthorized Crypto Tokens Prior to Chain Rollback
+  URL: https://www.crowdfundinsider.com/2026/10/314999-zano-attacker-minted-36-9m-unauthorized-crypto-tokens-prior-to-chain-rollback/
+  日期原文: Fri, 02 Oct 2026 18:21:00 +0000
+  摘要: An attacker who exploited a flaw in Zano’s Gateway Address feature minted roughly 36.9 million unauthorized ZANO before the project reversed about a month of blockchain history, according to a post-mo
+[T2|金融創新/募資|Crowdfund Insider|2026-10-03] Ethereum Foundation and Open Anonymity Launch zkAPI for Private Metered API Payments on Mainnet
+  URL: https://www.crowdfundinsider.com/2026/10/315001-ethereum-foundation-and-open-anonymity-launch-zkapi-for-private-metered-api-payments-on-mainnet/
+  日期原文: Fri, 02 Oct 2026 17:19:43 +0000
+  摘要: The Ethereum Foundation and the Open Anonymity Project have brought a mainnet system online that lets people pay for metered APIs without tying those calls to a durable billing identity. Announced on 
+[T2|金融創新/募資|Crowdfund Insider|2026-10-03] Reg A+ Pioneer Mark Rockefeller on Family Governance, Regulatory Overreach and the Future of Financial Advisors
+  URL: https://www.crowdfundinsider.com/2026/10/315082-reg-a-pioneer-mark-rockefeller-on-family-governance-regulatory-overreach-and-the-future-of-financial-advisors/
+  日期原文: Fri, 02 Oct 2026 16:20:40 +0000
+  摘要: Capital Ideas podcast guest reflects on pioneering veteran-focused Reg A+ lending, why the SEC’s investor-protection instincts outran Congress’s intent, and how his new venture, Century House, is tryi
+[T2|金融創新/募資|Crowdfund Insider|2026-10-02] SEC Innovation Exemption Caps Could Slow Robinhood’s US Stock Token Plans
+  URL: https://www.crowdfundinsider.com/2026/10/314969-sec-innovation-exemption-caps-could-slow-robinhoods-us-stock-token-plans/
+  日期原文: Fri, 02 Oct 2026 15:17:24 +0000
+  摘要: Robinhood’s (NASDAQ: HOOD) crypto leadership says the US Securities and Exchange Commission’s (SEC) new on-chain equity pathway may limit, rather than immediately clear, a US launch of the firm’s stoc
+[T2|金融創新/募資|Crowdfund Insider|2026-10-02] New York and Wyoming to Coordinate Crypto Oversight, Targeting Six-Month Licensing Reviews for Established Firms
+  URL: https://www.crowdfundinsider.com/2026/10/315015-new-york-and-wyoming-to-coordinate-crypto-oversight-targeting-six-month-licensing-reviews-for-established-firms/
+  日期原文: Fri, 02 Oct 2026 12:50:29 +0000
+  摘要: New York and Wyoming regulators have agreed to coordinate supervision of virtual currency and digital asset businesses, including a pathway that aims to produce licensing decisions within six months f
+[T2|金融創新/募資|Crowdfund Insider|2026-10-02] Open-Source Bitcoin Lightning Implementation Core Lightning Warns that Attackers are Targeting Unpatched Nodes
+  URL: https://www.crowdfundinsider.com/2026/10/315000-open-source-bitcoin-lightning-implementation-core-lightning-warns-that-attackers-are-targeting-unpatched-nodes/
+  日期原文: Fri, 02 Oct 2026 12:47:11 +0000
+  摘要: Core Lightning maintainers issued an urgent notice on October 2, 2026, telling operators of the open-source Bitcoin Lightning implementation to move off older builds after receiving reports that attac
+[T2|金融創新/新創|TechCrunch Fintech|2026-10-03] Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
+  URL: https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/
+  日期原文: Fri, 02 Oct 2026 19:15:51 +0000
+  摘要: Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.
+[T2|金融創新/新創|TechCrunch Fintech|2026-10-02] Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders
+  URL: https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/
+  日期原文: Fri, 02 Oct 2026 14:00:00 +0000
+  摘要: Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West lo
+[T2|銀行/金融創新|Banking Dive|2026-10-03] Warren, Van Hollen pressure OppFi to ditch bank deal
+  URL: https://www.bankingdive.com/news/warren-van-hollen-pressure-oppfi-ditch-bank-deal/832035/
+  日期原文: Fri, 02 Oct 2026 12:20:08 -0400
+  摘要: Weeks after nonbank lender Enova scrapped its bid to buy Grasshopper Bank, two Senate Democrats are urging nonbank lender OppFi to abandon its own dealmaking efforts.
+[T2|銀行/金融創新|Banking Dive|2026-10-03] Dive Deposits: BofA, Barclays show their populist side
+  URL: https://www.bankingdive.com/news/bank-of-america-apprenticeship-barclays-return-office/832034/
+  日期原文: Fri, 02 Oct 2026 12:17:30 -0400
+  摘要: Bank of America is expanding its apprenticeship program at a time of year when it typically would raise the hourly wage for its lowest-paid staff. Meanwhile, Barclays conceded (partially) on its offic
+[T2|銀行/金融創新|Banking Dive|2026-10-02] Fed watchdog finds mismanagement, not criminality, in $2.5B renovation
+  URL: https://www.bankingdive.com/news/fed-watchdog-finds-mismanagement-not-criminality-25b-renovation/831915/
+  日期原文: Thu, 01 Oct 2026 12:33:45 -0400
+  摘要: The Federal Reserve Board should establish a guaranteed maximum price for its renovation project, which is now several years in, the Office of the Inspector General said.
+[T2|銀行/金融創新|Banking Dive|2026-10-02] Amerant Bank CEO tackles credit crisis
+  URL: https://www.bankingdive.com/news/amerant-bank-ceo-tackles-credit-crisis-Iafigliola/831885/
+  日期原文: Thu, 01 Oct 2026 12:02:00 -0400
+  摘要: Efforts to change the internal culture around credit risk within the Florida bank’s lending portfolio have begun paying off, Carlos Iafigliola said.
+[T2|銀行/金融創新|Tearsheet|2026-10-02] Fintech is in its empire-building era
+  URL: https://tearsheet.co/opinion/fintech-is-in-its-empire-building-era/?utm_source=rss&utm_medium=rss&utm_campaign=fintech-is-in-its-empire-building-era
+  日期原文: Fri, 02 Oct 2026 12:00:00 +0000
+  摘要: The “Letter from the Editor” is a biweekly series of exclusive insight and opinion-driven analysis from Tearsheet’s Managing Editor Sara Khairi, connecting ideas, questioning assumptions, and tracking
+[T2|銀行/金融創新|Tearsheet|2026-10-02] The Week in Market Moves | Sept 24 – Oct 01, 2026
+  URL: https://tearsheet.co/10-q/the-week-in-market-moves-sept-24-oct-01-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-week-in-market-moves-sept-24-oct-01-2026
+  日期原文: Fri, 02 Oct 2026 11:30:00 +0000
+  摘要: Company signals and market response This analysis tracks the top company developments and how markets absorbed them through Thursday’s close, focusing on where shifting narratives translate into price

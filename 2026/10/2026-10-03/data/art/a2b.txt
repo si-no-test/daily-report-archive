@@ -1,0 +1,4 @@
+FINAL_URL: https://www.businesswire.com/news/home/20261002000000/en/BMO-and-Mastercard
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

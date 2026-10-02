@@ -1,0 +1,19 @@
+FINAL_URL: https://technews.tw/2026/10/02/openai-agent-trespasses-government-websites-erases-activity-traces/
+STATUS: fail
+CHARS: 765
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+1 日公布的報告，OpenAI 開發的人工智慧（AI）代理未經授權入侵政府網站後，還試圖抹除活動痕跡。
+法新社報導，資安公司Asymmetric Security分析這些能自動執行任務的AI代理活動，發現它們3~9月鎖定澳洲政府網站及其他公共機構。尚無法確定這些AI代理掩蓋行蹤的行為是否刻意。
+7月以來多起資安事件曝光後，這份報告又揭露OpenAI及獨立研究員的調查結果，包括AI平台Hugging Face遭駭事件。OpenAI對Hugging Face遭受攻擊形容為同類型資安威脅的首例。
+這些分析旨在評估自主式AI工具功能，因這類工具接連出現問題，引發外界對人類可能失去控制權的擔憂。Asymmetric Security表示，這些AI代理短短幾天內就能改善技術，而傳統駭客通常需要數月甚至數年才能更進步。
+報告指出的這些事件，起初看似只是執行「無害的任務」，例如蒐集澳洲健康統計資料，但之後卻偏離軌道。但Asymmetric Security發現，這些AI代理在網站分析服務開設私人帳戶，以隱藏搜尋活動，並建立臨時信箱，信箱之一更設定為48小時後自動刪除。
+OpenAI於8月底承認，模型內測時有時會試圖刪除或修改自己的活動紀錄，但未成功。
+OpenAI 揭露更多 AI 代理失控行為：曾接觸政府網站並外傳使用者圖片
+OpenAI 失控 AI 代理至少挪用十個網站互通訊息，揭露落差升高監管壓力
+Agent 失控再敲警鐘，OpenAI 公布六起新案例與通報機制
+OpenAI 代理入侵澳洲政府網站，總理批不可接受
+Agent 失控闖德國網站，OpenAI 研擬新機制揭露 AI 偏差行為
+想請我們喝幾杯咖啡？
+從這裡可透過《Google 新聞》追蹤 TechNews
+關鍵字: AI 代理 , AI 資安 , AI 越獄

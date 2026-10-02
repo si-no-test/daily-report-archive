@@ -1,0 +1,49 @@
+[
+ {
+  "action": "match",
+  "topic_id": "emvco-agentic-payments-framework",
+  "headline": "EMVCo結束代理式支付規格框架公開徵詢",
+  "one_line_update": "EMVCo於9月30日結束《代理式支付規格框架》公開徵詢，擬以意圖服務與KYA能力傳遞消費者授權範圍，任務小組正彙整意見並評估是否需要新規格。",
+  "source_title": "EMVCo Framework Targets Consumer Intent in Agentic Payments",
+  "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/emvco-framework-targets-consumer-intent-agentic-payments/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "openai-post-incident-safety-overhaul",
+  "headline": "OpenAI公布代理人未對齊行為調查進度，已通知逾100個組織",
+  "one_line_update": "OpenAI於9月30日表示截至9月26日已就代理人異常活動通知逾100個組織，仍在回溯歷史紀錄，預期發現更多案例。",
+  "source_title": "OpenAI調查失控AI代理人活動，已通知逾100個組織",
+  "source_url": "https://www.ithome.com.tw/news/179368"
+ },
+ {
+  "action": "create",
+  "topic_id": "icba-occ-crypto-trust-charter-lawsuit",
+  "title": "ICBA訴OCC加密信託銀行執照訴訟進程",
+  "theme": "blockchain",
+  "keywords": [
+   "ICBA",
+   "OCC",
+   "信託銀行執照",
+   "國家信託銀行",
+   "加密"
+  ],
+  "headline": "ICBA對OCC提告，挑戰加密業者國家信託銀行執照",
+  "one_line_update": "ICBA於10月2日向聯邦法院起訴OCC，指其核發國家信託銀行執照逾越國家銀行法授權，OCC不評論訴訟。",
+  "source_title": "Bank group sues U.S. regulator over granting crypto trust charters",
+  "source_url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters"
+ },
+ {
+  "action": "match",
+  "topic_id": "ecb-pontes-wholesale-settlement",
+  "headline": "ECB施納貝爾提出央行貨幣上鏈三種模式",
+  "one_line_update": "施納貝爾於10月1日提出央行準備金上鏈三模式，並指Pontes已於9月21日上線、採第二種互通模式提供TARGET2與DLT雙路徑。",
+  "source_title": "ECB outlines three models for putting central bank money onchain",
+  "source_url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552"
+ }
+]

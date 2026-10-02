@@ -1,0 +1,81 @@
+FINAL_URL: https://genfinity.io/2026/10/02/ecb-schnabel-three-models-central-bank-money-onchain/
+STATUS: ok
+CHARS: 8044
+---CONTENT---
+Bitcoin(BTC) $84,516.00 -0.25%
+Ethereum(ETH) $2,661.92 -1.39%
+Solana(SOL) $118.06 0.00%
+TRON(TRX) $0.334270 -0.29%
+Figure Heloc(FIGR_HELOC) $1.05 2.76%
+Zcash(ZEC) $1,282.41 -3.36%
+Hyperliquid(HYPE) $86.51 -0.54%
+Dogecoin(DOGE) $0.091964 -2.38%
+Chainlink(LINK) $13.67 -4.41%
+Monero(XMR) $540.20 -0.87%
+WhiteBIT Coin(WBT) $84.03 -0.65%
+Cardano(ADA) $0.240772 -2.22%
+LEO Token(LEO) $8.98 1.00%
+Rain(RAIN) $0.011148 -7.74%
+Stellar(XLM) $0.213058 -2.74%
+Bitcoin Cash(BCH) $307.64 -0.45%
+NEAR Protocol(NEAR) $4.64 -3.08%
+Uniswap(UNI) $8.77 -3.28%
+Litecoin(LTC) $69.53 1.95%
+Ethena USDe(USDE) $1.00 0.00%
+Avalanche(AVAX) $10.65 -2.95%
+Canton(CC) $0.118533 -1.41%
+Hedera(HBAR) $0.100789 -1.38%
+Blockchain USD(USDB) $0.87 1,000.00%
+Gram (prev. Toncoin)(GRAM) $1.49 -5.34%
+Quant(QNT) $230.74 -8.13%
+Tether Gold(XAUT) $4,142.55 -0.73%
+Shiba Inu(SHIB) $0.000006 -2.00%
+Cronos(CRO) $0.066014 -3.76%
+Bittensor(TAO) $287.07 -4.90%
+Global Dollar(USDG) $1.00 -0.01%
+PayPal USD(PYUSD) $1.00 -0.01%
+Ripple USD(RLUSD) $1.00 -0.01%
+Pump.fun(PUMP) $0.005276 -7.84%
+Circle USYC(USYC) $1.14 0.03%
+Ondo(ONDO) $0.489269 -0.54%
+Ethena(ENA) $0.229538 -5.79%
+Ondo US Dollar Yield(USDY) $1.15 0.03%
+Home Crypto ECB's Schnabel Outlines Three Models for Central Bank Money Onchain
+ECB’s Schnabel Outlines Three Models for Central Bank Money Onchain
+ECB's Isabel Schnabel outlined three models for moving central bank money onchain, building on Pontes, the Eurosystem's live DLT settlement bridge.
+Isabel Schnabel presented a roadmap for moving central bank reserves onto distributed ledger technology. She delivered the talk on October 1, 2026. The venue was the Bank of England’s “The Future of Money” conference. The event honored economist Charles Goodhart in London. Schnabel sits on the Executive Board of the European Central Bank. Her slides, titled “ Central banks on-chain ,” arrived just ten days after the Eurosystem launched its own settlement bridge. That bridge, called Pontes, shows the ECB now treats onchain settlement as active infrastructure. It is no longer a theoretical exercise.
+🇪🇺 BREAKING: The ECB has published a new presentation titled “Central banks on-chain.”
+The document maps tokenized central bank money, bank deposits, securities and stablecoins operating across interconnected DLT infrastructure. pic.twitter.com/LXrqFSDZwX
+— Generation Infinity (@Genfinity) October 1, 2026
+A Fragmented System Looking for Integration
+Schnabel opened by mapping Europe’s securities infrastructure. The picture is dense. Dozens of national trading venues, clearinghouses, and central securities depositories span the euro area alone. Each layer connects to the next through a tangle of local systems. Settlement still runs through T2S, the Eurosystem’s shared platform. However, fragmentation persists above that layer. Schnabel argued tokenization could pull these pieces together. A shared ledger standard, she suggested, might succeed where decades of harmonization efforts have struggled.
+Why Central Bank Reserves Still Beat Stablecoins
+Modern monetary systems rest on a two-tier structure. Commercial banks issue deposits backed one-to-one by reserves at the central bank. Those reserves count as the safest, most trusted settlement asset. Schnabel defended that hierarchy using historical evidence. She pointed to the Panic of 1907, when call money rates spiked past 90 percent overnight. She then pointed to the COVID-19 shock, when the ECB expanded its balance sheet to nearly 70 percent of euro area GDP. Only a central bank can expand liquidity that elastically during stress, she argued. Private stablecoins cannot offer the same guarantee, regardless of their reserve backing.
+The ECB’s Taxonomy for Onchain Assets
+The presentation sorted digital assets into two broad categories. The first category covers settlement assets, meaning claims a beneficiary accepts as final payment. That category splits into public assets, like retail and wholesale central bank digital currencies, and private assets, like tokenized deposits and stablecoins . The second category covers trading and investment assets, held for yield or speculation rather than payment. Tokenized bonds and equities fall under traditional assets here. Unbacked cryptoassets, including Bitcoin and Ether, sit in their own separate bucket. Schnabel linked the digital euro project to retail CBDC and tied Pontes and Appia to wholesale CBDC .
+Three Models for Putting Reserves Onchain
+Schnabel then laid out three architectures for tokenizing central bank money. The first model has the central bank issue reserves directly onto a programmable platform, making tokenization native from the start. The second model keeps the central bank’s existing settlement system intact. An interoperability layer links it to DLT platforms through a hash-based trigger, while reserves themselves stay off-chain. The third model lets a private intermediary tokenize reserves on the bank’s behalf. In that case, the resulting settlement tokens stay fully backed by central bank balances. Each model trades off control, flexibility, and technical complexity differently.
+Pontes and Appia: Theory Meets Live Infrastructure
+Pontes already applies the second model in practice. The Eurosystem launched it on September 21, 2026. It offers a dual settlement path, letting institutions settle through TARGET2 or through DLT directly. Planned upgrades include 24/7 availability and decentralized programmability. Project Appia explores further architectures for the future, including a single unified ledger, interconnected networks, and multiple shared ledgers. Both projects connect market-run DLT networks, carrying tokenized securities and deposits, to the ECB’s own infrastructure. Together, they form the operational backbone behind Schnabel’s broader onchain argument.
+* Disclaimer: News content provided by Genfinity is intended solely for informational purposes. While we strive to deliver accurate and up-to-date information, we do not offer financial or legal advice of any kind. Readers are encouraged to conduct their own research and consult with qualified professionals before making any financial or legal decisions. Genfinity disclaims any responsibility for actions taken based on the information presented in our articles. Our commitment is to share knowledge, foster discussion, and contribute to a better understanding of the topics covered in our articles. We advise our readers to exercise caution and diligence when seeking information or making decisions based on the content we provide.
+SEC Proposes New Crypto Custody Rule for Investment Advisers and Funds
+ECB’s Schnabel Outlines Three Models for Central Bank Money Onchain
+Evernorth’s 473 Million XRP Treasury Clears Shareholder Vote Ahead of Nasdaq Debut
+OUSD Stablecoin Goes Live With $1 Billion in Liquidity From Coinbase, Mastercard, Stripe and Visa
+Share on X (Opens in new window)
+Share on Facebook (Opens in new window)
+Previous article Evernorth’s 473 Million XRP Treasury Clears Shareholder Vote Ahead of Nasdaq Debut
+Next article SEC Proposes New Crypto Custody Rule for Investment Advisers and Funds
+SEC Proposes New Crypto Custody Rule for Investment Advisers and Funds
+OnRe’s Dan Roberts on Moving $300M in Reinsurance Premiums Onchain via Solana
+Canton Network Powers Hong Kong’s Record HK$20 Billion Digital Bond
+SEC Proposes New Crypto Custody Rule for Investment Advisers and Funds
+Evernorth’s 473 Million XRP Treasury Clears Shareholder Vote Ahead of Nasdaq Debut
+OUSD Stablecoin Goes Live With $1 Billion in Liquidity From Coinbase, Mastercard, Stripe and Visa
+OnRe’s Dan Roberts on Moving $300M in Reinsurance Premiums Onchain via Solana
+DTCC’s Master Plan: Tokenizing Quadrillions in Global Assets with Centralized Control
+DTCC’s Plan For Digital Liquidity Tokens: New Patent Outlines Integrating XRP Ledger and Stellar Blockchain into Interoperable Asset Management
+XRP vs SEC Lawsuit Closed: Appeals Dismissed and Final Ruling Stands
+SWIFT Goes On-Chain: Breakin
+
+[已截斷：全文 8044 字元，僅輸出前 8000]

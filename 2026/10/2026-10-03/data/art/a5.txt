@@ -1,0 +1,42 @@
+FINAL_URL: https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters
+STATUS: ok
+CHARS: 5680
+---CONTENT---
+Bank group sues U.S. regulator over granting crypto trust charters
+The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.
+By Jesse Hamilton | Edited by Nikhilesh De
+Oct 2, 2026, 5:23 p.m. EDT
+2 min read Make preferred on Share this article
+X (Twitter) LinkedIn Facebook Email
+The U.S. agency with the power to grant national trust bank charters, the Office of the Comptroller of the Currency, has been sued by a banking group for using that authority to bring a number of crypto firms into the banking system.
+The ICBA sued the OCC, saying the influx of digital asset trust banks aren't being held to the same standards as traditional banks and are creating a competitive disadvantage.
+A banking group has sued the U.S. agency that issues federal bank charters, accusing it of exceeding its legal powers in granting national trust-bank status to crypto firms.
+The Independent Community Bankers of America filed a lawsuit against the Office of the Comptroller of the Currency in federal court on Friday, saying the agency is pushing "sweeping new powers to charter national trust banks that are not authorized by the National Bank Act," and they're letting these companies into the U.S. banking system without subjecting them to the same level of regulatory oversight that community banks face, putting those small banks "at a severe competitive disadvantage."
+The ICBA is one of the largest banking advocacy organizations in the U.S., typically representing smaller institutions. It also played a significant role in pushing back against the Digital Asset Market Clarity Act that failed to advance in the U.S. Senate last month — in part due to the bankers' objections that its stablecoin provisions didn't protect them against direct competition with the deposit accounts that are core to their businesses. Now, the group is targeting the trust charters crypto firms are pursuing as an entry point into the U.S. banking and payments system.
+"Congress did not create the national trust charter as a side door into the banking system for crypto firms seeking the credibility of a federal bank charter," ICBA President and CEO Rebeca Romero Rainey said in a statement, adding that the firms don't get the same obligations on such things as capital, liquidity, supervision and the need for insurance from the Federal Deposit Insurance Corp.
+Asked for comment by CoinDesk, an OCC spokesperson said the agency "does not comment on litigation."
+The OCC has been granting a steady stream of trust charters to crypto firms, however those companies don't operate under the same business model or intend to offer the same services as typical community banks. For instance, they don't offer the same kind of cash deposit accounts for which FDIC insurance is designed and required.
+Examining the intersection of cryptocurrency and government.
+By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy .
+The industry's pursuit of national trust charters has been credited by banking regulators for representing a resurgence in new banking names after a lengthy drought.
+Some of the trusts have been hatched as crypto-focused banks, such as Protego and Erebor . Others have come from the existing ranks of prominent crypto businesses, such as Coinbase , Circle and Crypto.com .
+A recent addition is World Liberty Financial, the firm partly owned by President Donald Trump and his family, with its charter approval drawing ire from critics including Democratic Senator Elizabeth Warren, who accused the agency of permitting presidential corruption and posted on social media site X that the new charter "giving him and his family a new way to profit."
+Last month, the OCC also granted a full-fledged national bank charter to OpenReserve Bank , a blockchain bank funded by several crypto investors, including Andreessen Horowitz, Jump Capital and Coinbase Ventures.
+1 BNY in talks with Kraken parent Payward over infrastructure partnership 5 hours ago
+2 Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98% 5 hours ago
+3 Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown 5 hours ago
+4 America at a crossroads: Commissioner Peirce’s parting challenge 9 hours ago
+5 U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2% 10 hours ago
+6 Cboe wants to turn VIX into a never-ending trade 11 hours ago
+7 Live updates: Bitcoin reverses big early gains following soft U.S. jobs data 11 hours ago
+8 Crypto traders are in risk-on mode as bitcoin dominance nears return to 60% 12 hours ago
+9 Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions 13 hours ago
+10 Tether's USDT is 'coming home' to Bitcoin after more than a decade 14 hours ago
+The Definitive Stablecoin Landscape Series: Asia Pacific
+The Definitive Stablecoin Landscape Series: Asia Pacific
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+SEC proposes new crypto custody rules for investment advisers and funds
+Another Trump memecoin dinner advertised for token's top investors
+Illinois agrees to six-month delay of crypto tax as industry continues court battle

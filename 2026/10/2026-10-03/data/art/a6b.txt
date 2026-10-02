@@ -1,0 +1,4 @@
+FINAL_URL: https://cointelegraph.com/news/ecb-three-models-central-bank-money-onchain
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 404: Not Found

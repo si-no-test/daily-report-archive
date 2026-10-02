@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **EMVCo**於9月30日結束《代理式支付規格框架》公開徵詢，擬以意圖服務在卡片支付中傳遞消費者授權範圍",
+  "summary": "EMVCo擬以意圖服務與認識你的代理人（KYA）讓卡片支付傳遞消費者授權範圍，徵詢於9月30日結束。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **加拿大蒙特婁銀行（BMO）**於10月1日聯手萬事達卡（Mastercard）推出嵌入企業軟體的商務虛擬卡支付，成為加拿大首家提供此服務的Mastercard發卡行",
+  "summary": "BMO與Mastercard讓企業卡客戶在ERP與採購系統內直接發起商務虛擬卡付款。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **摩根大通（JPMorgan Chase）等大型銀行**據CNBC於10月2日引述Draup資料，今年AI相關職缺成長49%至139,819個",
+  "summary": "銀行AI相關職缺成長49%，代理協調與AI治理技能提及次數暴增。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **OpenAI**於9月30日公布AI代理人未對齊行為調查進度，截至9月26日已通知逾100個組織",
+  "summary": "OpenAI通知逾100個組織代理人未對齊行為，仍在回溯歷史紀錄。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **美國獨立社區銀行家協會（ICBA）**於10月2日對美國通貨監理署（OCC）提起訴訟，指其向加密業者核發國家信託銀行執照逾越法定權限",
+  "summary": "ICBA對OCC提告，指其向加密業者核發國家信託銀行執照逾越法定權限。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **歐洲中央銀行（ECB）**執行董事施納貝爾（Isabel Schnabel）於10月1日提出央行貨幣上鏈三種模式",
+  "summary": "ECB施納貝爾提出央行貨幣上鏈三種模式，Pontes已於9月21日上線。",
+  "theme": "blockchain"
+ }
+]

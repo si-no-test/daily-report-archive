@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-03",
+  "archived_at": "2026-10-02T23:16:57Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "2ef0a4cac2e1222fbbd11d70104002913e668392",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 34,
+  "total_bytes": 652683,
+  "files": [
+    {
+      "path": "data/2026-10-03-candidates.txt",
+      "bytes": 68108,
+      "sha256": "6079c0de68a0c2f28d48dd26eced739128363169208af808bfba590e158db37f"
+    },
+    {
+      "path": "data/2026-10-03-glossary.json",
+      "bytes": 1918,
+      "sha256": "fbb66b01d0c3e511291ac11c6960288903619f287ee45a2ad98b7189e5fc4580"
+    },
+    {
+      "path": "data/2026-10-03-manifest.txt",
+      "bytes": 3460,
+      "sha256": "a0eb3e3da2fa95535a4a1552bac1992a50bc41126db2e58af9cb912744817528"
+    },
+    {
+      "path": "data/2026-10-03-orgs.json",
+      "bytes": 2058,
+      "sha256": "1f28fc9fb7238805060f6cccbf50e9dfe027cb1b87b48796f9204fcb6c6ee523"
+    },
+    {
+      "path": "data/2026-10-03-topic-cases.json",
+      "bytes": 1806,
+      "sha256": "afd369660175f5ca486ce73484db35d70d84e05af8459634e1dcb8acf03e89f1"
+    },
+    {
+      "path": "data/2026-10-03-topic-decisions.json",
+      "bytes": 2389,
+      "sha256": "97fc141b7fb99bc69597aac5249e643872d1e0043ae2f81b9db0ce9b417a5ff0"
+    },
+    {
+      "path": "data/2026-10-03.json",
+      "bytes": 19216,
+      "sha256": "7b635d57f52a6cd0791741e9fd834047219dd1e15af9271f2cacb66aa08eefc9"
+    },
+    {
+      "path": "data/art/a1.txt",
+      "bytes": 7163,
+      "sha256": "771f1b58b088d6657d5aded8f1a1a88573abab44f3c90bfa3af17f268c18adc9"
+    },
+    {
+      "path": "data/art/a2.txt",
+      "bytes": 202,
+      "sha256": "07a179f36cd386364708efd17b73d701bcf25fa3bceb02b5cb002250c0d10563"
+    },
+    {
+      "path": "data/art/a2b.txt",
+      "bytes": 152,
+      "sha256": "f6bf74dde5ccc2d25ad24999c481e61697f17622abb21ee6bb7db6e00dfdd011"
+    },
+    {
+      "path": "data/art/a2c.txt",
+      "bytes": 5337,
+      "sha256": "505267d694d4920144203a78e17102d0978ff5fdb8f91707783013c0036a41c3"
+    },
+    {
+      "path": "data/art/a3.txt",
+      "bytes": 3081,
+      "sha256": "4ea518812c57b107462320a05d56e6c4b37b01ee0b83db7f8f2cfe1b6f466470"
+    },
+    {
+      "path": "data/art/a3c.txt",
+      "bytes": 2041,
+      "sha256": "d5cb0e6b835c107bb25134f8c4102440067a72fe6558afd031adf70071cc7ece"
+    },
+    {
+      "path": "data/art/a4.txt",
+      "bytes": 5102,
+      "sha256": "efc03254f6d82f56882d44814c1f1d6f8a376d96336aed72edab2ba937163b2e"
+    },
+    {
+      "path": "data/art/a5.txt",
+      "bytes": 5858,
+      "sha256": "9fc4baa9999f59a4ab52c4fd32cedb829c64b5845a4f89099ec53e00f9697e3f"
+    },
+    {
+      "path": "data/art/a6.txt",
+      "bytes": 199,
+      "sha256": "60ac2c92e81488cb76851366f0bc1e296d6669627f727225abcd771b5c28bd5a"
+    },
+    {
+      "path": "data/art/a6b.txt",
+      "bytes": 151,
+      "sha256": "84434e7cf8f314683d3ad249ac2d261a695061e3542cfed50de59a6a75429508"
+    },
+    {
+      "path": "data/art/a6c.txt",
+      "bytes": 8245,
+      "sha256": "458b588574f5d04c2f6940eafd2b67750452e2c60619023d55a207f94fa372ce"
+    },
+    {
+      "path": "outbox/2026-10-03-archive.html",
+      "bytes": 101152,
+      "sha256": "868120b4b01970dc805acec89331d28ac6824c7bbe1c7f5749141f67178ce8e7"
+    },
+    {
+      "path": "outbox/2026-10-03-email.html",
+      "bytes": 11101,
+      "sha256": "2b794e2f425ff9b4ef33706e554ce8e161dfbdd0d0c519d2aafd545e7233536e"
+    },
+    {
+      "path": "published/2026-10-03.html",
+      "bytes": 555,
+      "sha256": "6ee20fffd0fc4916ea7822fb442fd0175c0a34fc646e61a03f5915df73a57510"
+    },
+    {
+      "path": "published/2026-10-03/ai.html",
+      "bytes": 36185,
+      "sha256": "7861efdeaf42f985232aef7a7f5be6dd18d838b65e9c6766244f7d67790914c3"
+    },
+    {
+      "path": "published/2026-10-03/blockchain.html",
+      "bytes": 42514,
+      "sha256": "cc394a8e99f376a5171ccc14f17dbda92169f82bbad2d0c20f73677d0d72b76f"
+    },
+    {
+      "path": "published/2026-10-03/index.html",
+      "bytes": 20789,
+      "sha256": "7e9d5a3669274d7b7583d869e0173daa5fbf6b9baa9311998275361ec1a342d6"
+    },
+    {
+      "path": "published/2026-10-03/innovation.html",
+      "bytes": 51979,
+      "sha256": "678126403e71698dd7441e573b7b3f3a2654ffae27fbfe6b329b0e47ca915c6c"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 196138,
+      "sha256": "0d22a82a1088dbfdae69fbbdc8229c4272bb8764776415f9f4b9e2bb781da33f"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "0605931fb41a12eaf65ae8e132d4318c084a2475d404a5c1fe7fb49447d1b0a0"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "6ee20fffd0fc4916ea7822fb442fd0175c0a34fc646e61a03f5915df73a57510"
+    },
+    {
+      "path": "published/topics/ecb-pontes-wholesale-settlement.html",
+      "bytes": 2470,
+      "sha256": "3d7b2092614c984d68768a89ae11ad914eb1eb84b4672d0c91478fd101d8c1ea"
+    },
+    {
+      "path": "published/topics/emvco-agentic-payments-framework.html",
+      "bytes": 2297,
+      "sha256": "c3991e61597c7b3da3d64edd42e3a1949f23e8b734fc6bdc242819754bd35042"
+    },
+    {
+      "path": "published/topics/icba-occ-crypto-trust-charter-lawsuit.html",
+      "bytes": 1470,
+      "sha256": "da5b3e88adaed29648011f2f105b439ee34710815417974490de640617413292"
+    },
+    {
+      "path": "published/topics/openai-post-incident-safety-overhaul.html",
+      "bytes": 8042,
+      "sha256": "80349f91aab73d00ee2c8faa629a8c00c92679a2f1c39d8a36fb19efde6cf758"
+    },
+    {
+      "path": "source/2026-10-03-report.txt",
+      "bytes": 37562,
+      "sha256": "4798c23a743e1ddba47ac386ceeb3df14db3b2d8fb38ebf3bbf0e5bf0e05b22c"
+    },
+    {
+      "path": "source/2026-10-03-summary.txt",
+      "bytes": 2596,
+      "sha256": "964281407500c15dc8ef4539d38057839ad53c3c42f59dbcac448649d9fd17c2"
+    }
+  ]
+}
