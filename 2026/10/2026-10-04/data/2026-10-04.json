@@ -1,0 +1,262 @@
+{
+ "date": "2026-10-04",
+ "generated_at": "2026-10-04T12:00:00+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Liberate’s AI Agents Take Over the Insurance Night Shift",
+   "display_title": "Liberate於9月30日公布其產險AI代理已替保險機構省下逾1億分鐘，平台每月處理逾350萬筆交易",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/insurance/2026/liberates-ai-agents-take-over-the-insurance-night-shift/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/insurance/2026/liberates-ai-agents-take-over-the-insurance-night-shift/",
+     "status": "ok",
+     "chars": 4215
+    }
+   ],
+   "date_evidence": "Wed Sept. 30 / 2026-10-03 pubDate",
+   "summary": "Liberate AI代理累計省下逾1億分鐘，70多家客戶每月處理逾350萬筆交易。",
+   "core_fact": "Liberate 是專為產險業者提供 AI 代理的供應商，9月30日表示其代理已讓保險代理商與保險公司累計取回逾1億分鐘工時，目前有70多家保險公司與經紀商在平台上每月執行逾350萬筆交易。代理負責不需人工判斷的工作，例如承包商索取保險證明、保戶查詢未結案理賠與查詢應繳餘額，處理完畢後直接寫回核心系統。案例顯示，Branch 把理賠首次通知改由 Liberate 處理後，通報時間由外包客服的12分鐘以上降到約7分鐘，縮短42%，約43%的理賠已由這些管道進件，Branch 預期這類理賠的處理成本約降七成。",
+   "deep_facts": [
+    "Branch理賠首次通知由12分鐘以上降至約7分鐘，縮短42%",
+    "連續颶風期間處理平常14倍理賠量未增人手",
+    "NAIC調查88%汽車險業者與70%住宅險業者使用或規劃AI"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Capitolis’ $200M eSecLending Buy Leads This Week’s Fundings and Acquisitions",
+   "display_title": "Capitolis於10月宣布以2億美元現金收購獨立證券借貸業者eSecLending",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/315133-capitolis-200m-eseclending-buy-leads-this-weeks-fundings-and-acquisitions/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/315133-capitolis-200m-eseclending-buy-leads-this-weeks-fundings-and-acquisitions/",
+     "status": "ok",
+     "chars": 2639
+    }
+   ],
+   "date_evidence": "2026-10-04 RSS pubDate",
+   "summary": "Capitolis以2億美元全現金收購eSecLending。",
+   "core_fact": "Capitolis 宣布以2億美元全現金交易，向 Parthenon Capital 與管理團隊收購 eSecLending，Parthenon Capital 同時成為 Capitolis 的投資人。eSecLending 是獨立的證券借貸業者，客戶包括退休基金、保險公司與資產管理公司，負責把這些資產持有人的證券出借給全球大型銀行。Capitolis 表示，這項收購讓它在既有的金融資源最佳化解決方案之外，增加證券借貸這個互補能力，交易以現金支付、賣方又回頭入股，雙方利益綁定在整合後的成效上。",
+   "deep_facts": [
+    "賣方Parthenon Capital同時投資Capitolis",
+    "eSecLending客戶含退休基金、保險公司與資產管理公司，將證券出借給全球大型銀行"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "PayNearMe Launches AI Servicing and Collections Agent",
+   "display_title": "PayNearMe於10月初推出內建於PayXM平台的AI催收與客服代理，由Indiana Finance Company率先試辦",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/paynearme-launches-ai-servicing-and-collections-agent/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-03 RSS pubDate",
+   "summary": "PayNearMe推出內建PayXM的AI催收與客服代理。",
+   "core_fact": "支付體驗公司 PayNearMe 本週推出 AI Servicing and Collections Agent，可處理來電與簡訊、接聽來電、協助客戶安排或完成繳款與解決付款問題，並在需要人工判斷時轉接真人。這個代理直接嵌入 PayNearMe 的 PayXM 平台，能使用平台內的支付資料、業務規則與工作流程採取下一步行動。目前由 Indiana Finance Company 試行，用於主動外撥與來電支援；這項產品也接在 PayNearMe 收購 Marr Labs 技術資產與關鍵人員之後推出，補強其 AI 團隊的能力。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Payments Canada approves new members",
+   "display_title": "加拿大支付協會（Payments Canada）於10月2日宣布核准六家新會員，包括Nium Canada與FIS Everlink",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111117/payments-canada-approves-new-members",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 02 Oct 2026 19:55:00 GMT",
+   "summary": "Payments Canada核准六家新會員。",
+   "core_fact": "Payments Canada 於10月2日宣布核准六家新會員，名單包括 Bounce Finance（Bounce Pay）、FIS Everlink 與 Nium Canada 等支付業者。Payments Canada 是加拿大支付清算系統的營運與管理機構，會員資格代表業者可依其規則接入國家級支付基礎設施。本次核准一次納入六家，且以支付與跨境匯款業者為主，反映清算系統會員結構正在從傳統銀行向支付服務業者延伸。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Elio Mortgage announces $5.1M pre-seed",
+   "display_title": "Elio Mortgage於本週宣布完成510萬美元種子前輪，由Motive Partners與Social Leverage領投",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/315133-capitolis-200m-eseclending-buy-leads-this-weeks-fundings-and-acquisitions/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-04 RSS pubDate",
+   "summary": "Elio Mortgage完成510萬美元種子前輪。",
+   "core_fact": "Elio Mortgage 宣布完成510萬美元種子前輪融資，由 Motive Partners 與 Social Leverage 領投，Insight Partners 共同創辦人 Jeff Horing 以天使投資人身分參與。公司正在一個實際運作的房貸營運單位內建置專有的 AI 原生平台，工程師與貸款專員並肩工作。公司的說法是，這樣的環境能讓它從工作流程內部重新設計貸款申請與撥款（origination），而不是從外部用點狀解決方案去拼湊。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+   "display_title": "ARK Invest於9月30日由執行長凱西．伍德（Cathie Wood）在Robinhood Summit提出「追蹤AI代理」的投資觀點",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+     "status": "ok",
+     "chars": 7847
+    }
+   ],
+   "date_evidence": "Oct 3, 2026, 11:00 a.m. EDT",
+   "summary": "伍德提出追蹤AI代理的投資觀點。",
+   "core_fact": "ARK Invest 執行長伍德9月30日在休士頓舉行的 Robinhood Summit 小組討論中表示，未來會越來越常談到「追蹤 AI 代理」，把代理的消費去向當成技術需求的新指標。CoinDesk 10月3日報導引述 SharpLink 共同執行長、前貝萊德數位資產主管 Joseph Chalom 的主張：使用者可授權代理在訂旅館時花費最多500美元，但不應賦予無限制取用銀行帳戶的權限，且須能撤銷授權並查看紀錄。文中也指出，Coinbase 的 x402 協定設計給機器購買資料或 API 存取使用，Coinbase 執行長表示 Grok 是目前 Coinbase 上最主要的代理交易客戶端。",
+   "deep_facts": [
+    "Chalom主張代理訂旅館最多授權500美元且可撤銷",
+    "Coinbase執行長稱Grok是Coinbase上最主要的代理交易客戶端",
+    "BlackRock 9月研究指AI代理可能創造機器支付需求"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "BitMEX Co-Founder Arthur Hayes Says an AI Credit Strain Could Force a Rescue",
+   "display_title": "BitMEX共同創辦人亞瑟．海斯（Arthur Hayes）於9月21日發表〈Safety First〉文章，主張AI投資背後逾1兆美元的投資等級債恐引發信用壓力",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/315223-bitmex-co-founder-arthur-hayes-says-an-ai-credit-strain-could-force-a-rescue-and-lift-bitcoin-and-crypto-markets/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/315223-bitmex-co-founder-arthur-hayes-says-an-ai-credit-strain-could-force-a-rescue-and-lift-bitcoin-and-crypto-markets/",
+     "status": "ok",
+     "chars": 3696
+    }
+   ],
+   "date_evidence": "2026-10-04 RSS pubDate",
+   "summary": "海斯主張AI債務壓力可能迫使官方介入。",
+   "core_fact": "海斯是加密基金 Maelstrom 的投資長與 Flop Labs 執行長，9月21日在 Crypto Trader Digest 發表〈Safety First〉，認為 AI 熱潮更像信貸榮景而非可長久的獲利故事。他主張美國三大 AI 實驗室的需求支撐逾1兆美元的投資等級債與數千億美元較低評級貸款，並表示這些資金用於租用資料中心與購買晶片，美國保險公司也累積了與 AI 相關私募信貸的曝險。他稱資本支出成長可能在2027年中到後半年失去動能、2028年放緩更明顯，並在首爾 Korea Blockchain Week 重述此看法。",
+   "deep_facts": [
+    "三大美國AI實驗室需求支撐逾1兆美元投資等級債",
+    "美國保險公司累積AI相關私募信貸曝險",
+    "預測資本支出成長2027年中到後半年失去動能"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」",
+   "display_title": "美國白宮日前召集輝達、Anthropic、OpenAI、Meta與Google等企業高層，簽署不具法律約束力的《白宮超級智慧協議》，設四層稽核措施",
+   "source": "TechNews",
+   "source_tier": "T2",
+   "url": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-03 RSS pubDate",
+   "summary": "白宮與科技巨頭簽署不具法律約束力的AI協議。",
+   "core_fact": "川普總統日前在白宮召集輝達執行長黃仁勳、馬斯克、Anthropic 執行長阿莫戴、OpenAI 總裁布羅克曼、Meta 執行長祖克伯與 Google 執行長皮查伊等人，共同簽署《白宮超級智慧協議》，這份自願協議不具法律約束力，要求企業建立 AI 安全內控、外部稽核與董事會監督機制，川普形容其「幾乎像一部憲法」。同日川普簽署行政命令，要求聯邦政府以「超級智慧」取代「AI」一詞，並指示總統科學技術助理提出聯邦定義；他也透露正考慮成立10人委員會監督 AI 工具安全，但成員尚未公布。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+   "display_title": "紐約梅隆銀行（BNY）於10月2日被報導正與Kraken母公司Payward洽談基礎設施合作，Payward估值達210億美元",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+     "status": "ok",
+     "chars": 5527
+    }
+   ],
+   "date_evidence": "Oct 2, 2026, 1:34 p.m. EDT",
+   "summary": "BNY傳與Payward洽談基礎設施合作。",
+   "core_fact": "CoinDesk 10月2日引述兩名知情人士報導，BNY 正與 Kraken 母公司 Payward 洽談廣泛合作，可能涵蓋加密產品、託管、財富管理、交易、支付與基礎設施，這些服務透過 Payward Services 這個面向銀行、交易所與資產管理公司的 B2B 平台提供。談判仍在進行，無法保證達成協議，雙方均拒絕置評。報導指出，部分內容可能類似 Payward 近期與 Nasdaq 的協議：Nasdaq Ventures 上月同意以210億美元估值投資1億美元，雙方預計2027年第二季推出 Nasdaq Equity Tokens。",
+   "deep_facts": [
+    "Nasdaq Ventures以210億美元估值投資Payward 1億美元",
+    "Payward收購Bitnomial最高5.5億美元、Reap 6億美元",
+    "Nasdaq Equity Tokens預計2027年第二季推出"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+   "display_title": "貝萊德（BlackRock）與Ondo Finance推出三組代幣化投資組合，每組以單一代幣代表一套投資策略",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+     "status": "ok",
+     "chars": 9220
+    }
+   ],
+   "date_evidence": "Oct 3, 2026, 9:00 a.m. EDT",
+   "summary": "貝萊德與Ondo推出三組代幣化投資組合。",
+   "core_fact": "CoinDesk 10月3日報導，貝萊德為 Ondo Finance 的 Intelligent Portfolios 開發三組投資組合，分別聚焦高收益、多元成長與高成長，投資人持有單一代幣即代表整組策略，不必自行買進與再平衡底層資產。報導引述 Broadridge 資料，模範投資組合在6月管理約9.8兆美元資產；Pantera 稱此趨勢為「從單一證券到鏈上投資組合」。另有 Bitwise 在8月與 Coinbase 及 Glider 推出 Automated Token Portfolios，讓符合資格的非美國投資人追蹤代幣化股票組合，資產仍留在自己的錢包。",
+   "deep_facts": [
+    "Broadridge資料：模範投資組合6月管理約9.8兆美元",
+    "Bitwise 8月與Coinbase及Glider推出Automated Token Portfolios",
+    "Pantera稱趨勢為從單一證券到鏈上投資組合"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Payments firm OpenPayd targets year-end Nasdaq listing",
+   "display_title": "OpenPayd於10月3日表示預計年底前完成納斯達克掛牌，最近財年營收達7,300萬美元",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+     "status": "ok",
+     "chars": 6591
+    }
+   ],
+   "date_evidence": "Oct 3, 2026, 12:00 p.m. EDT",
+   "summary": "OpenPayd預計年底前完成納斯達克掛牌。",
+   "core_fact": "英國倫敦的支付基礎設施公司 OpenPayd 執行長 Iana Dimitrova 10月3日對 CoinDesk 表示，與 Titan Acquisition Corp. 的合併已進入美國證券交易委員會審查最後階段，預期年底前完成，掛牌代號為 OP；預估合併後股權價值可達11億美元。公司截至2026年4月30日的財年營收7,300萬美元，前一年為5,700萬美元，EBITDA 為1,300萬美元、淨損280萬美元，公司稱淨損完全來自580萬美元的一次性交易成本。9月已把 MSB USA 及其43州匯款業務執照納入集團，目標2027年4月在美國推出服務。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "South Korea Opens Comment Period on Rules for Tokenized Securities",
+   "display_title": "南韓金融委員會（FSC）於10月1日公布代幣化證券下位法規修正草案，意見徵詢期至11月11日",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/314983-south-korea-opens-comment-period-on-rules-for-tokenized-securities-ahead-of-planned-launch-next-year/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/314983-south-korea-opens-comment-period-on-rules-for-tokenized-securities-ahead-of-planned-launch-next-year/",
+     "status": "ok",
+     "chars": 4666
+    }
+   ],
+   "date_evidence": "On October 1, 2026",
+   "summary": "南韓FSC公布代幣化證券下位法規草案。",
+   "core_fact": "南韓 FSC 10月1日針對《金融投資服務與資本市場法》與《股票與債券電子登記法》的施行規則提出修正草案，旨在落實預定2027年2月4日生效的法律修訂。公眾意見徵詢期為10月2日至11月11日，之後完成核准程序並與母法同日生效。草案規定，代幣化發行與流通不限於零碎化商品，傳統股票、債券與基金也納入；證券代幣被視為證券的數位形式，而非獨立於資本市場法之外的資產類別。",
+   "deep_facts": []
+  }
+ ]
+}

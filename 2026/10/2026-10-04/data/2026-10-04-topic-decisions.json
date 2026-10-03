@@ -1,0 +1,25 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "payward-everything-financial-infrastructure",
+  "headline": "紐約梅隆銀行（BNY）傳與Payward洽談涵蓋託管、交易與支付的基礎設施合作",
+  "one_line_update": "10月2日報導BNY正與Payward洽談廣泛基礎設施合作，內容可能類似Payward與Nasdaq協議的基礎設施部分，談判仍在進行、未保證達成協議。",
+  "source_title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+  "source_url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership"
+ },
+ {
+  "action": "skip"
+ }
+]

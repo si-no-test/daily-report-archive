@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-04",
+  "archived_at": "2026-10-03T23:16:41Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "831192b6af8021a21a55932b4c4de9b0be168b0b",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 20,
+  "total_bytes": 587748,
+  "files": [
+    {
+      "path": "data/2026-10-04-candidates.txt",
+      "bytes": 36906,
+      "sha256": "abb5ae946b2b05e4154845139c14997a4c814c65ae1cafc2078b27ece3c46465"
+    },
+    {
+      "path": "data/2026-10-04-glossary.json",
+      "bytes": 2087,
+      "sha256": "b4d24edb8636fb932e32bc737ad588c5247258a6594734d5da670ce96ce6a556"
+    },
+    {
+      "path": "data/2026-10-04-manifest.txt",
+      "bytes": 3460,
+      "sha256": "026b04b993d3b6df814c4051a258a05ba28be5ff910b23e1b9ca4199f343f2c0"
+    },
+    {
+      "path": "data/2026-10-04-orgs.json",
+      "bytes": 1768,
+      "sha256": "f577ec65f236d3db15406322d64f7ea03a8ce8aec333a2cdf63b8a491eecce4d"
+    },
+    {
+      "path": "data/2026-10-04-topic-cases.json",
+      "bytes": 1582,
+      "sha256": "4cb44e14a6f2b9a99584fdc4c3f0d906e58fe7b4d52f0d56afefa34e53627bb0"
+    },
+    {
+      "path": "data/2026-10-04-topic-decisions.json",
+      "bytes": 762,
+      "sha256": "2cdb333cb65606f5918bcd674204c25fcc7862e390978809b8686b1d448c28ce"
+    },
+    {
+      "path": "data/2026-10-04.json",
+      "bytes": 17853,
+      "sha256": "fe284bc9b0e6142b65effc9c05a7790905553cdf6ccc04df59b214df0b9d2e3d"
+    },
+    {
+      "path": "outbox/2026-10-04-archive.html",
+      "bytes": 106121,
+      "sha256": "a507fa3fc6e1d88ebcb860af14f9b3c34ef1144a8b95f075e8f8ca8a85642bdc"
+    },
+    {
+      "path": "outbox/2026-10-04-email.html",
+      "bytes": 11280,
+      "sha256": "6413cee0543f4d9016b7037b9564673dc33e8bb465e42cb126e92416abb9702b"
+    },
+    {
+      "path": "published/2026-10-04.html",
+      "bytes": 555,
+      "sha256": "dc4da156e5630fee423e3bc848b92fd7a423894e10d9aff5cdb4e87faa8d9c4e"
+    },
+    {
+      "path": "published/2026-10-04/ai.html",
+      "bytes": 37366,
+      "sha256": "2d0852b2bc6f123bed7daaead263ccba312f7a5090f5ff28521f290dba0cac63"
+    },
+    {
+      "path": "published/2026-10-04/blockchain.html",
+      "bytes": 47535,
+      "sha256": "87b7f826f6ebdd4bd89eebf8e73c5e69346c237b2c45b1c353912707a4166dd2"
+    },
+    {
+      "path": "published/2026-10-04/index.html",
+      "bytes": 22946,
+      "sha256": "314ca23fa8c8865940786e8433d16f4c7a0634af193e462ddfde0927086f7c2f"
+    },
+    {
+      "path": "published/2026-10-04/innovation.html",
+      "bytes": 51820,
+      "sha256": "09eef592dbe48538a6fd522860d171794fae92fa19c4d9feb2c95db36fc2a1c3"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 200224,
+      "sha256": "b16d51018c0ff82d7f6e3baa8c2b6be7d0199cd13c4b92a92148b103a85c6e1e"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "5780e49a2f93b2000074213113502accc849665ba94b8adb148246bf361e88b8"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "dc4da156e5630fee423e3bc848b92fd7a423894e10d9aff5cdb4e87faa8d9c4e"
+    },
+    {
+      "path": "published/topics/payward-everything-financial-infrastructure.html",
+      "bytes": 2623,
+      "sha256": "72f57f99828a45e000ff60a1a40cea37af72073e8bf5c5e3546df522f8b46509"
+    },
+    {
+      "path": "source/2026-10-04-report.txt",
+      "bytes": 38738,
+      "sha256": "acbe59121839738a96e8748ebef90909eb8c0a3f1d1f1e3dc914928667741e02"
+    },
+    {
+      "path": "source/2026-10-04-summary.txt",
+      "bytes": 2775,
+      "sha256": "f9a08e146dbcf2cc971be66f4c75bb64d2736d103fbc85e8b6d5741164eabace"
+    }
+  ]
+}

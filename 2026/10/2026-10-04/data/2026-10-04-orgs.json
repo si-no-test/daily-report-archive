@@ -1,0 +1,67 @@
+[
+ {
+  "name": "貝萊德",
+  "url": "https://www.blackrock.com",
+  "intro": "全球最大資產管理公司，提供基金、ETF 與代幣化產品。"
+ },
+ {
+  "name": "輝達",
+  "url": "https://www.nvidia.com",
+  "intro": "全球主要 AI 晶片（GPU）供應商，AI 運算基礎設施核心廠商。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國上市的加密資產交易與託管平台業者。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "ChatGPT 開發商，生成式 AI 與 AI 代理技術領導業者。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "Claude 系列 AI 模型的開發公司。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "全球線上支付與金融基礎設施服務商。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://www.visa.com",
+  "intro": "全球最大卡片支付網路之一。"
+ },
+ {
+  "name": "Nasdaq",
+  "url": "https://www.nasdaq.com",
+  "intro": "美國納斯達克交易所營運商，提供交易與市場科技服務。"
+ },
+ {
+  "name": "Kraken",
+  "url": "https://www.kraken.com",
+  "intro": "加密資產交易所，母公司為 Payward。"
+ },
+ {
+  "name": "Ondo Finance",
+  "url": "https://ondo.finance",
+  "intro": "提供代幣化國庫券與投資組合產品的區塊鏈資產業者。"
+ },
+ {
+  "name": "Bitwise",
+  "url": "https://bitwiseinvestments.com",
+  "intro": "加密資產管理公司，提供加密指數與 ETF 產品。"
+ },
+ {
+  "name": "Fireblocks",
+  "url": "https://www.fireblocks.com",
+  "intro": "提供數位資產託管與支付網路基礎設施的業者。"
+ },
+ {
+  "name": "OKX",
+  "url": "https://www.okx.com",
+  "intro": "全球加密資產交易平台。"
+ }
+]
