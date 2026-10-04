@@ -1,0 +1,296 @@
+{
+ "date": "2026-10-05",
+ "generated_at": "2026-10-05T12:00:00+08:00",
+ "counts": {
+  "ai": 5,
+  "blockchain": 5,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "EquiTrust Life Partners with Sureify to Streamline Data Exchange",
+   "display_title": "EquiTrust Life Insurance Company於本週宣布與壽險年金平台Sureify合作，導入CoreCONNECT整合層串接核心系統，該公司投資資產逾370億美元",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/equitrust-life-partners-with-sureify-to-streamline-data-exchange/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/equitrust-life-partners-with-sureify-to-streamline-data-exchange/",
+     "status": "ok",
+     "chars": 3983
+    }
+   ],
+   "date_evidence": "2026-10-02",
+   "summary": "美國壽險年金公司EquiTrust Life Insurance Company於10月初宣布與位於舊金山灣區聖荷西的Sureify合作，將部署CoreCONNECT平台，透過單一現代整合層把內部各核心系統的資料串接起來。EquiTrust成立於2003年，原為FBL Finan",
+   "core_fact": "美國壽險年金公司EquiTrust Life Insurance Company於10月初宣布與位於舊金山灣區聖荷西的Sureify合作，將部署CoreCONNECT平台，透過單一現代整合層把內部各核心系統的資料串接起來。EquiTrust成立於2003年，原為FBL Financial旗下子公司，目前總投資資產逾370億美元、償付能力比率逾109%，並連續11年入選Ward's 50。全文提到CoreCONNECT可協助EquiTrust符合保險退休協會（Insured Retirement Institute）訂定的資料交換標準，並讓配銷夥伴以API直接取得所需資料與工具。",
+   "deep_facts": [
+    "CoreCONNECT協助EquiTrust符合保險退休協會（IRI）資料交換標準",
+    "Sureify平台每月處理逾150萬筆代理人與保戶互動、備有逾80種預建交易",
+    "EquiTrust總投資資產逾370億美元、償付能力比率逾109%"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "American Airlines Lets Loyalty Program Members Combine Cash and Miles",
+   "display_title": "美國航空（American Airlines）於10月2日宣布開放AAdvantage會員在官網與App混合使用現金與里程訂票，數週內陸續推出",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/transportation/travel-payments/2026/american-airlines-lets-loyalty-program-members-combine-cash-and-miles/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/transportation/travel-payments/2026/american-airlines-lets-loyalty-program-members-combine-cash-and-miles/",
+     "status": "ok",
+     "chars": 2740
+    }
+   ],
+   "date_evidence": "2026-10-03",
+   "summary": "美國航空於10月2日（週五）透過新聞稿宣布，合格的AAdvantage忠誠度計畫會員在aa.com與行動App訂票時，可在結帳畫面以滑桿自行選擇現金與里程的組合，費用摘要會即時更新，功能將於未來數週內陸續上線。AAdvantage資深副總裁Scott Long表示，這是讓計畫提供",
+   "core_fact": "美國航空於10月2日（週五）透過新聞稿宣布，合格的AAdvantage忠誠度計畫會員在aa.com與行動App訂票時，可在結帳畫面以滑桿自行選擇現金與里程的組合，費用摘要會即時更新，功能將於未來數週內陸續上線。AAdvantage資深副總裁Scott Long表示，這是讓計畫提供更多選擇與彈性的新步驟。報導指出，聯合航空與達美航空早已提供類似的混合付款，美國航空是跟進者；該公司7月曾揭露AAdvantage會員數較去年同期成長逾30%。",
+   "deep_facts": [
+    "功能以結帳滑桿選擇現金與里程組合並於數週內陸續上線",
+    "聯合航空與達美航空已提供類似混合付款",
+    "AAdvantage會員數7月時較去年同期成長逾30%"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Fintech is in its empire-building era",
+   "display_title": "Tearsheet編輯部於10月2日發表評論，指出Chime、Revolut與Zilch等金融科技正進入「帝國建構期」，由拆解銀行業務轉向取得牌照、存款與同業",
+   "source": "Tearsheet",
+   "source_tier": "T2",
+   "url": "https://tearsheet.co/opinion/fintech-is-in-its-empire-building-era/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-02",
+   "summary": "Tearsheet專欄作家Sara Khairi於10月2日撰文指出，金融科技過去以支付、卡片、儲蓄或小企業貸款等單點切入，如今最大幾家都在往外擴張：美國Chime希望擁有支撐其業務逾7年的底層銀行；英國Revolut取得美國國家銀行執照的有條件核准；倫敦的Zilch收購一家立陶",
+   "core_fact": "Tearsheet專欄作家Sara Khairi於10月2日撰文指出，金融科技過去以支付、卡片、儲蓄或小企業貸款等單點切入，如今最大幾家都在往外擴張：美國Chime希望擁有支撐其業務逾7年的底層銀行；英國Revolut取得美國國家銀行執照的有條件核准；倫敦的Zilch收購一家立陶宛銀行並準備可能的首次公開發行；本週巴西Nubank則傳出可能收購倫敦的Monzo。文章將這波趨勢稱為金融科技的帝國建構期。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Finovate Global Indonesia: Payments, MSMEs, and the Challenge of Progress",
+   "display_title": "印尼電子錢包DANA於本週宣布獲01Fintech投資，支付基礎設施業者Durianpay則傳出與日本投資人洽談募資",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/finovate-global-indonesia-payments-msmes-and-the-challenge-of-progress/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-02",
+   "summary": "Finovate Global於10月2日報導，印尼數位金融平台DANA獲得01Fintech投資，金額未揭露；DANA成立於2018年，總部在雅加達，服務消費者、商戶與金融機構，涵蓋數位支付、QRIS、轉帳與AI金融方案。另依Deal Street Asia報導，支付基礎設施新",
+   "core_fact": "Finovate Global於10月2日報導，印尼數位金融平台DANA獲得01Fintech投資，金額未揭露；DANA成立於2018年，總部在雅加達，服務消費者、商戶與金融機構，涵蓋數位支付、QRIS、轉帳與AI金融方案。另依Deal Street Asia報導，支付基礎設施新創Durianpay傳與日本投資人洽談募資；該公司2020年成立，串接逾20種本地支付方式，服務逾400家商戶，每日處理逾500萬次API請求，2025年處理總支付量逾55億美元並首度全年獲利。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "China Shutters Nearly 25% of Its Banks Amid Oversight Push",
+   "display_title": "中國國家金融監督管理總局（National Financial Regulatory Administration）資料顯示，2025年中國關閉逾670家銀行，銀行機構數降至3,139家，較四年前減少23%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/legal/bank-regulation/2026/china-shutters-nearly-25-of-its-banks-amid-oversight-push/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-05",
+   "summary": "英國金融時報於10月3日（週六）引述中國國家金融監督管理總局資料報導，中國2025年關閉創紀錄的670多家銀行，主要集中在農村地區，使全國銀行機構數降至3,139家，較四年前減少23%，約四分之一銀行機構消失。惠譽（Fitch）報告指出，市區與農村的小型銀行仍是體系最弱的一環，資",
+   "core_fact": "英國金融時報於10月3日（週六）引述中國國家金融監督管理總局資料報導，中國2025年關閉創紀錄的670多家銀行，主要集中在農村地區，使全國銀行機構數降至3,139家，較四年前減少23%，約四分之一銀行機構消失。惠譽（Fitch）報告指出，市區與農村的小型銀行仍是體系最弱的一環，資產品質差、資本偏低且治理有缺口。新加坡國立大學東亞研究所研究員Jason Bedford說，這種規模的整併前所未見，目的在於簡化監理並降低小機構的流動性事件風險。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks",
+   "display_title": "美國白宮於10月3日由國家情報總監傑．克萊頓（Jay Clayton）以AI沙皇身分領軍超級智慧小組，要求在120天內提出AI風險與機會報告",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-ai-czar-jay-clayton-gets-120-days-to-report-on-techs-risks/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-ai-czar-jay-clayton-gets-120-days-to-report-on-techs-risks/",
+     "status": "ok",
+     "chars": 3313
+    }
+   ],
+   "date_evidence": "2026-10-05",
+   "summary": "美國華爾街日報於10月3日（週六）報導，白宮要求其AI任務小組在120天內提出AI風險與潛在收益的報告，由國家情報總監傑．克萊頓（Jay Clayton）出任AI沙皇，統籌被川普更名為「超級智慧」的相關工作。克萊頓接替辭任的前任沙皇大衛．薩克斯（David Sacks），並表示「",
+   "core_fact": "美國華爾街日報於10月3日（週六）報導，白宮要求其AI任務小組在120天內提出AI風險與潛在收益的報告，由國家情報總監傑．克萊頓（Jay Clayton）出任AI沙皇，統籌被川普更名為「超級智慧」的相關工作。克萊頓接替辭任的前任沙皇大衛．薩克斯（David Sacks），並表示「不率先的風險很高」。小組成立之前，川普與數家頂尖AI業者高層於上週達成原則性協議，內容包括追蹤模型開發的內部控管、第三方模型審查，以及向董事會通報安全工作；協議未設罰則，也不要求公布稽核結果，Anthropic執行長達里奧．阿莫迪（Dario Amodei）稱之為「一個開始」。",
+   "deep_facts": [
+    "任務小組限期120天提出AI風險與機會報告",
+    "川普與AI業者達成的原則含內部控管、第三方模型審查與董事會通報，且未設罰則",
+    "克萊頓以聯準會與SEC協助建立的金融業風險模型作為參照"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Menos AI Raises $5.1m To Build AI Infrastructure For Institutional Investors",
+   "display_title": "Menos AI宣布完成510萬美元前A輪募資，由Copper Sky Capital領投，累計募資逾1,000萬美元",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/315582-menos-ai-raises-5-1m-to-build-ai-infrastructure-for-institutional-investors/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/315582-menos-ai-raises-5-1m-to-build-ai-infrastructure-for-institutional-investors/",
+     "status": "ok",
+     "chars": 2069
+    }
+   ],
+   "date_evidence": "2026-10-05",
+   "summary": "為機構投資人打造AI平台的Menos AI近日宣布完成510萬美元前A輪募資，由原有投資人Copper Sky Capital領投，Alpha Square Group參與，累計募資超過1,000萬美元；Copper Sky的投資由Thiel Capital董事總經理Jack S",
+   "core_fact": "為機構投資人打造AI平台的Menos AI近日宣布完成510萬美元前A輪募資，由原有投資人Copper Sky Capital領投，Alpha Square Group參與，累計募資超過1,000萬美元；Copper Sky的投資由Thiel Capital董事總經理Jack Selby主導。Menos自2025年8月推出AI研究代理Sonαr，如今擴展到資產管理與對沖基金的企業AI基礎設施，打造可追溯的私有情境層，捕捉內部研究、投組資料、投資推理與工作流程。執行長William Wu說，資產管理業的價值在於判斷與執行，公司要建立連結兩者的情境層。",
+   "deep_facts": [
+    "前A輪由Copper Sky Capital領投、Alpha Square Group參與，累計募資逾1,000萬美元",
+    "平台自2025年8月的研究代理Sonar擴展為私有且可追溯的情境層",
+    "已與全球最大型資產管理公司與對沖基金合作"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "AI 推論成本每年便宜 13 倍，大廠訂閱制將面臨考驗",
+   "display_title": "Epoch AI發布報告指出，相同表現下使用AI模型的成本自2023年起平均每季下跌約47%，相當於每年便宜約13倍",
+   "source": "TechNews",
+   "source_tier": "T2",
+   "url": "https://technews.tw/2026/10/05/ai-infers-the-rate-of-cost-decline/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-05",
+   "summary": "科技媒體TechNews於10月5日報導，AI研究機構Epoch AI在《The Plunging Price of Thought》報告中估計，相同測試表現的AI推論成本自2023年起每季平均下跌約47%，相當於每年便宜約13倍。報告舉例，OpenAI於2025年1月推出的o3",
+   "core_fact": "科技媒體TechNews於10月5日報導，AI研究機構Epoch AI在《The Plunging Price of Thought》報告中估計，相同測試表現的AI推論成本自2023年起每季平均下跌約47%，相當於每年便宜約13倍。報告舉例，OpenAI於2025年1月推出的o3在GPQA Diamond測試每題成本約0.3美元，不到18個月後推出的GPT-5.6 Luna達到相同水準，每題成本約0.0004美元，下跌約725倍。與其他技術比較，推論成本年跌速度約為DNA定序的4倍、傳統運算的6倍、鋰電池的18倍。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "五大科技巨頭主動型Agent大比較，一張表告訴你Dots、Muse和Spark有何不同",
+   "display_title": "Google、微軟、SpaceXAI、Meta與OpenAI自5月起陸續推出全天候主動型AI代理，OpenAI的Dots於9月29日在DevDay發表，可連結逾4,000款應用",
+   "source": "iThome",
+   "source_tier": "T1",
+   "url": "https://www.ithome.com.tw/news/179380",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-02",
+   "summary": "iThome於10月2日整理五款主動型代理：Google的Gemini Spark於5月I/O發表、7月底推出Beta；微軟Scout於6月Build發表，9月25日隨新版Copilot更名為Autopilot並擴大私人預覽；SpaceXAI的Grok Bot於8月11日推出；M",
+   "core_fact": "iThome於10月2日整理五款主動型代理：Google的Gemini Spark於5月I/O發表、7月底推出Beta；微軟Scout於6月Build發表，9月25日隨新版Copilot更名為Autopilot並擴大私人預覽；SpaceXAI的Grok Bot於8月11日推出；Meta的Muse助手於9月8日推出；OpenAI的Dots於9月29日發表，擁有逾4,000款外掛的生態系。這些產品都透過雲端電腦或虛擬機持續運作，可定期執行重複性工作、監看郵件與頻道，遇到敏感操作才回頭請使用者核准。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+   "display_title": "蘋果（Apple）於10月2日宣布，因AI代理增加風險，將強化macOS「全磁碟存取」設定的明確同意控制",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-03",
+   "summary": "TechCrunch於10月2日報導，Inc.專欄作家Jason Aten指出Meta的Muse應用在Mac上讀取了他的私人訊息，Meta否認此說；數日後，蘋果宣布將在macOS「全磁碟存取」設定加入額外控制。蘋果說明，此功能原為備份設計，但AI代理使這種層級存取的風險增加。蘋果",
+   "core_fact": "TechCrunch於10月2日報導，Inc.專欄作家Jason Aten指出Meta的Muse應用在Mac上讀取了他的私人訊息，Meta否認此說；數日後，蘋果宣布將在macOS「全磁碟存取」設定加入額外控制。蘋果說明，此功能原為備份設計，但AI代理使這種層級存取的風險增加。蘋果表示，這項變更反映知情同意，不是新的限制；在此之前，Wired也曾報導ChatGPT Mac應用的漏洞可能讓駭客取得敏感資料。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+   "display_title": "美國參議院於9月15日以49票贊成、50票反對否決CLARITY Act程序性投票，加密產業併購仍在上半年創97億美元紀錄",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+     "status": "ok",
+     "chars": 8915
+    }
+   ],
+   "date_evidence": "2026-10-04",
+   "summary": "CoinDesk於10月4日報導，CLARITY Act於9月15日在參議院程序性投票獲49票贊成、50票反對，未達推進所需的60票，談判卡在高階官員加密事業利益（含總統川普）的倫理限制，以及投資人保護與非法金融顧慮。兩天後SEC核准暫時性「創新豁免」，允許代幣化美國股票在特定鏈",
+   "core_fact": "CoinDesk於10月4日報導，CLARITY Act於9月15日在參議院程序性投票獲49票贊成、50票反對，未達推進所需的60票，談判卡在高階官員加密事業利益（含總統川普）的倫理限制，以及投資人保護與非法金融顧慮。兩天後SEC核准暫時性「創新豁免」，允許代幣化美國股票在特定鏈上場所有限度交易；10月1日又提出託管規則提案。CryptoRank Research統計，2026年上半年數位資產併購揭露金額達創紀錄的97億美元，年增44%，但宣布件數年減8%至87件，前四大交易占76%。",
+   "deep_facts": [
+    "Clarity Act 9月15日以49比50未達60票門檻",
+    "2026上半年數位資產併購揭露金額97億美元、年增44%，件數年減8%至87件，前四大交易占76%",
+    "Payward同意以6億美元收購Reap、最高5.5億美元收購Bitnomial，Nasdaq投資1億美元"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "How stablecoins speed int’l payments",
+   "display_title": "Latitude Global於9月21日受訪表示，其穩定幣跨境收付可在兩分鐘內完成結算，覆蓋約50個國家並累計募資4,300萬美元",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935/",
+     "status": "ok",
+     "chars": 5312
+    }
+   ],
+   "date_evidence": "2026-10-02",
+   "summary": "Payments Dive報導，Latitude Global執行長Cyril Mathew於9月21日受訪表示，公司以穩定幣軌道提供跨境收付，結算時間不到兩分鐘，並替新銀行與金融App提供法幣出入金。Latitude目前覆蓋約50個國家，目標未來數年擴大到約200個；僅14名員",
+   "core_fact": "Payments Dive報導，Latitude Global執行長Cyril Mathew於9月21日受訪表示，公司以穩定幣軌道提供跨境收付，結算時間不到兩分鐘，並替新銀行與金融App提供法幣出入金。Latitude目前覆蓋約50個國家，目標未來數年擴大到約200個；僅14名員工，已在45州取得監管許可，其餘五州正在申請。公司成立於2025年1月，創辦人來自Stripe與Zero Hash，累計募資4,300萬美元，其中3,500萬美元於上月宣布。",
+   "deep_facts": [
+    "結算時間不到兩分鐘，覆蓋約50個國家、目標200個",
+    "僅14名員工、在45州取得許可，累計募資4,300萬美元含上月宣布的3,500萬美元",
+    "兩三種穩定幣占80%以上交易量，支援USDC與USDT"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Standard Chartered Puts DeFi Research at the Center of Institutional Digital Asset Access",
+   "display_title": "渣打銀行（Standard Chartered）近日揭露將DeFi研究放在數位資產通路的核心，數位資產研究團隊與ETF通路、穩定幣服務並列",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/315512-standard-chartered-puts-defi-research-at-the-center-of-institutional-digital-asset-access/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-05",
+   "summary": "Crowdfund Insider於10月5日報導，渣打銀行今年已在數位資產版圖設立專責研究團隊，與ETF通路與穩定幣服務並列。依其材料，銀行將2016年至2021年定位為探索期，2021年至2025年為機構基礎建置期，涵蓋集團風險管理、鏈上分析、自有平台、證券服務內的託管與加密",
+   "core_fact": "Crowdfund Insider於10月5日報導，渣打銀行今年已在數位資產版圖設立專責研究團隊，與ETF通路與穩定幣服務並列。依其材料，銀行將2016年至2021年定位為探索期，2021年至2025年為機構基礎建置期，涵蓋集團風險管理、鏈上分析、自有平台、證券服務內的託管與加密交易；2026年起重點為跨據點規模化與整合。簡報引用的DeFi總鎖倉價值由2020年約150億美元，增至2023年530億美元與2025年1,140億美元。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Coinbase Tokenized Stocks Lead DeFi Deposit Gains, Adding $5.6M Ahead of Robinhood and Binance",
+   "display_title": "Coinbase發行的代幣化股票於近七日內DeFi存入增加560萬美元，居主要發行商之首，Robinhood與幣安分別增加180萬與160萬美元",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/315511-coinbase-tokenized-stocks-lead-defi-deposit-gains-adding-5-6m-ahead-of-robinhood-and-binance/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-05",
+   "summary": "Crowdfund Insider於10月5日引述Token Terminal鏈上追蹤資料報導，Coinbase發行的代幣化股票在過去七日內存入DeFi協議的餘額增加560萬美元，是主要發行商中最大。Robinhood發行的股票代幣增加180萬美元居次，幣安的bStocks增加1",
+   "core_fact": "Crowdfund Insider於10月5日引述Token Terminal鏈上追蹤資料報導，Coinbase發行的代幣化股票在過去七日內存入DeFi協議的餘額增加560萬美元，是主要發行商中最大。Robinhood發行的股票代幣增加180萬美元居次，幣安的bStocks增加160萬美元。這項排名衡量的是借貸市場、流動性池與其他鏈上場所的淨流入，不是交易量或市值；報導並指出絕對金額相對整體代幣化資產與主流股票市場仍小。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Aave Founder Stani Kulechov Criticizes European Central Bank Push to Restrict Stablecoin Yield and DeFi Access",
+   "display_title": "Aave創辦人斯塔尼．庫列喬夫（Stani Kulechov）於10月2日公開批評歐洲央行與歐洲銀行管理局在MiCA檢討中的提案，主張禁止穩定幣收益並限制接入DeFi",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/315240-aave-founder-stani-kulechov-criticizes-european-central-bank-push-to-restrict-stablecoin-yield-and-defi-access/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-10-05",
+   "summary": "Crowdfund Insider報導，歐盟執委會檢討《加密資產市場規範》（MiCA）之際，Aave創辦人庫列喬夫於10月2日表示，對歐洲央行與歐洲銀行管理局的提交意見感到失望。這些意見主張禁止穩定幣支付收益，並限制加密資產服務提供商接入DeFi，包括以適當性測試限定使用者類別，",
+   "core_fact": "Crowdfund Insider報導，歐盟執委會檢討《加密資產市場規範》（MiCA）之際，Aave創辦人庫列喬夫於10月2日表示，對歐洲央行與歐洲銀行管理局的提交意見感到失望。這些意見主張禁止穩定幣支付收益，並限制加密資產服務提供商接入DeFi，包括以適當性測試限定使用者類別，並可能對去中心化借貸協議推動認證制度。Aave Labs於9月下旬也向執委會提交檢討意見，要求釐清借貸收益的處理並為非託管協議保留空間。",
+   "deep_facts": []
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-05",
+  "archived_at": "2026-10-04T23:20:02Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "7c5836006a701ee76c5581db3010b4c218e21216",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 20,
+  "total_bytes": 683432,
+  "files": [
+    {
+      "path": "data/2026-10-05-candidates.txt",
+      "bytes": 68531,
+      "sha256": "9e831d1a71a6d95dfcd9526509755ecfec4246f5a86e158d7f478ccdab11cb51"
+    },
+    {
+      "path": "data/2026-10-05-glossary.json",
+      "bytes": 2624,
+      "sha256": "1892f244c488118b527eb6d0785e75f81849d11d57d36b0de8745e7933b49024"
+    },
+    {
+      "path": "data/2026-10-05-manifest.txt",
+      "bytes": 3460,
+      "sha256": "41c6f59ee63f25eb07e504ddbd67ec6c5ad919bbe74df2a909e705dc877d3d74"
+    },
+    {
+      "path": "data/2026-10-05-orgs.json",
+      "bytes": 2275,
+      "sha256": "0eb95f7fffe3a6df171e044863ff4fc7260fbf412549524bd57f429d25c509b6"
+    },
+    {
+      "path": "data/2026-10-05-topic-cases.json",
+      "bytes": 5933,
+      "sha256": "e85a718f0564e3c3fa476ef64887c246fe901ec0775f83df2e72de08e845e978"
+    },
+    {
+      "path": "data/2026-10-05-topic-decisions.json",
+      "bytes": 846,
+      "sha256": "c6c9c9b3d85a57ceaf8c1d6103a720ca4ac3689dfa314f9ea790a1451a556680"
+    },
+    {
+      "path": "data/2026-10-05.json",
+      "bytes": 25217,
+      "sha256": "3c28087917717151ddb6637c41519a9a2ccc23fdcbe2cb3142c80a3f96bcbfbd"
+    },
+    {
+      "path": "outbox/2026-10-05-archive.html",
+      "bytes": 121002,
+      "sha256": "4659d2a7ea3784c5df296b0566ae6cb69825fd61ec1a0e88f2fc2fedeba47f06"
+    },
+    {
+      "path": "outbox/2026-10-05-email.html",
+      "bytes": 11172,
+      "sha256": "3050a100c67fabc0b7685725c57dce65d6354db91ed3ed2a0b1f9b5d7d75229d"
+    },
+    {
+      "path": "published/2026-10-05.html",
+      "bytes": 555,
+      "sha256": "85a2f412725282debcbd3af973e19fd3b2b1cf768ca541910aa3062a2cc16185"
+    },
+    {
+      "path": "published/2026-10-05/ai.html",
+      "bytes": 48444,
+      "sha256": "3f65f3475fefae555b7dfa6162cd4f0cc8a35b36aed056f4c6eb4553211a50e3"
+    },
+    {
+      "path": "published/2026-10-05/blockchain.html",
+      "bytes": 54260,
+      "sha256": "e2bc1136fdaea1ad9e3478326097f5a21f1f88477e633aaeee7158463fb80a58"
+    },
+    {
+      "path": "published/2026-10-05/index.html",
+      "bytes": 25339,
+      "sha256": "874845ed4fcf0fa3b0348f722c76230f42a6bd42304c76131d4e250512f0d2c6"
+    },
+    {
+      "path": "published/2026-10-05/innovation.html",
+      "bytes": 51100,
+      "sha256": "8390955838447970c48c01ebb6e48090e71c991b7a046490f7f5965d8b8f65aa"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 207682,
+      "sha256": "b0c9a7b8f68e09357c163a69db3f03a908f72861a4a1afe3f6604dc4954e2bff"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "a803c553ff453e855655e7d033a91785fa948118ff993877db287cbb38eb225e"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "85a2f412725282debcbd3af973e19fd3b2b1cf768ca541910aa3062a2cc16185"
+    },
+    {
+      "path": "published/topics/us-clarity-act-market-structure-bill.html",
+      "bytes": 5419,
+      "sha256": "1e04faaecc8563c49dd0281437c80afb281a5aad8238b37abc99f23e22cefae8"
+    },
+    {
+      "path": "source/2026-10-05-report.txt",
+      "bytes": 45564,
+      "sha256": "d89c7c500f0ba3cd6fcf5d7f5f73b95aa9948fd4f4ecca12de36e821e72e7f84"
+    },
+    {
+      "path": "source/2026-10-05-summary.txt",
+      "bytes": 2662,
+      "sha256": "e2ad85dcd34546b61a70491dfe5dfbe28b2cf8858432b2fbee7f1ab496a99d7c"
+    }
+  ]
+}

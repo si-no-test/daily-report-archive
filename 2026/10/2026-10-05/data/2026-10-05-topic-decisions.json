@@ -1,0 +1,25 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "us-clarity-act-market-structure-bill",
+  "headline": "CLARITY Act受挫後，加密併購仍創上半年97億美元紀錄",
+  "one_line_update": "CoinDesk 10月4日報導，CLARITY Act 9月15日以49比50未過程序性投票後，SEC與CFTC以創新豁免與託管規則提案填補空缺；2026上半年數位資產併購揭露金額97億美元、年增44%，但件數年減8%至87件，Payward同意以6億美元收購Reap。",
+  "source_title": "The Clarity Act stalled. Bankers aren't hitting the brakes yet on crypto dealmaking",
+  "source_url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet"
+ }
+]

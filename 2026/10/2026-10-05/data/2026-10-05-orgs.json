@@ -1,0 +1,82 @@
+[
+ {
+  "name": "美國白宮",
+  "url": "https://www.whitehouse.gov",
+  "intro": "美國總統的辦公與政策統籌機構，近期成立AI任務小組統籌AI治理。"
+ },
+ {
+  "name": "EquiTrust Life Insurance Company",
+  "url": "https://www.equitrust.com",
+  "intro": "總部在芝加哥的美國壽險與年金公司，透過獨立通路銷售保險產品。"
+ },
+ {
+  "name": "Sureify",
+  "url": "https://www.sureify.com",
+  "intro": "提供壽險與年金業數位平台與資料整合方案的美國保險科技公司。"
+ },
+ {
+  "name": "美國航空",
+  "url": "https://www.aa.com",
+  "intro": "美國大型航空公司，營運AAdvantage忠誠度計畫。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國上市的加密資產交易所，也發行代幣化股票。"
+ },
+ {
+  "name": "Robinhood",
+  "url": "https://robinhood.com",
+  "intro": "美國零售券商，提供股票與加密資產交易並發行股票代幣。"
+ },
+ {
+  "name": "渣打銀行",
+  "url": "https://www.sc.com",
+  "intro": "總部在倫敦、以亞非中東為主要市場的國際銀行。"
+ },
+ {
+  "name": "Aave",
+  "url": "https://aave.com",
+  "intro": "以太坊生態系中最大型的去中心化借貸協議之一。"
+ },
+ {
+  "name": "Circle",
+  "url": "https://www.circle.com",
+  "intro": "美元穩定幣USDC的發行商。"
+ },
+ {
+  "name": "歐洲央行",
+  "url": "https://www.ecb.europa.eu",
+  "intro": "歐元區的中央銀行，負責歐元區貨幣政策。"
+ },
+ {
+  "name": "Apple",
+  "url": "https://www.apple.com",
+  "intro": "美國消費電子與作業系統大廠，開發macOS與iOS。"
+ },
+ {
+  "name": "Meta",
+  "url": "https://about.meta.com",
+  "intro": "Facebook與Instagram母公司，推出Muse AI助手。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "ChatGPT開發商，推出Dots等AI代理產品。"
+ },
+ {
+  "name": "Revolut",
+  "url": "https://www.revolut.com",
+  "intro": "總部在倫敦的全球數位銀行與金融科技公司。"
+ },
+ {
+  "name": "Chime",
+  "url": "https://www.chime.com",
+  "intro": "美國大型數位銀行服務與金融科技公司。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://www.visa.com",
+  "intro": "全球最大卡片支付網路業者之一。"
+ }
+]
