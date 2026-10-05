@@ -1,0 +1,38 @@
+FINAL_URL: https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement
+STATUS: ok
+CHARS: 4428
+---CONTENT---
+Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement
+The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.
+By Olivier Acuna | Edited by Omkar Godbole
+Updated Oct 5, 2026, 7:28 a.m. EDT Published Oct 5, 2026, 5:26 a.m. EDT
+2 min read Make preferred on Share this article
+X (Twitter) LinkedIn Facebook Email
+Payward integrated Singapore Gulf Bank’s real-time clearing network to let select institutional clients settle eligible digital-asset transactions and fund trading around the clock.
+The service initially supports U.S. dollar transactions for clients in eligible Asian and Gulf jurisdictions, with more clients and currencies planned.
+The partnership addresses the mismatch between nonstop crypto trading and traditional banking hours by making deposited funds immediately available through SGB Net.
+Payward, the financial infrastructure company behind crypto exchange Kraken, integrated Singapore Gulf Bank’s real-time clearing network to enable institutional clients to settle qualifying digital-asset transactions around-the-clock and fund trading even on a non-banking day.
+The service begins with U.S. dollar transactions for a select group of clients in eligible Asian and Gulf region jurisdictions, Payward announced on Sunday .
+Mark Greenberg, Payward’s chief commercial officer, explained the deal targets a fundamental issue affecting crypto markets. While assets trade all weekend and around the clock, the cash that funds those trades often remains subject to bank cut-off times and multi-day settlement. SGB Net allows clients to deposit funds with Payward and use them immediately.
+“Exchanges, payment providers, OTC desks and fintechs all run into the same banking constraint: settlement stops when the business day does, while their markets do not,” Greenberg added.
+Payward is expanding beyond Kraken’s exchange business into the infrastructure that connects trading, custody, payments and banking. It follows a report last week that BNY is in d i scussions with Payward over a potential tie-up spanning digital assets, custody, trading and payments.
+For Singapore Gulf Bank, connecting settlement with Kraken Prime’s liquidity means institutional clients can move cash and trade without waiting for the next banking day. The firms did not disclose the number of clients in the initial rollout or the transaction volumes involved.
+SGB Net, launched in 2025, processes more than $20 billion in fiat transactions each month, according to the bank. Payward and SGB said they plan to add clients and currencies over time.
+1 Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on 3 hours ago
+2 More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works 5 hours ago
+3 U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers 7 hours ago
+4 Stripe to expand stablecoin cards to over 100 countries by the end of the year 9 hours ago
+5 An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger 10 hours ago
+6 SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings 11 hours ago
+7 Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network 12 hours ago
+8 Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC 12 hours ago
+9 Bitcoin resilience tested as U.S. dollar climbs to 18-month high 12 hours ago
+10 Live updates: Bitcoin under pressure as rates continue to rise 12 hours ago
+The Definitive Stablecoin Landscape Series: Asia Pacific
+The Definitive Stablecoin Landscape Series: Asia Pacific
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the region’s rules, use cases, and RLUSD’s role.
+Stripe to expand stablecoin cards to over 100 countries by the end of the year
+Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC
+Live updates: Bitcoin under pressure as rates continue to rise

@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-06",
+  "archived_at": "2026-10-05T23:20:48Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "8f9b2756ec294dab93f3785a2b13a520607eca5d",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 38,
+  "total_bytes": 779701,
+  "files": [
+    {
+      "path": "data/2026-10-06-candidates.txt",
+      "bytes": 65057,
+      "sha256": "dc66229b551b383b812195cffd9fb1859f53d887f6dce2a7ee8d837b3ed153ac"
+    },
+    {
+      "path": "data/2026-10-06-glossary.json",
+      "bytes": 2184,
+      "sha256": "60bc2bf61dd5927bde423a86668f7d9575cfe7669059016a087b5707261800cf"
+    },
+    {
+      "path": "data/2026-10-06-manifest.txt",
+      "bytes": 3460,
+      "sha256": "ddc7bdcbede5cead9ecb6d2a1a29e030bf68f21da7274586763a5f0c83352b6d"
+    },
+    {
+      "path": "data/2026-10-06-orgs.json",
+      "bytes": 1912,
+      "sha256": "666b1a4c5dd43d76b687f92718b6dca1b013783305b80612d5b72d34c5e1cd96"
+    },
+    {
+      "path": "data/2026-10-06-topic-cases.json",
+      "bytes": 4451,
+      "sha256": "49adb2f440b1b98cd93b3efccbede0c7ad3d4ab64bdc648f25dc577baf82718b"
+    },
+    {
+      "path": "data/2026-10-06-topic-decisions.json",
+      "bytes": 960,
+      "sha256": "e01beac6bdaf9ec6243c0c338352aa95f5251ed95d30ae16d3151911a175a3d7"
+    },
+    {
+      "path": "data/2026-10-06.json",
+      "bytes": 21575,
+      "sha256": "943c945d60c3b5cc1fe3ba260bdfb7f3aaf22313ca0215cc734314e808330fb7"
+    },
+    {
+      "path": "data/art/1.txt",
+      "bytes": 176,
+      "sha256": "c12525cec2aab2d146f2ce3c4616cf5d46c71d91722670dc487cd3cef11febd1"
+    },
+    {
+      "path": "data/art/2.txt",
+      "bytes": 1571,
+      "sha256": "b1a471caad079c4b13439a942d81857388e50351ffacf3e62209ca3b3869082a"
+    },
+    {
+      "path": "data/art/3.txt",
+      "bytes": 1920,
+      "sha256": "a7d764c2e71c9432694fbae5ee880bb014c718d3608ecc580cc5df400ed890e0"
+    },
+    {
+      "path": "data/art/4.txt",
+      "bytes": 4343,
+      "sha256": "d3065d5da3089177f5b96754d5e302b4e7ea78575d0e9f1516141383e3739807"
+    },
+    {
+      "path": "data/art/5.txt",
+      "bytes": 8250,
+      "sha256": "170bf524892be673d6d848a2184783a7a12f68c1524cd3b8b30022c60648752d"
+    },
+    {
+      "path": "data/art/6.txt",
+      "bytes": 184,
+      "sha256": "881c579a0be66c31fc4a52a71da2abb9069543d98be170f64f90a9880f6513c4"
+    },
+    {
+      "path": "data/art2/1.txt",
+      "bytes": 8263,
+      "sha256": "2b7d89f279ae70c83826364029be536c0bb9e6bb8efe600f0d6be4e90d2e7481"
+    },
+    {
+      "path": "data/art2/10.txt",
+      "bytes": 5736,
+      "sha256": "0774f143d07c1c6444e2544805ad6aca2814bcc0dc0e594deb806198cef8d80e"
+    },
+    {
+      "path": "data/art2/11.txt",
+      "bytes": 2179,
+      "sha256": "ed6d4f702525688bdf4f9e27745991fb0aa4a7d85010fa4002256bf1e113896c"
+    },
+    {
+      "path": "data/art2/2.txt",
+      "bytes": 258,
+      "sha256": "4d38d1dcf189fd6c9d86722196ecda0bc2f933470941ddd7f22b0999362ac15a"
+    },
+    {
+      "path": "data/art2/3.txt",
+      "bytes": 7906,
+      "sha256": "79b57dc38dfeac0b8fa58e389c8e9f89cc1196763a1c616609f37739bf61b4eb"
+    },
+    {
+      "path": "data/art2/4.txt",
+      "bytes": 6759,
+      "sha256": "73d313d63c7e5d8423509b1e197d3806b2b7b527bd93d064aec4721f2eaa7dc8"
+    },
+    {
+      "path": "data/art2/5.txt",
+      "bytes": 108,
+      "sha256": "d31e445b3bbd6330871471c64a1b2c9caa574f47fc6732124b657fecc67bb03e"
+    },
+    {
+      "path": "data/art2/6.txt",
+      "bytes": 3696,
+      "sha256": "0840682e57c40f9f1915609dbfd0b0e64032cf44bfc2c2d5480069f0a6a49b7c"
+    },
+    {
+      "path": "data/art2/7.txt",
+      "bytes": 4648,
+      "sha256": "146d7832af5ad84a79445300d943b5af7a40941cf810aece1371fa6c3b5c6b1a"
+    },
+    {
+      "path": "data/art2/8.txt",
+      "bytes": 3082,
+      "sha256": "624a751a0c5c1f7cdcce12c8162d9119b99afb2e4563931b88dc8bf7f8beaf87"
+    },
+    {
+      "path": "data/art2/9.txt",
+      "bytes": 3885,
+      "sha256": "d43252636a71cea56e817d930abb22ace8769a6140f6652010ef9a049f0ed3b2"
+    },
+    {
+      "path": "data/collect.stdout",
+      "bytes": 65321,
+      "sha256": "974ee4ace3192a603e05256e14e171c8349d5147d8966b692c5f682d44409b94"
+    },
+    {
+      "path": "outbox/2026-10-06-archive.html",
+      "bytes": 109456,
+      "sha256": "c61619418456a0dfb5c84e444b7e781fb9d2c37452abe53207d0752bdf507d03"
+    },
+    {
+      "path": "outbox/2026-10-06-email.html",
+      "bytes": 11880,
+      "sha256": "8df9f051ea86deff586c0c14e59303d53d35d78214cd366387de27ffebeebcba"
+    },
+    {
+      "path": "published/2026-10-06.html",
+      "bytes": 555,
+      "sha256": "f8f5bfe27972c72138a4b3874297cc20e7fabdba24e24febe87714ff257f72f9"
+    },
+    {
+      "path": "published/2026-10-06/ai.html",
+      "bytes": 40670,
+      "sha256": "82e56a85e28ca5d6e057f0f2a9c44a5b10a3683b4bb2cd2a855c739bceb3e737"
+    },
+    {
+      "path": "published/2026-10-06/blockchain.html",
+      "bytes": 48783,
+      "sha256": "2b1fb4b37dd3ebc64b1c60dd324302eb692bd2062a759e4469e946e740aecb4e"
+    },
+    {
+      "path": "published/2026-10-06/index.html",
+      "bytes": 23296,
+      "sha256": "aa236c6d1af873cf05d29c2c1ed7738e6589b331e662e428bb116121f8a7e442"
+    },
+    {
+      "path": "published/2026-10-06/innovation.html",
+      "bytes": 52259,
+      "sha256": "4b6afa2eccde0005cfff3c39b47c65a45fee9d24e4f81ade40bb21558938de1c"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 213924,
+      "sha256": "8a413e27e36bb305fb21a3a45287eb106288d832df043f3d255d8ff563499a43"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "0a339c8f6c8eba77c74cfdea492c18e79fd4ec44166bdedcd7d4f9877627b9a9"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "f8f5bfe27972c72138a4b3874297cc20e7fabdba24e24febe87714ff257f72f9"
+    },
+    {
+      "path": "published/topics/us-clarity-act-market-structure-bill.html",
+      "bytes": 6326,
+      "sha256": "c69954ebe2abb105dc6e5b52d23b9f74d8263299f60940ddef672fa3a3f07ef6"
+    },
+    {
+      "path": "source/2026-10-06-report.txt",
+      "bytes": 40228,
+      "sha256": "4d33fccf7610af392bfcf63e5861ec13fcbe3a8d7154b9f9946eb3259ab1b8ca"
+    },
+    {
+      "path": "source/2026-10-06-summary.txt",
+      "bytes": 3093,
+      "sha256": "65e04a591b5e5822b43c82e8e73d2141998c16930fa08cae967cef9aa49c9786"
+    }
+  ]
+}

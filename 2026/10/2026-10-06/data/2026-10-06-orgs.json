@@ -1,0 +1,67 @@
+[
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "ChatGPT與Codex的開發商，美國主要生成式AI公司。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "Claude系列大型語言模型的開發商，主打企業與安全導向的AI。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "全球線上支付與金融基礎設施業者，提供收單、錢包與穩定幣相關服務。"
+ },
+ {
+  "name": "Trustly",
+  "url": "https://www.trustly.com",
+  "intro": "瑞典開放銀行支付業者，提供銀行帳戶直連的Pay by Bank服務。"
+ },
+ {
+  "name": "匯豐",
+  "url": "https://www.hsbc.com",
+  "intro": "總部位於英國的跨國銀行集團，亞洲與跨境貿易金融業務為重點。"
+ },
+ {
+  "name": "CaixaBank",
+  "url": "https://www.caixabank.com",
+  "intro": "西班牙大型零售銀行集團。"
+ },
+ {
+  "name": "美國銀行",
+  "url": "https://www.bankofamerica.com",
+  "intro": "美國大型銀行與金融控股公司，提供零售、企業與投資銀行業務。"
+ },
+ {
+  "name": "摩根大通",
+  "url": "https://www.jpmorganchase.com",
+  "intro": "美國最大銀行之一，業務涵蓋零售、企業與投資銀行。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國上市的加密資產交易與託管平台。"
+ },
+ {
+  "name": "Kraken",
+  "url": "https://www.kraken.com",
+  "intro": "國際加密資產交易所，母公司為Payward。"
+ },
+ {
+  "name": "洲際交易所",
+  "url": "https://www.ice.com",
+  "intro": "紐約證券交易所母公司，營運多個全球交易所與清算機構。"
+ },
+ {
+  "name": "PayPal",
+  "url": "https://www.paypal.com",
+  "intro": "全球線上支付平台，提供消費者與商家支付服務。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://usa.visa.com",
+  "intro": "全球最大卡片支付網路之一。"
+ }
+]

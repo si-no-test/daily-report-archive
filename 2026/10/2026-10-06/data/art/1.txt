@@ -1,0 +1,4 @@
+FINAL_URL: https://www.finextra.com/newsarticle/48532/basware-buys-payment-fraud-prevention-platform-trustpair
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

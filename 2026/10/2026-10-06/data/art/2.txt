@@ -1,0 +1,13 @@
+FINAL_URL: https://www.crowdfundinsider.com/2026/10/315905-versana-loan-voting-live-with-jp-morgan-morgan-stanley-and-bank-of-america-leading/
+STATUS: fail
+CHARS: 1317
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Versana says its Loan Voting platform is now live. The digital offering has earned support from top banks, including JPMorgan, Morgan Stanley , and Bank of America.
+The loan voting platform is designed to facilitate efficient amendments for broadly syndicated loan (BSL) and private credit markets. The goal is to serve the $9 trillion loan asset class largely driven by refinancings, repricings, maturity extensions, or restructurings.
+Cynthia Sachs , founding CEO of Versana, says growth in loan issuance and the number of buy-side lenders have driven amendment volumes up dramatically, while infrastructure has fallen behind.
+“We are transforming loan voting execution by enabling control, transparency and speed for agents while delivering greater position accuracy, visibility and confidence for lenders.”
+Via Versana Loan Voting, lenders may receive automated reminders for faster response times, and asset managers can seamlessly add new funds and digitally submit votes.
+Joseph Ferraiolo, Head of Debt Capital Markets Operations & Merchant Bank Policy at JP Morgan, says the tech will help them move faster for borrowers.
+Versana says the new release arrives at a time of growing momentum for the firm as it recently integrated Barclays’ agented BSL deals and raised $43 million.
+Sponsored Links by DQ Promote

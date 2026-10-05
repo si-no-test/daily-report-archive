@@ -1,0 +1,10 @@
+FINAL_URL: https://www.ithome.com.tw/news/179412
+STATUS: fail
+CHARS: 801
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Anthropic周五（10/2） 宣布推出Claude Frontier Academy ，並投入1億美元培訓企業AI人才，目標在2027年底前培養1萬名前線部署工程師（Frontier Deployed Engineers，FDE），協助企業將Claude導入實際工作流程與正式生產環境。首批學員來自Accenture、Bain、Capgemini、Deloitte、McKinsey、Morgan Stanley、Novo Nordisk及澳洲聯邦銀行等企業。
+近年主要AI與雲端業者都積極投入人才培訓。OpenAI設有OpenAI Academy，提供開發者、企業員工與管理者不同學習路徑；Google透過Google.org資助AI技能培訓；微軟提供Copilot相關課程與認證；AWS則推出AI Ready等免費培訓計畫。相較之下，Anthropic此次更聚焦企業實際部署，由企業提名工程師參訓，並要求學員回到原公司完成真實Claude專案。
+Anthropic認為，目前企業導入AI的瓶頸已不只是模型能力，而是缺乏能把AI真正接進既有系統與工作流程的人才。Claude Frontier Academy並非一般線上課程，而是直接培養負責企業部署的工程師。學員先接受數天密集訓練，演練企業導入Claude的完整流程，包括挑選使用情境、資安審查及系統交接。
+完成前期訓練後，學員還要回到自己的公司，以12周主導一項實際的Claude導入專案，期間由Anthropic工程師提供支援。這也意味Anthropic投入的1億美元，不只是培訓支出，而是直接協助客戶建立內部Claude部署能力，降低企業導入AI時對外部顧問或少數專家的依賴。
+目前培訓計畫已在舊金山、紐約及倫敦展開，採企業提名制，首批工程師預計於2027年初完成培訓。Anthropic則計畫在2027年底前培養1萬名前線部署工程師。

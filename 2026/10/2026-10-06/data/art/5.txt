@@ -1,0 +1,45 @@
+FINAL_URL: https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers
+STATUS: ok
+CHARS: 9092
+---CONTENT---
+U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers
+The derivatives regulator is proposing two rules meant to cover the waterfront of crypto activity and exchanges, as long as it's not simple, direct trading.
+By Jesse Hamilton | Edited by Nikhilesh De
+Oct 5, 2026, 11:54 a.m. EDT
+4 min read Make preferred on Share this article
+X (Twitter) LinkedIn Facebook Email
+The U.S. Commodity Futures Trading Commission is proposing a pair of related rules to govern trading of crypto that’s leveraged, margined or financed, establishing a new ype of exchange registration that would handle such transactions.
+The new crypto asset markets would be narrow form of the existing designated contract markets (DCMs) that are CFTC-regulated exchanges.
+The CFTC’s new rule proposals will be open for public-comment periods and are meant to answer some regulatory uncertainty left by the absence of a crypto market structure law from Congress.
+The Commodity Futures Trading Commission is proposing a pair of rules on Monday to establish U.S. cryptocurrency oversight under its powers to regulate leveraged and margin-dependent trades, trying to fill in regulatory uncertainties left by the inability of Congress to finish the job of passing a crypto law.
+The U.S. derivatives agency is pursuing two regulatory pathways it intends as a "comprehensive regulatory framework," according to agency officials — one that directly handles transactions and another that governs the firms hosting the activity. The latter will establish a new category of platforms known as crypto asset markets (CAMs).
+Crypto activity associated with leverage, margin or financing would fall into the CFTC's regulatory world under the rules. So, if traders want to use borrowed funds to amplify their positions, that would fall into this oversight.
+"Today, the CFTC is doing its part to deliver clear rules of the road for crypto asset markets with its advanced notice of proposed rulemaking on Regulation Crypto Asset Transactions (Regulation CTX) and Regulation Crypto Asset Markets (Regulation CAM)," CFTC Chairman Mike Selig said in remarks prepared for delivery at Fordham Law's annual Blockchain Regulatory Symposium . "These rules would codify a pathway for crypto asset exchanges to operate under uniform national oversight by the CFTC pursuant to the same statutory authorities that the prior administration instead utilized to regulate by enforcement."
+But the effort may continue to leave a significant gap because of the regulator's missing authority to oversee spot markets — the direct trading of crypto in which the assets change hands in their original form at current market prices, without leverage or margin considerations. That would include the unvarnished buying and selling of the largest swath of crypto tokens, such as bitcoin BTC $85,999.26 and Ethereum's ether ETH $2,718.20 , with one major exception: The CFTC can still police fraud and manipulation in those markets.
+The agency's new efforts otherwise can't touch or replace the states' money-transmission regulations as the governing rules of direct trading, though CFTC officials said that firms that want to offer more complex products would do so through tailored, CFTC-regulated platforms. The officials said they're not yet sure what the scale of the remaining spot market will be until they hear more from the industry in the 60-day public comment period these proposals are opening up, though they suggested that consumers may prefer to do business in the federally regulated space.
+Examining the intersection of cryptocurrency and government.
+By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy .
+Many of the major platforms are already registered as designated contract markets (DCMs), such as Coinbase, Crypto.com and Bitnomial, and also prediction markets Kalshi and Polymarket. The new crypto subcategory would be narrower than that full DCM status, but if firms want to pursue futures, swaps and options, they'll need the DCM stamp.
+Closing the spot-market gap was at the core of the Digital Asset Market Clarity Act that stalled in the U.S. Senate last month. Since that legislative setback, the CFTC — alongside its larger, sister agency, the Securities and Exchange Commission — has been moving forward on crypto policies to make up for the absence of a new U.S. market structure law.
+The SEC had moved well ahead of the CFTC in proposing rules — including one late last week on how investment firms should maintain custody of crypto assets — and implementing an exemption that clears the way for securities tokenization. With Monday's actions, the CFTC is catching up, and officials suggested that more will come later, because Chairman Selig wants to further cement some of the earlier staff guidance on crypto matters.
+Both agencies are currently led by only Republican commissioners as President Donald Trump still hasn't offered any nominees to fill each five-member commission. At the SEC, that's now just Chairman Paul Atkins and Commissioner Mark Uyeda. At the CFTC, Chairman Mike Selig has been the sole commissioner for nearly a year, meaning he has been taking unilateral actions akin to agencies established with a single director.
+Earlier this year, the two agencies worked together to issue what they referred to as a token taxonomy that, for the first time, tried to clearly define how they would characterize the assets that would fall either under the SEC's or the CFTC's authority. The SEC had been working on rules governing whatever lands in its jurisdiction , and the CFTC is now joining to outline the regulations on its side of the divide.
+The CFTC's proposed rules are set within the Commodity Exchange Act's retail-trading elements established under the 2010 Dodd-Frank Act. That financial-system overhaul was meant to further protect consumers after the economic meltdown of 2008.
+The new CAM regulatory status is meant as an option that exchanges can pursue, akin to the tailored types of charters available in the regulated banking sector. But they'll be held to the kind of standards already in place for other registrants, including a prohibition against listing products that could be vulnerable to manipulation and “proof-of-reserves” demands for exchanges that keep customer assets in omnibus accounts.
+Crypto trading activity under the Regulation CTX definitions would also require futures commission merchants (FCMs) act as intermediaries, according to the agency, ensuring the involvement of Bank Secrecy Act money-laundering safeguards.
+The agency's "actual delivery" exemption will also allow for transactions to be exempt that involve the real exchange of assets in less than 28 days.
+Selig additionally said in his speech that his agency is looking into policies meant to protect software developers who are creating products but aren't themselves soliciting or taking orders or holding customers' funds. "A person should not have to register as an introducing broker simply because that person shipped code," he said.
+Bitcoin $85,999.26 0.58 %
+Ethereum $2,718.00 0.32 %
+1 Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on 3 hours ago
+2 More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works 5 hours ago
+3 Stripe to expand stablecoin cards to over 100 countries by the end of the year 9 hours ago
+4 An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger 10 hours ago
+5 SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings 11 hours ago
+6 Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network 12 hours ago
+7 Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC 12 hours ago
+8 Bitcoin resilience tested as U.S. dollar climbs to 18-month high 12 hours ago
+9 Live updates: Bitcoin under pressure as rates continue to rise 12 hours ago
+10 Card
+
+[已截斷：全文 9092 字元，僅輸出前 8000]

@@ -1,0 +1,46 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "us-clarity-act-market-structure-bill",
+  "headline": "CFTC針對Regulation CTX與CAM提出規則預告，公眾意見期60天",
+  "one_line_update": "10月5日：CLARITY法案於參議院受阻後，CFTC提出Regulation CTX與CAM規則預告，以槓桿、保證金與融資交易為切入點建立聯邦登記框架，現貨市場監管缺口仍在。",
+  "source_title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+  "source_url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ }
+]

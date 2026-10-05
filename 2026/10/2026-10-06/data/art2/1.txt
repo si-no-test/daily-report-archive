@@ -1,0 +1,57 @@
+FINAL_URL: https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works
+STATUS: ok
+CHARS: 8526
+---CONTENT---
+More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works
+The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.
+By Helene Braun , Krisztian Sandor | Edited by Aoyon Ashraf
+Updated Oct 5, 2026, 1:49 p.m. EDT Published Oct 5, 2026, 1:18 p.m. EDT
+4 min read Make preferred on Share this article
+X (Twitter) LinkedIn Facebook Email
+OKX and NYSE owner ICE plan a 24/7 blockchain market for tokenized U.S. stocks including Nvidia, Tesla and Apple.
+Each stock token would be backed one-for-one by an underlying share, with investors trading against blockchain-based liquidity pools using stablecoins.
+The platform could test demand for round-the-clock U.S. stock trading, though corporate objections, liquidity concerns and temporary regulatory relief may limit adoption.
+Nvidia, Tesla, Apple and Microsoft are among dozens of U.S. stocks that could soon be available to trade 24 hours a day, seven days a week on a new blockchain-based market from crypto exchange OKX and the owner of the New York Stock Exchange.
+A regulatory filing from OKXICE, a joint venture between OKX and NYSE owner Intercontinental Exchange, listed more than 60 securities it plans to offer in tokenized form and explained how the new market would work.
+The list includes Nvidia, Tesla, Apple, Microsoft, Amazon and Alphabet, as well as crypto-linked companies Coinbase, Circle, Robinhood, Strategy and Securitize. JPMorgan, Goldman Sachs, Walmart, Netflix, Reddit and Boeing are also among the names.
+But inclusion in the filing doesn’t guarantee that every stock will trade on the platform, as companies can object to having their shares included during a 30-day window. Cerebras, for example, objected to the inclusion of its stock, according to the filing.
+“No symbol is a given,” TD Securities analysts wrote in a report on Monday.
+For investors, the easiest way to understand tokenization is to think of a familiar stock represented by a digital token that can be bought and sold on a blockchain.
+Take Nvidia. Instead of buying the stock through a traditional brokerage account and having the trade processed through the legacy stock-market system, an investor on OKXICE would buy a digital token representing an entitlement to an Nvidia share.
+The filing said the underlying stock would be held by a registered broker-dealer on a one-for-one basis, meaning one Nvidia token would be backed by one Nvidia share. Token holders would also be entitled to the economic and shareholder rights that come with the stock, including dividends and voting rights.
+Rather than paying in dollars, investors on the new platform would buy and sell tokenized stocks using digital dollars known as stablecoins. OKXICE plans to support USDC, USDT and USDG, three cryptocurrencies designed to maintain a $1 value.
+There also won't be the traditional system of matching a buyer's order with a seller's order. Instead, the stock tokens and digital dollars will sit in blockchain-based pools that investors can trade against. Buying Nvidia tokens takes them out of the pool and adds digital dollars, pushing the price higher. Selling does the reverse.
+The pools, known in crypto as automated market makers, or AMMs, use rules to determine the price at which investors can buy and sell. More sophisticated versions can also allow professional trading firms to actively adjust prices and the amount of stock available, potentially making the market behave more like a conventional exchange.
+Crypto Daybook Americas - The latest moves in crypto markets, in context
+Market analysis for crypto traders and investors.
+By signing up, you will receive emails about CoinDesk products and you agree to our terms & conditions and privacy policy .
+TD Securities said these automated market makers, or AMMs, could take several forms. A conventional version, for example, would set prices using a mathematical formula based on the assets in a pool. But the bank thinks that more actively managed designs could matter more for stock trading.
+“We see Prop AMMs and managed Multi-Pool Venues as much more consequential than conventional AMM models,” the analysts said, arguing that liquidity providers can actively adjust prices and inventory and are “less likely to be picked off by stale prices.”
+Under that model, a market maker would set prices using market data and its own inventory, while another could combine several liquidity pools into a venue that resembles a traditional stock exchange.
+That system is similar to the technology already used by decentralized crypto exchanges, but OKXICE plans to apply it to stocks. The trades would take place on XLayer, a blockchain developed by OKX, and the pools will use decentralized exchange Uniswap’s plumbing.
+There is another major difference: trading doesn't stop when Wall Street closes.
+OKXICE plans to operate around the clock, including nights and weekends.
+That means an investor could theoretically buy or sell tokenized Nvidia on a Sunday afternoon, even though Nvidia's shares aren't trading on Nasdaq at the time. Prices on the new venue would be determined by buying and selling in its own pools rather than simply being set by the latest Nasdaq price.
+The market also won't be open to anonymous users. Investors will have to undergo identity and anti-money-laundering checks before they can trade, according to the filing.
+So while the investment may look familiar — a token backed by a share of Nvidia, with dividends and voting rights — the machinery underneath it is very different.
+Whether investors embrace it is another question, however.
+TD Securities said it still sees “limited near-term relevance for institutional investors,” in part because U.S. investors already have efficient access to listed stocks. It also pointed to weak interest from companies in having their shares tokenized and uncertainty around the regulatory framework.
+The SEC relief lasts five years rather than establishing permanent rules, which could make large financial firms reluctant to spend money connecting their systems to a market whose regulatory foundation could later change.
+The bigger test will be whether enough investors and trading firms participate to keep prices closely aligned with the traditional stocks, particularly overnight and on weekends when U.S. exchanges are closed.
+However, the venue will be the first test of appetite from both traders and corporations for tokenized stocks. "The biggest takeaway is NOT that OKXICE is launching another tokenized-stock venue," said Harvey Li, founder of Tokenization Insight.
+"It is that OKXICE could become one of the first real-world tests of which tokenization model can scale U.S. equities onchain the fastest, and ultimately become the dominant market structure."
+1 Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on 3 hours ago
+2 U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers 7 hours ago
+3 Stripe to expand stablecoin cards to over 100 countries by the end of the year 9 hours ago
+4 An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger 10 hours ago
+5 SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings 11 hours ago
+6 Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network 12 hours ago
+7 Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC 12 hours ago
+8 Bitcoin resilience tested as U.S. dollar climbs to 18-month high 12 hours ago
+9 Live updates: Bitcoin under pressure as rates continue to rise 12 hours ago
+10 Cardano's ADA leads gains in narrow range-bound market 12 hours ago
+The Definitive Stablecoin Landscape Series: Asia Pacific
+The Definitive Stablecoin Landscape Series: Asia Pacific
+As stablecoins move into regulated finance, APAC is becoming a key proving ground. This report maps the re
+
+[已截斷：全文 8526 字元，僅輸出前 8000]
