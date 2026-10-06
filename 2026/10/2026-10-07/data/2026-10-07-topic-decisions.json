@@ -1,0 +1,8 @@
+[
+{"action":"skip"},{"action":"skip"},{"action":"skip"},
+{"action":"create","topic_id":"us-fintech-fed-payment-rail-access","title":"美國金融科技取得聯準會支付軌道接取（PACE法案）進程","theme":"innovation","keywords":["聯準會","支付軌道","PACE","Fedwire","FedNow","Stripe","Ramp"],"headline":"Stripe於9月25日在費城聯準會金融科技年會上呼籲開放聯準會支付軌道，並與Ramp共同支持PACE法案","one_line_update":"Stripe與Ramp在費城聯準會年會上主張非銀行業者應可接取Fedwire、FedNow與FedACH；PACE法案無參議院版本，本屆國會通過機會有限。","source_title":"Fintechs press for Fed access","source_url":"https://www.paymentsdive.com/news/fintechs-press-for-fed-access/832233/"},
+{"action":"skip"},{"action":"skip"},{"action":"skip"},{"action":"skip"},
+{"action":"create","topic_id":"okx-ice-tokenized-stock-venue","title":"OKX與ICE合資的代幣化美股24小時交易場域推進","theme":"blockchain","keywords":["OKX","ICE","OKXICE","代幣化股票","穩定幣","SEC"],"headline":"OKX於10月6日宣布獲Circle、Ripple、QRT與渣打創投SC Ventures新一輪投資，估值維持250億美元","one_line_update":"OKX延伸3月由ICE領投的融資，新增Circle、Ripple、QRT與SC Ventures為投資人；OKXICE本週向SEC送件規劃以穩定幣交易63檔美股代幣。","source_title":"OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots","source_url":"https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots"},
+{"action":"skip"},
+{"action":"create","topic_id":"uk-digital-gilt-digit-pilot","title":"英國數位政府債券（DIGIT）試點發行進程","theme":"blockchain","keywords":["DIGIT","數位政府債券","英國","分散式帳本","鏈上結算"],"headline":"英國政府於10月6日選定6家銀行擔任DIGIT試點發行聯合主辦行，預計2027年第一季發行","one_line_update":"英國政府選定6家銀行擔任數位政府債券DIGIT試點發行的聯合主辦行，試點將測試分散式帳本與鏈上結算，預計2027年第一季前發行。","source_title":"UK picks banks as lead managers for digital gilt pilot","source_url":"https://www.finextra.com/newsarticle/48541/uk-picks-banks-as-lead-managers-for-digital-gilt-pilot"}
+]

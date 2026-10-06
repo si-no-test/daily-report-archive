@@ -1,0 +1,13 @@
+[
+{"title":"- **益博睿（Experian）**於10月6日推出受《公平信用報告法》規範的現金流資料局Experian Cashflow Data Bureau，稱現金流資料搭配信用資料可將預測表現最多提升40%","summary":"Experian成立FCRA規範下的消費者報告機構，匯整經消費者授權的銀行帳戶交易資料供放款機構授信使用。","theme":"innovation"},
+{"title":"- **Stripe**於10月6日與聯邦快遞（FedEx）旗下FedEx Dataworks宣布策略合作，計畫2027年以物流訊號輔助Stripe Capital的中小企業放款","summary":"雙方結合出貨、庫存與履約數據與Stripe金融基礎設施，以營運訊號取代銀行對帳單判斷中小企業融資。","theme":"innovation"},
+{"title":"- **Tekion**於9月底與Increase、Core Bank宣布在汽車經銷商管理系統內嵌入營運銀行帳戶，該平台服務逾2,000家經銷商","summary":"經銷商可在Tekion Automotive Retail Cloud內開立FDIC保險帳戶並發動付款，首要場景為應付帳款。","theme":"innovation"},
+{"title":"- **Stripe**於9月25日在費城聯邦準備銀行金融科技年會上呼籲開放聯準會支付軌道，並與Ramp共同支持PACE法案","summary":"Stripe與Ramp主張非銀行金融科技應取得Fedwire、FedNow與FedACH接取，PACE法案將由OCC監督。","theme":"innovation"},
+{"title":"- **Erebor Bank**據英國金融時報報導存款已逾70億美元，該行於今年2月取得銀行執照","summary":"俄亥俄州哥倫布市數位銀行Erebor自取得執照後存款規模快速成長至約70億美元。","theme":"innovation"},
+{"title":"- **摩根大通（JPMorgan Chase）**執行長戴蒙（Jamie Dimon）於10月6日向彭博電視表示，AI相關威脅在Anthropic的Mythos模型問世後上升10倍","summary":"戴蒙指AI帶來過去未知的漏洞，銀行正投入修補，並稱不會對是否構成生存威脅歇斯底里。","theme":"ai"},
+{"title":"- **Evident**於10月6日發布年度AI指數，50家全球大型金融機構中僅1家未訂負責任AI原則，摩根大通與Capital One居AI成熟度前二","summary":"報告顯示銀行AI治理成熟，具負責任AI原則者由2023年的16家升至49家，回報AI投資報酬者增至12家。","theme":"ai"},
+{"title":"- **DNB**於10月6日宣布裁減400名技術團隊員工並加碼投資AI代理","summary":"挪威最大銀行DNB在裁減400名技術人員的同時增加AI代理投資。","theme":"ai"},
+{"title":"- **OKX**於10月6日宣布獲Circle、Ripple、QRT與渣打創投SC Ventures新一輪投資，估值維持250億美元","summary":"OKX延伸3月由ICE領投的融資，新投資人涵蓋穩定幣發行商、支付基礎設施與銀行創投。","theme":"blockchain"},
+{"title":"- **Solana基金會**於10月6日發表開源交割對付（DvP）程式Solana DvP，摩根大通提供交割需求輸入","summary":"Solana DvP讓資產與款項在單一原子交易中數秒內完成交割，已通過外部安全稽核。","theme":"blockchain"},
+{"title":"- **英國政府**於10月6日選定6家銀行擔任數位政府債券（DIGIT）試點發行的聯合主辦行，預計2027年第一季發行","summary":"DIGIT試點將測試分散式帳本與鏈上結算於英國主權債。","theme":"blockchain"}
+]

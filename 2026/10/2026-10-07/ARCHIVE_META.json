@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-07",
+  "archived_at": "2026-10-06T23:18:03Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "e0048ad9556854167794b6dc431093461efba372",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 22,
+  "total_bytes": 626646,
+  "files": [
+    {
+      "path": "data/2026-10-07-candidates.txt",
+      "bytes": 69790,
+      "sha256": "c18c19a65b414e05c7dc02b5c3408e39d1b0dffdefb6a5afa63d88b2c7a143c6"
+    },
+    {
+      "path": "data/2026-10-07-glossary.json",
+      "bytes": 1682,
+      "sha256": "9e925d3bc20d902d8b569f1a32a555c9bed4cdf01a95c3505899551fad0a277d"
+    },
+    {
+      "path": "data/2026-10-07-manifest.txt",
+      "bytes": 3460,
+      "sha256": "65506f2e4579dbeee9b9547fa531cf0ae21dd75e52cb5175320b17f86a859f8a"
+    },
+    {
+      "path": "data/2026-10-07-orgs.json",
+      "bytes": 2321,
+      "sha256": "3117cf69b168dba5a0ea6eb68a9f0989fdf08c09bd708f91cc44a468bfd7abc2"
+    },
+    {
+      "path": "data/2026-10-07-topic-cases.json",
+      "bytes": 3272,
+      "sha256": "51baff112dc80f02e1bfb55eb128c8055a2ec14322229e56a5d35130cbdb6158"
+    },
+    {
+      "path": "data/2026-10-07-topic-decisions.json",
+      "bytes": 2394,
+      "sha256": "0d4b22ba0c803dae0c03a65617259e799e25a751f49ab74b29959eedaf3772b9"
+    },
+    {
+      "path": "data/2026-10-07.json",
+      "bytes": 19483,
+      "sha256": "c380a41675b989733b10ddb0f18374e7ad5e74ba5b0098065fe0e665f074ae08"
+    },
+    {
+      "path": "outbox/2026-10-07-archive.html",
+      "bytes": 99573,
+      "sha256": "710b22d954724a0ed87f18ff2e20be79a08bc8538e58c96e9fb8b4fed8be53e7"
+    },
+    {
+      "path": "outbox/2026-10-07-email.html",
+      "bytes": 10340,
+      "sha256": "596660977466cc8dc4fbaa6e11d15d33774680630024ecae7d3714b7656b4f0f"
+    },
+    {
+      "path": "published/2026-10-07.html",
+      "bytes": 555,
+      "sha256": "8084d5679e013f97c55ae8eb48a0b6f62121bdcfdcb5558ddb98b0f48331a71e"
+    },
+    {
+      "path": "published/2026-10-07/ai.html",
+      "bytes": 34490,
+      "sha256": "96a516be5c260ed68d2ba04646fa5785b93e21a49071fb89fcb86f4f80e7e41d"
+    },
+    {
+      "path": "published/2026-10-07/blockchain.html",
+      "bytes": 40778,
+      "sha256": "6c4d5861f9c12da5c9cfe695cb9df76ac7065f08f8ef4e8fbed376b2089d4ce6"
+    },
+    {
+      "path": "published/2026-10-07/index.html",
+      "bytes": 23269,
+      "sha256": "8aa6326ea454d6540894a1e2f94c10fd1613bfe41fff6dd3b072605e7af94941"
+    },
+    {
+      "path": "published/2026-10-07/innovation.html",
+      "bytes": 53739,
+      "sha256": "7eb1e124328fe7da7a538423caff5e65572fd6846092473ac59b3c722fbc3737"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 218017,
+      "sha256": "6b77ce7e0eceac94aeeb8938f0e5979193d0d5f0d0ab582e070ab87c33b53dcf"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "ce6fd5c899fdd62883bfadce5f19c79a8a789b50ec14080eccceb5dd0dd83dc9"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "8084d5679e013f97c55ae8eb48a0b6f62121bdcfdcb5558ddb98b0f48331a71e"
+    },
+    {
+      "path": "published/topics/okx-ice-tokenized-stock-venue.html",
+      "bytes": 1634,
+      "sha256": "9d9c37627ae63fbc9d59e22bb539b24b39d55defd33adb1e57028af14773aa43"
+    },
+    {
+      "path": "published/topics/uk-digital-gilt-digit-pilot.html",
+      "bytes": 1551,
+      "sha256": "997e042bd3296570dacec36d38af1b01d13eaf90a48fb5f30736d3a9057e0fc4"
+    },
+    {
+      "path": "published/topics/us-fintech-fed-payment-rail-access.html",
+      "bytes": 1549,
+      "sha256": "ace4ecff659f5219ecbff2d87ef710cbc9483230b0217a909b599db9736bbc12"
+    },
+    {
+      "path": "source/2026-10-07-report.txt",
+      "bytes": 35285,
+      "sha256": "0210481ddface9f0ae11ec1c1b6804a12cb50f4a217c9b3fbaf5d7bce2327dfe"
+    },
+    {
+      "path": "source/2026-10-07-summary.txt",
+      "bytes": 2117,
+      "sha256": "fc1d9c765e11da327831e31ad85492b3ca42a546266ca438650ea1c87bae7f4f"
+    }
+  ]
+}
