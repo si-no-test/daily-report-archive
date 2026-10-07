@@ -1,0 +1,8 @@
+[
+{"title":"- **SAP**於10月6日推出內嵌於SAP Cloud ERP的支付服務SAP Pay，支援ACH、電匯、支票與穩定幣跨境結算","summary":"SAP Pay由旗下Tereina驅動，於發票到期時直接在ERP執行付款並對帳，美國與英國已正式供應。","theme":"innovation"},
+{"title":"- **麥肯錫（McKinsey）**於9月25日發布全球支付報告，指出支付收入占銀行業營收約41%，但成長率由年均11%降至3%","summary":"報告指出2025年全球支付營收2.6兆美元，預估2030年達3.2兆美元，代理式商務可能衝擊卡片費收。","theme":"innovation"},
+{"title":"- **微軟（Microsoft）**於10月7日宣布Microsoft Execution Containers在Windows 11正式上市，並推出搭載輝達RTX Spark晶片的Surface Laptop Ultra","summary":"MXC讓企業定義AI代理可存取的檔案與網路並在執行期強制，Windows定位為本機與雲端並用的混合智慧平台。","theme":"ai"},
+{"title":"- **Sierra**於10月6日宣布與Meta、Walmart、Shopify、Stripe共同開發Personal Agent Protocol，因應網站封鎖個人AI代理的問題","summary":"Amazon已封鎖Meta的Muse代理，Walmart等網站的人機驗證也讓代理購物失敗，業界轉向制定代理與企業溝通的開放標準。","theme":"ai"},
+{"title":"- **Rain**於10月7日向美國通貨監理署（OCC）申請設立全國性信託銀行，成為第12家申請此類執照的加密業者","summary":"Rain National Trust Bank不收存款、不放款，提供數位資產與美元託管、穩定幣準備金管理與發行贖回。","theme":"blockchain"},
+{"title":"- **哈薩克國家銀行（National Bank of Kazakhstan）**於10月7日與Tether簽署備忘錄，探討與坚戈掛鉤的穩定幣及資產代幣化試點","summary":"備忘錄為探索性質，不承諾發行；Tether的Hadron平台可能用於阿拉套市特殊法律制度下的代幣化試點。","theme":"blockchain"}
+]

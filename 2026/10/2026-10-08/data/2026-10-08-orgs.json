@@ -1,0 +1,9 @@
+[
+{"name":"SAP","url":"https://www.sap.com","intro":"德國企業軟體大廠，以ERP與財務自動化解決方案聞名。"},
+{"name":"微軟","url":"https://www.microsoft.com","intro":"美國科技巨擘，主力產品包括Windows作業系統、Azure雲端與Copilot AI助理。"},
+{"name":"輝達","url":"https://www.nvidia.com","intro":"全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"},
+{"name":"Stripe","url":"https://stripe.com","intro":"美國線上支付與金融基礎設施業者，提供商家收款、帳務與融資服務。"},
+{"name":"匯豐","url":"https://www.hsbc.com","intro":"總部位於倫敦的全球性銀行集團，業務橫跨英國與亞洲市場。"},
+{"name":"Tether","url":"https://tether.to","intro":"美元穩定幣USDT的發行商，為全球流通量最大的穩定幣業者。"},
+{"name":"富國銀行","url":"https://www.wellsfargo.com","intro":"美國大型銀行，業務涵蓋零售銀行、財富管理與企業金融。"}
+]
