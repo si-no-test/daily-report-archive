@@ -1,0 +1,52 @@
+[
+ {
+  "name": "谷歌",
+  "url": "https://www.google.com",
+  "intro": "美國科技巨擘，旗下有 Google Cloud 與 Gemini AI 模型。"
+ },
+ {
+  "name": "Robinhood",
+  "url": "https://robinhood.com",
+  "intro": "美國以零手續費聞名的線上券商與投資 App，近年擴及加密資產與 AI 代理交易。"
+ },
+ {
+  "name": "Revolut",
+  "url": "https://www.revolut.com",
+  "intro": "總部位於英國的數位銀行與金融科技公司，提供跨境匯兌、帳戶與投資服務。"
+ },
+ {
+  "name": "TrueLayer",
+  "url": "https://truelayer.com",
+  "intro": "英國開放銀行與銀行轉帳支付平台，提供商家直接以銀行帳戶收款的服務。"
+ },
+ {
+  "name": "Securitize",
+  "url": "https://securitize.io",
+  "intro": "專注資產代幣化的美國業者，曾協助發行貝萊德的區塊鏈貨幣市場基金。"
+ },
+ {
+  "name": "歐洲證券市場管理局",
+  "url": "https://www.esma.europa.eu",
+  "intro": "歐盟層級的證券與市場監管機構，負責協調各國對加密資產與金融市場的監理。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "美國 AI 公司，開發 Claude 系列模型。"
+ },
+ {
+  "name": "三星電子",
+  "url": "https://www.samsung.com",
+  "intro": "南韓電子與行動裝置大廠，旗下 Samsung Wallet 提供支付與數位憑證服務。"
+ },
+ {
+  "name": "美國運通",
+  "url": "https://www.americanexpress.com",
+  "intro": "美國信用卡與支付服務公司，兼具發卡與卡片網路角色。"
+ },
+ {
+  "name": "美國通貨監理署",
+  "url": "https://www.occ.treas.gov",
+  "intro": "美國財政部下的獨立機構，負責核發與監理全國性銀行執照。"
+ }
+]

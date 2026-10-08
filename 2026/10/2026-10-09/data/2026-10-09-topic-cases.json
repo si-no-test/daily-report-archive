@@ -1,0 +1,52 @@
+[
+ {
+  "title": "- **TrueLayer**於10月8日宣布完成2,700萬美元融資，累計募資達3.488億美元，由義大利CDP Venture Capital領投",
+  "summary": "① 事件說明：英國開放銀行平台 TrueLayer 於本週完成 2,700 萬美元融資，由義大利 CDP Venture Capital 領投，加上先前已募得的 3.218 億美元，累計募資達 3.488 億美元。全文揭露該公司成立於 2016 年，每年透過其平台處理 1,500 億美元的銀行轉帳支",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **美國運通（American Express）**於10月8日遭美國通貨監理署（OCC）處以3.5億美元民事罰款，原因是反洗錢計畫缺失，涉及約130億美元可疑洗錢活動",
+  "summary": "① 事件說明：OCC 與聯邦準備理事會（Fed）於10月8日同步對美國運通採取執法行動。OCC 對旗下美國運通國家銀行（American Express National Bank）發出停止令，並處以 3.5 億美元民事罰款；Fed 則對美國運通與其旅遊相關服務子公司發出停止令。OCC 指出該銀行的",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Robinhood**於9月29日推出Robinhood Agents，截至9月底已有逾15萬名客戶開立代理交易帳戶",
+  "summary": "① 事件說明：Robinhood 於 9 月 29 日的 HOOD Summit 發表 Robinhood Agents，客戶可在 App 內選擇 AI 模型、設定指令與限額，並以專用的代理交易帳戶出資，讓代理研究市場、制定策略並執行交易，預設需要人工核准每筆交易，使用者可改為自動執行。這項產品延續",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Early Warning Services 旗下 Certos**於10月8日公布調查，81%的企業財務主管表示過去一年遭遇涉及 AI 的詐騙企圖",
+  "summary": "① 事件說明：美國早期預警服務公司（Early Warning Services）旗下詐騙防制單位 Certos 於 8 月 7 日至 21 日調查 230 位資深財務主管（含 79 位財星 500 大企業、127 位創投支持企業、24 個慈善組織），結果顯示 81% 的受訪者表示公司過去一年遭遇涉",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **谷歌（Google）**於10月8日在Google Cloud活動宣布推出企業版Gemini代理，Gemini月活躍用戶逾10億",
+  "summary": "① 事件說明：谷歌在 Google Cloud 活動中於10月8日宣布推出統一的 Gemini 代理，能規劃工作、使用自訂技能與工具、連接企業內部系統，並把工作委派給子代理。谷歌執行長皮查伊（Sundar Pichai）表示 Gemini 月活躍用戶逾 10 億，近 90% 的財星 100 大企業使",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Goodfire**於10月8日推出AI代理內部監控器，在約1,500場工作階段的測試中成本約51美元",
+  "summary": "① 事件說明：專注於可解釋性的新創 Goodfire 於10月8日推出監控器，讓 Baseten 平台客戶能監看 AI 模型運作時的內部訊號，而不只是讀它輸出的文字。在以 Kimi K3 為基礎的測試中，監控約 1,500 場工作階段的成本約 51 美元，相較於用較便宜的模型逐步檢查約 233 美元",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Anthropic**於10月7日推出Claude Haiku 5.5，宣稱價格為前代Haiku 4.5的十分之一",
+  "summary": "① 事件說明：PYMNTS 報導，Anthropic 於 10 月 7 日推出最快的模型 Claude Haiku 5.5，宣稱多數請求價格為前代 Haiku 4.5 的十分之一，平均約低 75%，鎖定客服、摘要與資料查詢等高頻工作，並提供五段思考強度設定；金融研究公司 Rogo 已用於快速查詢，A",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Securitize**於10月8日宣布推出Securitize Stocks，首批把蘋果、輝達、特斯拉等12檔美股以一比一代幣上線Solana",
+  "summary": "① 事件說明：Securitize 於10月8日宣布推出 Securitize Stocks，首批涵蓋 12 家美國公司，包括蘋果、輝達、特斯拉、微軟、亞馬遜、Alphabet、Meta、Netflix、Circle、Strategy 與 Palantir，代幣由實際股票一比一支持，保留股息與投票權",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **歐洲證券市場管理局（ESMA）**於10月8日發布意見，要求加密平台最遲三個月內結束與不符MiCA規範穩定幣相關的客戶曝險，期限落在2027年1月8日",
+  "summary": "① 事件說明：ESMA 於10月8日以意見書形式向各國主管機關發布指引，要求獲授權的加密資產服務提供商（CASP）停止提供涉及不符《加密資產市場法規》（MiCA）的資產參考代幣與電子貨幣代幣服務，包括交易、轉換、保管、轉帳、諮詢與投資組合管理。指引未點名代幣，但 Tether 發行的 USDT 是最",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **三星電子（Samsung）**宣布自10月最後一週起，在美國約8,200萬台符合資格的Galaxy裝置的Samsung Wallet推出USDC轉帳功能",
+  "summary": "① 事件說明：PYMNTS 報導，三星於10月8日宣布，自 10 月最後一週起，將在 Samsung Wallet 內推出 USDC 功能，涵蓋約 8,200 萬台美國符合資格的 Galaxy 裝置；The Block 報導該功能內建於錢包並設有法幣出入金，而非獨立加密 App。同週，SAP 於 1",
+  "theme": "blockchain"
+ }
+]

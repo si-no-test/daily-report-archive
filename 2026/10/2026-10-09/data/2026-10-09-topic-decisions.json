@@ -1,0 +1,51 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "okx-ice-tokenized-stock-venue",
+  "headline": "Securitize於10月8日推出Securitize Stocks，首批12檔美股代幣上線Solana",
+  "one_line_update": "Securitize推出一比一代幣化美股，計畫後續進入OKXICE代幣化證券場館與NYSE規劃中的24小時平台，須視場館啟動與監管核准。",
+  "source_title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+  "source_url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works"
+ },
+ {
+  "action": "create",
+  "topic_id": "eu-mica-noncompliant-stablecoin-wind-down",
+  "title": "歐盟不合規穩定幣下架時程（ESMA／MiCA）",
+  "theme": "blockchain",
+  "keywords": [
+   "ESMA",
+   "MiCA",
+   "穩定幣",
+   "USDT",
+   "CASP"
+  ],
+  "headline": "ESMA於10月8日要求加密平台最遲三個月內結束不合規穩定幣客戶曝險",
+  "one_line_update": "ESMA發布意見，要求CASP停止涉及非MiCA合規穩定幣的服務，各國監管機關須使剩餘客戶持倉最遲於2027年1月8日前處理完畢。",
+  "source_title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+  "source_url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins"
+ },
+ {
+  "action": "skip"
+ }
+]

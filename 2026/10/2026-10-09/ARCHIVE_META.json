@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-09",
+  "archived_at": "2026-10-08T23:19:55Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "6b2d2a02180526649a57a54de35c29788ade9698",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 649146,
+  "files": [
+    {
+      "path": "data/2026-10-09-candidates.txt",
+      "bytes": 70627,
+      "sha256": "b5361fa99e9b0e64144c6a88dba7f62b7dd56639e45654e30a6a7870ca449a1e"
+    },
+    {
+      "path": "data/2026-10-09-glossary.json",
+      "bytes": 2419,
+      "sha256": "694220f5403d664ccc324bd60fbaa90a0096b5d7ab7278a332324a181fec0963"
+    },
+    {
+      "path": "data/2026-10-09-manifest.txt",
+      "bytes": 3460,
+      "sha256": "0b5b880a8bb07efa7f8a7f76681167155cb2a9eb17989e01cfb7a5c40292362b"
+    },
+    {
+      "path": "data/2026-10-09-orgs.json",
+      "bytes": 1713,
+      "sha256": "eb30786d4b27e765f311e1da10a4949393773596eb1c52bdf69de3d8b46da6df"
+    },
+    {
+      "path": "data/2026-10-09-topic-cases.json",
+      "bytes": 5280,
+      "sha256": "773db5cae4584737951160721997e14118e5a0625fcf241cf60bc1a556e38794"
+    },
+    {
+      "path": "data/2026-10-09-topic-decisions.json",
+      "bytes": 1636,
+      "sha256": "de2299523386e988637c02653b3945235f6ad1b2774398b652c9a611f5f1c26f"
+    },
+    {
+      "path": "data/2026-10-09.json",
+      "bytes": 18831,
+      "sha256": "f46e76d5935c1bb01eae8f35ab13e16409bd99e6878518ebd0e53b71f9b864c4"
+    },
+    {
+      "path": "outbox/2026-10-09-archive.html",
+      "bytes": 103474,
+      "sha256": "ec75e7ddd8d26a2cb20e8866a2b6a7a8d33903678db3c117bc81e298eeccabe9"
+    },
+    {
+      "path": "outbox/2026-10-09-email.html",
+      "bytes": 10770,
+      "sha256": "470e878c8ffd1364f42f05adaf8b4d53b9e554389d27bcbb50021eb270d866c7"
+    },
+    {
+      "path": "published/2026-10-09.html",
+      "bytes": 555,
+      "sha256": "7b4e83f8fd60240173765a0c4d3731c2d93dd6271704ee7a8238c1e9fa46effd"
+    },
+    {
+      "path": "published/2026-10-09/ai.html",
+      "bytes": 37429,
+      "sha256": "9cd6546f4d5d54af873c1b8fca38cae1e45e3bf204d33a9899e53654615c7939"
+    },
+    {
+      "path": "published/2026-10-09/blockchain.html",
+      "bytes": 43600,
+      "sha256": "81c8d0f6803e3e634336884db06e11ab1cb5dbf047bf404af11452f9d69b57ae"
+    },
+    {
+      "path": "published/2026-10-09/index.html",
+      "bytes": 22830,
+      "sha256": "5b409056cd4775e3b9fb4af93b90615a56ae16af02fd758c5aaf7bd05cc01bce"
+    },
+    {
+      "path": "published/2026-10-09/innovation.html",
+      "bytes": 55057,
+      "sha256": "1b95ad1e1c74859db4e1303e2e9787f2edd7a20f33c861ed9a902273df284c74"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 225705,
+      "sha256": "a516e06a30b4961a1dfaba8b09b1b5b9abf1e402abe1c12df42ab55b6439da22"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "cd3b10e6ffa74d9179ff49b62617a313dad175a939433bf3eacfe514b3db3091"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "7b4e83f8fd60240173765a0c4d3731c2d93dd6271704ee7a8238c1e9fa46effd"
+    },
+    {
+      "path": "published/topics/eu-mica-noncompliant-stablecoin-wind-down.html",
+      "bytes": 1589,
+      "sha256": "98b7b4c5ba4588d7ed4157c505e0f107b69e8c0ad3b7da349eb471c37e262026"
+    },
+    {
+      "path": "published/topics/okx-ice-tokenized-stock-venue.html",
+      "bytes": 2513,
+      "sha256": "813443018206ed959be30badfaf8594855afeb7c44ff1dbae7bac4403ef1d377"
+    },
+    {
+      "path": "source/2026-10-09-report.txt",
+      "bytes": 37905,
+      "sha256": "ff8d6b5f7196a7cc4f7540413b448ff17813aa788255b259e9ea935bce15f8e5"
+    },
+    {
+      "path": "source/2026-10-09-summary.txt",
+      "bytes": 2406,
+      "sha256": "32b84c86fc30496b63f63868a01b0daebfbb68f8d369005d6ff1191aca201279"
+    }
+  ]
+}
