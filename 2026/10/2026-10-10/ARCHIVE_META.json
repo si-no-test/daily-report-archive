@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-10",
+  "archived_at": "2026-10-09T23:17:16Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "0440d76f13e026975a16c9e56933ffd7b957e4c0",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 22,
+  "total_bytes": 636003,
+  "files": [
+    {
+      "path": "data/2026-10-10-candidates.txt",
+      "bytes": 68348,
+      "sha256": "fa324edc586a737a846d5f7caf5ccb694547c0a4839ebeccc2fb326771c94290"
+    },
+    {
+      "path": "data/2026-10-10-glossary.json",
+      "bytes": 1718,
+      "sha256": "b0b52e6be5e84b86de33d2ca704eebfd334635ed297ee512c93b9af050180b3c"
+    },
+    {
+      "path": "data/2026-10-10-manifest.txt",
+      "bytes": 3460,
+      "sha256": "28e5a85d48a822dc5ba4706895eadb45c649628c2f1fffbca9cb6a6846643b97"
+    },
+    {
+      "path": "data/2026-10-10-orgs.json",
+      "bytes": 1866,
+      "sha256": "b84a0f83744aa182b5964686f13f1fe7f04a0a210abc09721f71a9bd495456de"
+    },
+    {
+      "path": "data/2026-10-10-topic-cases.json",
+      "bytes": 3968,
+      "sha256": "efddc8f1e00a4c5397138c9f431e733f69cff11abfd4811dec643f44618ad3da"
+    },
+    {
+      "path": "data/2026-10-10-topic-decisions.json",
+      "bytes": 2548,
+      "sha256": "9fc61a7725f41a5967d5704c0bd52b16a2c8f3dfd206853da7119d42fefa1161"
+    },
+    {
+      "path": "data/2026-10-10.json",
+      "bytes": 18716,
+      "sha256": "80ad6da156ea4c1ec28fa19144663531710a9e79c79fcf77b9e72dd776886d2b"
+    },
+    {
+      "path": "outbox/2026-10-10-archive.html",
+      "bytes": 98728,
+      "sha256": "fb90c2a5ee20da38b2f12d61e8e1a7971e0a6ba40580e76b0bd98cce9262fabf"
+    },
+    {
+      "path": "outbox/2026-10-10-email.html",
+      "bytes": 10836,
+      "sha256": "58d0eb58e123c096eaed64ff22ae2a7b9ff5b21e231c94d458836b7d929d8f83"
+    },
+    {
+      "path": "published/2026-10-10.html",
+      "bytes": 555,
+      "sha256": "7a430304958ccaaeca5af07df5c90623a1501a02aacb9627d830cea7623bdcf5"
+    },
+    {
+      "path": "published/2026-10-10/ai.html",
+      "bytes": 35007,
+      "sha256": "1438d9acaa9ba22488940c6def89eb11e8c0414f4f606c9f343679a23e367a31"
+    },
+    {
+      "path": "published/2026-10-10/blockchain.html",
+      "bytes": 41101,
+      "sha256": "76b9fa62972e0b3be1b1bb76cc93f6e8e130da7ca35bba20e764ca7208ace85c"
+    },
+    {
+      "path": "published/2026-10-10/index.html",
+      "bytes": 22532,
+      "sha256": "a21d29fcd83c0d24601753c939a6e2d43de55f698e65cf4a6f8ea9d105fc84f8"
+    },
+    {
+      "path": "published/2026-10-10/innovation.html",
+      "bytes": 51859,
+      "sha256": "399f15793b180e93c95562c6f6af00ccff507d370871b5c0c6e405f90af1ca6d"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 230491,
+      "sha256": "a83dbe5ed43e45161739dc8514d37b4d77a557640c1b475b5ac3e2c254a05bf8"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "c04ebeac36d7f6f4cf6ba7e4fbbc780d71c3fa61ef97a446778ac23cd9852a40"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "7a430304958ccaaeca5af07df5c90623a1501a02aacb9627d830cea7623bdcf5"
+    },
+    {
+      "path": "published/topics/cftc-event-contracts-swap-rulemaking.html",
+      "bytes": 1617,
+      "sha256": "44cc48427d82cb0230bddb11109fb440f4a55fff3a848e67cf70f87d5f4d6eea"
+    },
+    {
+      "path": "published/topics/thailand-crypto-etf-rollout.html",
+      "bytes": 1538,
+      "sha256": "ace69739cf54dcb32ed50888724fc679adf603c0956b781a5d8208b68aa5c3ac"
+    },
+    {
+      "path": "published/topics/us-credit-card-competition-act.html",
+      "bytes": 1559,
+      "sha256": "7fd128c8245e6dcfb881721eae765996a1c69bacbc5b2cbdf71f581bb8b0574f"
+    },
+    {
+      "path": "source/2026-10-10-report.txt",
+      "bytes": 35737,
+      "sha256": "8279ba0336d56b5b81c902b3e710e10236d609a17ff289ff7532247a4e012312"
+    },
+    {
+      "path": "source/2026-10-10-summary.txt",
+      "bytes": 2472,
+      "sha256": "3af0d8129da1fc73377b7a5282f41d8d869d546c686bd39d420024d64f316260"
+    }
+  ]
+}

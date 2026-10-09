@@ -1,0 +1,16 @@
+[
+{"name":"Backbase","url":"https://www.backbase.com","intro":"荷蘭數位銀行平台業者，為銀行提供零售與企業數位銀行與AI原生Banking OS。"},
+{"name":"紐約梅隆銀行","url":"https://www.bny.com","intro":"全球大型託管與資產服務銀行，日處理大量跨境付款與證券交易。"},
+{"name":"OpenAI","url":"https://openai.com","intro":"ChatGPT與Codex的開發商，全球主要生成式AI模型供應商之一。"},
+{"name":"Anthropic","url":"https://www.anthropic.com","intro":"Claude系列模型的開發商，以AI安全與企業應用為主要定位。"},
+{"name":"Visa","url":"https://www.visa.com","intro":"全球主要卡組織與支付網路業者。"},
+{"name":"Mastercard","url":"https://www.mastercard.com","intro":"全球主要卡組織與支付網路業者。"},
+{"name":"CFTC","url":"https://www.cftc.gov","intro":"美國商品期貨交易委員會，負責監管衍生性商品與期貨市場。"},
+{"name":"DailyPay","url":"https://www.dailypay.com","intro":"美國薪資預支（On-Demand Pay）服務業者，讓員工提前領取已賺取薪資。"},
+{"name":"AvaTrade","url":"https://www.avatrade.com","intro":"全球線上外匯與差價合約（CFD）經紀商。"},
+{"name":"Amundi","url":"https://www.amundi.com","intro":"歐洲最大資產管理公司，隸屬法國農業信貸集團。"},
+{"name":"CACEIS","url":"https://www.caceis.com","intro":"法國農業信貸旗下證券服務公司，提供託管與過戶代理服務。"},
+{"name":"Anchorage Digital","url":"https://www.anchorage.com","intro":"美國受監管的數位資產託管與金融服務機構。"},
+{"name":"Kalshi","url":"https://kalshi.com","intro":"美國受CFTC監管的預測市場與事件合約交易平台。"},
+{"name":"Polymarket","url":"https://polymarket.com","intro":"以區塊鏈為基礎的預測市場平台。"}
+]

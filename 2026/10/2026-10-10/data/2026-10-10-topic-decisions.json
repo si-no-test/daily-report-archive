@@ -1,0 +1,64 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "us-credit-card-competition-act",
+  "title": "美國《信用卡競爭法》立法進程",
+  "theme": "innovation",
+  "keywords": [
+   "信用卡競爭法",
+   "Credit Card Competition Act",
+   "交換費",
+   "雙網路"
+  ],
+  "headline": "美國總統川普持續敦促國會通過《信用卡競爭法》，要求大型銀行發行的卡片至少支援兩個支付網路",
+  "one_line_update": "10月8日華爾街日報報導川普持續敦促國會通過該法案，商家遊說團體與白宮會面並尋求併入既有立法案，銀行與支付業遊說團體同步反制。",
+  "source_title": "Trump Urges Congress to Pass Credit Card Competition Act",
+  "source_url": "https://www.pymnts.com/legal/2026/trump-urges-congress-to-pass-credit-card-competition-act/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "thailand-crypto-etf-rollout",
+  "title": "泰國本地比特幣與以太幣ETF開放進程",
+  "theme": "blockchain",
+  "keywords": [
+   "泰國",
+   "Thailand SEC",
+   "加密ETF",
+   "比特幣ETF",
+   "以太幣ETF"
+  ],
+  "headline": "泰國證券交易委員會發布規則，10月16日起允許本地發行比特幣與以太幣ETF",
+  "one_line_update": "10月8日泰國SEC發布規則，10月16日生效；基金須掛牌於泰國證交所、至少80%淨資產投入單一合格加密資產並使用受監管託管機構。",
+  "source_title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+  "source_url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "cftc-event-contracts-swap-rulemaking",
+  "title": "CFTC事件合約納入交換定義的規則制定與州法院訴訟",
+  "theme": "innovation",
+  "keywords": [
+   "CFTC",
+   "事件合約",
+   "預測市場",
+   "Kalshi",
+   "交換定義"
+  ],
+  "headline": "CFTC發布暫行最終規則並提出規則草案，把事件合約納入交換定義",
+  "one_line_update": "10月9日CFTC發布暫行最終規則（賭場式賭博不屬交換）並提出規則草案（事件合約屬交換，意見期30天），州政府與最高法院訴訟並行。",
+  "source_title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+  "source_url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages"
+ }
+]

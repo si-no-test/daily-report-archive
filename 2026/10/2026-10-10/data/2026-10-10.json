@@ -1,0 +1,248 @@
+{
+ "date": "2026-10-10",
+ "generated_at": "2026-10-10T07:17:05.731325+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Backbase Moves Beyond Banking Chatbots with AI Agents That Take Action",
+   "display_title": "Backbase本週推出Conversational Banking代理式AI方案，已有逾10家銀行導入，南非大型銀行自助解決率由20%升至70%",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/backbase-moves-beyond-banking-chatbots-with-ai-agents-that-take-action/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/backbase-moves-beyond-banking-chatbots-with-ai-agents-that-take-action/",
+     "status": "ok",
+     "chars": 3869
+    }
+   ],
+   "date_evidence": "Fri, 09 Oct 2026 22:21:22 +0000",
+   "summary": "數位銀行平台業者Backbase本週推出Conversational Banking，讓AI代理在銀行預先設定的權限、政策與核准流程內，替客戶與員工實際執行銀行任務，例如以自然語言封鎖並補發遺失的支付",
+   "core_fact": "數位銀行平台業者Backbase本週推出Conversational Banking，讓AI代理在銀行預先設定的權限、政策與核准流程內，替客戶與員工實際執行銀行任務，例如以自然語言封鎖並補發遺失的支付卡、查詢一筆付款或推進服務申請。該方案跑在Backbase的AI原生Banking OS上，可與既有數位銀行系統並行。目前已有逾10家銀行導入，其中一家南非四大銀行之一已處理2,200萬次客戶互動，自助服務解決率由20%提高到70%。需要進一步判斷的案件，員工可直接檢視代理已完成的工作並接手。",
+   "deep_facts": [
+    "南非四大銀行之一已處理2,200萬次客戶互動，自助解決率由20%升至70%",
+    "員工可檢視代理已完成工作並接手例外案件",
+    "McKinsey估計代理式AI可降低銀行營運成本15%至20%",
+    "產品在Backbase推出AI平台後約18個月問世"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Trump Urges Congress to Pass Credit Card Competition Act",
+   "display_title": "美國總統川普（Donald Trump）據華爾街日報10月8日報導，持續敦促國會通過《信用卡競爭法》，要求大型銀行發行的信用卡至少支援兩個支付網路",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/legal/2026/trump-urges-congress-to-pass-credit-card-competition-act/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/legal/2026/trump-urges-congress-to-pass-credit-card-competition-act/",
+     "status": "ok",
+     "chars": 2703
+    }
+   ],
+   "date_evidence": "Fri, 09 Oct 2026 22:31:11 +0000",
+   "summary": "華爾街日報10月8日報導，美國總統川普持續敦促國會通過《信用卡競爭法》，該法案要求主要銀行發行的任何卡片都必須支援至少兩個支付網路。支持法案的商家遊說團體近幾週加強行動，與白宮官員會面，並尋求把法案併",
+   "core_fact": "華爾街日報10月8日報導，美國總統川普持續敦促國會通過《信用卡競爭法》，該法案要求主要銀行發行的任何卡片都必須支援至少兩個支付網路。支持法案的商家遊說團體近幾週加強行動，與白宮官員會面，並尋求把法案併入既有的立法案；反對的銀行與支付業遊說團體也同時與白宮和國會議員會面。白宮發言人羅傑斯（Taylor Rogers）表示，隱藏的刷卡手續費讓每個家庭每年多付1,200美元。法案發起人為參議員馬歇爾（Roger Marshall），副總統范斯在擔任參議員時曾共同提案。",
+   "deep_facts": [
+    "商家遊說團體尋求把法案併入既有立法案",
+    "白宮稱隱藏刷卡費讓每戶每年多付1,200美元",
+    "8月10日新增金恩、拉米斯、莫雷諾三位參議員共同提案",
+    "1月有11個銀行與信合社團體聯名反對"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+   "display_title": "美國商品期貨交易委員會（CFTC）於10月9日發布暫行最終規則並提出規則草案，把運動、政治與天氣等事件合約納入交換定義，草案公眾意見期為30天",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+     "status": "ok",
+     "chars": 6594
+    }
+   ],
+   "date_evidence": "Fri, 09 Oct 2026 21:21:54 +0000",
+   "summary": "美國CFTC於10月9日（週五）同時發布一項暫行最終規則並提出一項規則草案，目的是鞏固主席塞利格（Mike Selig）主張預測市場交易只受該機關監管的立場。暫行最終規則界定賭場式賭博不屬於交換，立即",
+   "core_fact": "美國CFTC於10月9日（週五）同時發布一項暫行最終規則並提出一項規則草案，目的是鞏固主席塞利格（Mike Selig）主張預測市場交易只受該機關監管的立場。暫行最終規則界定賭場式賭博不屬於交換，立即生效並開放公眾意見；規則草案則把包含運動、政治、文化與天氣事件的事件合約明確納入交換定義，意見期為30天。這兩項行動在提交白宮審查不到兩週後就發布，而塞利格是五人委員會中唯一的委員，可獨自決定政策。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "DailyPay competes $200m securitisation",
+   "display_title": "DailyPay於10月9日宣布完成2億美元的薪資預支（On-Demand Pay）應收款資產擔保證券化",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111202/dailypay-competes-200m-securitisation",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 09 Oct 2026 09:16:00 GMT",
+   "summary": "薪資預支服務業者DailyPay於10月9日宣布完成一筆2億美元的資產擔保證券化（ABS），標的為其On-Demand Pay應收款。DailyPay自稱是薪資預支領域的領導者，這筆交易把員工提前領取",
+   "core_fact": "薪資預支服務業者DailyPay於10月9日宣布完成一筆2億美元的資產擔保證券化（ABS），標的為其On-Demand Pay應收款。DailyPay自稱是薪資預支領域的領導者，這筆交易把員工提前領取已賺取薪資所形成的應收款，打包後出售給資本市場投資人。公開的新聞稿僅揭露交易規模與標的資產類型，尚未提及評等、投資人組成與利率等細節。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "AvaTrade to acquire majority of FXCM's business",
+   "display_title": "AvaTrade於10月9日宣布同意收購FXCM Group的多數業務",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111207/avatrade-to-acquire-majority-of-fxcms-business",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 09 Oct 2026 12:32:00 GMT",
+   "summary": "全球線上外匯經紀商AvaTrade於10月9日宣布，已同意收購FXCM Group的多數業務。FXCM是全球歷史最悠久的外匯與差價合約（CFD）交易品牌之一，這項交易是AvaTrade就FXCM主要營",
+   "core_fact": "全球線上外匯經紀商AvaTrade於10月9日宣布，已同意收購FXCM Group的多數業務。FXCM是全球歷史最悠久的外匯與差價合約（CFD）交易品牌之一，這項交易是AvaTrade就FXCM主要營運業務所達成的協議。公開的新聞稿未揭露交易金額與交割時程，也未說明收購後的品牌安排，本報告不推測未公布的細節。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Banks Put AI Agents Through Performance Reviews",
+   "display_title": "紐約梅隆銀行（BNY）將約140名AI代理當作數位員工管理，據PYMNTS 10月9日報導，其付款驗證由最長6分鐘縮短至30秒內，開放付款調查量下降近80%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-put-ai-agents-through-performance-reviews/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-put-ai-agents-through-performance-reviews/",
+     "status": "ok",
+     "chars": 4305
+    }
+   ],
+   "date_evidence": "Fri, 09 Oct 2026 17:35:28 +0000",
+   "summary": "PYMNTS 10月9日報導，BNY約有140名數位員工，每名代理都有登入憑證、員工編號與負責指派及覆核工作的主管；從構想到上線的代理要經過16道審查，包含審查委員會、法遵關卡與模型風險評估。BNY每",
+   "core_fact": "PYMNTS 10月9日報導，BNY約有140名數位員工，每名代理都有登入憑證、員工編號與負責指派及覆核工作的主管；從構想到上線的代理要經過16道審查，包含審查委員會、法遵關卡與模型風險評估。BNY每日處理2.5兆美元交易。其中一個付款代理只負責讀取跨境付款上的廠商地址、確認國碼，再交由人工覆核，驗證時間由最長6分鐘降到30秒內，開放付款調查量下降近80%，這兩項數字是銀行自行公布且未經稽核。",
+   "deep_facts": [
+    "BNY約140名數位員工，每名有登入憑證、員工編號與主管",
+    "代理上線需16道審查",
+    "付款驗證由最長6分鐘縮至30秒內，開放調查量降近80%（未經稽核）",
+    "DBS信用代理提供約1,500名員工，目標縮減信用備忘錄時間至少30%"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "How agentic payments present risk",
+   "display_title": "美國消費者銀行家協會（Consumer Bankers Association）於1月發布研究報告，指出AI代理替消費者支付時超出授權範圍，Regulation E與Regulation Z尚無明確的損失歸屬規則",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/how-agentic-payments-artificial-intelligence-risk/832601/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/how-agentic-payments-artificial-intelligence-risk/832601/",
+     "status": "ok",
+     "chars": 4038
+    }
+   ],
+   "date_evidence": "Fri, 09 Oct 2026 10:11:00 -0400",
+   "summary": "Payments Dive 10月9日刊出金融服務顧問切弗茨（Aaron Cheiffetz）的評論，援引消費者銀行家協會1月的研究報告。Regulation E規定，簽帳金融卡遺失或遭竊且在兩個營業",
+   "core_fact": "Payments Dive 10月9日刊出金融服務顧問切弗茨（Aaron Cheiffetz）的評論，援引消費者銀行家協會1月的研究報告。Regulation E規定，簽帳金融卡遺失或遭竊且在兩個營業日內通報，消費者責任上限為50美元，但若消費者把存取工具交給他人，該人發起的轉帳不算未經授權，即使對方超出授權，消費者仍可能負責。報告質疑，把憑證交給AI工具是否同樣觸發此排除條款。信用卡的Regulation Z也依「實際、默示或表見授權」判斷，同樣不明確。",
+   "deep_facts": [
+    "Regulation E遺失卡片通報兩個營業日內責任上限50美元",
+    "Regulation E排除消費者授權他人者超出授權的轉帳",
+    "消費者銀行家協會1月報告質疑AI工具是否觸發排除條款",
+    "作者提出三項改革主張"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
+   "display_title": "OpenAI據英國金融時報10月8日報導，已告知投資人年化營收「接近500億美元」，較先前傳出的700億美元少約200億美元",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 08 Oct 2026 18:19:42 +0000",
+   "summary": "TechCrunch 10月8日引述英國金融時報，指出OpenAI已向投資人表示年化營收「接近500億美元」，而一週多前外界報導的數字接近700億美元，兩者相差約200億美元。700億美元的數字來自O",
+   "core_fact": "TechCrunch 10月8日引述英國金融時報，指出OpenAI已向投資人表示年化營收「接近500億美元」，而一週多前外界報導的數字接近700億美元，兩者相差約200億美元。700億美元的數字來自OpenAI投資人為了與Anthropic直接比較而做的試算。OpenAI在3月單輪募資就募得1,220億美元，外流的2025年財務資料顯示全年營收約130億美元，但支出明顯更高。OpenAI的首次公開發行原本傳聞今年進行，現已延到2027年初。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+   "display_title": "泰國證券交易委員會（Thailand SEC）於10月8日發布規則，10月16日起允許本地資產管理公司發行比特幣與以太幣ETF，基金須將至少80%淨資產投入單一加密資產",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+     "status": "ok",
+     "chars": 5116
+    }
+   ],
+   "date_evidence": "Fri, 09 Oct 2026 10:16:55 +0000",
+   "summary": "泰國證券交易委員會於10月8日（週四）發布規則，自10月16日起，本地資產管理公司可發行追蹤比特幣或以太幣的交易所買賣基金（ETF），這兩種幣別是初期唯一合格標的。基金必須在泰國證券交易所掛牌、追蹤單",
+   "core_fact": "泰國證券交易委員會於10月8日（週四）發布規則，自10月16日起，本地資產管理公司可發行追蹤比特幣或以太幣的交易所買賣基金（ETF），這兩種幣別是初期唯一合格標的。基金必須在泰國證券交易所掛牌、追蹤單一加密資產、至少80%淨資產價值投資於該資產，且加密資產必須由泰國SEC監管的託管機構保管。投資人購買前須確認了解風險，券商不得借錢給客戶買幣，初期也不開放非機構客戶透過存託憑證等方式間接投資外國加密ETF。",
+   "deep_facts": [
+    "基金須至少80%淨資產投入單一合格加密資產",
+    "託管機構須受泰國SEC監管",
+    "券商不得借錢給客戶買幣",
+    "初期不開放非機構客戶透過存託憑證間接投資外國加密ETF"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+   "display_title": "Sui旗下機構協定Hashi預定本月稍後分階段推出主網，已取得逾20家夥伴共5億美元資本承諾，讓比特幣不離開比特幣網路即可作為抵押品",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+     "status": "ok",
+     "chars": 6607
+    }
+   ],
+   "date_evidence": "Fri, 09 Oct 2026 06:40:54 +0000",
+   "summary": "Sui區塊鏈10月9日宣布推出機構級協定Hashi，持有者可在不將比特幣移出比特幣網路的情況下，以其作為抵押品進行借貸。Hashi主網預定本月稍後分階段推出，已有逾20家產業夥伴承諾提供5億美元資本，",
+   "core_fact": "Sui區塊鏈10月9日宣布推出機構級協定Hashi，持有者可在不將比特幣移出比特幣網路的情況下，以其作為抵押品進行借貸。Hashi主網預定本月稍後分階段推出，已有逾20家產業夥伴承諾提供5億美元資本，但這些是承諾而非已存入資金。Sui估計約1兆美元的比特幣處於閒置狀態。Mysten Labs共同創辦人阿貝約（Adeniyi Abiodun）表示，機構希望在不放棄所需保護的情況下讓比特幣創造收益；首日合作夥伴Anchorage Digital也計畫提供穩定幣流動性。",
+   "deep_facts": [
+    "比特幣鎖在2-of-2多簽名保管地址，Sui上鑄造hBTC憑證",
+    "另有獨立守護者層監控並延緩可疑抵押品移動",
+    "Certora形式化驗證智慧合約、CommonPrefix審查MPC密碼學",
+    "主網預定本月稍後分階段推出，5億美元為承諾而非已存入資金"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Crédit Agricole insurance arm invests €100m in tokenized Amundi money market fund",
+   "display_title": "法國農業信貸保險公司（Crédit Agricole Assurances）於10月8日據Ledger Insights報導，投資1億歐元於Amundi Funds Cash EUR貨幣市場基金的代幣化份額",
+   "source": "Ledger Insights",
+   "source_tier": "T2",
+   "url": "https://www.ledgerinsights.com/credit-agricole-insurance-arm-invests-e100m-in-tokenized-amundi-money-market-fund/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 08 Oct 2026 17:50:02 +0000",
+   "summary": "Ledger Insights報導，法國保險公司法國農業信貸保險公司投資1億歐元於Amundi Funds Cash EUR貨幣市場基金的代幣化份額，法國農業信貸旗下證券服務子公司CACEIS擔任該基",
+   "core_fact": "Ledger Insights報導，法國保險公司法國農業信貸保險公司投資1億歐元於Amundi Funds Cash EUR貨幣市場基金的代幣化份額，法國農業信貸旗下證券服務子公司CACEIS擔任該基金的代幣化與過戶代理人。法國農業信貸持有上市資產管理公司Amundi的68.3%股權，並100%持有CACEIS，因此這筆交易留在集團內。Amundi是歐洲最大資產管理公司，管理資產達2.4兆歐元，代幣化份額類別去年11月才推出，之後進展很快。",
+   "deep_facts": []
+  }
+ ]
+}
