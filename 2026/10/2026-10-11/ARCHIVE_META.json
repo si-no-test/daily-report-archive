@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-11",
+  "archived_at": "2026-10-10T23:18:04Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "e0d4bf4d85614d7dc78fcd55d77b2fce0c9677b5",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 19,
+  "total_bytes": 604919,
+  "files": [
+    {
+      "path": "data/2026-10-11-candidates.txt",
+      "bytes": 38282,
+      "sha256": "ad49f5191361f730a735f2b9369f550b7ae6e3554c03d3ccf7323ede721c92af"
+    },
+    {
+      "path": "data/2026-10-11-glossary.json",
+      "bytes": 1700,
+      "sha256": "b793a726d041c711433470368c6c31ec2f7e6564531a0465984f92efb8c1a924"
+    },
+    {
+      "path": "data/2026-10-11-manifest.txt",
+      "bytes": 3481,
+      "sha256": "930183aee675a9e08cc0286921b3834c2ea8d2d47def1726bcb69704398a36b7"
+    },
+    {
+      "path": "data/2026-10-11-orgs.json",
+      "bytes": 1399,
+      "sha256": "f3bc62d96ddf1131f90909265a3b5d4a988099ab958e8a5677fab7f75b15d419"
+    },
+    {
+      "path": "data/2026-10-11-topic-cases.json",
+      "bytes": 2736,
+      "sha256": "4910151577f4d834f86d8be509277a2230eb7e4e64f6d2ee879c846ad45ecfd4"
+    },
+    {
+      "path": "data/2026-10-11-topic-decisions.json",
+      "bytes": 120,
+      "sha256": "3d95b951d724072fa3e2c45fd5024346e33188f9d95695a085a71ff97293a44a"
+    },
+    {
+      "path": "data/2026-10-11.json",
+      "bytes": 19456,
+      "sha256": "fefc5f6d755aed73787e3d2143c9690a7b6888e1100e0d348375e3108d670570"
+    },
+    {
+      "path": "outbox/2026-10-11-archive.html",
+      "bytes": 100112,
+      "sha256": "653fd04b4aff6d7751e998eb0ff8ce50c43ef20f3b3907301cb3e007dc2bcd33"
+    },
+    {
+      "path": "outbox/2026-10-11-email.html",
+      "bytes": 11421,
+      "sha256": "0949bef84f5ec61ab03dc4067f8e1f15152777e1df9cb3e04cf387a3d6a91e2c"
+    },
+    {
+      "path": "published/2026-10-11.html",
+      "bytes": 555,
+      "sha256": "9f779b54d9fba087530a85fa7477958c39ace7f21823519bad10d56d850615f9"
+    },
+    {
+      "path": "published/2026-10-11/ai.html",
+      "bytes": 35030,
+      "sha256": "3c42f3c6a7342ea5291e99d30180d627884fee051200de9187d065e4c970e32a"
+    },
+    {
+      "path": "published/2026-10-11/blockchain.html",
+      "bytes": 39285,
+      "sha256": "b77dcc4660182ac385452f9f192060ac6f420b9a30223c04d649836793e6e9c0"
+    },
+    {
+      "path": "published/2026-10-11/index.html",
+      "bytes": 22189,
+      "sha256": "46b44594328a4b51dcb5570f1be7e2d6b152c94aa39159c7a603cedc8d55ab46"
+    },
+    {
+      "path": "published/2026-10-11/innovation.html",
+      "bytes": 53977,
+      "sha256": "91dc24d2d18d4d6d57e11d3fb8f9a1e277f6a4117db80abb1115ab39945e94d1"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 233944,
+      "sha256": "5441cf3e5d73e09cab9fda6dd3bbee2bbdc8239ae1169be1de7f685538f194dd"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "d8e0fe37eccc10844d11fbdc21ce9c488625a47354a2fd8f07320787c998d16b"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "9f779b54d9fba087530a85fa7477958c39ace7f21823519bad10d56d850615f9"
+    },
+    {
+      "path": "source/2026-10-11-report.txt",
+      "bytes": 36969,
+      "sha256": "2e6d8373bcffefef5c041f90b79085f5db7a15a74d29c137e3edf6b545d0ec6c"
+    },
+    {
+      "path": "source/2026-10-11-summary.txt",
+      "bytes": 2916,
+      "sha256": "1e52a19ad1ec6ec813d721811c46b00da9828cd0885fbc9a6075f1e21946573d"
+    }
+  ]
+}
