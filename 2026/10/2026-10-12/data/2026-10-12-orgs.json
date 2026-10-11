@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Nubank",
+  "url": "https://nubank.com.br",
+  "intro": "總部位於巴西的數位銀行，業務涵蓋巴西、墨西哥與哥倫比亞，並正進軍美國。"
+ },
+ {
+  "name": "Robinhood",
+  "url": "https://robinhood.com",
+  "intro": "美國零售券商與金融科技平台，提供股票、加密資產與代幣化資產交易。"
+ },
+ {
+  "name": "SoFi",
+  "url": "https://www.sofi.com",
+  "intro": "美國數位銀行與金融科技公司，提供貸款、投資與銀行帳戶服務。"
+ },
+ {
+  "name": "Webull",
+  "url": "https://www.webull.com",
+  "intro": "提供股票與加密資產交易的網路券商平台。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "美國AI研究公司，開發Claude系列模型。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "美國AI研究公司，開發ChatGPT與相關模型。"
+ },
+ {
+  "name": "Ledger",
+  "url": "https://www.ledger.com",
+  "intro": "總部位於巴黎的硬體錢包製造商，提供加密資產自我保管裝置。"
+ },
+ {
+  "name": "Block",
+  "url": "https://block.xyz",
+  "intro": "旗下有Cash App與Square，提供個人與商家支付及比特幣服務。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國大型加密資產交易所與平台。"
+ },
+ {
+  "name": "Kraken",
+  "url": "https://www.kraken.com",
+  "intro": "美國加密資產交易所，母公司為Payward。"
+ },
+ {
+  "name": "Binance",
+  "url": "https://www.binance.com",
+  "intro": "全球交易量領先的加密資產交易平台。"
+ },
+ {
+  "name": "Andreessen Horowitz",
+  "url": "https://a16z.com",
+  "intro": "美國知名創投機構，投資AI與金融科技新創。"
+ }
+]

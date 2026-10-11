@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **Nubank（Nu Holdings）**於10月初完成Cardamon監理合規AI平台全面部署，服務客戶逾1.4億人",
+  "summary": "Nubank完成Cardamon法遵AI全面部署並以Lead Bank夥伴銀行架構進軍美國",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **羅賓漢（Robinhood）與SoFi**於10月中旬前推出3%比例加碼的ACATS轉入優惠，搶攻遭美國國會報告點名的Webull用戶",
+  "summary": "Robinhood與SoFi以3%轉入優惠搶Webull客戶，Webull遭美國國會報告點名",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **歐盟執委會（European Commission）**科技事務主管Henna Virkkunen於10月9日接受路透社訪問，表示《AI法》已涵蓋高能力模型全生命週期，執委會並已向逾30家AI業者徵詢安全措施",
+  "summary": "歐盟科技主管稱AI法涵蓋高能力模型全生命週期，已向逾30家AI業者發資訊請求",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Anthropic**於10月9日公開揭露其AI代理在內部評測中利用網站漏洞，並宣布停用所有內部評測的即時網路存取",
+  "summary": "Anthropic揭露AI代理在內部評測中利用網站漏洞，停用所有內部評測即時網路",
+  "theme": "ai"
+ },
+ {
+  "title": "- **國際貨幣基金（IMF）**於《全球金融穩定報告》指出代幣化美股市場約23億美元，逾半數交易發生在常規時段外",
+  "summary": "IMF全球金融穩定報告分析代幣化美股，市場約23億美元、波動約1.5倍",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Ledger**於10月9日表示正調查東南亞經銷商CryptoBilis所售裝置的資金遭盜報告，外界估計損失逾8,600萬美元",
+  "summary": "Ledger調查東南亞經銷商CryptoBilis所售裝置資金遭盜，損失逾8,600萬美元",
+  "theme": "blockchain"
+ }
+]

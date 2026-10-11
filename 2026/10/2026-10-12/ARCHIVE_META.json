@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-12",
+  "archived_at": "2026-10-11T23:18:12Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "91a05383adaf4386d7cfc40ec9897b81b80eec47",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 688169,
+  "files": [
+    {
+      "path": "data/2026-10-12-candidates.txt",
+      "bytes": 71364,
+      "sha256": "2cd194aea73364abf9cbacbc1b4d3fb58901069648bad8ea04df88b77ac21aa0"
+    },
+    {
+      "path": "data/2026-10-12-glossary.json",
+      "bytes": 2161,
+      "sha256": "a786a5e616b141ca1de94ff33436f73e83049840d240e8eacbe0fb27d8d0e5fa"
+    },
+    {
+      "path": "data/2026-10-12-manifest.txt",
+      "bytes": 3460,
+      "sha256": "ff92078b31cfac22424d7925e3e6a5e196a04ac5a0aef95b5aaa066c01abd31a"
+    },
+    {
+      "path": "data/2026-10-12-orgs.json",
+      "bytes": 1737,
+      "sha256": "f5bbb2f85d119d0f092d8ae54675a9816a1e62ef0ec97be3a2350091fa22898e"
+    },
+    {
+      "path": "data/2026-10-12-topic-cases.json",
+      "bytes": 1828,
+      "sha256": "1317afde8279e834b971fa4766d59f8b3ca5f9c8333a5462c92724811d741039"
+    },
+    {
+      "path": "data/2026-10-12-topic-decisions.json",
+      "bytes": 1395,
+      "sha256": "7809b2c019a0a230f43a1713b079b7657fdb1f2ee8112536ca68452c28aae885"
+    },
+    {
+      "path": "data/2026-10-12.json",
+      "bytes": 21188,
+      "sha256": "4b3c570ed8e83471c35d3ab2a364497df89819312ddb8d7b8e3fcb12038ca0fd"
+    },
+    {
+      "path": "outbox/2026-10-12-archive.html",
+      "bytes": 113068,
+      "sha256": "3b2b612768774c6831e956f025d9c77134bcea73e591cdca08772b8dc4e7f662"
+    },
+    {
+      "path": "outbox/2026-10-12-email.html",
+      "bytes": 10872,
+      "sha256": "34442ce91cffb35021bfd8cdbf77ec7d7f7cb3dac2c579cedf5affa1012d693b"
+    },
+    {
+      "path": "published/2026-10-12.html",
+      "bytes": 555,
+      "sha256": "49bbe265de9746162713bebf473d717daeb8675a04ac14e1861677826b4abb19"
+    },
+    {
+      "path": "published/2026-10-12/ai.html",
+      "bytes": 41122,
+      "sha256": "0559e41c34f365cf8b6faae88ce6ddf50db25a8d55b588ffd0b5695d6e038e1b"
+    },
+    {
+      "path": "published/2026-10-12/blockchain.html",
+      "bytes": 49336,
+      "sha256": "63f469a8fe481b351a47e9748b8ab0416a47d1041cdb865c0a7912beb034589f"
+    },
+    {
+      "path": "published/2026-10-12/index.html",
+      "bytes": 22016,
+      "sha256": "84e6cb44c607b189f57a8854fb96485af083c610820849596f2b171bc9440b1e"
+    },
+    {
+      "path": "published/2026-10-12/innovation.html",
+      "bytes": 53780,
+      "sha256": "38bfbcc5c58e3d01957058a9e5d79de26cc6f3a18f238adddfa1dd39fda2881d"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 238878,
+      "sha256": "8feeb0972d7e9d47a69735127db903c48690bb80c4fb3d7e62f047bccb9dae3f"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "916c827eeb70d3443cdf5d3006260e25782619c57618ec3989acaa658f323eec"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "49bbe265de9746162713bebf473d717daeb8675a04ac14e1861677826b4abb19"
+    },
+    {
+      "path": "published/topics/nubank-us-banking-rollout.html",
+      "bytes": 3327,
+      "sha256": "6d985af2f83cb42eefae33deb93eac40093c25cc6559c65ccccf73be1df87d94"
+    },
+    {
+      "path": "published/topics/tokenized-equities-market-growth.html",
+      "bytes": 3497,
+      "sha256": "c2a1c4aa98c22e036c68725ba1e71c212a5c9ac5903b7f84f049072153928264"
+    },
+    {
+      "path": "source/2026-10-12-report.txt",
+      "bytes": 44735,
+      "sha256": "c8f3aa3b72851ae02a6ce4cb4b2a6b1699f0213846b5a5dbad8f0ea25836805b"
+    },
+    {
+      "path": "source/2026-10-12-summary.txt",
+      "bytes": 2503,
+      "sha256": "57f18d9efdf1c0d16477fd7f26a30589bbbdd6fd2c4dc5afbb3b916e152b40ed"
+    }
+  ]
+}

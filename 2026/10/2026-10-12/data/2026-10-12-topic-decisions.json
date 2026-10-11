@@ -1,0 +1,30 @@
+[
+ {
+  "action": "match",
+  "topic_id": "nubank-us-banking-rollout",
+  "headline": "Nubank完成Cardamon法遵AI全面部署，並以Lead Bank夥伴銀行架構先行開賣美國產品",
+  "one_line_update": "10月初完成Cardamon監理合規AI平台全面部署；9月30日申報文件否認洽購Monzo；OCC有條件核准的國家銀行執照仍待聯準會與FDIC審理，直接依執照營運最快明年。",
+  "source_title": "Nubank Expands in the US, Deploys AI Compliance Tools, and Rules Out Monzo Deal",
+  "source_url": "https://www.crowdfundinsider.com/2026/10/316561-nubank-expands-in-the-us-deploys-ai-compliance-tools-and-rules-out-monzo-deal/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "tokenized-equities-market-growth",
+  "headline": "IMF全球金融穩定報告：代幣化美股約23億美元、波動約1.5倍",
+  "one_line_update": "IMF分析五檔最活躍代幣化美股，逾半數交易在常規時段外、約80%不足一股，市場約23億美元，並警告法律、流動性與結算銜接仍待補強。",
+  "source_title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+  "source_url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid"
+ },
+ {
+  "action": "skip"
+ }
+]
