@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-13",
+  "archived_at": "2026-10-12T23:18:22Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "5fefc854408a2a2843622f28c1749d95648c1724",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 642531,
+  "files": [
+    {
+      "path": "data/2026-10-13-candidates.txt",
+      "bytes": 65144,
+      "sha256": "858cc9febc595f36e50fda34ed1230412850026ca06e473a148eaa93db2a8c43"
+    },
+    {
+      "path": "data/2026-10-13-glossary.json",
+      "bytes": 2038,
+      "sha256": "2336601f7ac4b18825f2d0601e44384cff51e47cf30b6c0459fd5ffd80e7f340"
+    },
+    {
+      "path": "data/2026-10-13-manifest.txt",
+      "bytes": 3460,
+      "sha256": "48ca585a6d7460a198239dc097c15fec48e4e26fbf072b98813cdd944834f6bf"
+    },
+    {
+      "path": "data/2026-10-13-orgs.json",
+      "bytes": 1160,
+      "sha256": "6cb5528f4cc8a8f4acd7d217a981ac7eeb0aebcbd198e91287e547e3575c0c14"
+    },
+    {
+      "path": "data/2026-10-13-topic-cases.json",
+      "bytes": 1899,
+      "sha256": "e8834b660701d552ecd14c8753a326a0538b51c6401383d50be2bd9b029890a5"
+    },
+    {
+      "path": "data/2026-10-13-topic-decisions.json",
+      "bytes": 1367,
+      "sha256": "5b30c64419db811dbddd1ca4135801bc08f84876fdeee0fc0c8aae41a5796bf3"
+    },
+    {
+      "path": "data/2026-10-13.json",
+      "bytes": 16978,
+      "sha256": "21faf58bf053bf5c091dc634a00d3a4a8ef06e1a62dbe6aed12a924dc81c0886"
+    },
+    {
+      "path": "outbox/2026-10-13-archive.html",
+      "bytes": 98442,
+      "sha256": "5ee85ec9656497ada56c251561b205b130c4ffee6307de55b0985fa82b7146fb"
+    },
+    {
+      "path": "outbox/2026-10-13-email.html",
+      "bytes": 11450,
+      "sha256": "729897bffb2cc64fe781dd35631c5fbe6c8793cf917cdd7d67eaa1c3bbb26fd2"
+    },
+    {
+      "path": "published/2026-10-13.html",
+      "bytes": 555,
+      "sha256": "7a51e8e32e3eac857c6427e28e9a80db9bcadd27eead7bb9621b335f37f5c973"
+    },
+    {
+      "path": "published/2026-10-13/ai.html",
+      "bytes": 35128,
+      "sha256": "2800b65cc552514738004076539ae96cc97ee3dffc970e9dd79c4e0fc29a5cfa"
+    },
+    {
+      "path": "published/2026-10-13/blockchain.html",
+      "bytes": 40495,
+      "sha256": "ab1374cd514efa75ee1fe6734022be910ab73e8719ee87534d0f7db76d416795"
+    },
+    {
+      "path": "published/2026-10-13/index.html",
+      "bytes": 21873,
+      "sha256": "6c6bb251c991a35dc6d533e9d1836ddc96e8a5cade98da2cf4b3b3a7d9848e61"
+    },
+    {
+      "path": "published/2026-10-13/innovation.html",
+      "bytes": 53837,
+      "sha256": "78b4882f329d4fe66f023645f2f0746aaf0db0e4b946f106a252f2af34ff997d"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 244369,
+      "sha256": "b66b7996f9f79da679bb9f17aa96ba95e0322c74fad32562ad5a4bf71ed8c85d"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "4cc967db52e3de23b40821de054f38d51072c8e333435a5a0ab49779a6f8ccd4"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "7a51e8e32e3eac857c6427e28e9a80db9bcadd27eead7bb9621b335f37f5c973"
+    },
+    {
+      "path": "published/topics/ripple-rlusd-enterprise-treasury-expansion.html",
+      "bytes": 2363,
+      "sha256": "32adf7480966d6bffa86aa0332a60797fc2aa9a63afd5d3441f73002b589df4c"
+    },
+    {
+      "path": "published/topics/upgrade-nevada-ilc-charter.html",
+      "bytes": 1536,
+      "sha256": "11c57a13c0134b019b92741b5e5e1a9ad59aedea8e7ce038a50d13ec8c706bc8"
+    },
+    {
+      "path": "source/2026-10-13-report.txt",
+      "bytes": 36145,
+      "sha256": "8b4a650fa876df3aa2ec374c820bf1b5b3821bfa0815e8db2bcfe5bdd85ef25b"
+    },
+    {
+      "path": "source/2026-10-13-summary.txt",
+      "bytes": 2945,
+      "sha256": "ffdca0300713be4dfabde0bc2899a3d2d109be5637139d4480a9bac4fc8abcec"
+    }
+  ]
+}

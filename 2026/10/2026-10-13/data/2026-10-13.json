@@ -1,0 +1,266 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T07:18:11.419568+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Upgrade Seeks Nevada Charter to Complement Existing Banking Relationships",
+   "display_title": "Upgrade於10月12日向內華達州金融機構處與聯邦存款保險公司（FDIC）申請設立工業貸款銀行Upgrade Bank，該公司成立以來累計核放逾530億美元信貸",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/banking/2026/upgrade-seeks-nevada-charter-to-complement-existing-banking-relationships/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/banking/2026/upgrade-seeks-nevada-charter-to-complement-existing-banking-relationships/",
+     "status": "ok",
+     "chars": 2966
+    }
+   ],
+   "date_evidence": "Monday (Oct. 12) press release",
+   "summary": "Upgrade向內華達州與FDIC申請設立Upgrade Bank。",
+   "core_fact": "美國金融科技公司Upgrade於10月12日發布新聞稿，宣布已向內華達州金融機構處（Nevada Financial Institutions Division）及聯邦存款保險公司（FDIC）提出申請，擬設立內華達州特許的工業貸款銀行Upgrade Bank，並任命現任銀行策略主管Virginia Varela出任執行長，其曾在四家銀行擔任執行長、總裁或董事。Upgrade自2016年成立以來，已向逾850萬名客戶提供逾530億美元信貸，產品涵蓋行動銀行、先買後付（BNPL）、個人貸款、信用卡與汽車融資。公司表示新銀行是補強既有銀行夥伴與貸款買家關係，並讓信貸產品的資金來源更有彈性。",
+   "deep_facts": [
+    "OCC表示過去18個月收到40件新設銀行申請，接近2011至2024年累計的48件",
+    "Upgrade於2025年10月募資1.65億美元，估值逾73億美元",
+    "Upgrade Bank執行長Virginia Varela曾在四家銀行擔任執行長、總裁或董事"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "PayJoy Acquires Mexico’s Finia to Gain Deeper Credit Insights",
+   "display_title": "PayJoy於10月12日宣布收購墨西哥金融科技公司Finia，補強其服務逾2,000萬名客戶平台的AI授信能力",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/financial-inclusion-3/2026/payjoy-acquires-mexicos-finia-to-gain-deeper-credit-insights/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/financial-inclusion-3/2026/payjoy-acquires-mexicos-finia-to-gain-deeper-credit-insights/",
+     "status": "ok",
+     "chars": 3342
+    }
+   ],
+   "date_evidence": "news release Monday (Oct. 12)",
+   "summary": "PayJoy收購墨西哥Finia。",
+   "core_fact": "服務新興市場弱勢消費者的金融業者PayJoy於10月12日以新聞稿宣布收購墨西哥金融科技公司Finia，將Finia的技術與經驗導入自家平台，強化授信審核並擴大對信用資料有限客群的服務。PayJoy目前在拉丁美洲、非洲與亞洲的客戶逾2,000萬人，產品包括以數位方式鎖定的智慧型手機融資、信用額度與PayJoy Card。新聞稿指出Finia以AI授信能力服務資料有限的微型企業與幾乎沒有正式信用紀錄的業主，並已提供信用卡與分期貸款，報導中未提及交易金額。",
+   "deep_facts": [
+    "PayJoy客戶逾2,000萬人，遍及拉美、非洲與亞洲",
+    "PYMNTS Intelligence調查：57%主管指不完整企業紀錄是授信障礙，微型企業核准率77%對大型企業95%",
+    "約19%的微型企業申請因資訊不足被拒"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Visa Study Finds Consumers Trust AI to Shop, But Not to Pay",
+   "display_title": "威士（Visa）贊助、哈里斯民調（The Harris Poll）於2026年5月執行的調查顯示，2,065位美國成人中僅23%信任生成式AI代為付款",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/visa-study-finds-consumers-trust-ai-to-shop-but-not-to-pay/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/visa-study-finds-consumers-trust-ai-to-shop-but-not-to-pay/",
+     "status": "ok",
+     "chars": 4205
+    }
+   ],
+   "date_evidence": "The Harris Poll in May of 2026（RSS pubDate 2026-10-13）",
+   "summary": "Visa贊助調查：23%信任生成式AI代為付款。",
+   "core_fact": "Finovate於10月13日報導Visa贊助、The Harris Poll於2026年5月調查2,065位美國成年人的代理式商務（agentic commerce）研究：72%使用過AI助理，23%信任生成式AI代為處理付款，61%表示會信任Visa處理代理式交易。報告歸納四項結論，包括即使AI掌握購物介面，支付業者仍可能保有影響力，且信任可能成為既有銀行的競爭優勢。此為Visa贊助的研究，結論自然偏向支付網路的立場。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Visa-Mastercard payouts top $631M",
+   "display_title": "威士（Visa）與萬事達卡（Mastercard）據10月9日法院文件，已透過55億美元和解案向689,340家商家撥付約6.317億美元",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/visa-mastercard-payouts-top-631m/832669/",
+     "status": "ok",
+     "chars": 2598
+    }
+   ],
+   "date_evidence": "court filing Friday（RSS pubDate 2026-10-12）",
+   "summary": "交換費和解案已賠付6.317億美元。",
+   "core_fact": "Payments Dive報導，集體訴訟管理人Epiq於10月9日（週五）向紐約布魯克林聯邦地方法院提交文件，指出截至目前已向689,340家商家撥付約6.317億美元，其中2.128億美元來自上月開始的第二次部分分配，涵蓋約8.4萬名商家原告。賠付資金源自對Visa與萬事達卡的55億美元和解案，和解基金截至9月30日餘額為50.2億美元，適格商家為2004年1月1日至2019年1月25日期間接受兩大卡組織卡片的美國企業，截至2025年2月申請期限共147萬家商家提出請求。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Fed names new payments chief",
+   "display_title": "聯邦準備銀行金融服務部門（Federal Reserve Financial Services）於10月8日任命Kim Robbins為新任支付主管並自11月16日上任，FedNow目前已吸引逾1,900家金融機構",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/fed-names-new-payments-chief/832744/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/fed-names-new-payments-chief/832744/",
+     "status": "ok",
+     "chars": 3855
+    }
+   ],
+   "date_evidence": "announced Thursday（RSS pubDate 2026-10-12）",
+   "summary": "Fed任命Kim Robbins為支付主管。",
+   "core_fact": "Payments Dive報導，聯準會金融服務部門於10月8日（週四）宣布任命任職近20年的聯準會資深人員Kim Robbins接任支付主管，接替即將退休的Mark Gould，11月16日上任。Gould過去三年主要任務是自2023年年中推出即時支付系統FedNow並招攬銀行加入；截至本月，FedNow吸引逾1,900家美國銀行與信用合作社，而適格機構約8,500家。聯準會上月才開始以折扣方案吸引機構加入，並稱系統已「接近」提供跨境交易支援，但未說明方式與時程。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Banks Stop Counting AI Hours and Start Counting Returns",
+   "display_title": "美國銀行（Bank of America）執行長莫尼漢（Brian Moynihan）於9月14日表示，130至140項AI專案成本4億美元、創造8億美元效益，明年AI預算將加倍",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-stop-counting-ai-hours-and-start-counting-returns/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-stop-counting-ai-hours-and-start-counting-returns/",
+     "status": "ok",
+     "chars": 4771
+    }
+   ],
+   "date_evidence": "RSS pubDate 2026-10-13",
+   "summary": "銀行以成本與效益量化AI。",
+   "core_fact": "PYMNTS於10月13日整理報導指出，美國銀行執行長莫尼漢9月14日在巴克萊（Barclays）會議表示，行內有130至140項AI專案，成本4億美元、產生8億美元效益，且明年將把AI費用預算加倍，但未說明數字涵蓋的期間。該行每年投入40億美元於新技術計畫，整體科技預算為135億美元。虛擬助理Erica第二季有2,460萬名活躍用戶，據技術長Hari Gopalkrishnan表示，若無Erica，需多聘11,000人接聽電話；生成式AI工具EricaAssist供逾18,000名客服人員使用，平均通話時間縮短近一分鐘。",
+   "deep_facts": [
+    "Erica第二季2,460萬活躍用戶，若無Erica需多聘11,000人",
+    "EricaAssist供逾18,000名客服使用，平均通話縮短近一分鐘",
+    "法國興業AI最多貢獻6億歐元、德國商業銀行2026至2030年投入約6億歐元"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Meta releases its first frontier model, Muse Wonder",
+   "display_title": "Meta於10月12日發布首款前沿模型Muse Wonder與Muse Wonder Full，API定價為每百萬輸入token 4美元、輸出20美元",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+     "status": "ok",
+     "chars": 3531
+    }
+   ],
+   "date_evidence": "RSS pubDate 2026-10-13（發布於週一10月12日）",
+   "summary": "Meta發布Muse Wonder。",
+   "core_fact": "TechCrunch報導，Meta超智慧實驗室（Superintelligence Lab）於10月12日發布Muse Wonder與Muse Wonder Full，這是Meta第一款前沿模型。透過Meta Model API存取時，Wonder定價為每百萬輸入token 4美元、每百萬輸出token 20美元，價格約與OpenAI及Anthropic的旗艦模型相當；Wonder Full僅提供Muse Code訂閱者，不透過API提供。兩款模型也將驅動Muse代理，並在Meta位於俄亥俄州的Prometheus資料中心訓練。",
+   "deep_facts": [
+    "Wonder Full僅提供Muse Code訂閱者，不透過API提供",
+    "模型在俄亥俄州Prometheus資料中心訓練",
+    "Meta強調active memory並以MemoryBench自測"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "PCI SSC發布支付環境AI安全指引，AI代理存取明文持卡人資料應經人工核准",
+   "display_title": "支付卡產業安全標準委員會（PCI SSC）於10月7日公告支付環境AI安全指引，要求AI代理採最小自主權並明確人工責任",
+   "source": "iThome",
+   "source_tier": "T1",
+   "url": "https://www.ithome.com.tw/news/179591",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ithome.com.tw/news/179591",
+     "status": "fail",
+     "chars": 1135
+    }
+   ],
+   "date_evidence": "2026-10-12  06:10:01",
+   "summary": "PCI SSC發布AI安全指引。",
+   "core_fact": "iThome報導，PCI SSC於10月7日發布公告，說明已針對支付環境中的AI安全提出指引，提醒企業重新檢視AI系統的權限控管與安全機制。該指引源自9月15日發布的資訊補充文件《AI系統安全考量》（Security Considerations for AI Systems），聚焦導入AI後如何控管權限、保護敏感資料及防範惡意利用，涵蓋AI系統部署與使用、防範惡意利用、既有PCI標準在AI情境下的適用方式及支付環境AI應用案例等4大面向。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+   "display_title": "渣打銀行（Standard Chartered）於10月12日宣布杜拜分行提供瑞波（Ripple）美元穩定幣RLUSD的機構託管，並規劃與LMAX Group連結作為交易擔保品",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+     "status": "ok",
+     "chars": 5184
+    }
+   ],
+   "date_evidence": "Oct 12, 2026, 8:09 a.m. EDT",
+   "summary": "渣打杜拜提供RLUSD託管。",
+   "core_fact": "CoinDesk報導，渣打銀行杜拜分行於10月12日開始向合格客戶提供XRP Ledger上瑞波美元穩定幣RLUSD的受監管機構託管。該行並計畫與瑞波及機構交易平台LMAX Group合作，讓客戶把存放在渣打的RLUSD作為LMAX交易擔保品，無須轉入交易場地；此部分尚未上線，仍待文件、測試、監管要求與內部核准。渣打管理資產規模近4,500億美元，瑞波於1月曾向LMAX提供1.5億美元融資，以便把RLUSD嵌入其機構基礎設施。",
+   "deep_facts": [
+    "LMAX擔保品連結尚未上線，待文件、測試、監管與內部核准",
+    "瑞波1月向LMAX提供1.5億美元融資",
+    "渣打已完全收購Zodia Custody並規劃新加坡託管"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "South Korea just got its first traditional bank loans backed by bitcoin",
+   "display_title": "全北銀行（Jeonbuk Bank）據10月12日報導推出南韓首例銀行比特幣擔保企業貸款，已完成一筆放款，擔保品由登記虛擬資產業者託管",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+     "status": "ok",
+     "chars": 4702
+    }
+   ],
+   "date_evidence": "Oct 12, 2026, 6:57 a.m. EDT",
+   "summary": "全北銀行比特幣擔保貸款。",
+   "core_fact": "CoinDesk報導，隸屬JB金融集團的全北銀行已開始向企業客戶提供比特幣擔保貸款，成為南韓首家讓企業以持有的加密資產借款的銀行。貸款以韓元發放，用途限於企業營運成本，目前僅接受比特幣作為擔保品；一名行方人員向當地媒體證實已有一筆貸款放款，但未透露借款人。報導未揭露利率、額度與擔保要求，但當地媒體指出銀行已針對比特幣與以太幣等主要代幣審視貸款成數與追繳保證金門檻。",
+   "deep_facts": [
+    "違約處置依10月1日生效的修訂《民事執行規則》循法院命令拍賣",
+    "全北銀行不自行保管，由登記虛擬資產業者託管",
+    "銀行自行壓力測試並因流動性深厚選定比特幣"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+   "display_title": "金融穩定委員會（Financial Stability Board，FSB）於10月12日發布穩定幣報告，警告全球穩定幣在跨境危機下尚未經過檢驗，市值已由2025年初約2,060億美元增至3,060億美元",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+     "status": "ok",
+     "chars": 6145
+    }
+   ],
+   "date_evidence": "Oct 12, 2026, 7:02 a.m. EDT",
+   "summary": "FSB警告穩定幣跨境脆弱性。",
+   "core_fact": "CoinDesk報導，FSB於10月12日發布穩定幣報告，指出全球穩定幣安排尚未經過嚴重壓力或破產情境的檢驗，各國監管架構推進速度不一，並呼籲加強跨境資訊分享、監測與危機處置規劃。穩定幣市值由2025年初約2,060億美元成長至3,060億美元，多數與美元掛鉤。PYMNTS報導該報告名為《Global Stablecoin Arrangements: Cross-Border Vulnerabilities and Financial Stability Monitoring》，發布時點在10月15日G20財長與央行總裁會議前數日。",
+   "deep_facts": []
+  }
+ ]
+}

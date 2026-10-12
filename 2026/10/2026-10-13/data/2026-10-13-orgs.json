@@ -1,0 +1,10 @@
+[
+{"name":"威士","url":"https://www.visa.com","intro":"全球最大卡組織之一，營運跨國電子支付網路。"},
+{"name":"萬事達卡","url":"https://www.mastercard.com","intro":"全球主要卡組織，提供跨國支付網路與相關資料服務。"},
+{"name":"渣打銀行","url":"https://www.sc.com","intro":"總部在英國的國際銀行，業務聚焦亞洲、非洲與中東，並發展數位資產託管。"},
+{"name":"美國銀行","url":"https://www.bankofamerica.com","intro":"美國大型銀行，提供零售、企業與投資銀行服務。"},
+{"name":"金融穩定委員會","url":"https://www.fsb.org","intro":"由G20成立的國際組織，協調各國金融監理並提出全球金融穩定建議。"},
+{"name":"聯邦存款保險公司","url":"https://www.fdic.gov","intro":"美國聯邦存款保險機構，同時負責部分銀行的監理與申請審查。"},
+{"name":"瑞波","url":"https://ripple.com","intro":"區塊鏈支付與數位資產公司，發行美元穩定幣RLUSD。"},
+{"name":"Meta","url":"https://about.meta.com","intro":"臉書、Instagram母公司，近年投入大型AI模型與個人化AI代理。"}
+]
