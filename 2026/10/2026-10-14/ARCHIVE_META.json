@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-14",
+  "archived_at": "2026-10-13T23:17:25Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "2d48ac9c843139b75e7397f42bbacaa22f2fb456",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 679291,
+  "files": [
+    {
+      "path": "data/2026-10-14-candidates.txt",
+      "bytes": 68965,
+      "sha256": "4d8a5e882c634e8144bf492b90ba9827fd9cc510864c6300d75b73aa3c6a6b0f"
+    },
+    {
+      "path": "data/2026-10-14-glossary.json",
+      "bytes": 1756,
+      "sha256": "eaaf13410a10bf376a97a4a2d919b52b4f126bfd258b18b7429cfed1002e446a"
+    },
+    {
+      "path": "data/2026-10-14-manifest.txt",
+      "bytes": 3460,
+      "sha256": "e3abe2ce46b4c829baf2f95c1b7eba6e49c1487b98dc32589537be7b46c5018f"
+    },
+    {
+      "path": "data/2026-10-14-orgs.json",
+      "bytes": 1638,
+      "sha256": "4be4257437c94bb98c73dd6793f29fd47b71b04dd3c1743e6649b9e7b87a4439"
+    },
+    {
+      "path": "data/2026-10-14-topic-cases.json",
+      "bytes": 3867,
+      "sha256": "00061ef69782ce72e339d714c688c537f679d471c8f511596b4097799b64df29"
+    },
+    {
+      "path": "data/2026-10-14-topic-decisions.json",
+      "bytes": 1510,
+      "sha256": "793a5e9c82034694429af267a6abe3c4d4ddac2f2ce5e9629dc32d371c15d36b"
+    },
+    {
+      "path": "data/2026-10-14.json",
+      "bytes": 22829,
+      "sha256": "a9df3bc92e9c646f6957c1e5a528f9a0a026a7b074d116470b658c4799af38b5"
+    },
+    {
+      "path": "outbox/2026-10-14-archive.html",
+      "bytes": 104167,
+      "sha256": "9e068c9223f8df09db4319c1a94c19f84443680efb1079cd7b4451d5452ca0f4"
+    },
+    {
+      "path": "outbox/2026-10-14-email.html",
+      "bytes": 11232,
+      "sha256": "72a961495c05980f015b714b4ce890c5fd040d66f12f594aacc549093ab9d35c"
+    },
+    {
+      "path": "published/2026-10-14.html",
+      "bytes": 555,
+      "sha256": "b7105b9fae09a2cb9960baf8046796f051ba14f4c62fa2a26c60a54714a6c3d0"
+    },
+    {
+      "path": "published/2026-10-14/ai.html",
+      "bytes": 36006,
+      "sha256": "25f79ea51858ac2ec14b40d14d815095622c33cca7b2698eae6df28fc0b79048"
+    },
+    {
+      "path": "published/2026-10-14/blockchain.html",
+      "bytes": 48810,
+      "sha256": "cb54959f1648b75b2219bb7c1491a10d056ddc3df5deda561216aa62a110ee41"
+    },
+    {
+      "path": "published/2026-10-14/index.html",
+      "bytes": 22959,
+      "sha256": "b6775dd341535fb91047f7ad6dcfbdb564d6687556ca0c63e14fe99cd8cdb79b"
+    },
+    {
+      "path": "published/2026-10-14/innovation.html",
+      "bytes": 52636,
+      "sha256": "5a88d8fa55b4f001c56e2346ec0c703b565a7da33033a77a7fc97bd583505c71"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 249127,
+      "sha256": "f0749224bb0656a5f2d42a7a383be20521762c0870717ef196d09c5c3fa4306b"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "1e8efd7c931b58de6c271845085587d6dae5693948c581ac33599fb91594791d"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "b7105b9fae09a2cb9960baf8046796f051ba14f4c62fa2a26c60a54714a6c3d0"
+    },
+    {
+      "path": "published/topics/ai-datacenter-circular-financing-risk.html",
+      "bytes": 3676,
+      "sha256": "ff2b3b9fd02cbdaebd66e7d1826179b78d68079180224ad4d4fba4b6d4a21b47"
+    },
+    {
+      "path": "published/topics/tokenized-equities-market-growth.html",
+      "bytes": 4456,
+      "sha256": "f83ae77618bf49e3311d2f4de048e988607bb48334cbfaaf9b70d141dd48e827"
+    },
+    {
+      "path": "source/2026-10-14-report.txt",
+      "bytes": 37709,
+      "sha256": "89193423f8681c4d49265cbd7c9d62b81496ab2924f18a6d336781519c3649e5"
+    },
+    {
+      "path": "source/2026-10-14-summary.txt",
+      "bytes": 2586,
+      "sha256": "5ecbb04ee7b775dbadf2deb2edf92872f6c347bf13dbccd340c3de6ee50cdda2"
+    }
+  ]
+}

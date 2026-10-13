@@ -1,0 +1,292 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14T09:00:00+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "display_title": "美國運通（American Express）於10月13日推出「意圖智慧框架」（Intent Intelligence Framework），在AI代理完成交易前先擷取並驗證持卡人的購買意圖",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+     "status": "ok",
+     "chars": 6157
+    }
+   ],
+   "date_evidence": "Tue, 13 Oct 2026（TechCrunch，Disrupt 2026 Industry Stage 於 October 13 說明）",
+   "summary": "美國運通於10月13日公布「意圖智慧框架」，並希望它成為AI代理交易的產業標準。流程從Create Intent API開始，先擷取客戶的購買指示與預算、商家名稱、商品偏好等限制，再由客戶完成身分驗證並簽核，系統隨後產生唯一的Intent ",
+   "core_fact": "美國運通於10月13日公布「意圖智慧框架」，並希望它成為AI代理交易的產業標準。流程從Create Intent API開始，先擷取客戶的購買指示與預算、商家名稱、商品偏好等限制，再由客戶完成身分驗證並簽核，系統隨後產生唯一的Intent ID與內含高階限制條件的Proof of Intent Token，代理人結帳時改用安全的數位支付憑證，而非客戶真實卡號。該框架併入4月推出的ACE開發工具包，美國運通代理式合作策略副總裁Hannah Bozian表示，公司尚未看到代理式商務造成爭議增加，但選擇在規模化之前先行布局，並已與支付生態系夥伴洽談導入。",
+   "deep_facts": [
+    "Create Intent API 擷取預算與商家等限制，客戶驗證後產生 Intent ID 與 Proof of Intent Token",
+    "代理人以安全數位支付憑證結帳而非真實卡號",
+    "Amex Trendex：66% 美國受訪者可能用 AI 代理比價、61% 用於推薦",
+    "框架併入 4 月推出的 ACE 開發工具包，美國運通尚未看到爭議增加"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Visa moves ahead in China",
+   "display_title": "威士（Visa）於10月13日宣布獲中國政府核准籌備境內銀行卡清算業務，落後萬事達卡（Mastercard）2023年取得的核准",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/visa-moves-ahead-in-china/832867/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/visa-moves-ahead-in-china/832867/",
+     "status": "ok",
+     "chars": 2290
+    }
+   ],
+   "date_evidence": "Tue, 13 Oct 2026（Payments Dive）",
+   "summary": "威士於10月13日（週二）發布新聞稿，指其「準備」境內卡清算的申請已獲中國政府核准，並表示將依中國人民銀行規定繼續完成程序，才能正式開辦境內業務。執行長McInerney指出，威士透過國際持卡人在中國的使用已有約40年。萬事達卡早在2023",
+   "core_fact": "威士於10月13日（週二）發布新聞稿，指其「準備」境內卡清算的申請已獲中國政府核准，並表示將依中國人民銀行規定繼續完成程序，才能正式開辦境內業務。執行長McInerney指出，威士透過國際持卡人在中國的使用已有約40年。萬事達卡早在2023年即獲准在中國營運，並與中國對口業者成立北京合資公司Mastercard NetsUnion Information Technology，2024年起處理中國銀行發行卡片的交易。美國卡組織自至少2017年起就尋求進入中國境內市場。",
+   "deep_facts": [
+    "核准內容為「準備」境內清算的申請，後續須依中國人民銀行規定完成程序",
+    "萬事達卡2023年獲准，並成立北京合資公司於2024年起處理中國銀行發行卡片交易",
+    "美國卡組織自至少2017年起尋求進入中國境內市場",
+    "銀聯為政府支持的主導者，可能在吸引中國銀行擔任發卡行上較有優勢"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "India delays digital payments fee rollout amid retailer pushback",
+   "display_title": "印度國家支付公司（NPCI）於10月13日宣布延後原訂10月15日實施的統一支付介面（UPI）商家0.4%手續費，並改在排燈節（Diwali）後",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+     "status": "ok",
+     "chars": 4100
+    }
+   ],
+   "date_evidence": "Tue, 13 Oct 2026（TechCrunch India）",
+   "summary": "印度NPCI於10月13日表示，因節慶購物季，將延後原訂10月15日對符合條件、超過2,000盧比（約21美元）的商家交易收取0.4%費用的計畫，新日期未定，只說明會在排燈節之後。該費用於上月公布，單筆費用上限為300盧比（約3美元），月收",
+   "core_fact": "印度NPCI於10月13日表示，因節慶購物季，將延後原訂10月15日對符合條件、超過2,000盧比（約21美元）的商家交易收取0.4%費用的計畫，新日期未定，只說明會在排燈節之後。該費用於上月公布，單筆費用上限為300盧比（約3美元），月收款低於10萬盧比（約1,033美元）的小商家與2,000盧比以下交易豁免。NPCI並表示收費將分給UPI生態系參與者，用於基礎設施、資安與防詐。9月UPI處理240.7億筆交易、金額29.37兆盧比（約3,050億美元）。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Banks Widen Credit Access to Low-Score Borrowers",
+   "display_title": "費城聯邦準備銀行（Federal Reserve Bank of Philadelphia）於10月7日公布第二季報告，信用分數低於660者占大型銀行新卡核發的18.5%，高於去年同期的16.1%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/credit-cards/2026/banks-widen-credit-access-low-score-borrowers/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/credit-cards/2026/banks-widen-credit-access-low-score-borrowers/",
+     "status": "ok",
+     "chars": 4557
+    }
+   ],
+   "date_evidence": "2026-10-14（PYMNTS feed；報告引述 Oct. 7 費城聯儲報告）",
+   "summary": "費城聯邦準備銀行的《2026年第二季洞察報告》於10月7日公布，指出分數低於660的借款人占大型銀行新信用卡帳戶的18.5%，去年同期為16.1%。新卡帳戶數成長近4%，核發總金額僅增1.5%，因此平均新額度由6,216美元降為6,066美",
+   "core_fact": "費城聯邦準備銀行的《2026年第二季洞察報告》於10月7日公布，指出分數低於660的借款人占大型銀行新信用卡帳戶的18.5%，去年同期為16.1%。新卡帳戶數成長近4%，核發總金額僅增1.5%，因此平均新額度由6,216美元降為6,066美元。分數低於660者的新額度中位數由500美元升至600美元，720以上者維持7,000美元。卡片逾期與淨沖銷率已連續超過一年下降，全額繳清餘額的帳戶占比達37%，與2021年疫情期高點持平。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Can banks buy fintechs without losing what makes them work?",
+   "display_title": "瓦利國家銀行（Valley National Bank）宣布以3.4億美元收購中小企業金融科技公司Bluevine，預計2027年初完成",
+   "source": "Tearsheet",
+   "source_tier": "T2",
+   "url": "https://tearsheet.co/funding/can-banks-buy-fintechs-without-losing-what-makes-them-work/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://tearsheet.co/funding/can-banks-buy-fintechs-without-losing-what-makes-them-work/",
+     "status": "ok",
+     "chars": 4417
+    }
+   ],
+   "date_evidence": "October 13, 2026（Tearsheet）",
+   "summary": "美國紐澤西州的瓦利國家銀行計畫以3.4億美元收購中小企業金融科技公司Bluevine，交易預計於2027年初完成。Bluevine過去十餘年專注為小型企業打造產品，並把一個銀行帳戶擴展為更完整的金融關係。Tearsheet引述分析人士Lif",
+   "core_fact": "美國紐澤西州的瓦利國家銀行計畫以3.4億美元收購中小企業金融科技公司Bluevine，交易預計於2027年初完成。Bluevine過去十餘年專注為小型企業打造產品，並把一個銀行帳戶擴展為更完整的金融關係。Tearsheet引述分析人士Lifshitz指出，Bluevine可取得銀行的規模、資產負債表、銀行能力與實體通路，瓦利則取得規模化的數位中小企業技術平台、獲客引擎與技術組織。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "JPMorgan CEO Dimon warns customers of ‘liability transfer’ with AI",
+   "display_title": "摩根大通（JPMorgan Chase）執行長戴蒙（Jamie Dimon）於10月13日在第三季財報會議警告，客戶授權AI代理存取帳戶即承擔「責任移轉」，行方年度AI支出約7億美元",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/jpmorgan-dimon-ai-agents-bank-customers-liability-transfer/832870/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/jpmorgan-dimon-ai-agents-bank-customers-liability-transfer/832870/",
+     "status": "ok",
+     "chars": 5098
+    }
+   ],
+   "date_evidence": "Tue, 13 Oct 2026（Banking Dive；Tuesday earnings call）",
+   "summary": "摩根大通執行長戴蒙於10月13日第三季財報會議上表示，客戶若讓AI代理存取銀行帳戶，就等於承擔該決定，「存在責任移轉」，並稱「你不會想要流氓代理，而且可能有數千個」。他指出行方正在打造保護客戶的工具，但目前不會允許任何外部代理進入行內系統。",
+   "core_fact": "摩根大通執行長戴蒙於10月13日第三季財報會議上表示，客戶若讓AI代理存取銀行帳戶，就等於承擔該決定，「存在責任移轉」，並稱「你不會想要流氓代理，而且可能有數千個」。他指出行方正在打造保護客戶的工具，但目前不會允許任何外部代理進入行內系統。財務長Jeremy Barnum表示，行方AI年度支出接近7億美元，但這個數字「已略為過時」，而AI效益尚未在財報上看得到；同季費用年增12%至273億美元，第四季預估約275億美元。他也透露AI工具Smart Cash（在客戶帳戶間移動資金以優化收益）仍在試辦。",
+   "deep_facts": [
+    "財務長Barnum稱AI年度支出接近7億美元且數字略為過時",
+    "Smart Cash 工具仍在試辦",
+    "同季費用年增12%至273億美元，第四季預估約275億美元",
+    "行方採模型中立並可同時使用自有與開源模型"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Goldman Sachs CEO Flags Financing Risk in AI Buildout",
+   "display_title": "高盛（Goldman Sachs）執行長所羅門（David Solomon）於10月13日指出美國資料中心建置至2032年恐需逾10兆美元，並警告融資可能成為AI資本支出瓶頸",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-ceo-david-solomon-flags-financing-risk-ai-buildout/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-ceo-david-solomon-flags-financing-risk-ai-buildout/",
+     "status": "ok",
+     "chars": 4148
+    }
+   ],
+   "date_evidence": "Tuesday (Oct. 13)（PYMNTS）",
+   "summary": "高盛執行長所羅門於10月13日在第三季財報開場表示，引用研究估計美國資料中心建置至2032年可能需要逾10兆美元，平均約占美國年度經濟產出的3.6%。客戶對話顯示運算需求超過供給，為高盛創造安排融資的機會，但所羅門稱高盛對承擔的融資風險與資",
+   "core_fact": "高盛執行長所羅門於10月13日在第三季財報開場表示，引用研究估計美國資料中心建置至2032年可能需要逾10兆美元，平均約占美國年度經濟產出的3.6%。客戶對話顯示運算需求超過供給，為高盛創造安排融資的機會，但所羅門稱高盛對承擔的融資風險與資本投入「有所選擇」。高盛第三季淨營收186.8億美元，年增23%、較第二季減8%；淨利52.9億美元，每股盈餘17.01美元，去年同期為12.25美元；股票業務營收64.4億美元，投資銀行費用年增21%至32.2億美元。",
+   "deep_facts": [
+    "美國資料中心建置至2032年需逾10兆美元，平均約占年度經濟產出3.6%",
+    "第三季淨營收186.8億美元、淨利52.9億美元、EPS 17.01美元",
+    "股票業務營收64.4億美元，投資銀行費用年增21%至32.2億美元",
+    "借貸需求上升可能推高利率並影響專案報酬"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Google Says New Frontier Model Excels at Deep Work Across Domains",
+   "display_title": "谷歌（Google）於10月13日向開發者、企業與消費者全面開放新一代前沿模型Gemini 4 Argon",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-says-new-frontier-model-excels-at-deep-work-across-domains/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-says-new-frontier-model-excels-at-deep-work-across-domains/",
+     "status": "ok",
+     "chars": 2999
+    }
+   ],
+   "date_evidence": "Tuesday (Oct. 13)（PYMNTS）",
+   "summary": "谷歌於10月13日（週二）在部落格表示，新前沿模型Gemini 4 Argon已面向開發者、企業、科學家與消費者全球推出。谷歌說，Argon擅長跨領域的深度工作，包括程式、金融、法律、資安與科學。該模型9月30日先公布並僅開放給受信任的資安",
+   "core_fact": "谷歌於10月13日（週二）在部落格表示，新前沿模型Gemini 4 Argon已面向開發者、企業、科學家與消費者全球推出。谷歌說，Argon擅長跨領域的深度工作，包括程式、金融、法律、資安與科學。該模型9月30日先公布並僅開放給受信任的資安防禦者，13日起提供付費API客戶與Google AI Ultra訂閱者；谷歌並設有Fairwind計畫，讓資安防禦者可申請使用不含資安護欄的版本。谷歌8月11日稱Gemini應用月用戶已逾10億，高於2025年10月的6.5億。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+   "display_title": "紐約梅隆銀行（BNY）與Citadel Securities於10月13日完成代幣化美國公債從結算移轉至融資的交易",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+     "status": "ok",
+     "chars": 4811
+    }
+   ],
+   "date_evidence": "Oct 13, 2026, 5:52 p.m. EDT（CoinDesk）",
+   "summary": "全球最大託管銀行紐約梅隆銀行與Citadel Securities於10月13日（週二）表示，已完成一筆使用代幣化美國公債的交易，示範資產如何從結算順暢轉入融資。美國公債是銀行與交易商取得短期借款、支應交易的主要擔保品，但在帳戶與結算系統之",
+   "core_fact": "全球最大託管銀行紐約梅隆銀行與Citadel Securities於10月13日（週二）表示，已完成一筆使用代幣化美國公債的交易，示範資產如何從結算順暢轉入融資。美國公債是銀行與交易商取得短期借款、支應交易的主要擔保品，但在帳戶與結算系統之間移動需要時間，使資產被占用。Citadel Securities數位資產營運主管Dan Doherty表示，縮短交易生命週期的延遲可改善機構市場運作。紐約梅隆銀行也預告將推出更多數位現金與代幣化存款功能，並預期明年把聯準會合格證券與美國三方回購結算時段延長到涵蓋歐洲與亞洲交易時間。",
+   "deep_facts": [
+    "紐約梅隆銀行預期明年把聯準會合格證券與美國三方回購結算時段延長到歐亞交易時間",
+    "Citadel Securities數位資產營運主管Dan Doherty與BNY長Carolyn Weinberg發表說明",
+    "BNY計畫推出更多數位現金與代幣化存款功能"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+   "display_title": "聯邦愛馬仕（Federated Hermes）於10月13日宣布計畫2027年初首度自行發行代幣化基金份額，管理資產規模9,110億美元",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+     "status": "ok",
+     "chars": 6999
+    }
+   ],
+   "date_evidence": "Oct 13, 2026, 7:56 a.m. EDT（CoinDesk）",
+   "summary": "管理資產9,110億美元、總部在匹茲堡的聯邦愛馬仕，於10月13日對CoinDesk表示，計畫在2027年初發行首批代幣化基金份額，並與紐約的數位證券基礎設施業者Prometheum合作。Prometheum旗下受SEC註冊的券商子公司將提",
+   "core_fact": "管理資產9,110億美元、總部在匹茲堡的聯邦愛馬仕，於10月13日對CoinDesk表示，計畫在2027年初發行首批代幣化基金份額，並與紐約的數位證券基礎設施業者Prometheum合作。Prometheum旗下受SEC註冊的券商子公司將提供保管、清算與結算，並透過代理清算平台讓其他券商向客戶提供產品。公司尚未揭露將代幣化哪些基金與使用哪條區塊鏈，數位資產產品與平台主管Kevin Barr表示，貨幣市場基金是可能起點；他於今年5月加入前曾在紐約梅隆銀行任職15年。",
+   "deep_facts": [
+    "管理資產9,110億美元，2027年初發行，尚未揭露基金與區塊鏈",
+    "Prometheum SEC註冊券商子公司提供保管、清算與結算",
+    "Barr曾於BNY任職15年，5月加入",
+    "過去與Archax、高盛、Conduit Digital合作由第三方代幣化"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Morgan Stanley Plans Tokenized Equities Support on Its Alternative Trading System (ATS)",
+   "display_title": "摩根士丹利（Morgan Stanley）據10月14日報導將旗下ATS平台Trajectory Cross支援代幣化股票的時程延至2027年第一季，原訂2026年下半年",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/318038-morgan-stanley-plans-tokenized-equities-support-on-its-alternative-trading-system-ats/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/318038-morgan-stanley-plans-tokenized-equities-support-on-its-alternative-trading-system-ats/",
+     "status": "ok",
+     "chars": 6436
+    }
+   ],
+   "date_evidence": "2026-10-14（Crowdfund Insider）",
+   "summary": "摩根士丹利數位資產策略主管Amy Oldenburg在新加坡Token2049受訪時表示，旗下替代交易系統Trajectory Cross計畫在2027年第一季支援代幣化股票，較3月所提的2026年下半年延後。她說團隊持續建置所需基礎設施，",
+   "core_fact": "摩根士丹利數位資產策略主管Amy Oldenburg在新加坡Token2049受訪時表示，旗下替代交易系統Trajectory Cross計畫在2027年第一季支援代幣化股票，較3月所提的2026年下半年延後。她說團隊持續建置所需基礎設施，但須先有可行的產品，ATS才能支援，而因產品尚未出現，客戶需求仍有限。她點出存託信託與結算公司（DTCC）預定在2026年10月底推出的代幣化服務是重要里程碑，並關注2027年1月生效的GENIUS法案。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+   "display_title": "俄羅斯聯邦儲蓄銀行（Sberbank）於10月13日獲俄羅斯央行列入加密貨幣交易業者名冊，預計12月1日對全體客戶開放加密貨幣交易",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+     "status": "ok",
+     "chars": 4869
+    }
+   ],
+   "date_evidence": "Oct 13, 2026, 7:02 a.m. EDT（CoinDesk）",
+   "summary": "俄羅斯最大銀行俄羅斯聯邦儲蓄銀行於10月13日被俄羅斯央行加入加密貨幣交易業者名冊，本月稍早也已加入數位託管名冊，名冊現有九家機構，包括VTB與T-Invest Lab。該行計畫12月1日對所有客戶開放加密貨幣交易，目前已在App內測試比特",
+   "core_fact": "俄羅斯最大銀行俄羅斯聯邦儲蓄銀行於10月13日被俄羅斯央行加入加密貨幣交易業者名冊，本月稍早也已加入數位託管名冊，名冊現有九家機構，包括VTB與T-Invest Lab。該行計畫12月1日對所有客戶開放加密貨幣交易，目前已在App內測試比特幣、以太幣與泰達幣（USDT）交易，最終可交易幣種由央行決定。國內加密支付仍被禁止，且2027年7月起，加密交易必須透過登記中介機構。",
+   "deep_facts": []
+  }
+ ]
+}

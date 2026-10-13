@@ -1,0 +1,13 @@
+[
+{"name":"美國運通","url":"https://www.americanexpress.com","intro":"美國大型信用卡與支付業者，同時是發卡機構與卡組織。"},
+{"name":"威士","url":"https://www.visa.com","intro":"全球最大的國際卡組織之一，營運跨境與境內支付網路。"},
+{"name":"萬事達卡","url":"https://www.mastercard.com","intro":"全球主要國際卡組織，營運支付網路與相關資料服務。"},
+{"name":"摩根大通","url":"https://www.jpmorganchase.com","intro":"美國資產規模最大的銀行，業務涵蓋零售、投資銀行與資產管理。"},
+{"name":"高盛","url":"https://www.goldmansachs.com","intro":"美國大型投資銀行，業務涵蓋投資銀行、交易與資產管理。"},
+{"name":"谷歌","url":"https://www.google.com","intro":"Alphabet旗下科技公司，提供搜尋、雲端與Gemini系列AI模型。"},
+{"name":"紐約梅隆銀行","url":"https://www.bny.com","intro":"全球最大託管銀行之一，提供證券服務、資產管理與支付結算。"},
+{"name":"聯邦愛馬仕","url":"https://www.federatedhermes.com","intro":"美國大型資產管理公司，以貨幣市場與流動性管理產品見長。"},
+{"name":"摩根士丹利","url":"https://www.morganstanley.com","intro":"美國大型投資銀行與財富管理機構。"},
+{"name":"俄羅斯聯邦儲蓄銀行","url":"https://www.sberbank.com","intro":"俄羅斯最大銀行，提供零售與企業金融服務。"},
+{"name":"費城聯邦準備銀行","url":"https://www.philadelphiafed.org","intro":"美國聯邦準備體系下的區域準備銀行之一，發布經濟與消費信用研究。"}
+]

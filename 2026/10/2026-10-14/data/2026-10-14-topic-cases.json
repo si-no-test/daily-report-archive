@@ -1,0 +1,14 @@
+[
+{"title":"- **美國運通（American Express）**於10月13日推出「意圖智慧框架」（Intent Intelligence Framework），在AI代理完成交易前先擷取並驗證持卡人購買意圖","summary":"Amex推出Create Intent API與Proof of Intent Token，把客戶授權的預算、商家等限制帶入代理式交易全程，並併入4月推出的ACE開發工具包。","theme":"innovation"},
+{"title":"- **威士（Visa）**於10月13日宣布獲中國政府核准籌備境內銀行卡清算業務，落後萬事達卡（Mastercard）2023年取得的核准","summary":"Visa取得中國政府對籌備境內卡清算申請的核准，但尚須依中國人民銀行規定完成後續程序，面對銀聯的主導地位。","theme":"innovation"},
+{"title":"- **印度國家支付公司（NPCI）**於10月13日宣布延後原訂10月15日實施的統一支付介面（UPI）商家0.4%手續費","summary":"NPCI因商家反彈與排燈節購物季延後對超過2,000盧比交易收取0.4%費用，9月UPI處理240.7億筆交易。","theme":"innovation"},
+{"title":"- **費城聯邦準備銀行（Federal Reserve Bank of Philadelphia）**於10月7日公布第二季報告，信用分數低於660者占大型銀行新卡核發的18.5%","summary":"低分借款人占新卡核發比重由16.1%升至18.5%，但此族群新額度中位數僅600美元。","theme":"innovation"},
+{"title":"- **瓦利國家銀行（Valley National Bank）**宣布以3.4億美元收購中小企業金融科技公司Bluevine，預計2027年初完成","summary":"銀行收購Bluevine取得數位中小企業平台、獲客引擎與技術團隊。","theme":"innovation"},
+{"title":"- **摩根大通（JPMorgan Chase）**執行長戴蒙（Jamie Dimon）於10月13日在第三季財報會議警告，客戶授權AI代理存取帳戶即承擔「責任移轉」","summary":"戴蒙表示不會讓任何外部代理隨意進入行內系統，財務長指出年度AI支出約7億美元，效益尚未在財報中顯現。","theme":"ai"},
+{"title":"- **高盛（Goldman Sachs）**執行長所羅門（David Solomon）於10月13日指出美國資料中心建置至2032年恐需逾10兆美元，並警告融資可能成為AI資本支出瓶頸","summary":"所羅門引述研究指資料中心需求占美國年產出約3.6%，高盛對承擔的融資風險採選擇性態度。","theme":"ai"},
+{"title":"- **谷歌（Google）**於10月13日向開發者、企業與消費者全面開放新一代前沿模型Gemini 4 Argon","summary":"Argon主打程式、金融、法律與資安等深度工作，9月30日先提供受信任的資安防禦者。","theme":"ai"},
+{"title":"- **紐約梅隆銀行（BNY）**與Citadel Securities於10月13日完成代幣化美國公債從結算移轉至融資的交易","summary":"交易示範代幣化公債作為擔保品在結算與融資間更快移動，BNY並計畫延長傳統結算時段以銜接歐亞交易時間。","theme":"blockchain"},
+{"title":"- **聯邦愛馬仕（Federated Hermes）**於10月13日宣布計畫2027年初首度自行發行代幣化基金份額，管理資產規模9,110億美元","summary":"與Prometheum合作提供受監管的券商、保管與清算服務，貨幣市場基金為可能起點。","theme":"blockchain"},
+{"title":"- **摩根士丹利（Morgan Stanley）**據10月14日報導將旗下ATS平台Trajectory Cross支援代幣化股票的時程延至2027年第一季","summary":"原訂2026年下半年，因可交易的代幣化產品尚未出現且客戶需求有限而延後。","theme":"blockchain"},
+{"title":"- **俄羅斯聯邦儲蓄銀行（Sberbank）**於10月13日獲俄羅斯央行列入加密貨幣交易業者名冊，預計12月1日對全體客戶開放加密貨幣交易","summary":"名冊共九家機構，加密貨幣支付仍禁止，2027年7月起交易須經登記中介。","theme":"blockchain"}
+]
