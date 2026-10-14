@@ -1,0 +1,62 @@
+[
+ {
+  "title": "- **摩根大通（JPMorgan Chase）**於10月2日接受訪談揭露，2023年成立的支付夥伴網絡已擴至約120家企業，並由約30人專責合作開發與投資併購",
+  "summary": "① 事件說明：JPMorgan Chase支付業務公司發展暨合作主管曼寧（Todd Manning）於10月2日受訪表示，該行2023年成立的支付夥伴網絡目前包含約120家企業，涵蓋Visa、Ingenico、Epic Systems，以及",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Prismm**於10月14日在TechCrunch Disrupt 2026 Startup Battlefield發表，把受益人與遺產規劃內建進銀行帳戶，並規劃三項產品",
+  "summary": "① 事件說明：Prismm由姊妹檔創辦人Martha Underwood與Shella Sylla於2020年成立，10月14日在舊金山TechCrunch Disrupt 2026的Startup Battlefield舞台發表。公司直接",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Splitit**於10月14日前後公布Splitit World Mastercard計畫，預定2027年初出貨，讓中型銀行發行內建分期功能的自有品牌信用卡",
+  "summary": "① 事件說明：總部位於美國喬治亞州的分期付款解決方案商Splitit公布Splitit World Mastercard，這是一張可由銀行與信用合作社自有品牌發行的信用卡，消費者可在App設定消費門檻，超過門檻的消費自動拆成按月分期，並可在",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Ocrolus**於10月公布其AI文件偽造偵測方案Ocrolus Detect對所有房貸客戶免費，平台上12%的貸款申請含可疑跡象",
+  "summary": "① 事件說明：貸款分析與工作流程平台Ocrolus宣布，原本單獨計價的文件詐欺偵測方案Ocrolus Detect，現在對所有房貸客戶免費提供，會檢查銀行對帳單、薪資單與稅務表單是否遭竄改，並與Resistant AI整合以辨識由生成式AI",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **倫敦證券交易所集團（LSEG）**於10月14日證實，正與私募股權公司Permira洽談以約35億美元收購信用研究與資料業者Octus",
+  "summary": "① 事件說明：據Finextra報導，倫敦證券交易所集團於10月14日確認正與私募股權集團Permira協商，擬以約35億美元收購信用專業資料商Octus，目前尚在洽談階段、未宣布簽約。Octus專注於信用與重整研究資料，是投資人與債權人在",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Apate.ai**於10月14日在TechCrunch Disrupt Startup Battlefield 200展示，以數千個AI代理偽裝受害者誘騙詐騙集團，累計約250萬則對話、耗費詐騙者17年時間",
+  "summary": "① 事件說明：2024年由澳洲麥覺理大學研究衍生成立的Apate.ai，部署數千個AI代理，扮演不同年齡、性別與口音的受害者，接聽詐騙電話、回覆可疑訊息與電子郵件、點選釣魚連結並加入社群群組，藉此套出詐騙者使用的銀行帳戶、加密貨幣錢包、電話",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Coinbase**於10月初公布Onramp歷史回放測試，在16,140筆交易、813筆確認詐欺中，三大模型家族的新版本詐欺召回率皆低於舊版",
+  "summary": "① 事件說明：加密交易所Coinbase在10月初發布的「Owning Intelligence」工程系列中，披露對旗下Onramp服務的受控歷史回放：涵蓋7,293名用戶的16,140筆交易，其中813筆為確認詐欺，資料取自推出自有風險代",
+  "theme": "ai"
+ },
+ {
+  "title": "- **金融監督管理委員會（金管會）**於10月13日公布「金融業運用代理AI安全諮詢文件」，提出安全治理、風險分級與安全控管三大方向，公開徵詢意見30天",
+  "summary": "① 事件說明：金管會於10月13日宣布公開「金融業運用代理AI安全諮詢文件」並徵詢各界意見30天。文件指出代理AI（Agentic AI）具備規劃步驟、呼叫工具與跨系統存取資料的能力，若管理不當，可能發生目標偏離、工具誤用或越權、敏感資料外",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Payward（Kraken母公司）**於10月14日宣布同意收購立陶宛Saldo Bank，預計2027年完成，成為首家買下歐盟銀行的加密業者",
+  "summary": "① 事件說明：Kraken母公司Payward於10月14日宣布同意收購立陶宛的Saldo Bank，金額未揭露，交易需經監理核准、預計2027年完成，據金融時報報導將成為首家收購歐洲銀行的加密公司。Saldo Bank 2025年底總資產",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Qivalis**於10月14日獲荷蘭央行核發電子貨幣機構牌照，這家由37家歐洲銀行支持的歐元穩定幣業者預計在未來數月發行代幣",
+  "summary": "① 事件說明：Qivalis是由37家歐洲主要銀行支持的聯盟，成員包括BBVA、法國巴黎銀行、荷蘭國際集團（ING）與DZ Bank，2025年9月成立；10月14日取得荷蘭央行（DNB）核發的電子貨幣機構牌照，更接近發行歐元計價的電子貨幣",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **EasyA**於10月14日表示已取得11億美元獨立估值，預計2027年上半年直接上市，並規劃提供代幣化股票",
+  "summary": "① 事件說明：區塊鏈與AI應用開發平台EasyA執行長Philip Kwok於10月14日接受CoinDesk訪問表示，公司已取得11億美元的獨立估值，預計明年上半年以直接上市方式公開掛牌，並已向美國證券交易委員會（SEC）遞交註冊草案。公",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Navra**於10月初完成1,900萬美元A輪募資，這是SoFi與Figure共同創辦人Mike Cagney的新創，已有約3萬人排隊等待開通",
+  "summary": "① 事件說明：SoFi與Figure共同創辦人Mike Cagney與配偶June Ou共同創立的Navra，宣布完成1,900萬美元A輪募資，由Ribbit Capital、Baseline與DCM領投，Jump Crypto與Figur",
+  "theme": "blockchain"
+ }
+]

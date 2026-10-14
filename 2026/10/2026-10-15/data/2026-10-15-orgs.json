@@ -1,0 +1,37 @@
+[
+ {
+  "name": "摩根大通",
+  "url": "https://www.jpmorganchase.com",
+  "intro": "美國最大銀行，全球主要金融服務與支付業者。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國上市的加密資產交易所與數位資產服務平台。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://www.visa.com",
+  "intro": "全球最大支付卡組織之一，營運跨境電子支付網路。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要支付卡組織，提供卡片與支付網路服務。"
+ },
+ {
+  "name": "Kraken",
+  "url": "https://www.kraken.com",
+  "intro": "全球主要加密資產交易所，母公司為Payward。"
+ },
+ {
+  "name": "金管會",
+  "url": "https://www.fsc.gov.tw",
+  "intro": "台灣金融業的主管機關，負責金融監理與政策。"
+ },
+ {
+  "name": "倫敦證券交易所集團",
+  "url": "https://www.lseg.com",
+  "intro": "英國金融市場基礎設施與資料業者，營運倫敦證券交易所。"
+ }
+]

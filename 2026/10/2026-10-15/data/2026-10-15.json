@@ -1,0 +1,292 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-10-15T12:00:00+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "JPMorgan rounds up payments partners",
+   "display_title": "摩根大通（JPMorgan Chase）於10月2日接受訪談揭露，2023年成立的支付夥伴網絡已擴至約120家企業，並由約30人專責合作開發與投資併購",
+   "source": "Banking Dive",
+   "source_tier": "T1",
+   "url": "https://www.bankingdive.com/news/jpmorgan-rounds-up-payments-partners-todd-manning/832998/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/jpmorgan-rounds-up-payments-partners-todd-manning/832998/",
+     "status": "ok",
+     "chars": 6308
+    }
+   ],
+   "date_evidence": "Wed, 14 Oct 2026 RSS pubDate",
+   "summary": "JPMorgan Chase支付業務公司發展暨合作主管曼寧（Todd Manning）於10月2日受訪表示，該行2023年成立的支付夥伴網絡目前包含約120家企業，涵蓋Visa、Ingenico、Epic Systems，以及SAP與Ora",
+   "core_fact": "JPMorgan Chase支付業務公司發展暨合作主管曼寧（Todd Manning）於10月2日受訪表示，該行2023年成立的支付夥伴網絡目前包含約120家企業，涵蓋Visa、Ingenico、Epic Systems，以及SAP與Oracle等大型軟體商，也有處於早期的金融科技新創。曼寧今年才從任職近17年的美國運通轉任，負責企業發展與合作；支付部門約有30人專責新夥伴開發，其中約75%的人力投入合作關係與後續監控，另有團隊負責創投與併購評估。",
+   "deep_facts": [
+    "支付部門約30人專責新夥伴開發，其中約75%投入合作關係與持續監控",
+    "曼寧曾任美國運通近17年、今年轉任摩根大通企業發展與合作主管",
+    "ERP整合讓客戶可在平台內直接付款是最基本的使用案例"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Prismm helps banks keep inherited money in-house",
+   "display_title": "Prismm於10月14日在TechCrunch Disrupt 2026 Startup Battlefield發表，把受益人與遺產規劃內建進銀行帳戶，並規劃三項產品",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+     "status": "ok",
+     "chars": 6333
+    }
+   ],
+   "date_evidence": "2026-10-14",
+   "summary": "Prismm由姊妹檔創辦人Martha Underwood與Shella Sylla於2020年成立，10月14日在舊金山TechCrunch Disrupt 2026的Startup Battlefield舞台發表。公司直接整合銀行核心系",
+   "core_fact": "Prismm由姊妹檔創辦人Martha Underwood與Shella Sylla於2020年成立，10月14日在舊金山TechCrunch Disrupt 2026的Startup Battlefield舞台發表。公司直接整合銀行核心系統，讓帳戶持有人事先指定家屬存取帳戶與文件；身故後指定人可登入檢視資產並以數位方式啟動符合資格的受益人轉移。首項產品Designate讓客戶自助更新受益人，第二項Anchor可跨機構整理帳戶與資產文件，第三項Continuity即將推出，引導行員與家屬逐步完成移轉。",
+   "deep_facts": [
+    "三項產品為Designate、Anchor與即將推出的Continuity",
+    "創辦人主張繼承轉移是基礎設施問題，直接整合銀行核心系統",
+    "公司稱銀行每年因繼承流失損失大量存款"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Splitit Plans to Launch White-Label Credit Card",
+   "display_title": "Splitit於10月14日前後公布Splitit World Mastercard計畫，預定2027年初出貨，讓中型銀行發行內建分期功能的自有品牌信用卡",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/splitit-plans-to-launch-white-label-credit-card/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/splitit-plans-to-launch-white-label-credit-card/",
+     "status": "ok",
+     "chars": 3138
+    }
+   ],
+   "date_evidence": "2026-10-14",
+   "summary": "總部位於美國喬治亞州的分期付款解決方案商Splitit公布Splitit World Mastercard，這是一張可由銀行與信用合作社自有品牌發行的信用卡，消費者可在App設定消費門檻，超過門檻的消費自動拆成按月分期，並可在結帳前改為一次",
+   "core_fact": "總部位於美國喬治亞州的分期付款解決方案商Splitit公布Splitit World Mastercard，這是一張可由銀行與信用合作社自有品牌發行的信用卡，消費者可在App設定消費門檻，超過門檻的消費自動拆成按月分期，並可在結帳前改為一次付清或調整分期計畫。產品預計2027年初開始出貨給金融機構。Splitit成立於2012年、2019年上市、2023年被Motive Partners收購後轉為私有，2025年另推出支援自主購物代理的Agentic Commerce Partner Program。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Ocrolus Adds Document Fraud Detection to Mortgage Workflows",
+   "display_title": "Ocrolus於10月公布其AI文件偽造偵測方案Ocrolus Detect對所有房貸客戶免費，平台上12%的貸款申請含可疑跡象",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/ocrolus-adds-document-fraud-detection-to-mortgage-workflows/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/ocrolus-adds-document-fraud-detection-to-mortgage-workflows/",
+     "status": "ok",
+     "chars": 3242
+    }
+   ],
+   "date_evidence": "2026-10-14",
+   "summary": "貸款分析與工作流程平台Ocrolus宣布，原本單獨計價的文件詐欺偵測方案Ocrolus Detect，現在對所有房貸客戶免費提供，會檢查銀行對帳單、薪資單與稅務表單是否遭竄改，並與Resistant AI整合以辨識由生成式AI製作或編輯的文",
+   "core_fact": "貸款分析與工作流程平台Ocrolus宣布，原本單獨計價的文件詐欺偵測方案Ocrolus Detect，現在對所有房貸客戶免費提供，會檢查銀行對帳單、薪資單與稅務表單是否遭竄改，並與Resistant AI整合以辨識由生成式AI製作或編輯的文件。Ocrolus統計平台上有12%的貸款申請含可疑活動；加州放款機構JMAC Lending在初期就擋下近200萬美元的詐欺貸款量，其中一例是對帳單顯示30萬美元存款、帳戶實際餘額僅1,200美元。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "LSEG in talks over $3.5bn deal for credit specialist Octus",
+   "display_title": "倫敦證券交易所集團（LSEG）於10月14日證實，正與私募股權公司Permira洽談以約35億美元收購信用研究與資料業者Octus",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48582/lseg-in-talks-over-35bn-deal-for-credit-specialist-octus",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48582/lseg-in-talks-over-35bn-deal-for-credit-specialist-octus",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Wed, 14 Oct 2026 14:53:00 GMT",
+   "summary": "據Finextra報導，倫敦證券交易所集團於10月14日確認正與私募股權集團Permira協商，擬以約35億美元收購信用專業資料商Octus，目前尚在洽談階段、未宣布簽約。Octus專注於信用與重整研究資料，是投資人與債權人在評估發債企業風",
+   "core_fact": "據Finextra報導，倫敦證券交易所集團於10月14日確認正與私募股權集團Permira協商，擬以約35億美元收購信用專業資料商Octus，目前尚在洽談階段、未宣布簽約。Octus專注於信用與重整研究資料，是投資人與債權人在評估發債企業風險時使用的資訊來源；報導並未揭露交割時程與監理審查安排，後續發展需待雙方正式公告。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+   "display_title": "Apate.ai於10月14日在TechCrunch Disrupt Startup Battlefield 200展示，以數千個AI代理偽裝受害者誘騙詐騙集團，累計約250萬則對話、耗費詐騙者17年時間",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+     "status": "ok",
+     "chars": 6914
+    }
+   ],
+   "date_evidence": "2026-10-14",
+   "summary": "2024年由澳洲麥覺理大學研究衍生成立的Apate.ai，部署數千個AI代理，扮演不同年齡、性別與口音的受害者，接聽詐騙電話、回覆可疑訊息與電子郵件、點選釣魚連結並加入社群群組，藉此套出詐騙者使用的銀行帳戶、加密貨幣錢包、電話號碼、惡意網站",
+   "core_fact": "2024年由澳洲麥覺理大學研究衍生成立的Apate.ai，部署數千個AI代理，扮演不同年齡、性別與口音的受害者，接聽詐騙電話、回覆可疑訊息與電子郵件、點選釣魚連結並加入社群群組，藉此套出詐騙者使用的銀行帳戶、加密貨幣錢包、電話號碼、惡意網站與冒用品牌。公司表示AI代理累計進行約250萬則對話，已耗費詐騙者17年時間，客戶包含銀行、電信業者、政府機關與公用事業；創辦人Dali Kaafar的靈感來自一通他拖延了44分鐘的詐騙來電。",
+   "deep_facts": [
+    "累計約250萬則對話、耗費詐騙者17年",
+    "FBI 2025年收到逾22,000件AI相關犯罪投訴、損失約8.93億美元",
+    "創辦人因拖延一通詐騙來電44分鐘而萌生構想"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Coinbase Payment Fraud Test Results Show Newer AI Models Missed More Cases",
+   "display_title": "Coinbase於10月初公布Onramp歷史回放測試，在16,140筆交易、813筆確認詐欺中，三大模型家族的新版本詐欺召回率皆低於舊版",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/317414-coinbase-payment-fraud-test-results-show-newer-ai-models-missed-more-cases/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/317414-coinbase-payment-fraud-test-results-show-newer-ai-models-missed-more-cases/",
+     "status": "ok",
+     "chars": 4457
+    }
+   ],
+   "date_evidence": "2026-10",
+   "summary": "加密交易所Coinbase在10月初發布的「Owning Intelligence」工程系列中，披露對旗下Onramp服務的受控歷史回放：涵蓋7,293名用戶的16,140筆交易，其中813筆為確認詐欺，資料取自推出自有風險代理前的九週。結",
+   "core_fact": "加密交易所Coinbase在10月初發布的「Owning Intelligence」工程系列中，披露對旗下Onramp服務的受控歷史回放：涵蓋7,293名用戶的16,140筆交易，其中813筆為確認詐欺，資料取自推出自有風險代理前的九週。結果顯示，Sonnet 5相較Sonnet 4.6的召回率下降22.2個百分點、金額加權召回率下降22.9點；Opus 5相較Opus 4.5召回率小降0.8點、精確率降8.7點；GPT-5.6相較GPT-5.4精確率升11.5點但召回率降20.7點。測試僅識別出退步，並未找出原因，也未衡量實際客戶損失。",
+   "deep_facts": [
+    "測試涵蓋7,293名用戶16,140筆交易、813筆確認詐欺，取自九週資料",
+    "Sonnet 5相較Sonnet 4.6召回率降22.2個百分點",
+    "測試未找出退步原因，也未衡量實際客戶損失"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "金管會擬推出金融業代理AI安全指引",
+   "display_title": "金融監督管理委員會（金管會）於10月13日公布「金融業運用代理AI安全諮詢文件」，提出安全治理、風險分級與安全控管三大方向，公開徵詢意見30天",
+   "source": "iThome",
+   "source_tier": "T1",
+   "url": "https://www.ithome.com.tw/news/179681",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ithome.com.tw/news/179681",
+     "status": "fail",
+     "chars": 1058
+    },
+    {
+     "url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "2026-10-14  04:10:05",
+   "summary": "金管會於10月13日宣布公開「金融業運用代理AI安全諮詢文件」並徵詢各界意見30天。文件指出代理AI（Agentic AI）具備規劃步驟、呼叫工具與跨系統存取資料的能力，若管理不當，可能發生目標偏離、工具誤用或越權、敏感資料外洩，以及多步流",
+   "core_fact": "金管會於10月13日宣布公開「金融業運用代理AI安全諮詢文件」並徵詢各界意見30天。文件指出代理AI（Agentic AI）具備規劃步驟、呼叫工具與跨系統存取資料的能力，若管理不當，可能發生目標偏離、工具誤用或越權、敏感資料外洩，以及多步流程造成錯誤連鎖擴大等風險。文件參考國際安全框架，以風險導向、比例原則與技術中立為立場，提出安全治理、風險分級與安全控管三大面向的建議。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Kraken parent Payward to become first crypto firm to buy a EU bank",
+   "display_title": "Payward（Kraken母公司）於10月14日宣布同意收購立陶宛Saldo Bank，預計2027年完成，成為首家買下歐盟銀行的加密業者",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+     "status": "ok",
+     "chars": 4550
+    }
+   ],
+   "date_evidence": "Oct 14, 2026, 9:07 a.m. EDT",
+   "summary": "Kraken母公司Payward於10月14日宣布同意收購立陶宛的Saldo Bank，金額未揭露，交易需經監理核准、預計2027年完成，據金融時報報導將成為首家收購歐洲銀行的加密公司。Saldo Bank 2025年底總資產為1.639億",
+   "core_fact": "Kraken母公司Payward於10月14日宣布同意收購立陶宛的Saldo Bank，金額未揭露，交易需經監理核准、預計2027年完成，據金融時報報導將成為首家收購歐洲銀行的加密公司。Saldo Bank 2025年底總資產為1.639億歐元，較前一年增加22.7%，持有立陶宛、芬蘭、瑞典與德國的營業牌照，並具備在荷蘭營運的通行權。Payward共同執行長Arjun Sethi表示，取得受監理的歐盟銀行才能以「主要往來金融機構」的方式服務歐洲客戶；Payward旗下銀行業務已發放逾20億美元貸款，並持有聯準會限制用途主帳戶與愛爾蘭電子貨幣機構牌照，另已在美國申請全國信託銀行牌照。",
+   "deep_facts": [
+    "Saldo Bank 2025年底總資產1.639億歐元、年增22.7%",
+    "持有立陶宛、芬蘭、瑞典、德國牌照並具荷蘭通行權",
+    "Payward銀行業務已發放逾20億美元貸款並持有聯準會限制用途主帳戶"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+   "display_title": "Qivalis於10月14日獲荷蘭央行核發電子貨幣機構牌照，這家由37家歐洲銀行支持的歐元穩定幣業者預計在未來數月發行代幣",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+     "status": "ok",
+     "chars": 5114
+    }
+   ],
+   "date_evidence": "Oct 14, 2026, 7:12 a.m. EDT",
+   "summary": "Qivalis是由37家歐洲主要銀行支持的聯盟，成員包括BBVA、法國巴黎銀行、荷蘭國際集團（ING）與DZ Bank，2025年9月成立；10月14日取得荷蘭央行（DNB）核發的電子貨幣機構牌照，更接近發行歐元計價的電子貨幣代幣（EMT）",
+   "core_fact": "Qivalis是由37家歐洲主要銀行支持的聯盟，成員包括BBVA、法國巴黎銀行、荷蘭國際集團（ING）與DZ Bank，2025年9月成立；10月14日取得荷蘭央行（DNB）核發的電子貨幣機構牌照，更接近發行歐元計價的電子貨幣代幣（EMT）。公司仍須依歐盟加密資產市場法規（MiCA）發布白皮書，預計未來數月發行，並透過銀行、加密交易所與支付業者而非直接面向消費者發行；已選定Fireblocks提供數位資產基礎設施，但尚未揭露哪些成員會使用該代幣。",
+   "deep_facts": [
+    "聯盟自2025年9月成立，已擴至37家歐洲銀行",
+    "已選定Fireblocks提供數位資產基礎設施",
+    "代幣將透過銀行、交易所與支付業者而非直接面向消費者發行"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+   "display_title": "EasyA於10月14日表示已取得11億美元獨立估值，預計2027年上半年直接上市，並規劃提供代幣化股票",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+     "status": "ok",
+     "chars": 6007
+    }
+   ],
+   "date_evidence": "Published Oct 14, 2026, 10:49 a.m. EDT",
+   "summary": "區塊鏈與AI應用開發平台EasyA執行長Philip Kwok於10月14日接受CoinDesk訪問表示，公司已取得11億美元的獨立估值，預計明年上半年以直接上市方式公開掛牌，並已向美國證券交易委員會（SEC）遞交註冊草案。公司已完成會計師",
+   "core_fact": "區塊鏈與AI應用開發平台EasyA執行長Philip Kwok於10月14日接受CoinDesk訪問表示，公司已取得11億美元的獨立估值，預計明年上半年以直接上市方式公開掛牌，並已向美國證券交易委員會（SEC）遞交註冊草案。公司已完成會計師事務所PKF兩年的審計，宣稱App使用者逾130萬人，並與Ripple、Solana等合作舉辦開發者教育與黑客松活動；共同創辦人Dominic Kwok表示，從上市首日即提供代幣化股票「在規劃中」。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "SoFi, Figure co-founder raises $19M for newest venture",
+   "display_title": "Navra於10月初完成1,900萬美元A輪募資，這是SoFi與Figure共同創辦人Mike Cagney的新創，已有約3萬人排隊等待開通",
+   "source": "Banking Dive",
+   "source_tier": "T1",
+   "url": "https://www.bankingdive.com/news/sofi-figure-co-founder-mike-cagney-raises-19-million-navra/833025/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/sofi-figure-co-founder-mike-cagney-raises-19-million-navra/833025/",
+     "status": "ok",
+     "chars": 3867
+    }
+   ],
+   "date_evidence": "2026-10-14",
+   "summary": "SoFi與Figure共同創辦人Mike Cagney與配偶June Ou共同創立的Navra，宣布完成1,900萬美元A輪募資，由Ribbit Capital、Baseline與DCM領投，Jump Crypto與Figure Techn",
+   "core_fact": "SoFi與Figure共同創辦人Mike Cagney與配偶June Ou共同創立的Navra，宣布完成1,900萬美元A輪募資，由Ribbit Capital、Baseline與DCM領投，Jump Crypto與Figure Technology Solutions也參與。Navra提供單一介面存取多個區塊鏈場所，零售用戶可在同一處管理加密資產組合並使用借貸與交易功能，機構投資人可管理企業團隊；產品可直接使用或以白標方式與合作夥伴提供，目前約3萬人在候補名單，將在未來數週開始開通。",
+   "deep_facts": []
+  }
+ ]
+}

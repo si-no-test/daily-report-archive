@@ -1,0 +1,71 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "tw-fsc-agentic-ai-security-guidance",
+  "title": "金管會金融業代理AI安全指引制定進程",
+  "theme": "ai",
+  "keywords": [
+   "金管會",
+   "代理AI",
+   "Agentic AI",
+   "安全諮詢文件",
+   "零信任"
+  ],
+  "headline": "金管會公布金融業運用代理AI安全諮詢文件",
+  "one_line_update": "10月13日金管會公開「金融業運用代理AI安全諮詢文件」，提出安全治理、風險分級與安全控管三大方向，徵詢意見30天。",
+  "source_title": "金管會擬推出金融業代理AI安全指引，先公布諮詢文件徵詢意見",
+  "source_url": "https://www.ithome.com.tw/news/179681"
+ },
+ {
+  "action": "match",
+  "topic_id": "payward-kraken-full-bank-license",
+  "headline": "Payward同意收購立陶宛Saldo Bank",
+  "one_line_update": "10月14日Payward同意收購立陶宛Saldo Bank取得歐盟銀行牌照，預計2027年完成，延續8月評估立陶宛銀行牌照的路線。",
+  "source_title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+  "source_url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending"
+ },
+ {
+  "action": "create",
+  "topic_id": "qivalis-euro-bank-stablecoin",
+  "title": "Qivalis歐洲銀行聯盟歐元穩定幣發行進程",
+  "theme": "blockchain",
+  "keywords": [
+   "Qivalis",
+   "歐元穩定幣",
+   "MiCA",
+   "電子貨幣代幣",
+   "歐洲銀行聯盟"
+  ],
+  "headline": "Qivalis取得荷蘭電子貨幣機構牌照",
+  "one_line_update": "10月14日Qivalis取得荷蘭央行電子貨幣機構牌照，37家歐洲銀行支持，預計發布白皮書後於數月內發行歐元穩定幣。",
+  "source_title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+  "source_url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ }
+]

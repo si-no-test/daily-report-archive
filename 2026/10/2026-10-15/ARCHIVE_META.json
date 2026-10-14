@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-15",
+  "archived_at": "2026-10-14T23:17:07Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "fec4da07bbdeea0f14d8563af9862cc096e87b2b",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 616918,
+  "files": [
+    {
+      "path": "data/2026-10-15-glossary.json",
+      "bytes": 2105,
+      "sha256": "236d39d2db42fc41bb6539a8a1ee1b0d6b043a296d64b10d964fbf71371d715e"
+    },
+    {
+      "path": "data/2026-10-15-manifest.txt",
+      "bytes": 3460,
+      "sha256": "49b46d5b7f7020729ad1302da089690ceb1a54805cefd2fca31c2224e365d123"
+    },
+    {
+      "path": "data/2026-10-15-orgs.json",
+      "bytes": 1040,
+      "sha256": "89bbb2cceec7e53cfcd10b0750ee3d0b931db2a254fb36fe7c2490bc5fa0c4b4"
+    },
+    {
+      "path": "data/2026-10-15-topic-cases.json",
+      "bytes": 5924,
+      "sha256": "0641dff9425810ed9c905aa215b580e3d5657201cc9e9bf2caffe042920ffa94"
+    },
+    {
+      "path": "data/2026-10-15-topic-decisions.json",
+      "bytes": 2285,
+      "sha256": "a347de1c5e2c181860fbd031924e19d9bf08dd9b9691ceb1afdb220ebaccd9fa"
+    },
+    {
+      "path": "data/2026-10-15.json",
+      "bytes": 20970,
+      "sha256": "e9b2eab1e981a724c4f63aa663a8850a65186092228f0f03da6bb61303074663"
+    },
+    {
+      "path": "outbox/2026-10-15-archive.html",
+      "bytes": 105791,
+      "sha256": "6abc170eda619bf0e96b4e8c000850ddadb4f47529b45eb7e8ccdb9c5171d3d9"
+    },
+    {
+      "path": "outbox/2026-10-15-email.html",
+      "bytes": 11215,
+      "sha256": "ad973b339f3b48dbb866b27bd60431557c1fe846cedb716247240943e8ece362"
+    },
+    {
+      "path": "published/2026-10-15.html",
+      "bytes": 555,
+      "sha256": "6a102c4804bef463886d9f0b5b1de599b18bda4785782c46cf7e0f107fa521b6"
+    },
+    {
+      "path": "published/2026-10-15/ai.html",
+      "bytes": 35697,
+      "sha256": "314c11410a3d95f80905e66e739428cd3c3f4d19bbd806b19fac5715ec48e024"
+    },
+    {
+      "path": "published/2026-10-15/blockchain.html",
+      "bytes": 48455,
+      "sha256": "de06e2754b6c82fb63e1d5ce3c3e8c5611264748c35326b05e5a5e003d488203"
+    },
+    {
+      "path": "published/2026-10-15/index.html",
+      "bytes": 23805,
+      "sha256": "ebc9c4ee1b0f2377743026afc751cfcf982bf84d6f2138a4e615c66b98addadc"
+    },
+    {
+      "path": "published/2026-10-15/innovation.html",
+      "bytes": 53097,
+      "sha256": "15243e66853a72696e4c7c545c962b5018a72b0d75ac3d608c3575a0cdab85c2"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 255063,
+      "sha256": "a36fd884f301a6642f3f2693e2b642bb3abc1ae262fb79c294aa52859239acbd"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "e64cbd7a8eb3b8fb111b3bc636fe86f886c9ea1b658404c456666d1fc4742176"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "6a102c4804bef463886d9f0b5b1de599b18bda4785782c46cf7e0f107fa521b6"
+    },
+    {
+      "path": "published/topics/payward-kraken-full-bank-license.html",
+      "bytes": 2351,
+      "sha256": "49c25ef6927b72101b8c7dd493db96a93a1f2a33c8451520d8e927539bc6bd00"
+    },
+    {
+      "path": "published/topics/qivalis-euro-bank-stablecoin.html",
+      "bytes": 1511,
+      "sha256": "3d15d7c191164f97f8337103574838df1a2bf0016c292d3fe22b9a3cf81cdef3"
+    },
+    {
+      "path": "published/topics/tw-fsc-agentic-ai-security-guidance.html",
+      "bytes": 1447,
+      "sha256": "3e15b97023c8cf0c29d4d205f07b5b754a874d84f7976e44ef1d3e883381ffd8"
+    },
+    {
+      "path": "source/2026-10-15-report.txt",
+      "bytes": 38231,
+      "sha256": "92d30b722d0961a0deec1d0fcdc2823d577f43afede7ed03028a39681ff22509"
+    },
+    {
+      "path": "source/2026-10-15-summary.txt",
+      "bytes": 2569,
+      "sha256": "1bfbf10216103170bf06955dd08832508c703e91e54c85429b74f1167a379682"
+    }
+  ]
+}
