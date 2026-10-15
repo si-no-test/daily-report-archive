@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **Ramp**於10月15日宣布完成18.5億美元新一輪募資，估值達600億美元",
+  "summary": "Ramp募得18.5億美元、估值600億美元，年化營收破20億美元，並推出供AI代理使用的企業信用卡。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Stripe**總裁約翰·柯里森（John Collison）於10月12日表示，Stripe的代理式商務交易自9月起「垂直式」成長",
+  "summary": "Stripe總裁透露代理式商務自9月起大幅成長，並推銷以75億美元買下的OpenRouter。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **FIS**與Anthropic於10月15日宣布AML Investigations Agent開放全美銀行商用，設計夥伴為Amalgamated Bank",
+  "summary": "FIS與Anthropic的反洗錢調查AI代理開放全美銀行商用，分析師保有每項決策。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Starling Bank**於10月15日宣布與NVIDIA合作開發交易基礎模型，以逾150億筆匿名交易在英國主權雲端訓練",
+  "summary": "Starling以自有交易資料訓練交易基礎模型，部署於英國主權雲，2027年初上線先強化詐欺偵測。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Plasma**與Stripe於10月15日發表多幣別穩定幣卡，現有逾30國可用並規劃2027年擴至逾100國",
+  "summary": "Stripe擴大穩定幣卡基礎設施，支援美元歐元及OUSD等穩定幣，與Plasma共同設計多幣別卡。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Polygon Labs**於10月14日完成收購Coinme，取得48州37張匯款業者執照，把Open Money Stack轉為美國受監管支付平台",
+  "summary": "Polygon完成Coinme併購，取得美國牌照與零售入出金據點，整合鏈上結算與銀行卡現金通道。",
+  "theme": "blockchain"
+ }
+]

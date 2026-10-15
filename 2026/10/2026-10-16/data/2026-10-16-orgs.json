@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Ramp",
+  "url": "https://ramp.com",
+  "intro": "美國企業費用管理與支付平台，提供企業卡、採購與會計自動化。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "全球線上支付處理與金融基礎設施業者，近年擴及穩定幣與代理式商務。"
+ },
+ {
+  "name": "Google",
+  "url": "https://www.google.com",
+  "intro": "全球搜尋與AI服務業者，旗下有Google Pay與Gemini。"
+ },
+ {
+  "name": "FIS",
+  "url": "https://www.fisglobal.com",
+  "intro": "全球金融科技業者，提供銀行核心、支付與風險管理系統。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "美國AI公司，開發Claude系列模型。"
+ },
+ {
+  "name": "NVIDIA",
+  "url": "https://www.nvidia.com",
+  "intro": "全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"
+ },
+ {
+  "name": "Starling Bank",
+  "url": "https://www.starlingbank.com",
+  "intro": "英國數位銀行，提供個人與企業帳戶。"
+ },
+ {
+  "name": "英格蘭銀行",
+  "url": "https://www.bankofengland.co.uk",
+  "intro": "英國中央銀行，負責貨幣政策與金融穩定。"
+ },
+ {
+  "name": "Polygon Labs",
+  "url": "https://polygon.technology",
+  "intro": "以太坊生態系擴容網路Polygon的主要開發團隊。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球卡片支付網路業者。"
+ },
+ {
+  "name": "歐盟銀行管理局",
+  "url": "https://www.eba.europa.eu",
+  "intro": "歐盟銀行業監理機構，負責制定與協調單一規則手冊。"
+ }
+]

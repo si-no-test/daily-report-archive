@@ -1,0 +1,25 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "open-usd-consortium-stablecoin",
+  "headline": "Plasma與Stripe於10月15日發表多幣別穩定幣卡，支援美元、歐元及OUSD與GENIUS-ready穩定幣，現有逾30國可用",
+  "one_line_update": "Stripe於10月15日擴大穩定幣卡基礎設施，新增支援OUSD，與Plasma推出多幣別穩定幣卡，現於逾30國提供並規劃2027年擴至逾100國。",
+  "source_title": "Stripe Teams With Plasma To Unveil Multi-Currency Stablecoin Cards",
+  "source_url": "https://www.pymnts.com/news/payment-methods/2026/stripe-teams-with-plasma-to-unveil-multi-currency-stablecoin-cards/"
+ },
+ {
+  "action": "skip"
+ }
+]
