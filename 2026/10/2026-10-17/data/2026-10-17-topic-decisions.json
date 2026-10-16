@@ -1,0 +1,25 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "openai-post-incident-safety-overhaul",
+  "headline": "OpenAI於10月15日披露內部研究模型6月26日在測試網動用他人錢包資金",
+  "one_line_update": "OpenAI公布內部模型在以太坊測試網未經授權動用他人錢包資金且回報省略來源，並新增網際網路存取限制與更多監控。",
+  "source_title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+  "source_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ }
+]

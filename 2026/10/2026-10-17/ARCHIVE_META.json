@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-17",
+  "archived_at": "2026-10-16T23:16:58Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "d34ad09e75129fa8a20a01e984990d6e48e1279e",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 20,
+  "total_bytes": 685283,
+  "files": [
+    {
+      "path": "data/2026-10-17-candidates.txt",
+      "bytes": 67497,
+      "sha256": "796b94947bee1dd970a35307b6394acdf702c71d4e12eba7be2c54516b2d4ba3"
+    },
+    {
+      "path": "data/2026-10-17-glossary.json",
+      "bytes": 1983,
+      "sha256": "320fc934003ad0f40ca24eefd9f5efd35caf361b0c908d08e1e7e028ebb160b5"
+    },
+    {
+      "path": "data/2026-10-17-manifest.txt",
+      "bytes": 3460,
+      "sha256": "3538a092f37bb775bc691957e28e53f2c7297ec910d1017400c259988b25c3fc"
+    },
+    {
+      "path": "data/2026-10-17-orgs.json",
+      "bytes": 1763,
+      "sha256": "36f09b412cf482fff896f12551e6c33fef537cbe6a5c42c46822c3219b0ccf59"
+    },
+    {
+      "path": "data/2026-10-17-topic-cases.json",
+      "bytes": 2534,
+      "sha256": "59d6c3ec4807f42cabde9e6d7dcce8a25c288a8327265a3ee96f22767037e48a"
+    },
+    {
+      "path": "data/2026-10-17-topic-decisions.json",
+      "bytes": 742,
+      "sha256": "ec3d66d53db7f07598c0aa32073d930ca36d5bbe0b6d4be3456d228649cc3e7b"
+    },
+    {
+      "path": "data/2026-10-17.json",
+      "bytes": 20681,
+      "sha256": "00509e7ac774ecd2119f41fd9e4b00a824318a8384d0357aa9234560210cd3ae"
+    },
+    {
+      "path": "outbox/2026-10-17-archive.html",
+      "bytes": 105233,
+      "sha256": "6ace1175cfb04321f4ea75789087d9e722712b1dcd495bcdb38d442ec23239b2"
+    },
+    {
+      "path": "outbox/2026-10-17-email.html",
+      "bytes": 10390,
+      "sha256": "35d0a8ff5a597317eddc6c124ad58f3be4d06ceadd2ba064e77eed01eda8ca5e"
+    },
+    {
+      "path": "published/2026-10-17.html",
+      "bytes": 555,
+      "sha256": "44caab060dc85b53edf5022777d6367c52c3e92141ea3bc26d47bdaa54398ad9"
+    },
+    {
+      "path": "published/2026-10-17/ai.html",
+      "bytes": 39549,
+      "sha256": "13bc6b6125ddaf12472b8b86816cfbeb54b93af82ae5db6e92d1dd2c8e6ea224"
+    },
+    {
+      "path": "published/2026-10-17/blockchain.html",
+      "bytes": 45950,
+      "sha256": "cf7ae492036c6871732ff108eefe65c390ba19611498a7f5c260f79a6002fcad"
+    },
+    {
+      "path": "published/2026-10-17/index.html",
+      "bytes": 23548,
+      "sha256": "340f66e1a1ea2ae337e4613dc8c927a5d0e687548faad54426ddc141e1073c67"
+    },
+    {
+      "path": "published/2026-10-17/innovation.html",
+      "bytes": 49699,
+      "sha256": "a401b0fbdf29bc8c71f07c5cc8663a01302f25e3977c1a6f75823275b747fdf8"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 263805,
+      "sha256": "8e653e5e824d91187cd7f25588a2a31e9a4542ba08d4b369935ad994e2e0bda8"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "07f403243b65417b8df5d6d7f00eee89314b42eee508823ed4043a3f59a63d86"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "44caab060dc85b53edf5022777d6367c52c3e92141ea3bc26d47bdaa54398ad9"
+    },
+    {
+      "path": "published/topics/openai-post-incident-safety-overhaul.html",
+      "bytes": 8913,
+      "sha256": "16c37b029944f5ad504e082df089ae436c2d430ef46d9550abaa0855f8a90d5a"
+    },
+    {
+      "path": "source/2026-10-17-report.txt",
+      "bytes": 35467,
+      "sha256": "3c987746b8e07c462696d724460a9998d96fc75bcc39170e0f7041413b4bae9b"
+    },
+    {
+      "path": "source/2026-10-17-summary.txt",
+      "bytes": 2167,
+      "sha256": "b078b49a4270d4e25d5f10bb90fb1cb44407d8275dc0749b846e478ac1404e9f"
+    }
+  ]
+}
