@@ -1,0 +1,5 @@
+[
+{"action":"skip"},{"action":"skip"},{"action":"skip"},{"action":"skip"},
+{"action":"match","topic_id":"tokenized-deposits-vs-stablecoins-debate","headline":"國際清算銀行論文：銀行存款利率每升1個基點，穩定幣十週成長率由約15%降至約12%","one_line_update":"BIS工作論文以2019年至2025年6月週資料量化存款利率對穩定幣成長的抑制，指出銀行保有部分影響力，但樣本僅涵蓋一段高利率時期。","source_title":"Banks could slow stablecoin growth by paying savers more, BIS paper finds","source_url":"https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds"},
+{"action":"match","topic_id":"okx-ice-tokenized-stock-venue","headline":"九家上市公司反對其股票在OKXICE平台代幣化交易","one_line_update":"CoreWeave、博通與Verizon等九家公司表態反對其股票於OKXICE代幣化交易，應用光電向華爾街日報稱擔心股價、流動性與波動性受影響。","source_title":"CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE","source_url":"https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859"}
+]

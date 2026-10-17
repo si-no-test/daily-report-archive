@@ -1,0 +1,82 @@
+[
+ {
+  "name": "威士（Visa）",
+  "url": "https://www.visa.com",
+  "intro": "全球最大支付卡網路之一，提供信用卡與數位支付清算服務。"
+ },
+ {
+  "name": "萬事達卡（Mastercard）",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要支付卡網路，提供卡片與跨境支付技術。"
+ },
+ {
+  "name": "沃爾瑪（Walmart）",
+  "url": "https://corporate.walmart.com",
+  "intro": "美國最大零售商，長期是卡片交換費訴訟的主要商家之一。"
+ },
+ {
+  "name": "Tracxn",
+  "url": "https://tracxn.com",
+  "intro": "新創與私募市場資料分析公司，定期發布各區域產業募資報告。"
+ },
+ {
+  "name": "Neonomics",
+  "url": "https://www.neonomics.io",
+  "intro": "挪威開放金融平台，以單一API連接歐洲銀行的付款與帳戶資料。"
+ },
+ {
+  "name": "Seed Capital",
+  "url": "https://www.seedcapital.dk",
+  "intro": "丹麥早期科技創投，聚焦金融科技與B2B科技新創。"
+ },
+ {
+  "name": "香港金融管理局（HKMA）",
+  "url": "https://www.hkma.gov.hk",
+  "intro": "香港的中央銀行職能機構與銀行業監理機關。"
+ },
+ {
+  "name": "高盛（Goldman Sachs）",
+  "url": "https://www.goldmansachs.com",
+  "intro": "美國大型投資銀行，業務涵蓋交易、投資銀行與資產管理。"
+ },
+ {
+  "name": "富國銀行（Wells Fargo）",
+  "url": "https://www.wellsfargo.com",
+  "intro": "美國大型商業銀行，提供零售、商業與財富管理服務。"
+ },
+ {
+  "name": "摩根士丹利（Morgan Stanley）",
+  "url": "https://www.morganstanley.com",
+  "intro": "美國大型投資銀行，以財富管理與機構證券業務著稱。"
+ },
+ {
+  "name": "國際清算銀行（BIS）",
+  "url": "https://www.bis.org",
+  "intro": "各國央行的國際合作機構，發布金融穩定與支付研究。"
+ },
+ {
+  "name": "匯豐銀行（HSBC）",
+  "url": "https://www.hsbc.com",
+  "intro": "總部設於倫敦的國際性銀行，業務遍及亞洲與全球。"
+ },
+ {
+  "name": "螞蟻數科（Ant Digital Technologies）",
+  "url": "https://www.antdigital.com",
+  "intro": "螞蟻集團旗下科技公司，提供區塊鏈與企業數位化解決方案。"
+ },
+ {
+  "name": "Binance.US",
+  "url": "https://www.binance.us",
+  "intro": "幣安在美國的獨立營運加密貨幣交易平台。"
+ },
+ {
+  "name": "博通（Broadcom）",
+  "url": "https://www.broadcom.com",
+  "intro": "美國半導體與基礎設施軟體公司。"
+ },
+ {
+  "name": "Verizon",
+  "url": "https://www.verizon.com",
+  "intro": "美國大型電信業者。"
+ }
+]
