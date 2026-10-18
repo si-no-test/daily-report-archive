@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "美國AI公司，開發Claude系列模型。"
+ },
+ {
+  "name": "Circle",
+  "url": "https://www.circle.com",
+  "intro": "美元穩定幣USDC的發行商。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國大型加密資產交易所，Circle最大的USDC分銷夥伴。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://usa.visa.com",
+  "intro": "全球最大的卡片與支付網路業者之一。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要的卡片與支付網路業者。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "提供線上支付與金融基礎設施的美國金融科技公司。"
+ },
+ {
+  "name": "Affirm",
+  "url": "https://www.affirm.com",
+  "intro": "美國先買後付與分期付款服務業者。"
+ },
+ {
+  "name": "Klarna",
+  "url": "https://www.klarna.com",
+  "intro": "瑞典先買後付與數位支付業者。"
+ },
+ {
+  "name": "ElevenLabs",
+  "url": "https://elevenlabs.io",
+  "intro": "提供語音與音訊AI模型及語音代理平台的公司，總部在倫敦。"
+ },
+ {
+  "name": "Illuma",
+  "url": "https://illuma.ai",
+  "intro": "專為信用合作社與社區銀行提供語音驗證與深偽偵測的業者。"
+ },
+ {
+  "name": "谷歌",
+  "url": "https://www.google.com",
+  "intro": "美國科技公司，研發Willow量子晶片。"
+ },
+ {
+  "name": "Gemini",
+  "url": "https://www.gemini.com",
+  "intro": "美國加密資產交易所。"
+ }
+]

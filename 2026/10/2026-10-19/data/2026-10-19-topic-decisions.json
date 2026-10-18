@@ -1,0 +1,45 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "us-earned-wage-access-regulation",
+  "headline": "FlexWage Solutions法遵副總於10月16日撰文指出，眾議院H.R. 9330法案在四項特徵上寬於CFPB意見",
+  "one_line_update": "10月16日業者投書比較CFPB 2025年12月意見與H.R. 9330：薪資資料、追償方式、帳戶扣款與信用評估四項較寬鬆，並含凌駕州法條款，目前有11起針對EWA業者的公開行動。",
+  "source_title": "Congress should examine EWA bill",
+  "source_url": "https://www.paymentsdive.com/news/congress-should-examine-ewa-bill/833225/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "open-usd-consortium-stablecoin",
+  "headline": "Circle於10月16日揭露2026年上半年USDC營收約14億美元、8.19億美元為通路與交易成本",
+  "one_line_update": "Circle回應Open USD（已上線）等分潤模式，公布上半年營收約14億美元、分銷與交易成本8.19億美元、淨利約每美元營收7美分，並強調標準USDC贖回免費；Coinbase同時是Circle最大夥伴與Open USD支持者。",
+  "source_title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+  "source_url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ }
+]

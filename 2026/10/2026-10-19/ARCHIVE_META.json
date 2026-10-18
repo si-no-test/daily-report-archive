@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-19",
+  "archived_at": "2026-10-18T23:13:29Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "0959db507ab10e50dbc7180036555dae9cc6f7e1",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 677361,
+  "files": [
+    {
+      "path": "data/2026-10-19-candidates.txt",
+      "bytes": 69057,
+      "sha256": "ade88ac1cb6788d7eac306f291586ae6a2344a6109ca82400f76eaf816b6b407"
+    },
+    {
+      "path": "data/2026-10-19-glossary.json",
+      "bytes": 1588,
+      "sha256": "e61895c5a7ea18d146701357b766333f7f55ae18a59285ce4174a2efe8184e7f"
+    },
+    {
+      "path": "data/2026-10-19-manifest.txt",
+      "bytes": 3460,
+      "sha256": "ad7d58b3485feef39673edbdea2365ce9e951741e5d35f811d95427c830a6672"
+    },
+    {
+      "path": "data/2026-10-19-orgs.json",
+      "bytes": 1564,
+      "sha256": "7d465d5431c81feb63fce086f8e03ba6c26b0d4d74aed57132e19f3a4474ae95"
+    },
+    {
+      "path": "data/2026-10-19-topic-cases.json",
+      "bytes": 5177,
+      "sha256": "e3cd00a30c93594dcda698b58b3fe1e9549acb82039de01a550875ba9738ab6e"
+    },
+    {
+      "path": "data/2026-10-19-topic-decisions.json",
+      "bytes": 1569,
+      "sha256": "60c7d3d7973c874c9d309f7537e5935575666d2f580163b7635c50123b30724f"
+    },
+    {
+      "path": "data/2026-10-19.json",
+      "bytes": 20903,
+      "sha256": "592928b10ea6ccade47c43baf3514ce8451553253f97d2ae525a27a83da6edc0"
+    },
+    {
+      "path": "outbox/2026-10-19-archive.html",
+      "bytes": 97746,
+      "sha256": "e8dda4ee40897b1b242eff190992ba2c344a7f2dbaf76d6fb41713f7170e9212"
+    },
+    {
+      "path": "outbox/2026-10-19-email.html",
+      "bytes": 10896,
+      "sha256": "fc69a67042c4e9836110d133ffbdccfcf92e3c1bb3eec7b3dba6fd4fcd507472"
+    },
+    {
+      "path": "published/2026-10-19.html",
+      "bytes": 555,
+      "sha256": "d2f4395a0ce24a6d4c980a92302486f8191d3d99eccd3fd1bf7b5e4d5bcdeb81"
+    },
+    {
+      "path": "published/2026-10-19/ai.html",
+      "bytes": 40909,
+      "sha256": "ab6d63730f7da8454db133be03879b050da4aac6dfe014c2b3ef2b78c302a1da"
+    },
+    {
+      "path": "published/2026-10-19/blockchain.html",
+      "bytes": 42345,
+      "sha256": "3985c68c8476e87b6a934d689063417477b7b58f821108b842caf7b553d7b2b3"
+    },
+    {
+      "path": "published/2026-10-19/index.html",
+      "bytes": 21374,
+      "sha256": "dd2c4c2b9f7fd171bb42b27b0fbb93f77e0c9fa46c04789c3aafa7ff669504fa"
+    },
+    {
+      "path": "published/2026-10-19/innovation.html",
+      "bytes": 44282,
+      "sha256": "763fbaf5f0eb748a24a47d1aafef908ff628e3131d4cca7f8957fc9be09f1d23"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 270638,
+      "sha256": "d221cb4685daa7d76f61d4023cb9dceeba5b9ca195d204b9b676d75f3f213972"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "da9cafbf6b5888c425a061d22e0be84187efda6553f39d84c517522ee5d71f0c"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "d2f4395a0ce24a6d4c980a92302486f8191d3d99eccd3fd1bf7b5e4d5bcdeb81"
+    },
+    {
+      "path": "published/topics/open-usd-consortium-stablecoin.html",
+      "bytes": 3575,
+      "sha256": "550a4a87883b2d60f11a12759dab7fb7652f80273039acace439d52360e64815"
+    },
+    {
+      "path": "published/topics/us-earned-wage-access-regulation.html",
+      "bytes": 2304,
+      "sha256": "14f20d52499f11882bccf970af2afe9acc09f43f275d358af1e69691ac695910"
+    },
+    {
+      "path": "source/2026-10-19-report.txt",
+      "bytes": 35686,
+      "sha256": "4020c9770b059a70835a262dd329cc21867512e98c296e773e8866523f2cd7eb"
+    },
+    {
+      "path": "source/2026-10-19-summary.txt",
+      "bytes": 2386,
+      "sha256": "fed56b5ec7e989a6daeb928823075ab04c9608efdf7ff09d757d20855b598484"
+    }
+  ]
+}

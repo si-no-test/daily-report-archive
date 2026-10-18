@@ -1,0 +1,57 @@
+[
+ {
+  "title": "- **Illuma**於10月15日經Finovate報導，獲三家既有客戶機構投資，累計揭露融資達1,150萬美元",
+  "summary": "語音安全業者Illuma宣布取得未揭露金額的投資，出資方為既有客戶Financial Plus Credit Union、Dort Financial Credit Union，以及華盛頓州的CUSO One Washington Fina",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Affirm與Klarna**等先買後付業者於10月18日經Crowdfund Insider報導，LendingTree追蹤顯示47%用戶近一年至少逾期一次",
+  "summary": "Crowdfund Insider整理LendingTree的先買後付追蹤調查指出，用戶中有47%在過去一年至少逾期一次，高於前一年的41%與兩年前的34%；約四分之一的用戶同時持有三筆以上有效分期，且多見於較年輕族群。調查也顯示近半數受訪",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **聯準會（Federal Reserve Board）**於10月9日公布2025年消費者財務調查，美國家戶信用卡債平均增加150美元至3,100美元",
+  "summary": "Payments Dive於10月16日報導，聯準會理事會公布的三年一次消費者財務調查（樣本4,367戶）顯示，2022至2025年間美國家戶信用卡債平均增加150美元，成長5%，達3,100美元；中位數增加1,300美元至8,000美元。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **FlexWage Solutions**法遵副總於10月16日撰文指出，眾議院H.R. 9330法案在四項特徵上寬於CFPB意見，且已有11起針對即時工資存取業者的公開行動",
+  "summary": "即時工資存取（EWA）業者FlexWage Solutions法遵副總卡爾·莫里斯（Carl Morris）投書Payments Dive，比較CFPB於2025年12月22日發布的意見與眾議院H.R. 9330法案：CFPB要求以經驗證的",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Anthropic**共同創辦人傑克·克拉克（Jack Clark）於10月17日在IMF與世界銀行年會預測，AI可使美國GDP由30兆美元增至44兆美元",
+  "summary": "PYMNTS引述CNBC報導，克拉克於10月17日在曼谷舉行的IMF與世界銀行年會表示，Anthropic內部模型預估AI可在2030年前使美國經濟產出提高近50%，美國潛在GDP由目前約30兆美元升至44兆美元。他稱這「聽起來非常誇張」，",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Anthropic**於10月18日經Politico報導向國會議員私下傳閱聯邦前沿AI法案草案，政府介入門檻設為10億美元損害或逾50人傷亡",
+  "summary": "Crowdfund Insider引述Politico取得的機密文件指出，Anthropic正向國會議員傳閱聯邦前沿AI規則草案，內容與公司自2025年中起推動的內部先進AI框架相近。草案規定只有在可預見且迫近的風險超過10億美元損害，或造",
+  "theme": "ai"
+ },
+ {
+  "title": "- **以太坊共同創辦人維塔利克·布特林（Vitalik Buterin）**於10月16日公布AI代理「偏執模式」隱私架構，每個對話使用獨立的Tor迴路",
+  "summary": "Crowdfund Insider報導，布特林於10月16日公布一套實驗性架構，包成與OpenAI API相容的常駐程式，內含三層保護：每個對話分配獨立的Tor迴路並加入隨機掩護流量；以zkAPI用零知識證明驗證餘額，付費時不連結到特定鏈上",
+  "theme": "ai"
+ },
+ {
+  "title": "- **ElevenLabs**金融服務市場主管馬克·蘇瑟（Mark Susser）於10月15日經Finovate報導指出，AI部署停滯多源於兩項失誤",
+  "summary": "Finovate在FinovateFall 2026訪談ElevenLabs金融服務市場主管蘇瑟，ElevenLabs成立於2022年、總部位於倫敦，提供語音與音訊模型及可大規模部署語音與對話代理的平台。蘇瑟指出，停滯的專案通常犯兩個主要錯",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Circle**於10月16日發表部落格，揭露2026年上半年USDC營收約14億美元，其中8.19億美元為通路與交易成本",
+  "summary": "Circle商務長卡許·拉扎吉（Kash Razzaghi）於10月16日發文指出，公司2026年上半年營收約14億美元，分銷與交易成本合計8.19億美元，其餘4.73億美元用於合規、流動性與產品開發，其中約2.14億美元為股權報酬及相關成",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Allium**於10月18日經CoinDesk報導，2026年前九個月穩定幣支付達4,820億美元，年增45%，但流通量僅成長0.4%",
+  "summary": "CoinDesk引述區塊鏈分析公司Allium報告，2026年前九個月穩定幣支付達4,820億美元，較去年同期成長45%；支付筆數成長71%至逾10億筆。同期穩定幣流通總值截至九月底約3,050億美元，年初以來僅成長0.4%。穩定幣連結金融",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **谷歌（Google）**於10月16日經CoinDesk報導，Willow量子晶片製備魔術態的錯誤率降低約40倍",
+  "summary": "CoinDesk報導，谷歌於本週在《Science》發表研究，Willow量子晶片以「培育」方法製備量子計算所需的魔術態，錯誤約降低40倍，通過檢驗的狀態保真度約99.99%，但僅約8%的嘗試成功。谷歌三月曾估計，在特定硬體假設下，少於50",
+  "theme": "blockchain"
+ }
+]
