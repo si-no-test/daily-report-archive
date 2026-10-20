@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Visa",
+  "url": "https://usa.visa.com",
+  "intro": "全球最大卡組織之一，營運跨國支付網路與商家受理體系。"
+ },
+ {
+  "name": "萬事達卡",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要卡組織之一，提供支付網路與代理付款等創新服務。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要卡組織之一，提供支付網路與代理付款等創新服務。"
+ },
+ {
+  "name": "Ramp",
+  "url": "https://ramp.com",
+  "intro": "美國企業支出管理與公司卡平台。"
+ },
+ {
+  "name": "Mercury",
+  "url": "https://mercury.com",
+  "intro": "面向新創與小型企業的美國金融科技銀行服務平台。"
+ },
+ {
+  "name": "環聯",
+  "url": "https://www.transunion.com",
+  "intro": "美國三大信用機構之一，提供信用報告與詐欺風控服務。"
+ },
+ {
+  "name": "TransUnion",
+  "url": "https://www.transunion.com",
+  "intro": "美國三大信用機構之一，提供信用報告與詐欺風控服務。"
+ },
+ {
+  "name": "富國銀行",
+  "url": "https://www.wellsfargo.com",
+  "intro": "美國大型銀行，總資產約2.3兆美元。"
+ },
+ {
+  "name": "Wells Fargo",
+  "url": "https://www.wellsfargo.com",
+  "intro": "美國大型銀行，總資產約2.3兆美元。"
+ },
+ {
+  "name": "PNC",
+  "url": "https://www.pnc.com",
+  "intro": "美國大型區域銀行。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國最大合規加密貨幣交易所之一，並營運Base公鏈。"
+ },
+ {
+  "name": "Cloudflare",
+  "url": "https://www.cloudflare.com",
+  "intro": "全球網路基礎設施與資安服務供應商。"
+ },
+ {
+  "name": "Bank Negara Malaysia",
+  "url": "https://www.bnm.gov.my",
+  "intro": "馬來西亞中央銀行。"
+ },
+ {
+  "name": "馬來西亞國家銀行",
+  "url": "https://www.bnm.gov.my",
+  "intro": "馬來西亞中央銀行。"
+ },
+ {
+  "name": "Chainalysis",
+  "url": "https://www.chainalysis.com",
+  "intro": "區塊鏈分析與合規資料公司。"
+ },
+ {
+  "name": "FINMA",
+  "url": "https://www.finma.ch",
+  "intro": "瑞士金融市場監督管理局。"
+ }
+]

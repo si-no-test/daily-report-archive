@@ -1,0 +1,35 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "france-crypto-to-stablecoin-tax",
+  "title": "法國加密幣換穩定幣課稅修正案立法進程",
+  "theme": "blockchain",
+  "keywords": [
+   "法國",
+   "穩定幣",
+   "資本利得稅",
+   "MiCA",
+   "國民議會",
+   "修正案"
+  ],
+  "headline": "法國國民議會於10月16日以38票對37票通過修正案I-3898，擬自2027年起對加密幣換穩定幣課徵31.4%資本利得稅",
+  "one_line_update": "國民議會以一票之差通過取消換入MiCA穩定幣稅負遞延的修正案，仍須通過預算其餘程序，政府部長已要求撤回。",
+  "source_title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+  "source_url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy"
+ },
+ {
+  "action": "skip"
+ }
+]

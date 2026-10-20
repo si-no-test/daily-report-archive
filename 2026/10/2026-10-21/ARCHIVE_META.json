@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-21",
+  "archived_at": "2026-10-20T23:14:19Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "4c433d9aa3fdf7173132c757fe56f163fd1ed235",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 20,
+  "total_bytes": 675992,
+  "files": [
+    {
+      "path": "data/2026-10-21-candidates.txt",
+      "bytes": 70129,
+      "sha256": "9e8c4111d846928a2f81b291a77ac23b62b4dcb76f862234b789d15e5dcc3fc8"
+    },
+    {
+      "path": "data/2026-10-21-glossary.json",
+      "bytes": 1974,
+      "sha256": "64fc265584ba081c5e48e3a5d5ec0d82f5d386243c0415d78370492d10c4ac05"
+    },
+    {
+      "path": "data/2026-10-21-manifest.txt",
+      "bytes": 3460,
+      "sha256": "5c8ee162680d667c40aa56aaae725f7454d36c6069b703147f7138419b5dfb4b"
+    },
+    {
+      "path": "data/2026-10-21-orgs.json",
+      "bytes": 2175,
+      "sha256": "e2949797bd8a12d163c12ff4843e6ad4aa8f1966642bc6896b7e8ac1eef46cf7"
+    },
+    {
+      "path": "data/2026-10-21-topic-cases.json",
+      "bytes": 1608,
+      "sha256": "b2ebbaba2f1ec5504dbbd58aecd902460246fdad28112e1f88572ff63dc53ebd"
+    },
+    {
+      "path": "data/2026-10-21-topic-decisions.json",
+      "bytes": 999,
+      "sha256": "dbc01a7355cca9a16a78b3f1a7a2ec02736643f2292ba25a8eeca1a0d0ccc11a"
+    },
+    {
+      "path": "data/2026-10-21.json",
+      "bytes": 16020,
+      "sha256": "da5fde387bef5d6d634f7e4f6b013a0b394ff4623b8561ad1f96e526e5b50d2b"
+    },
+    {
+      "path": "outbox/2026-10-21-archive.html",
+      "bytes": 98199,
+      "sha256": "bb7ae121e6964feae7cea29f91348ab85d5207cca35506a36efb13b98820bf4f"
+    },
+    {
+      "path": "outbox/2026-10-21-email.html",
+      "bytes": 10998,
+      "sha256": "dc3e3843fb57eae193d658df69552b3818fce6956636c799780e373111ed52a6"
+    },
+    {
+      "path": "published/2026-10-21.html",
+      "bytes": 555,
+      "sha256": "ce009aa2714c95bea8b81cd2f2e9a8b8b71c445be534e8b515d6c803ba40c145"
+    },
+    {
+      "path": "published/2026-10-21/ai.html",
+      "bytes": 35955,
+      "sha256": "032b4ed3b40dcc36fade5c7cbbcc829c24f78f4e13fec297e459a0a09bb553c1"
+    },
+    {
+      "path": "published/2026-10-21/blockchain.html",
+      "bytes": 39901,
+      "sha256": "a2047caad40f6c3954742319f40253c54ee7cd4a876e2bfb9e0493a3bddcab40"
+    },
+    {
+      "path": "published/2026-10-21/index.html",
+      "bytes": 24232,
+      "sha256": "c9fbdfd7525fe745fef33775a593db2df037477dd11c2194078d272ed09bdab8"
+    },
+    {
+      "path": "published/2026-10-21/innovation.html",
+      "bytes": 54808,
+      "sha256": "462758f0915b2bd78b0183ebc42be49c5cebc398ae8458e7225a0bd13a0b14b9"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 276128,
+      "sha256": "5f175a764bfe7e260fc62b20813db113c594e06a1cb0dd5eb9146702b684c9c4"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "3234ea62f4ddc8bf22e8c088cb44975592fa509265635ce2df1ad1e4b771ec51"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "ce009aa2714c95bea8b81cd2f2e9a8b8b71c445be534e8b515d6c803ba40c145"
+    },
+    {
+      "path": "published/topics/france-crypto-to-stablecoin-tax.html",
+      "bytes": 1615,
+      "sha256": "b705ca0d7113a879e1785ecb68d486975fc2d8e84cff90f2b34562829f4725b7"
+    },
+    {
+      "path": "source/2026-10-21-report.txt",
+      "bytes": 33396,
+      "sha256": "403f6e3fda2d065b6581480c96e9fef2f976ced83cbd4f2a3d111f47718d8497"
+    },
+    {
+      "path": "source/2026-10-21-summary.txt",
+      "bytes": 2493,
+      "sha256": "38949d8ed440a0085b6326fe37626934a693873704da38077a717af62e952d2f"
+    }
+  ]
+}
