@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Klarna",
+  "url": "https://www.klarna.com",
+  "intro": "瑞典起家的先買後付（BNPL）業者，服務全球消費者與商家。"
+ },
+ {
+  "name": "FreshBooks",
+  "url": "https://www.freshbooks.com",
+  "intro": "提供發票、記帳與收款功能的小企業雲端會計軟體業者。"
+ },
+ {
+  "name": "威士（Visa）",
+  "url": "https://www.visa.com",
+  "intro": "全球最大的支付卡網路之一，提供卡片與數位支付網路服務。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://www.visa.com",
+  "intro": "全球最大的支付卡網路之一，提供卡片與數位支付網路服務。"
+ },
+ {
+  "name": "Checkout.com",
+  "url": "https://www.checkout.com",
+  "intro": "提供全球收單與支付處理的支付平台業者。"
+ },
+ {
+  "name": "Mollie",
+  "url": "https://www.mollie.com",
+  "intro": "歐洲支付平台，提供線上與實體收款、終端與收銀軟體。"
+ },
+ {
+  "name": "萬事達卡（Mastercard）",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要的支付卡網路之一，提供卡片與數位支付服務。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要的支付卡網路之一，提供卡片與數位支付服務。"
+ },
+ {
+  "name": "PNC",
+  "url": "https://www.pnc.com",
+  "intro": "美國大型區域銀行，提供零售、企業與資產管理服務。"
+ },
+ {
+  "name": "Fiserv",
+  "url": "https://www.fiserv.com",
+  "intro": "美國金融科技與支付業者，提供銀行核心系統與商戶收單服務。"
+ },
+ {
+  "name": "美國貨幣監理署（OCC）",
+  "url": "https://www.occ.gov",
+  "intro": "美國聯邦銀行監理機關，監管國家銀行與聯邦儲蓄機構。"
+ },
+ {
+  "name": "美國聯邦存款保險公司（FDIC）",
+  "url": "https://www.fdic.gov",
+  "intro": "美國存款保險與銀行監理機關，負責存款保障與銀行處理。"
+ },
+ {
+  "name": "Tether",
+  "url": "https://tether.io",
+  "intro": "全球流通量最大的穩定幣USDT的發行機構。"
+ },
+ {
+  "name": "Mural",
+  "url": "https://www.muralpay.com",
+  "intro": "為金融科技業者提供帳戶、支付與法遵基礎設施的新創。"
+ },
+ {
+  "name": "新韓卡（Shinhan Card）",
+  "url": "https://www.shinhancard.com",
+  "intro": "南韓新韓金融旗下的信用卡業者。"
+ },
+ {
+  "name": "Circle",
+  "url": "https://www.circle.com",
+  "intro": "穩定幣USDC的發行機構。"
+ }
+]

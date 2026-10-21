@@ -1,0 +1,40 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "us-genius-act-stablecoin-rules",
+  "headline": "美國貨幣監理署（OCC）發布GENIUS法案最終規則，禁止穩定幣發行人直接給付收益，1月18日生效",
+  "one_line_update": "OCC於10月21日發布GENIUS法案最終規則，禁止發行人直接給付收益、第三方獎勵安排採個案審查，規則將於1月18日生效；反洗錢與制裁規範另與財政部協調制定。",
+  "source_title": "OCC issues final rule on stablecoin framework",
+  "source_url": "https://www.bankingdive.com/news/occ-final-rule-genius-stablecoin-yield-gould-bessent-icba/833638/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ }
+]

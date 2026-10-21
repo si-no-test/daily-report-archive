@@ -1,0 +1,57 @@
+[
+ {
+  "title": "- **Klarna**於10月21日宣布與小企業管理軟體業者FreshBooks合作，把先買後付嵌入發票收款流程，同日另推出免匯兌手續費的Consumer FX",
+  "summary": "Klarna於10月21日宣布與美國與加拿大小企業管理軟體業者FreshBooks合作，把先買後付（BNPL）選項直接放進FreshBooks的發票與收款流程，商家不需額外設定。客",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **威士（Visa）**宣布自10月24日起調降加拿大小型商家的信用卡交換費，適用年度Visa銷售額至75萬加幣的商家，目標平均費率95個基點",
+  "summary": "加拿大獨立企業聯盟（CFIB）於10月21日表示，自10月24日起，年度Visa銷售額至75萬加幣的加拿大小企業，可適用較低的信用卡交換費；Visa發言人證實，目標是讓符合資格的小",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Checkout.com**宣布結束14年純線上收單的定位，與歐洲支付平台Mollie合作推出實體通路支付，先在英國與歐洲經濟區上線",
+  "summary": "Checkout.com宣布將從專注14年的純線上收單擴展到實體通路支付，原因是商家需求增加。它與擁有35萬家企業客戶的歐洲支付平台Mollie合作，結合Mollie的支付終端、收",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **萬事達卡（Mastercard）**於10月21日推出AI助理Mastercard Max，由發卡行嵌入通路協助持卡人使用卡片福利，巴西C6 Bank為首家發卡行",
+  "summary": "萬事達卡於10月21日推出AI助理Mastercard Max，協助持卡人探索、理解並使用所持卡片的福利，可由發卡行的行動銀行App或既有AI助理等直接通路提供，全球發卡行都可使用",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **美國聯邦準備銀行金融服務（Federal Reserve Financial Services）**於10月19日在Money20/20大會表示，銀行對ISO 20022與程式化貨幣的採用仍慢，全球支付營收2025年達2.6兆美元",
+  "summary": "Money20/20大會於10月19日（週一）的一場座談中，聯準會金融服務（Federal Reserve Financial Services）產品與客戶關係長艾美·柏爾（Amy",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **PNC**執行長德姆恰克（Bill Demchak）於10月19日在Money20/20大會表示，銀行不會讓AI代理在無人工介入下動用客戶帳戶，僅由代理人完成的交易「絕不會發生」",
+  "summary": "PNC執行長比爾·德姆恰克（Bill Demchak）於10月19日（週一）在拉斯維加斯Money20/20大會表示，沒有任何銀行會讓人在帳戶內交易時沒有人工介入，若有人這樣做，「",
+  "theme": "ai"
+ },
+ {
+  "title": "- **美國聯邦存款保險公司（FDIC）**主席希爾（Travis Hill）於10月20日表示，AI代理代客移動存款是監理機關與銀行最關切的議題，現行模型風險指引難以適用生成式與代理式AI",
+  "summary": "FDIC主席崔維斯·希爾（Travis Hill）於10月20日在拉斯維加斯Axios活動上表示，AI代理代客移動存款是「我們正在思考的大事」，也是許多銀行正在思考的問題，關鍵在於",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Fiserv**主管阿迪特·蓋吉爾（Adit Gadgil）於10月20日表示，代理式商務迫使商家評估舊支付架構是否適用，麥肯錫預估2030年代理式支付將帶動3兆至5兆美元消費",
+  "summary": "Fiserv商戶服務全球電商與技術主管阿迪特·蓋吉爾（Adit Gadgil）於10月20日在金融科技大會上受訪表示，商家正在評估舊有支付與商務架構是否適合未來，還是需要另建獨立支",
+  "theme": "ai"
+ },
+ {
+  "title": "- **美國貨幣監理署（OCC）**於10月21日發布GENIUS法案最終規則，禁止穩定幣發行人直接給付收益，規則將於1月18日生效",
+  "summary": "美國貨幣監理署（OCC）於10月21日發布實施GENIUS法案的最終規則，將於1月18日生效，適用於持有、發行與移轉支付型穩定幣的OCC監管機構。規則明文禁止發行人直接向客戶給付收",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **新韓卡（Shinhan Card）**與日本SBI旗下子公司於10月21日公布日圓穩定幣跨境支付測試，日本旅客未來可能在南韓以綁卡日圓穩定幣消費",
+  "summary": "南韓信用卡業者新韓卡（Shinhan Card）與日本SBI Holdings旗下的加密交易所SBI VC Trade及貿易融資區塊鏈公司SBI XDC Network APAC，",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Tether**於10月20日領投AI支付新創Mural的1,500萬美元A輪募資，Mural累計募資達2,800萬美元",
+  "summary": "穩定幣發行商Tether於10月20日（週二）宣布領投支付基礎設施新創Mural的1,500萬美元A輪募資，North Island Ventures與既有投資人參與，使紐約的Mu",
+  "theme": "blockchain"
+ }
+]

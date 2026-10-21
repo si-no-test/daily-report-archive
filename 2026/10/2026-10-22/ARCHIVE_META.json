@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-22",
+  "archived_at": "2026-10-21T23:14:41Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "44a66b67dba52044ed18fc1537c2f0a87603229a",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 702714,
+  "files": [
+    {
+      "path": "data/2026-10-22-candidates.txt",
+      "bytes": 69597,
+      "sha256": "f970c0b93b6bf69f76dc5333d6fb58357cdc9e898fe118fa2e6905a7e09ee59e"
+    },
+    {
+      "path": "data/2026-10-22-glossary.json",
+      "bytes": 1918,
+      "sha256": "315ffa50fc5e05bab30cc7873f8171f1653062344d50e8462fce490367314004"
+    },
+    {
+      "path": "data/2026-10-22-manifest.txt",
+      "bytes": 3460,
+      "sha256": "07dc79dd272b015a911a45f55469fd62ef5b96a50ebfdd1171f5b339e380fb70"
+    },
+    {
+      "path": "data/2026-10-22-orgs.json",
+      "bytes": 2454,
+      "sha256": "cde935bc78f30560bd4babe7bb005d0b3f865ba15d56030f2e9e61924324a729"
+    },
+    {
+      "path": "data/2026-10-22-topic-cases.json",
+      "bytes": 4902,
+      "sha256": "5e1c59efe142dad8965ed5bdd7076df313d227e3c7a976e03cea506bc44e16a3"
+    },
+    {
+      "path": "data/2026-10-22-topic-decisions.json",
+      "bytes": 896,
+      "sha256": "ca614a2f6d85c8aaf6671d04c87cdcb3361ea52b9eb0ec147d38857363179642"
+    },
+    {
+      "path": "data/2026-10-22.json",
+      "bytes": 20102,
+      "sha256": "cef6d5d73c13e8f881dfd33d4a4a976d3dd6a4cf3f012ba8d69a09b8f0032ceb"
+    },
+    {
+      "path": "data/cf.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "outbox/2026-10-22-archive.html",
+      "bytes": 103035,
+      "sha256": "f472350acf912f63306a550a55b9b2df6008b6253e269bfcf00ee179e06a465d"
+    },
+    {
+      "path": "outbox/2026-10-22-email.html",
+      "bytes": 10577,
+      "sha256": "e38e22d8243cb1cf1e8d9832479d9cae2ad487c5169a0ace08e78ff1f59a1973"
+    },
+    {
+      "path": "published/2026-10-22.html",
+      "bytes": 555,
+      "sha256": "283460f96175571f02c0505c486150da96f4b462462aad22e0b6dc3b1e76fd85"
+    },
+    {
+      "path": "published/2026-10-22/ai.html",
+      "bytes": 38502,
+      "sha256": "a382f793e29b4d78862b3627f58f9fb671a85140f1f8fe08f70ab4f5aa0d9bb6"
+    },
+    {
+      "path": "published/2026-10-22/blockchain.html",
+      "bytes": 42236,
+      "sha256": "1ae1cd2902c55501102b993d4361088d7df63ada2d1a663b37902752f9339570"
+    },
+    {
+      "path": "published/2026-10-22/index.html",
+      "bytes": 22527,
+      "sha256": "6f6b080f7f4ff2b3babded014b598a375b837fe02c2aa4d5abc036975f8dbd2f"
+    },
+    {
+      "path": "published/2026-10-22/innovation.html",
+      "bytes": 55986,
+      "sha256": "799ec50269b1b7fc1c22262bb198166508de14fca2f28da5f14355b629f8bcef"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 278201,
+      "sha256": "10caaae7693971e4817dc3d6995b6b58384148313e68f435ea25b23864f50bce"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "80332111fd09a8d62cc72f8bf72f6673891cf310c7b71fc1dfc90346171a9bcf"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "283460f96175571f02c0505c486150da96f4b462462aad22e0b6dc3b1e76fd85"
+    },
+    {
+      "path": "published/topics/us-genius-act-stablecoin-rules.html",
+      "bytes": 4929,
+      "sha256": "6092d01738dadd3c407daebbc925a954d23a2b959b610beec1c3501b3d756a85"
+    },
+    {
+      "path": "source/2026-10-22-report.txt",
+      "bytes": 39277,
+      "sha256": "e0b8b80c127fba527db02780f080f31b17990bfe3e7cc3f03be1cb0768490335"
+    },
+    {
+      "path": "source/2026-10-22-summary.txt",
+      "bytes": 2213,
+      "sha256": "4a674da9b867177b58d0b45a8daacc7cafec100f8c0e7b599c2c6b8394fa0a39"
+    }
+  ]
+}
