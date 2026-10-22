@@ -1,0 +1,11 @@
+[
+{"name":"摩根大通","url":"https://www.jpmorganchase.com","intro":"美國最大銀行之一，業務涵蓋投資銀行、商業銀行與資產管理。"},
+{"name":"威士（Visa）","url":"https://www.visa.com","intro":"全球最大的支付卡組織之一，營運跨國卡片與支付網路。"},
+{"name":"萬事達卡（Mastercard）","url":"https://www.mastercard.com","intro":"全球主要支付卡組織，營運跨國卡片與支付網路。"},
+{"name":"Coinbase","url":"https://www.coinbase.com","intro":"美國上市的加密資產交易與託管平台。"},
+{"name":"SoFi","url":"https://www.sofi.com","intro":"美國數位金融業者，提供貸款、銀行與加密資產服務。"},
+{"name":"Plaid","url":"https://plaid.com","intro":"美國金融資料整合商，連結客戶銀行帳戶與各類應用程式。"},
+{"name":"LendingTree","url":"https://www.lendingtree.com","intro":"美國線上貸款與金融商品比價與導流平台。"},
+{"name":"巴克萊（Barclays）","url":"https://www.barclays.com","intro":"英國跨國銀行，業務涵蓋零售、企業與投資銀行。"},
+{"name":"Solana","url":"https://solana.com","intro":"高速公有區塊鏈網路，常用於支付與穩定幣應用。"}
+]
