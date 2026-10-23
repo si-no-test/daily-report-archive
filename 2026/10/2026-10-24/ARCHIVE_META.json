@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-24",
+  "archived_at": "2026-10-23T23:14:29Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "2d97ee470c63fcf3b87eabc6df54716c7d29b62e",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 703541,
+  "files": [
+    {
+      "path": "data/2026-10-24-candidates.txt",
+      "bytes": 68005,
+      "sha256": "4358945640f9aa05d96aa5da889e8411b6d706a9684d1228fee7a996320b99aa"
+    },
+    {
+      "path": "data/2026-10-24-glossary.json",
+      "bytes": 1765,
+      "sha256": "1856add6e8678335ed6a6bc294130f9ff0e5ae2fff087c39d3ac8b1023364731"
+    },
+    {
+      "path": "data/2026-10-24-manifest.txt",
+      "bytes": 3460,
+      "sha256": "31cc6638747c9854a30e71a83a2c99d414ed19a9fe1f18d91b146f9343e6891e"
+    },
+    {
+      "path": "data/2026-10-24-orgs.json",
+      "bytes": 1366,
+      "sha256": "cc7ff9a2d6c9d8de1079291262e0849c0d060a6ecadcb40a00e84612ee82c355"
+    },
+    {
+      "path": "data/2026-10-24-topic-cases.json",
+      "bytes": 1902,
+      "sha256": "78da40439a4da0a8a86a7d9a102badbf5af1c4f71304727c1287a725f45f1bc4"
+    },
+    {
+      "path": "data/2026-10-24-topic-decisions.json",
+      "bytes": 1405,
+      "sha256": "8a569d0137aec00a5d4a9b690576acc43f38cffa094e1051ba66a04d93f807e1"
+    },
+    {
+      "path": "data/2026-10-24.json",
+      "bytes": 21660,
+      "sha256": "d469c33344366a6d166ec81af784b07d7175e2764d9062390fd6b8e9ca764de0"
+    },
+    {
+      "path": "outbox/2026-10-24-archive.html",
+      "bytes": 102082,
+      "sha256": "b95f15209a174c9d9f6375c5576bb73b5a86f2f9569e7b2db9df291c13aca1fd"
+    },
+    {
+      "path": "outbox/2026-10-24-email.html",
+      "bytes": 10908,
+      "sha256": "29de1c387eb32c0e514a6688e4bc4716ededebf07ae13a4303ede175daeb58a8"
+    },
+    {
+      "path": "published/2026-10-24.html",
+      "bytes": 555,
+      "sha256": "c206a3e0c0da1b7820f07457d7c10772eed821a223ed7e39ef59d9eb347fefeb"
+    },
+    {
+      "path": "published/2026-10-24/ai.html",
+      "bytes": 39678,
+      "sha256": "4198a859944924c34b7f501498d51ac9d63da2dc98f211cf456d28d9bb58377f"
+    },
+    {
+      "path": "published/2026-10-24/blockchain.html",
+      "bytes": 45204,
+      "sha256": "ca72161dd1cfc34ca539308f83799faa504115fa73983731b029be157801e6dd"
+    },
+    {
+      "path": "published/2026-10-24/index.html",
+      "bytes": 22087,
+      "sha256": "13badb118d02a0b2f2a77d49d4deb4c5158663ff282155d0be7243af9878bfd5"
+    },
+    {
+      "path": "published/2026-10-24/innovation.html",
+      "bytes": 53978,
+      "sha256": "65c0ba84c086ffaff44e38ccc54929c4dac9119038fd6ff8377bda8fa750a2f0"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 283116,
+      "sha256": "f0a27d0ea4e719e6103ca2c147ad340cc3a5abac1bc5fae90e3989e584865612"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "7327e74c091afc2654e929d048c963f44652034fc7ce99473469ce98ea868864"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "c206a3e0c0da1b7820f07457d7c10772eed821a223ed7e39ef59d9eb347fefeb"
+    },
+    {
+      "path": "published/topics/hsbc-redcoin-hkd-stablecoin-rollout.html",
+      "bytes": 1531,
+      "sha256": "825e3869df88dde38a9ace2945c3fc942dc33e011273c4f22e880f36237c2c28"
+    },
+    {
+      "path": "published/topics/sezzle-occ-national-trust-charter.html",
+      "bytes": 1431,
+      "sha256": "399e8b60ff0534f76ed6b50a25282e767507b3404d715f8fa31321194e0a83bb"
+    },
+    {
+      "path": "source/2026-10-24-report.txt",
+      "bytes": 39517,
+      "sha256": "8b28bb75ddd0463d0b7d96c38b11ac88646d869c1b4f082ab59987b228f20f0e"
+    },
+    {
+      "path": "source/2026-10-24-summary.txt",
+      "bytes": 2544,
+      "sha256": "51a7f91dec6861addecc01928e803b8d359c8ffd5c6e672a380063100e754a76"
+    }
+  ]
+}

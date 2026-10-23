@@ -1,0 +1,276 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T07:14:17.093193+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Sezzle seeks OCC bank charter",
+   "display_title": "Sezzle於10月22日向美國貨幣監理署（OCC）申請國家信託銀行執照，審查預計需12至18個月",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847/",
+     "status": "ok",
+     "chars": 2517
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 10:54:11 -0400",
+   "summary": "：先買後付（BNPL）業者Sezzle於10月22日（美東時間週四）發布新聞稿，宣布向OCC申請國家信託銀行執照，核准後將提供支票與儲蓄帳戶等廣泛銀行產品，主打不愛傳統信用產品的數位原生消費者。總部位於明尼阿波利斯的Sezzle原本計畫向猶",
+   "core_fact": "：先買後付（BNPL）業者Sezzle於10月22日（美東時間週四）發布新聞稿，宣布向OCC申請國家信託銀行執照，核准後將提供支票與儲蓄帳戶等廣泛銀行產品，主打不愛傳統信用產品的數位原生消費者。總部位於明尼阿波利斯的Sezzle原本計畫向猶他州申請工業貸款公司（ILC）執照，執行長尤基姆（Charlie Youakim）8月受訪時表示，紐約、伊利諾與奧勒岡等州的新BNPL規範，加上銀行與消費者團體對ILC架構的批評，促使公司改弦易轍；OCC、聯準會與FDIC的聯合審查預計需12至18個月。TD Cowen分析師阮（Hoang Nguyen）認為，Sezzle客群集中在信用歷史薄弱或完全空白的年輕與低收入消費者，改申請國家執照是明智之舉。",
+   "deep_facts": [
+    "審查流程由OCC、聯準會與FDIC進行，預計12至18個月",
+    "原計畫申請猶他州工業貸款公司執照，因紐約、伊利諾與奧勒岡新BNPL規範及ILC架構遭批評而改道",
+    "Affirm今年申請內華達ILC、PayPal去年12月申請猶他ILC"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Cognitive Credit Lands $40 Million Investment to Expand US Operations",
+   "display_title": "Cognitive Credit於10月22日宣布完成由Summit Partners領投的4,000萬美元策略成長投資",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/investment-tracker/fintech-investments/2026/cognitive-credit-lands-40-million-dollar-investment-expand-united-states-operations/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48635/cognitive-credit-raises-40m-to-scale-specialist-data-and-ai-for-credit-markets",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.pymnts.com/news/investment-tracker/fintech-investments/2026/cognitive-credit-lands-40-million-dollar-investment-expand-united-states-operations/",
+     "status": "ok",
+     "chars": 3248
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 20:42:00 +0000",
+   "summary": "：企業信用市場資料與AI解決方案業者Cognitive Credit於10月22日（週四）發布新聞稿，宣布取得4,000萬美元策略成長投資，由Summit Partners領投，ETFS Capital參與。公司表示過去三年活躍用戶成長24",
+   "core_fact": "：企業信用市場資料與AI解決方案業者Cognitive Credit於10月22日（週四）發布新聞稿，宣布取得4,000萬美元策略成長投資，由Summit Partners領投，ETFS Capital參與。公司表示過去三年活躍用戶成長240%，全球債券與貸款發行人涵蓋範圍成長逾一倍，前25大全球資產管理機構中逾80%、全球前10大債務承銷投資銀行則全數使用其分析工作流程。資金將用於即將推出的DealConnect（讓透過安全資料室申報的私人發行人以隨需方式取得信用模型）、代理式信用分析，以及把發行人涵蓋範圍擴至新信用市場。",
+   "deep_facts": [
+    "過去三年活躍用戶成長240%、發行人涵蓋範圍成長逾一倍",
+    "前25大全球資產管理機構逾80%與前10大債務承銷投行全數使用其工作流程",
+    "資金用於DealConnect、代理式信用分析與新信用市場涵蓋"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "TD Bank Taps Akoya to Power Secure Open Banking API Access",
+   "display_title": "道明銀行美國分行（TD Bank U.S.）於10月20日宣布與數據網路業者Akoya合作，第四季起讓金融App改以API串接而不必交出銀行登入帳密",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/partnerships/2026/td-bank-taps-akoya-power-secure-open-banking-api-access/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/partnerships/2026/td-bank-taps-akoya-power-secure-open-banking-api-access/",
+     "status": "ok",
+     "chars": 3118
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 18:56:32 +0000",
+   "summary": "：TD Bank U.S.與資料網路Akoya於10月20日（週二）發布新聞稿，宣布將部署Akoya的開放金融解決方案（OFS），內容包含API基礎設施與營運支援，用來連接金融機構、金融科技業者與資料聚合商。雙方預計自第四季起陸續讓應用程式",
+   "core_fact": "：TD Bank U.S.與資料網路Akoya於10月20日（週二）發布新聞稿，宣布將部署Akoya的開放金融解決方案（OFS），內容包含API基礎設施與營運支援，用來連接金融機構、金融科技業者與資料聚合商。雙方預計自第四季起陸續讓應用程式與資料聚合商上線，TD客戶之後可在不向第三方提供銀行登入帳密的情況下授權App存取財務資料，也能查看哪些App擁有存取權並隨時關閉。TD美國數位銀行、支付與消費存款主管賈加迪什（Jo Jagadish）表示，此舉兼顧資料保護與客戶選擇工具的彈性。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "LianLian Taps PayPal and Venmo to Speed Up Cross-Border Payouts",
+   "display_title": "LianLian Global於10月22日宣布與PayPal合作，讓客戶可向96國PayPal帳戶及美國Venmo帳戶付款",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/cross-border-payments/2026/lianlian-taps-paypal-venmo-speed-up-cross-border-payouts/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/cross-border-payments/2026/lianlian-taps-paypal-venmo-speed-up-cross-border-payouts/",
+     "status": "ok",
+     "chars": 2979
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 21:44:07 +0000",
+   "summary": "：跨境支付業者LianLian Global於10月22日（週四）發布新聞稿，宣布其社群電商、市集與電商客戶現在可向全球PayPal帳戶與美國Venmo帳戶付款，功能由新的PayPal合作關係與PayPal Payouts支援。新服務包含P",
+   "core_fact": "：跨境支付業者LianLian Global於10月22日（週四）發布新聞稿，宣布其社群電商、市集與電商客戶現在可向全球PayPal帳戶與美國Venmo帳戶付款，功能由新的PayPal合作關係與PayPal Payouts支援。新服務包含Pay to PayPal（僅需收款人電子郵件或電話號碼，即可付款至96個國家的PayPal帳戶）、Pay to Venmo（美國境內付款至Venmo帳戶）與PayPal Payouts for Platforms（大量撥款）。LianLian Global美國副執行長藍（Sandra Lam）表示，快速、跨境、小額地付款給參與者，是社群電商網路效應的動力。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Same Day ACH Volume Jumps 37% as Businesses Fill the Gap Between Batch and Instant",
+   "display_title": "美國自動清算所協會（Nacha）資料顯示，第三季同日ACH（Same Day ACH）交易量年增36.7%至4.704億筆",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/b2b-payments/2026/same-day-ach-volume-jumps-37percent-businesses-fill-gap-between-batch-instant/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/b2b-payments/2026/same-day-ach-volume-jumps-37percent-businesses-fill-gap-between-batch-instant/",
+     "status": "ok",
+     "chars": 5643
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 19:51:13 +0000",
+   "summary": "：PYMNTS於10月20日報導，Nacha資料顯示第三季同日ACH交易量年增36.7%，達4.704億筆，金額成長約32%至1.3兆美元。同日ACH適合薪資更正、供應商付款與現金集中等需於營業日內送達的付款。ACH單筆限額將於2027年9",
+   "core_fact": "：PYMNTS於10月20日報導，Nacha資料顯示第三季同日ACH交易量年增36.7%，達4.704億筆，金額成長約32%至1.3兆美元。同日ACH適合薪資更正、供應商付款與現金集中等需於營業日內送達的付款。ACH單筆限額將於2027年9月17日由100萬美元提高到1,000萬美元，讓更大額的發票付款、薪資資金與集中調度可納入同日處理。PYMNTS Intelligence在6月的調查指出，使用即時支付的企業中，79%認為現金流管理改善。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Citi takes cautious approach on AI agent access",
+   "display_title": "花旗集團（Citi）於10月19日在Money20/20大會表示，目前尚無外部AI代理能以代理方式連入花旗，並主張建立「認識你的代理」機制",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849/",
+     "status": "ok",
+     "chars": 5476
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 11:31:53 -0400",
+   "summary": "：花旗服務業務全球AI、數位與資料平台主管安瓦爾（Naveed Anwar）10月19日（週一）在拉斯維加斯Money20/20大會受訪表示，資產2.6兆美元的花旗已封鎖一切嘗試以代理方式存取銀行的連線，僅保留過去的開放銀行唯讀存取，「目前",
+   "core_fact": "：花旗服務業務全球AI、數位與資料平台主管安瓦爾（Naveed Anwar）10月19日（週一）在拉斯維加斯Money20/20大會受訪表示，資產2.6兆美元的花旗已封鎖一切嘗試以代理方式存取銀行的連線，僅保留過去的開放銀行唯讀存取，「目前沒有任何人以代理方式連入花旗」。報導指出，花旗、摩根大通與美國銀行已表示外部AI代理（如Meta的Muse）無法存取銀行帳戶，路透週四另報導摩根士丹利與嘉信理財同樣封鎖。花旗服務業務同時說明，已推出15個AI使用案例，另有約60個將於第四季至明年第一季陸續上線，並正在美國企業客戶中試點讓客戶經CitiDirect平台自助開戶，以AI產生文件清單並處理文件，把原本需數週的作業縮短到數分鐘。",
+   "deep_facts": [
+    "花旗封鎖一切代理式存取，僅保留開放銀行唯讀存取",
+    "服務業務已推出15個AI使用案例、約60個將於第四季至第一季上線",
+    "CitiDirect企業自助開戶試點以AI產生文件清單，作業由數週縮至數分鐘"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Amex to cut roughly 3,500 employees",
+   "display_title": "美國運通（American Express）於10月23日宣布裁減約3,500名員工，占約7.8萬名員工的4.5%，並預告在平台導入更多AI代理",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/amex-american-express-cut-3500-employees-ai-squeri/833861/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/amex-american-express-cut-3500-employees-ai-squeri/833861/",
+     "status": "ok",
+     "chars": 4386
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 11:49:35 -0400",
+   "summary": "：美國運通10月23日（週五）發布第三季財報時，發言人表示將裁減約3,500名員工，約占全球約7.8萬名員工的4.5%，並認列3.36億美元重整費用。第三季帳單金額（billed business）按匯率調整後成長8%至4,540億美元，低",
+   "core_fact": "：美國運通10月23日（週五）發布第三季財報時，發言人表示將裁減約3,500名員工，約占全球約7.8萬名員工的4.5%，並認列3.36億美元重整費用。第三季帳單金額（billed business）按匯率調整後成長8%至4,540億美元，低於上半年的9%；淨利成長28%至37.1億美元，營收成長9%至200億美元。執行長斯奎里（Stephen Squeri）說，為加速創新需要更靈活、更有效率的組織，並指出Brex與Ramp「解鎖」了自動化與費用管理，未來運通平台將導入更多代理；發言人與主管均未提供裁員細節，也未說明裁員與AI的直接關係。",
+   "deep_facts": [
+    "重整費用3.36億美元，淨利成長28%至37.1億美元",
+    "Brex被Capital One收購，Ramp與Brex以自動化與費控切入商務客戶",
+    "運通平台將導入更多代理，並以ChatGPT個人化餐飲與旅遊推廣"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "JPMorgan Chase, Goldman Sachs underscore security in AI plans",
+   "display_title": "摩根大通（JPMorgan Chase）資訊長貝爾（Lori Beer）於10月22日在Evident AI研討會表示，LLM Suite已支援1,000個業務應用，並先以單一代理建置平台管控風險",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/jpmorgan-chase-goldman-sachs-AI-security-lori-beer-marco-argenti/833792/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/jpmorgan-chase-goldman-sachs-AI-security-lori-beer-marco-argenti/833792/",
+     "status": "ok",
+     "chars": 4828
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 05:57:00 -0400",
+   "summary": "：摩根大通資訊長貝爾與高盛資訊長阿爾真蒂（Marco Argenti）10月22日（週四）在Evident AI研討會上強調AI資安。貝爾表示，LLM Suite平台目前支援1,000個業務應用，約20萬名員工使用；摩根大通已改以50項由業",
+   "core_fact": "：摩根大通資訊長貝爾與高盛資訊長阿爾真蒂（Marco Argenti）10月22日（週四）在Evident AI研討會上強調AI資安。貝爾表示，LLM Suite平台目前支援1,000個業務應用，約20萬名員工使用；摩根大通已改以50項由業務單位負責的策略計畫衡量價值，而不再計算使用案例數量；程式碼輔助工具占該行代幣（token）支出的大部分。她說，該行將先建立一個核心的代理建置平台，把開發集中以便大規模自動套用控管，並承認「技術跑在管控能力前面」。高盛則在今年與Anthropic成立AI服務公司，派駐工程師到中型企業導入Claude，阿爾真蒂強調「任何代理都可能行為失當」。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+   "display_title": "匯豐銀行（HSBC）於10月23日在香港推出首檔港元穩定幣RedCoin（RCHKD），PayMe逾330萬名用戶可於數日內啟用錢包",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+     "status": "ok",
+     "chars": 4460
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 10:22:56 +0000",
+   "summary": "：匯豐於10月23日（週五）發布新聞稿，宣布推出首檔穩定幣匯豐RedCoin（代號RCHKD），為港元計價，並由香港金融管理局（HKMA）核發牌照與監管，先上線匯豐旗下電子錢包PayMe。逾330萬名PayMe用戶將於未來數日內在App中啟",
+   "core_fact": "：匯豐於10月23日（週五）發布新聞稿，宣布推出首檔穩定幣匯豐RedCoin（代號RCHKD），為港元計價，並由香港金融管理局（HKMA）核發牌照與監管，先上線匯豐旗下電子錢包PayMe。逾330萬名PayMe用戶將於未來數日內在App中啟用穩定幣錢包，可即時轉帳給親友，並在逾10萬家商家以穩定幣付款。匯豐表示，RedCoin將由高品質流動資產全額支持並存放於獨立帳戶；今年稍後將在匯豐香港行動銀行App加入穩定幣錢包，並開放客戶用以申購代幣化投資產品，包含匯豐既有港元貨幣市場基金的新股份類別，之後再擴大至批發、企業與機構用途。HKMA在4月核發首批穩定幣發行人牌照給匯豐與渣打主導的Anchorpoint，Anchorpoint的HKDAP已於8月限量推出，著重機構支付與結算。",
+   "deep_facts": [
+    "RedCoin由高品質流動資產全額支持並存放於獨立帳戶",
+    "年內將擴及匯豐香港行動銀行App並可申購代幣化投資產品與港元貨幣市場基金新股份類別",
+    "HKMA 4月核發首批牌照予匯豐與渣打主導的Anchorpoint，HKDAP於8月限量推出"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Chartered in December, public in January: How BitGo's growing",
+   "display_title": "BitGo於本週在Money20/20表示，取得OCC無條件國家信託執照後，單日收到兩份大型金融機構徵求建議書（RFP）",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/chartered-december-public-january-how-bitgos-growing/833857/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/chartered-december-public-january-how-bitgos-growing/833857/",
+     "status": "ok",
+     "chars": 4305
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 12:03:45 -0400",
+   "summary": "：數位資產基礎設施與託管業者BitGo的北美金融科技銷售主管王（Frank Wang）在拉斯維加斯Money20/20大會受訪表示，BitGo去年12月在申請轉換州執照五個月後取得無條件國家信託執照，今年1月在紐約證券交易所掛牌，估值25.",
+   "core_fact": "：數位資產基礎設施與託管業者BitGo的北美金融科技銷售主管王（Frank Wang）在拉斯維加斯Money20/20大會受訪表示，BitGo去年12月在申請轉換州執照五個月後取得無條件國家信託執照，今年1月在紐約證券交易所掛牌，估值25.9億美元；銀行詢問「明顯增強並持續增加」，光是一個星期二就收到兩份大型金融機構的徵求建議書。BitGo提供銀行兩種選擇：使用其軟體自行管理錢包與託管，或由BitGo Bank & Trust代為託管。王說，這是中型與區域銀行接觸數位資產的「簡易按鈕」。OCC本週發布的GENIUS法案最終規則將於1月18日生效，至少21家數位資產業者已獲有條件核准的國家信託執照，取得無條件核准者較少。",
+   "deep_facts": [
+    "去年12月取得無條件國家信託執照，1月掛牌NYSE估值25.9億美元",
+    "單日收到兩份大型金融機構RFP",
+    "至少21家數位資產業者獲有條件核准，OCC GENIUS最終規則1月18日生效"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
+   "display_title": "新加坡金融管理局（MAS）主導的BLOOM倡議於10月23日新增馬來西亞與泰國央行加入，三國央行共同推動跨境數位貨幣結算",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 13:52:00 GMT",
+   "summary": "：Finextra、The Block與Cointelegraph於10月23日（週五）報導，泰國與馬來西亞央行加入由新加坡金融管理局（MAS）主導的BLOOM倡議，這是一項公私部門合作計畫，目標是推動數位貨幣跨境結算。The Block指",
+   "core_fact": "：Finextra、The Block與Cointelegraph於10月23日（週五）報導，泰國與馬來西亞央行加入由新加坡金融管理局（MAS）主導的BLOOM倡議，這是一項公私部門合作計畫，目標是推動數位貨幣跨境結算。The Block指出該計畫涉及Ripple、Visa與萬事達卡，並以穩定幣與代幣化存款為結算工具；Cointelegraph指出BLOOM的目標是協助金融機構協調跨境使用穩定幣與代幣化存款，以降低成本。參與央行由新加坡一國擴大為三國。",
+   "deep_facts": []
+  }
+ ]
+}

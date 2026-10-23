@@ -1,0 +1,11 @@
+[
+{"name":"花旗集團","url":"https://www.citigroup.com","intro":"總部位於紐約的全球大型銀行，業務涵蓋企業金融服務、財富管理與零售銀行。"},
+{"name":"美國運通","url":"https://www.americanexpress.com","intro":"美國信用卡與支付服務業者，同時是卡片發行機構與支付網路。"},
+{"name":"摩根大通","url":"https://www.jpmorganchase.com","intro":"美國資產規模最大的銀行之一，業務涵蓋投資銀行、商業銀行與消費金融。"},
+{"name":"匯豐銀行","url":"https://www.hsbc.com","intro":"總部位於倫敦的全球銀行集團，在香港與亞洲市場有大規模零售與企業業務。"},
+{"name":"高盛","url":"https://www.goldmansachs.com","intro":"美國大型投資銀行，業務涵蓋資本市場、資產管理與財富管理。"},
+{"name":"PayPal","url":"https://www.paypal.com","intro":"全球電子支付與錢包業者，旗下包含Venmo。"},
+{"name":"Visa","url":"https://www.visa.com","intro":"全球最大的卡片支付網路之一，提供跨境支付與卡片交易處理服務。"},
+{"name":"渣打銀行","url":"https://www.sc.com","intro":"總部位於倫敦的國際銀行，業務集中於亞洲、非洲與中東。"},
+{"name":"Anthropic","url":"https://www.anthropic.com","intro":"AI研究與產品公司，開發Claude系列大型語言模型。"}
+]
