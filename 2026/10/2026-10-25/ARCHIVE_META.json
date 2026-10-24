@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-25",
+  "archived_at": "2026-10-24T23:12:50Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "955321e412cf5080e24e015e8f919f80c7ecee65",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 20,
+  "total_bytes": 655053,
+  "files": [
+    {
+      "path": "data/2026-10-25-candidates.txt",
+      "bytes": 35312,
+      "sha256": "544e503e29bf5ad44c5d6b003454568ad778541ecde77fdcb45510d38e52ce42"
+    },
+    {
+      "path": "data/2026-10-25-glossary.json",
+      "bytes": 1998,
+      "sha256": "9218471b10ea70eebba7a9dffc92245e3eb8b9a9756c2719e2dd29faefc27181"
+    },
+    {
+      "path": "data/2026-10-25-manifest.txt",
+      "bytes": 3460,
+      "sha256": "cd606ab214007d8eeb563654121e8f41c81164d67f884b28c8e1411382380b15"
+    },
+    {
+      "path": "data/2026-10-25-orgs.json",
+      "bytes": 1510,
+      "sha256": "d852fd21768968b63a19713195f3302f1723c417ccba209fb0899ca6780c50c2"
+    },
+    {
+      "path": "data/2026-10-25-topic-cases.json",
+      "bytes": 1565,
+      "sha256": "57610fd8fe4bc20c10aec96060bcb090dcd55629551dd2633d79e8c5c20e62b1"
+    },
+    {
+      "path": "data/2026-10-25-topic-decisions.json",
+      "bytes": 752,
+      "sha256": "19171e05bedc51480a83a42dd3c47642d57ac2f53187611ddcc97761fde6c69c"
+    },
+    {
+      "path": "data/2026-10-25.json",
+      "bytes": 19015,
+      "sha256": "ef1acb31b17fa5148d9af29f2f8514b6bea95990bfc89c3d796fa79c2b513ae6"
+    },
+    {
+      "path": "outbox/2026-10-25-archive.html",
+      "bytes": 97545,
+      "sha256": "55165a07abc433a564697f3330e4f2e2e4710dbd3b3dca4427ca2c1a03192dca"
+    },
+    {
+      "path": "outbox/2026-10-25-email.html",
+      "bytes": 11097,
+      "sha256": "ec7ab4ba50f1814e24fa1200a874a4037cf0e1b3b8cb4dad322fbf96d1cede22"
+    },
+    {
+      "path": "published/2026-10-25.html",
+      "bytes": 555,
+      "sha256": "88cbc58599105be740a96c6d383834e3c895fe6e1f108d583f8b4163e46abf32"
+    },
+    {
+      "path": "published/2026-10-25/ai.html",
+      "bytes": 34285,
+      "sha256": "fb04dacdb2098b2d73b669d495e304b136b882eb9cc07b297c15510f29853cd9"
+    },
+    {
+      "path": "published/2026-10-25/blockchain.html",
+      "bytes": 42285,
+      "sha256": "e9f7fb64dcccb99274eac2b820d0740b54c08ec0a11e17896dc0716f8ce751a4"
+    },
+    {
+      "path": "published/2026-10-25/index.html",
+      "bytes": 22956,
+      "sha256": "5dc54c1cb4521b05e1ff58a666c448716f820c228f0d14b41128e74295313797"
+    },
+    {
+      "path": "published/2026-10-25/innovation.html",
+      "bytes": 52699,
+      "sha256": "ef322bb9672da04f2a35a559d28bbb2edaf2e41bf718eb1ca906ad8024ff2447"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 287109,
+      "sha256": "53a30b04df7760a1824b1b18180aa9591aa06dca54fab5aa61136d13baa47138"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "668227e85a15f69f1f1dd55d393d7024d8bed255f47afc5c61829a5f464e9576"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "88cbc58599105be740a96c6d383834e3c895fe6e1f108d583f8b4163e46abf32"
+    },
+    {
+      "path": "published/topics/okx-ice-tokenized-stock-venue.html",
+      "bytes": 4328,
+      "sha256": "3b31e3439c98e17baecf6a421a3e9b2b4822502ee1071ed61ff4e5e27dd27116"
+    },
+    {
+      "path": "source/2026-10-25-report.txt",
+      "bytes": 34502,
+      "sha256": "80ae4c4b8eac98378bf7aab68be973769c6424a2c8107dc2b12053b3b7fd17a2"
+    },
+    {
+      "path": "source/2026-10-25-summary.txt",
+      "bytes": 2733,
+      "sha256": "359a3d314f55c1e0393e014906281c97ae261c3a550d3d8b763454a72bc61bae"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+ {
+  "name": "富國銀行",
+  "url": "https://www.wellsfargo.com",
+  "intro": "美國大型銀行，業務涵蓋消費金融、商業銀行與財富管理。"
+ },
+ {
+  "name": "美國運通",
+  "url": "https://www.americanexpress.com",
+  "intro": "美國信用卡與支付網路業者，主打高端卡友的旅遊與生活權益。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "全球主要線上支付與金融基礎設施業者，服務網路商家與新創公司。"
+ },
+ {
+  "name": "Airbnb",
+  "url": "https://www.airbnb.com",
+  "intro": "全球短租與旅宿預訂平台。"
+ },
+ {
+  "name": "Polygon",
+  "url": "https://polygon.technology",
+  "intro": "以太坊生態的區塊鏈網路，近年聚焦穩定幣與支付基礎設施。"
+ },
+ {
+  "name": "富蘭克林鄧普頓",
+  "url": "https://www.franklintempleton.com",
+  "intro": "全球資產管理公司，推出多檔代幣化貨幣市場基金。"
+ },
+ {
+  "name": "Block",
+  "url": "https://block.xyz",
+  "intro": "Square與Cash App母公司，業務涵蓋商家支付、個人金融與比特幣。"
+ },
+ {
+  "name": "洲際交易所",
+  "url": "https://www.ice.com",
+  "intro": "紐約證券交易所母公司，營運全球交易所與清算機構。"
+ },
+ {
+  "name": "OKX",
+  "url": "https://www.okx.com",
+  "intro": "全球大型加密貨幣交易所。"
+ },
+ {
+  "name": "顧能",
+  "url": "https://www.gartner.com",
+  "intro": "全球研究與顧問公司，提供資訊科技市場調查與預測。"
+ }
+]

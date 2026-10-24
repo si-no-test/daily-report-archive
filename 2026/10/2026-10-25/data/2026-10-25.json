@@ -1,0 +1,243 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T09:00:00+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Customers Bank Uses AI to Close Commercial Loans in 7 Days",
+   "display_title": "客戶銀行（Customers Bank）於10月22日公布第三季財報並擴大AI放款流程，試點將部分商業貸款結案時間由30至60天壓縮至7天",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/customers-bank-uses-ai-to-close-commercial-loans-in-7-days/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/customers-bank-uses-ai-to-close-commercial-loans-in-7-days/",
+     "status": "ok",
+     "chars": 4448
+    }
+   ],
+   "date_evidence": "Sat, 24 Oct 2026 00:17:59 +0000",
+   "summary": "美國賓州的客戶銀行（母公司Customers Bancorp資產逾270億美元）在第二季試點中，以多代理信用審查流程讓部分商業暨工業貸款與商用不動產貸款在一週內達到可結案狀態，傳統作業需30至60天，執行長西杜（Sam Sidhu）稱「準備",
+   "core_fact": "美國賓州的客戶銀行（母公司Customers Bancorp資產逾270億美元）在第二季試點中，以多代理信用審查流程讓部分商業暨工業貸款與商用不動產貸款在一週內達到可結案狀態，傳統作業需30至60天，執行長西杜（Sam Sidhu）稱「準備結案」所需時間縮短85%。10月22日第三季財報進一步說明該流程已擴大導入，部署的AI代理數量一季內增加一倍，員工自評累計節省約76,000小時，較第二季增加近65%，並估計年化產能效益逾1,500萬美元，該數字以未回補職缺與減少空缺的薪資福利計算。",
+   "deep_facts": [
+    "西杜本人帶領40人AI工作流程團隊，約占全行員工5%",
+    "OpenAI工程師駐點與銀行員並肩建置專有工具",
+    "多代理信用審查使「準備結案」時間縮短85%",
+    "年化產能逾1,500萬美元以未回補職缺的薪資福利計算"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "American Express Expands Travel Platform With Airbnb Integration",
+   "display_title": "美國運通（American Express）於10月22日宣布與Airbnb合作，將逾100萬筆Airbnb房源納入Amex Travel並可賺取會員點數",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/transportation/travel-payments/2026/american-express-expands-travel-platform-with-airbnb-integration/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/transportation/travel-payments/2026/american-express-expands-travel-platform-with-airbnb-integration/",
+     "status": "ok",
+     "chars": 2890
+    }
+   ],
+   "date_evidence": "Sat, 24 Oct 2026 00:59:11 +0000",
+   "summary": "美國運通與Airbnb於10月22日發布新聞稿，符合資格的美國卡友可透過AmexTravel.com或Amex Travel App預訂Airbnb住宿，平台新增逾100萬筆房源，涵蓋城市公寓、家庭住宅與高端私人住所，與運通原有飯店選項並列",
+   "core_fact": "美國運通與Airbnb於10月22日發布新聞稿，符合資格的美國卡友可透過AmexTravel.com或Amex Travel App預訂Airbnb住宿，平台新增逾100萬筆房源，涵蓋城市公寓、家庭住宅與高端私人住所，與運通原有飯店選項並列。符合條件的預付訂房可賺取會員獎勵點數，美國個人與商務白金卡友另可獲得每年600美元住宿額度及新增的250美元帳單抵免，運通美國消費者服務事業群總裁葛羅斯菲爾德（Howard Grosfield）表示，目標是在回饋與服務之外提供更多選擇。",
+   "deep_facts": [
+    "白金卡友每年600美元住宿額度與新增250美元帳單抵免",
+    "PYMNTS Intelligence指四分之一持卡人輪流使用不同信用卡",
+    "運通近期與Bread Financial、Apple Pay、Fanatics合作"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Stripe Unveils Treasury Tools That Allow AI Agents to Handle Startup Finances",
+   "display_title": "Stripe於10月21日推出「Treasury for agents」，讓新創公司透過ChatGPT、Claude等AI代理處理財務工作",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/320412-stripe-unveils-treasury-tools-that-allow-ai-agents-to-handle-startup-finances/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Sat, 24 Oct 2026 15:00:39 +0000",
+   "summary": "Stripe於10月21日自舊金山宣布推出Treasury for agents，讓新創公司可透過ChatGPT、Claude等AI代理執行關鍵財務工作，包括管理資金與相關財務作業，這項能力屬於Stripe既有金融基礎設施向代理式介面的延伸",
+   "core_fact": "Stripe於10月21日自舊金山宣布推出Treasury for agents，讓新創公司可透過ChatGPT、Claude等AI代理執行關鍵財務工作，包括管理資金與相關財務作業，這項能力屬於Stripe既有金融基礎設施向代理式介面的延伸。Crowdfund Insider於10月24日報導此事，現階段公開資料未揭露客戶規模、費用或支援的銀行夥伴，評估時應避免把示範能力等同於已大規模商用的服務。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Argentine payment infrastructure company Rebill raises $5.4m",
+   "display_title": "Rebill於10月23日宣布完成540萬美元Pre-A輪募資，創立以來累計募資逾900萬美元",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111432/argentine-payment-infrastructure-company-rebill-raises-54m",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 23 Oct 2026 20:24:00 GMT",
+   "summary": "阿根廷支付基礎設施公司Rebill於10月23日經Finextra刊登新聞稿，宣布完成540萬美元的Pre-A輪募資，使創立以來累計募資超過900萬美元。公開摘要未揭露投資人名單與估值，資金用途與業務拓展國家也未在摘要中列出，因此現階段只能",
+   "core_fact": "阿根廷支付基礎設施公司Rebill於10月23日經Finextra刊登新聞稿，宣布完成540萬美元的Pre-A輪募資，使創立以來累計募資超過900萬美元。公開摘要未揭露投資人名單與估值，資金用途與業務拓展國家也未在摘要中列出，因此現階段只能確認規模與公司定位為支付基礎設施。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "European Banking Authority and Financial Conduct Authority Demand Answers from Google Over Recent Cloud Outage",
+   "display_title": "歐洲銀行管理局（EBA）與英國金融行為監理總署（FCA）於10月23日經報導已就Google雲端服務中斷事件要求該公司說明",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/320146-european-banking-authority-and-financial-conduct-authority-demand-answers-from-google-over-recent-cloud-outage/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 23 Oct 2026 21:33:56 +0000",
+   "summary": "Crowdfund Insider於10月23日報導，歐洲銀行管理局與英國金融行為監理總署在本週Google雲端運算服務嚴重中斷後，已主動向Google接洽要求說明。該次中斷曾使多家大型銀行的線上服務暫時無法使用，兩家監理機關關切的是中斷原",
+   "core_fact": "Crowdfund Insider於10月23日報導，歐洲銀行管理局與英國金融行為監理總署在本週Google雲端運算服務嚴重中斷後，已主動向Google接洽要求說明。該次中斷曾使多家大型銀行的線上服務暫時無法使用，兩家監理機關關切的是中斷原因、影響範圍與後續防範。公開摘要未列出受影響銀行名單與中斷時數，因此現階段只能確認監理機關介入與事件性質。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Wells Fargo consolidates leadership of consumer bank",
+   "display_title": "富國銀行（Wells Fargo）於10月22日任命桑托斯（Kleber Santos）為消費金融與放款獨任執行長，原共同執行長范貝爾登（Saul Van Beurden）轉任專責全行AI",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/wells-fargo-consolidate-consumer-bank-leadership-santos-van-beurden-ai/833863/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/wells-fargo-consolidate-consumer-bank-leadership-santos-van-beurden-ai/833863/",
+     "status": "ok",
+     "chars": 2686
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 12:17:45 -0400",
+   "summary": "富國銀行於10月22日宣布，桑托斯接任消費金融與放款事業獨任執行長，負責消費存款、信用卡、小企業銀行與汽車貸款；原共同執行長范貝爾登自去年起受命擴大全行AI應用，現轉為全職投入，並深化與AI公司的合作，兩項任命即日生效。執行長夏爾夫（Cha",
+   "core_fact": "富國銀行於10月22日宣布，桑托斯接任消費金融與放款事業獨任執行長，負責消費存款、信用卡、小企業銀行與汽車貸款；原共同執行長范貝爾登自去年起受命擴大全行AI應用，現轉為全職投入，並深化與AI公司的合作，兩項任命即日生效。執行長夏爾夫（Charlie Scharf）在10月13日第三季財報電話會議指出，AI已從協助程式設計的工具，演進為在適當時機使用自主代理，用於提高分行產能與營收、加快行銷活動、找出並修補程式漏洞及簡化風險管理，富國銀行在Evident AI銀行指數排名全球第5、美國第3。",
+   "deep_facts": [
+    "夏爾夫在10月13日財報會議說明AI已由程式輔助工具演進為自主代理",
+    "富國銀行Evident AI銀行指數全球第5、美國第3",
+    "富國銀行AI主管德加亞將於1月4日出任豐業銀行首席AI長"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+   "display_title": "Block（Block, Inc.）於10月24日公布語音AI模型Dessa，可在搭載M4 Max的MacBook Pro本機執行",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+     "status": "ok",
+     "chars": 5823
+    }
+   ],
+   "date_evidence": "Sat, 24 Oct 2026 15:21:06 +0000",
+   "summary": "旗下擁有Square與Cash App的Block在10月24日經CoinDesk報導發表語音AI模型Dessa，該模型只以人類語音訓練、不經文字轉換，能邊聽邊說並處理打斷、笑聲與語氣變化，使用單一台Nvidia GB200 NVL72運算",
+   "core_fact": "旗下擁有Square與Cash App的Block在10月24日經CoinDesk報導發表語音AI模型Dessa，該模型只以人類語音訓練、不經文字轉換，能邊聽邊說並處理打斷、笑聲與語氣變化，使用單一台Nvidia GB200 NVL72運算系統從頭訓練，體積小到可在配備M4 Max晶片以上的MacBook Pro本機執行。Block尚未公布模型大小、基準測試與公開日期，目前為研究預覽，僅提供給少數AI安全研究人員，社群反應兩極，有人讚嘆，也有人警告「詐騙電話將達到疫情級規模」。",
+   "deep_facts": [
+    "Dessa以單一Nvidia GB200 NVL72系統從頭訓練",
+    "模型可在M4 Max晶片以上的MacBook Pro本機執行",
+    "Block未公布模型大小、基準測試與公開日期，僅開放少數AI安全研究人員"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Only 13% Of CIOs Report Significant Business Value From AI: Gartner",
+   "display_title": "顧能（Gartner）於10月24日經Crowdfund Insider報導的調查顯示，僅13%的資訊長表示AI已帶來顯著或轉型級企業價值",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/320453-only-13-of-cios-report-significant-business-value-from-ai-gartner/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Sat, 24 Oct 2026 15:10:33 +0000",
+   "summary": "Crowdfund Insider於10月24日引述顧能（Gartner）調查報導，只有13%的資訊長（CIO）表示所屬組織已從AI取得顯著或轉型級的企業價值，儘管各企業仍持續增加AI支出並擴大導入範圍。公開摘要未揭露受訪人數與調查日期，因",
+   "core_fact": "Crowdfund Insider於10月24日引述顧能（Gartner）調查報導，只有13%的資訊長（CIO）表示所屬組織已從AI取得顯著或轉型級的企業價值，儘管各企業仍持續增加AI支出並擴大導入範圍。公開摘要未揭露受訪人數與調查日期，因此本案僅採用13%這項已被報導的比例。另一份PYMNTS Intelligence於6月調查60位年營收逾10億美元企業的資深科技主管，顯示完整回收僅占5%至10%，與顧能結果方向一致。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+   "display_title": "OKXICE（OKX與洲際交易所合資公司）於10月23日更新公告，富國銀行、思科等6家企業提出異議，代幣化股票交易場所累計22家企業反對",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+     "status": "ok",
+     "chars": 5456
+    }
+   ],
+   "date_evidence": "Sat, 24 Oct 2026 14:06:24 +0000",
+   "summary": "加密貨幣交易所OKX與紐約證券交易所母公司洲際交易所（ICE）合資的OKXICE，在10月23日更新的公開通知中新增思科、富國銀行、Marvell、Arm、Intuit與Moderna共6家異議企業，累計達22家，先前已有微軟、Alphab",
+   "core_fact": "加密貨幣交易所OKX與紐約證券交易所母公司洲際交易所（ICE）合資的OKXICE，在10月23日更新的公開通知中新增思科、富國銀行、Marvell、Arm、Intuit與Moderna共6家異議企業，累計達22家，先前已有微軟、Alphabet、高盛與麥當勞表態拒絕。OKXICE於10月4日發出首份公告，計畫利用OKX旗下XLayer區塊鏈上的Uniswap流動性池交易，並以穩定幣結算；原擬上架名單共62家公司，其中富國銀行與Arm不在原名單內，思科、Moderna、Intuit與Marvell則在名單內。",
+   "deep_facts": [
+    "原擬上架名單共62家公司，富國銀行與Arm不在名單內",
+    "10月4日首份公告，使用OKX XLayer上的Uniswap流動性池並以穩定幣結算",
+    "共同董事長古莫稱此為沙盒示範模型"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+   "display_title": "富蘭克林鄧普頓（Franklin Templeton）於10月22日完成兩筆各7,500萬美元申購，將約1.5億美元代幣化貨幣市場基金股份新增至XRP Ledger",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+     "status": "ok",
+     "chars": 6234
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 04:45:43 +0000",
+   "summary": "富蘭克林鄧普頓於10月22日在XRP Ledger新增約1.5億美元貨幣市場基金股份，使該網路上sgBENJI股份升至近1.93億股、價值約2億美元，先前約為4,800萬股，兩筆申購各7,500萬美元，股價紀錄為1.039美元。所有新股都進",
+   "core_fact": "富蘭克林鄧普頓於10月22日在XRP Ledger新增約1.5億美元貨幣市場基金股份，使該網路上sgBENJI股份升至近1.93億股、價值約2億美元，先前約為4,800萬股，兩筆申購各7,500萬美元，股價紀錄為1.039美元。所有新股都進入同一個錢包，該錢包與富蘭克林發行帳戶共用相同的8個簽署地址、任兩個即可共同批准交易，而且持有錢包數量維持為一。RWA.xyz資料顯示該公司位居XRP Ledger代幣化資產平台第二，僅次於Ripple的RLUSD（約9.3億美元），高於Ondo的1.85億美元。",
+   "deep_facts": [
+    "新錢包與發行帳戶共用相同8個簽署地址，任兩個可共同批准",
+    "發行人可在XRP Ledger凍結餘額與追回代幣",
+    "RWA.xyz列其居XRP Ledger平台第二，RLUSD約9.3億美元、Ondo 1.85億美元"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Polygon Secures US Money Transmitter Licenses",
+   "display_title": "Polygon於10月14日宣布完成收購Coinme，取得涵蓋美國48州的匯款牌照與配套",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/blockchain/2026/polygon-secures-us-money-transmitter-licenses/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/blockchain/2026/polygon-secures-us-money-transmitter-licenses/",
+     "status": "ok",
+     "chars": 2914
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 23:41:22 +0000",
+   "summary": "Polygon於10月14日在部落格宣布完成對Coinme的收購，使Polygon Open Money Stack成為受美國監理的支付平台，美國支付業務涵蓋48州，擁有37張匯款牌照與11項延伸許可，並已向美國金融犯罪執法網路（FinCE",
+   "core_fact": "Polygon於10月14日在部落格宣布完成對Coinme的收購，使Polygon Open Money Stack成為受美國監理的支付平台，美國支付業務涵蓋48州，擁有37張匯款牌照與11項延伸許可，並已向美國金融犯罪執法網路（FinCEN）登記為金融服務業者。Polygon今年1月宣布收購計畫，Coinme成立於2014年，是美國最早持牌的數位貨幣交易所之一。公司另於9月29日表示，Polygon鏈自2020年9月以來累計處理逾3兆美元穩定幣轉帳，其中逾半數發生在2025年1月之後，2025年一年即達9,330億美元。",
+   "deep_facts": []
+  }
+ ]
+}
