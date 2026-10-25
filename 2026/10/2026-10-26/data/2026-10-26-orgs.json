@@ -1,0 +1,57 @@
+[
+ {
+  "name": "Meta",
+  "url": "https://about.meta.com",
+  "intro": "全球社群與AI服務公司，旗下Instagram、Facebook，並推出個人AI代理Muse。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "全球線上支付與金融基礎設施業者。"
+ },
+ {
+  "name": "Kalshi",
+  "url": "https://kalshi.com",
+  "intro": "美國預測市場與衍生品交易平台。"
+ },
+ {
+  "name": "Revolut",
+  "url": "https://www.revolut.com",
+  "intro": "英國數位銀行與金融科技業者，提供多幣別帳戶與卡片服務。"
+ },
+ {
+  "name": "1Password",
+  "url": "https://1password.com",
+  "intro": "密碼與憑證管理服務業者。"
+ },
+ {
+  "name": "Trulioo",
+  "url": "https://www.trulioo.com",
+  "intro": "全球身分驗證服務業者。"
+ },
+ {
+  "name": "Apex Group",
+  "url": "https://www.apexgroup.com",
+  "intro": "全球金融服務與基金行政業者。"
+ },
+ {
+  "name": "CME",
+  "url": "https://www.cmegroup.com",
+  "intro": "美國大型衍生品交易所集團。"
+ },
+ {
+  "name": "洲際交易所",
+  "url": "https://www.ice.com",
+  "intro": "營運股票、期貨與清算的全球交易所集團。"
+ },
+ {
+  "name": "英國金融行為監理總署",
+  "url": "https://www.fca.org.uk",
+  "intro": "英國金融行為監理機關。"
+ },
+ {
+  "name": "財政部",
+  "url": "https://www.mof.gov.tw",
+  "intro": "台灣財政主管機關。"
+ }
+]

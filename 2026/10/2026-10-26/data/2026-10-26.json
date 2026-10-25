@@ -1,0 +1,270 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T07:14:55.774026+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Shopping is Muse’s top task: Meta",
+   "display_title": "Meta Platforms（Meta）於10月21日在財報電話會議指出，個人AI代理Muse已有約1,000萬人註冊，約四分之一用戶以其購物、平均單筆約200美元",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/shopping-is-muses-top-task-meta/833817/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/shopping-is-muses-top-task-meta/833817/",
+     "status": "ok",
+     "chars": 4211
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 07:11:33 -0400",
+   "summary": "Meta稱個人AI代理Muse上線首月約1,000萬人註冊，約25%用戶以其購物，平均單筆約200美元，付款透過Stripe Link。",
+   "core_fact": "Meta執行長祖克柏（Mark Zuckerberg）10月21日在第三季財報電話會議上表示，個人AI代理Muse自9月8日上線後約有1,000萬人註冊，目前僅在美國與加拿大提供；約25%的用戶以Muse處理購物任務（含旅遊規畫），平均單筆購買金額約200美元，付款使用Stripe的Link數位錢包。上線首週交易量高於預期，Meta還得與Stripe調高信用額度，Stripe總裁柯林森（John Collison）則稱代理商務活動自9月起急遽攀升。",
+   "deep_facts": [
+    "Muse上線首週交易量超出預期，Meta須與Stripe調高信用額度",
+    "Muse目前僅開放美國與加拿大，因運算成本過高暫不擴大",
+    "EWS由七家美國大型銀行持有，摩根大通等數家銀行已封鎖AI代理連入客戶帳戶",
+    "Meta預計比一般產品更早變現，並規畫連結企業代理形成Muse網路"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Kalshi Pitches Banks on Inflation-Related Futures Market",
+   "display_title": "Kalshi據彭博新聞10月23日報導，預計12月推出追蹤CPI與核心CPI的交易所掛牌期貨，並與前巴克萊交易員阿什頓合作設計",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/economy/markets/2026/kalshi-pitches-banks-on-inflation-related-futures-market/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/economy/markets/2026/kalshi-pitches-banks-on-inflation-related-futures-market/",
+     "status": "ok",
+     "chars": 3049
+    }
+   ],
+   "date_evidence": "Sun, 25 Oct 2026 21:53:49 +0000",
+   "summary": "Kalshi據報導預計12月推出追蹤CPI與核心CPI的掛牌期貨，與前巴克萊交易員阿什頓合作設計。",
+   "core_fact": "彭博新聞10月23日報導，預測市場業者Kalshi正籌備12月推出追蹤消費者物價指數（CPI）與核心CPI（不含食品與能源）的交易所掛牌期貨，並與前巴克萊（Barclays）交易員阿什頓（Michael Ashton，綽號通膨先生，現為Enduring Investments董事總經理）合作設計合約、向大型投資機構招攬；消息人士稱這將是唯一直接連動CPI的期貨。Kalshi執行長曼蘇爾（Tarek Mansour）證實公司正在研發CPI期貨，並說美國缺乏預測通膨的好工具。",
+   "deep_facts": [
+    "阿什頓為前巴克萊交易員、現任Enduring Investments董事總經理，負責設計合約並招攬大型投資機構",
+    "Kalshi 9月獲CFTC許可上市黃金與白銀永續期貨",
+    "Kalshi與BitGo合作，讓部分客戶以符合條件的加密貨幣作為永續期貨保證金"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Revolut In Active Talks Over Philippine Digital Banking Licence",
+   "display_title": "Revolut據10月25日報導，正與菲律賓央行（Bangko Sentral ng Pilipinas）就取得當地數位銀行執照積極洽談",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/320561-revolut-in-active-talks-over-philippine-digital-banking-licence/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/320561-revolut-in-active-talks-over-philippine-digital-banking-licence/",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sun, 25 Oct 2026 19:33:23 +0000",
+   "summary": "Revolut正與菲律賓央行就數位銀行執照積極洽談，一名央行官員證實相關討論進行中。",
+   "core_fact": "Crowdfund Insider 10月25日報導，英國金融科技業者Revolut正與菲律賓央行（BSP）就取得當地數位銀行執照積極洽談，一名央行高階官員已公開證實洽談進行中。報導未揭露核發時程、資本額或申請階段等細節，因此外界目前只能確認雙方已進入實質討論，尚無法判斷何時取得執照，也無法評估Revolut在當地能經營的業務範圍。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "SoftBank-Backed OPay Seeks to Raise Up to $336M in US IPO",
+   "display_title": "OPay Limited於10月25日經報導尋求在美國首次公開募股，募資金額最高3.36億美元",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/10/320562-softbank-backed-opay-seeks-to-raise-up-to-336m-in-us-ipo/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/320562-softbank-backed-opay-seeks-to-raise-up-to-336m-in-us-ipo/",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sun, 25 Oct 2026 16:43:18 +0000",
+   "summary": "軟銀支持的OPay尋求在美國IPO募資最高3.36億美元，以支付與放款業務快速成長為訴求。",
+   "core_fact": "Crowdfund Insider 10月25日報導，受軟銀（SoftBank）支持的數位金融服務集團OPay Limited尋求在美國首次公開募股，募資金額最高3.36億美元，報導指公司以支付與放款業務的快速成長作為上市訴求。報導摘要未提供發行價、掛牌交易所或估值，因此目前能確認的事實僅限於募資上限與業務組成，後續需待公開說明書揭露的營收與用戶資料才能進一步檢視。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Plum secures FCA approval to deliver Targeted Support",
+   "display_title": "Plum於10月23日取得英國金融行為監理總署（FCA）核准，可透過投資實體Saveable Limited提供目標式支援（Targeted Support）",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111428/plum-secures-fca-approval-to-deliver-targeted-support",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/pressarticle/111428/plum-secures-fca-approval-to-deliver-targeted-support",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 23 Oct 2026 13:11:00 GMT",
+   "summary": "智慧理財App Plum獲FCA授權，可透過投資實體Saveable Limited提供目標式支援。",
+   "core_fact": "Finextra 10月23日刊出新聞稿，英國智慧理財App Plum已獲英國金融行為監理總署（FCA）授權，可透過旗下投資實體Saveable Limited提供目標式支援（Targeted Support）。新聞稿摘要僅確認授權對象與實體，並未揭露開辦日期、服務對象人數或收費方式，因此目前可確認的是Plum成為有牌照的目標式支援提供者之一，具體服務內容需待公司後續公告。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "display_title": "1Password於10月22日推出1Password for Agents，讓AI代理經用戶確認後登入帳戶而不接觸密碼",
+   "source": "TechCrunch AI",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+     "status": "ok",
+     "chars": 3485
+    }
+   ],
+   "date_evidence": "Thu, 22 Oct 2026 19:07:09 +0000",
+   "summary": "1Password推出1Password for Agents，讓AI代理經用戶確認後登入帳戶而不接觸密碼。",
+   "core_fact": "密碼管理業者1Password 10月22日推出1Password for Agents：代理嘗試登入時，會把唯一數位金鑰送至1Password確認代理身分，再通知用戶，用戶親自確認後由1Password代為填入憑證，代理全程不會取得密碼。服務可選擇Anthropic的Claude Duet、OpenAI的Dots與ChatGPT Work、Grok Bot、Meta的Muse，以及新創Town的代理，公司表示正與更多業者合作擴大。同日Axios報導美國銀行已開始偵測到客戶帳戶內的代理活動。",
+   "deep_facts": [
+    "代理登入時由唯一數位金鑰向1Password確認身分，用戶收到提醒並親自確認後才由1Password填入憑證",
+    "可選代理包含Claude Duet、Dots、ChatGPT Work、Grok Bot、Meta Muse與Town",
+    "同日Axios報導美國銀行已偵測到帳戶內的代理活動，多數銀行無法分辨是否出於用戶指示",
+    "大通發言人表示客戶不應把帳號密碼交給任何人"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "57% of Large Firms Report Bot or Agent Incidents or Losses",
+   "display_title": "PYMNTS Intelligence與Trulioo於10月25日發布調查，營收逾10億美元的企業中57.1%遭遇惡意機器人與代理事件或損失",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/57percent-of-large-firms-report-bot-or-agent-incidents-or-losses/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/57percent-of-large-firms-report-bot-or-agent-incidents-or-losses/",
+     "status": "ok",
+     "chars": 3851
+    }
+   ],
+   "date_evidence": "Sun, 25 Oct 2026 08:00:20 +0000",
+   "summary": "PYMNTS Intelligence與Trulioo調查：營收逾10億美元企業中57.1%遭遇惡意機器人與代理事件或損失。",
+   "core_fact": "PYMNTS Intelligence與身分驗證業者Trulioo合作的報告，以350名合規、風險管理與詐欺等部門主管為樣本，10月25日刊出摘要：89.5%的受訪組織認為管理機器人流量具挑戰性，52.3%表示截至2025年9月的12個月內機器人流量增加；在客戶或企業驗證程序遇到威脅的受訪者中，年營收至少10億美元的企業有57.1%回報惡意機器人與代理造成的事件或損失，營收5,000萬至2.5億美元的企業為32.4%。",
+   "deep_facts": [
+    "調查樣本為350名合規、風險管理、詐欺等部門主管",
+    "大型企業（營收至少10億美元）誤報率平均3.3%，高於中型群組的2.7%",
+    "報告提出認識你的代理（KYA）五層架構：背後主體驗證、具體權限、代理憑證、持續監控、行為檢查"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "AI要能管、值得、控得住，財政資訊中心揭稅務AI應用準則",
+   "display_title": "財政部財政資訊中心主任張文熙經iThome 10月23日報導揭示稅務AI應用準則，將資料分為4級並依級別決定AI處理環境",
+   "source": "iThome",
+   "source_tier": "T1",
+   "url": "https://www.ithome.com.tw/news/179929",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ithome.com.tw/news/179929",
+     "status": "ok",
+     "chars": 2554
+    }
+   ],
+   "date_evidence": "2026-10-23  05:10:38",
+   "summary": "財政資訊中心揭露稅務AI應用準則，資料分4級並依級別決定AI處理環境。",
+   "core_fact": "iThome 10月23日報導，財政部財政資訊中心主任張文熙在8月數位政府高峰會上，以能管、值得做、控得住三要件總結財政部規畫AI的經驗。財政部將資料分為限制級、機敏級、內部級與公開級4等：稅籍個資、國庫帳務與金融資料列為限制級，須在地端、實體隔離的模型環境處理；內部資料可採混合處理、加密傳輸與封閉式公有雲AI；法規與公開統計則可評估使用雲端AI服務。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+   "display_title": "Apex Group執行長休斯（Peter Hughes）於10月24日表示，美國參議院未能通過Clarity Act，將使數位資產業務流向亞洲與中東",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+     "status": "ok",
+     "chars": 8039
+    }
+   ],
+   "date_evidence": "Sat, 24 Oct 2026 12:00:00 +0000",
+   "summary": "Apex Group執行長稱美國Clarity Act受挫將使數位資產業務流向亞洲與中東。",
+   "core_fact": "管理資產規模逾3.5兆美元、業務遍及50個司法管轄區的Apex Group，執行長休斯10月24日接受CoinDesk訪問時表示，美國參議院9月未能凝聚通過Clarity Act所需的60票，起因為倫理條款、穩定幣收益等爭議；該法案原本要劃分證券交易委員會（SEC）與商品期貨交易委員會（CFTC）的監管權限。休斯認為，業務將轉向亞洲、中東與百慕達等制度推進較快的地區，歐盟MiCA自7月1日實施，但被他形容演進緩慢且限制較多。",
+   "deep_facts": [
+    "Clarity Act 9月在參議院未達60票門檻，爭議包含倫理條款與穩定幣收益",
+    "Apex Group服務資產逾3.5兆美元、營運涵蓋50個司法管轄區",
+    "Apex與droppRWA、Tokeny合作，自沙烏地阿拉伯起將現實世界資產轉為受監管的區塊鏈投資產品",
+    "SEC與CFTC在法案受挫後各自提出加密規則"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+   "display_title": "Stand With Crypto於10月25日公布英國5至8月90天內累計10,092筆銀行限制加密貨幣交易的客訴",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+     "status": "ok",
+     "chars": 7699
+    }
+   ],
+   "date_evidence": "Sun, 25 Oct 2026 13:00:00 +0000",
+   "summary": "英國5至8月90天內累計10,092筆銀行限制加密貨幣交易的客訴，Lloyds最多。",
+   "core_fact": "倡議團體Stand With Crypto（SWC）公布，英國5至8月的90天內，9,800名用戶透過線上工具提交10,092筆有關銀行限制加密貨幣購買的客訴，涵蓋全部650個國會選區；Lloyds Banking Group最多，共2,297筆（約23%），其次為巴克萊（Barclays）1,569筆與NatWest Group 1,278筆。數據為自願提交，未依各行市占調整，也不代表所有客戶。",
+   "deep_facts": [
+    "10,092筆客訴來自9,800名用戶，涵蓋英國全部650個國會選區",
+    "Lloyds最多（2,297筆，約23%），Barclays 1,569筆，NatWest 1,278筆",
+    "巴克萊限制加密轉帳單筆2,500英鎊、30天內10,000英鎊",
+    "英國加密資產企業協會：轉入FCA註冊交易所的轉帳40%被阻擋或延遲"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+   "display_title": "拉脫維亞經濟部長瓦萊尼斯（Viktors Valainis）於10月25日表示，資產代幣化規則最快2027年上半年完成，商用不動產為可能起點",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+     "status": "ok",
+     "chars": 6907
+    }
+   ],
+   "date_evidence": "Sun, 25 Oct 2026 15:00:00 +0000",
+   "summary": "拉脫維亞經濟部長稱代幣化規則最快2027上半年完成，商用不動產為可能起點。",
+   "core_fact": "拉脫維亞經濟部長瓦萊尼斯10月25日在里加UN:BLOCK會議場邊接受CoinDesk訪問時表示，若一切順利，資產代幣化規則最快將在2027年上半年完成，商用不動產是可能起點，政府公債也列在優先清單；但政府行動計畫要求經濟部在10月1日前完成的法律修訂評估仍在進行，且他所屬政黨在本月選舉未獲席次，新政府組成後工作將由下一屆政府承接。",
+   "deep_facts": []
+  }
+ ]
+}
