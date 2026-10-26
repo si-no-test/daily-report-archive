@@ -1,0 +1,42 @@
+[
+ {
+  "name": "花旗集團",
+  "url": "https://www.citigroup.com",
+  "intro": "美國大型跨國銀行集團，提供零售、財富管理、機構金融與支付服務。"
+ },
+ {
+  "name": "摩根士丹利",
+  "url": "https://www.morganstanley.com",
+  "intro": "美國大型投資銀行與財富管理業者，財富管理業務規模居全球前列。"
+ },
+ {
+  "name": "Revolut",
+  "url": "https://www.revolut.com",
+  "intro": "總部位於英國的數位銀行與金融科技公司，提供帳戶、支付、換匯與放款等服務。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "開發ChatGPT與GPT系列模型的美國人工智慧公司。"
+ },
+ {
+  "name": "馬亨達科技",
+  "url": "https://www.techmahindra.com",
+  "intro": "印度跨國資訊科技與數位轉型服務公司，Mahindra集團旗下子公司。"
+ },
+ {
+  "name": "Ripple",
+  "url": "https://ripple.com",
+  "intro": "區塊鏈支付與數位資產基礎設施公司，支持XRP Ledger生態。"
+ },
+ {
+  "name": "美國貨幣監理署",
+  "url": "https://www.occ.gov",
+  "intro": "美國財政部下轄的獨立機關，監理國家銀行、聯邦儲蓄機構與外國銀行聯邦分行。"
+ },
+ {
+  "name": "英傑華投資",
+  "url": "https://www.avivainvestors.com",
+  "intro": "英國英傑華集團旗下的資產管理公司。"
+ }
+]

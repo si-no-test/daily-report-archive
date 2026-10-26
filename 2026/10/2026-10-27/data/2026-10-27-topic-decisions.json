@@ -1,0 +1,25 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "us-genius-act-stablecoin-rules",
+  "headline": "OCC於10月26日呼籲社區銀行申請成為GENIUS Act許可的穩定幣發行人",
+  "one_line_update": "10月26日：OCC呼籲社區銀行直接或透過子公司申請成為許可穩定幣發行人，重申2027年1月18日起須遵守最終規則，該日前提交大致完整申請者可申請暫時豁免，申請程序待聯邦文書核准後開放。",
+  "source_title": "OCC calls on community banks to enter the stablecoin payments market",
+  "source_url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market"
+ },
+ {
+  "action": "skip"
+ }
+]

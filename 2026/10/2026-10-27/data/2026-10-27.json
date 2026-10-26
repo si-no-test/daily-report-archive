@@ -1,0 +1,302 @@
+{
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T07:15:25.338148+08:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Fed loses debit card cap appeal",
+   "display_title": "美國第八巡迴上訴法院（Eighth Circuit）於10月26日裁定撤銷聯準會借記卡21美分交換費上限，維持去年地方法院判決",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/fed-loses-debit-card-cap-appeal/872785/",
+     "status": "ok",
+     "chars": 5555
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 16:08:00 -0400",
+   "summary": "聯邦上訴法院撤銷聯準會借記卡交換費上限。",
+   "core_fact": "美國聯邦第八巡迴上訴法院三名法官於10月26日（週一）判決，聯準會理事會在Regulation II訂定的借記卡交換費上限不符國會於2010年通過杜賓修正案的原意，裁定撤銷現行規則。該上限自2011年起為每筆21美分加交易金額0.05%，另可加1美分防詐加成，只適用存款達100億美元以上的銀行。判決指出，聯準會把授權、清算與結算的固定成本以及詐欺損失都納入上限，但法律只要求考慮與單筆交易相關的邊際成本；法院同時表示聯準會可用平均變動成本等合理替代指標，並批評不能「隨便挑個數字」。本案源自2021年4月North Dakota一家卡車休息站Corner Post的訴訟，地方法院法官於2025年8月先行推翻規則，聯準會對判決不予評論，也未說明2023年10月提出、擬把基本費率調降約30%至14.4美分的修正案進度。",
+   "deep_facts": [
+    "判決指聯準會可用平均變動成本等合理代理指標，只要與邊際成本有合理關係",
+    "聯準會2023年10月提案擬把基本費率調降約30%至14.4美分，之後未再推進",
+    "訴訟由Corner Post於2021年4月提起，地方法院2025年8月先行推翻規則，另有第六巡迴法院Linney's Pizza案"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Citi targets deeper client ties with savings rate boost",
+   "display_title": "花旗集團（Citigroup）於10月26日啟動Premium Boost儲蓄利率方案，花旗金私人客戶年利率達4.35%",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/citi-premium-boost-retail-bank-rate-customer-relationships/872758/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/citi-premium-boost-retail-bank-rate-customer-relationships/872758/",
+     "status": "ok",
+     "chars": 4184
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 11:15:02 -0400",
+   "summary": "花旗啟動Premium Boost儲蓄利率方案。",
+   "core_fact": "花旗集團於10月26日（週一）正式啟動9月24日宣布的Premium Boost方案，對同時在花旗開立支票帳戶、有一定薪轉金額或維持投資帳戶平均餘額的客戶，提供較高的儲蓄利率：花旗金私人客戶（Citigold Private Client）年利率4.35%、花旗金客戶4%、Citi Priority客戶3.5%，三個層級對應合計月均餘額3萬美元至100萬美元以上。花旗零售銀行主管Kate Luft表示，花旗資產規模2.6兆美元，希望把客戶存放在行外約3兆美元資產中的更大比重帶回；零售銀行約有400萬客戶，花旗國內存款約9,009億美元、約占全美存款市場4.7%（聯邦存款保險公司6月30日資料）。第三季財富部門平均存款成長3%，淨新增投資資產380億美元，花旗金與零售銀行營收成長16%至約23億美元。",
+   "deep_facts": [
+    "三級年利率4.35%／4%／3.5%，對應月均合計餘額3萬美元至100萬美元以上",
+    "花旗稱客戶約3兆美元資產在行外，第三季財富部門淨新增投資資產380億美元",
+    "小企業銀行改版預計2027年下半年推出"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Tech Mahindra Acquires Finastra’s Cash Management Product Suite",
+   "display_title": "馬亨達科技（Tech Mahindra）於10月26日宣布收購芬納斯特拉（Finastra）現金管理產品組合，涵蓋3項Fusion產品",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/tech-mahindra-acquires-finastras-cash-management-product-suite/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/tech-mahindra-acquires-finastras-cash-management-product-suite/",
+     "status": "ok",
+     "chars": 3792
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 18:33:13 +0000",
+   "summary": "馬亨達科技收購Finastra現金管理產品組合。",
+   "core_fact": "印度科技服務公司馬亨達科技於10月26日宣布收購軟體業者Finastra的現金管理產品組合，包含Fusion Cash Management、Fusion Virtual Accounts與Fusion Liquidity Management三項產品，並一併取得CashPlus、Global CashPlus、應付應收、餘額與交易報表、現金流預測與虛擬帳戶等能力的智財權與API。馬亨達科技承諾持續投資並支援既有客戶。Finastra成立於2017年，由Misys與D+H合併而成，服務7,000家客戶，其中包含全球前50大銀行的80%；公司去年任命Chris Walters為執行長，並於約18個月前把資本市場與財資業務出售給私募股權Apax Partners的關係企業，交易金額未揭露。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Revolut launches personal loans in the UK",
+   "display_title": "Revolut於10月26日在英國推出個人貸款產品，向高街銀行的零售放款市場再進一步",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48647/revolut-launches-personal-loans-in-the-uk",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48647/revolut-launches-personal-loans-in-the-uk",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://help.revolut.com/help/credit-products/loans/applying-for-a-personal-loan/",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 14:38:00 GMT",
+   "summary": "Revolut在英國推出個人貸款產品。",
+   "core_fact": "Finextra於10月26日報導，Revolut在英國推出個人貸款產品，加強對高街銀行的挑戰。依Revolut英國說明頁，這項無擔保個人貸款額度為2,000至25,000英鎊、期間1至5年，申請人須年收入逾12,000英鎊且帳戶開立超過30天，並說明貸款仍在逐步開放給既有客戶，各客戶可用時間不同。本案報導對利率、批核機制與客戶數沒有進一步揭露，因此本文不引用未經證實的數字。與2022年Revolut與Cross River在美國合作貸款相比，這是它在英國本土零售放款的又一步，顯示放款正成為這類數位銀行拓展收入來源的重點。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Nevis raises $70m for wealth management AI operating system",
+   "display_title": "Nevis於10月26日宣布完成7,000萬美元B輪募資，打造財富管理AI作業系統",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48649/nevis-raises-70m-for-wealth-management-ai-operating-system",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48649/nevis-raises-70m-for-wealth-management-ai-operating-system",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 17:19:00 GMT",
+   "summary": "Nevis完成7,000萬美元B輪募資。",
+   "core_fact": "Finextra於10月26日報導，由前Revolut高階主管創立的新創Nevis完成7,000萬美元B輪募資，由EQT Ventures領投，資金將用於打造財富管理業者使用的AI作業系統。報導未揭露估值、投資人名單細節與客戶數，因此本文僅依已公開事實撰寫：募資輪次為B輪、金額7,000萬美元、領投機構為EQT Ventures。同日Banking Dive報導的摩根士丹利財富管理AI藍圖與本案同屬財富管理AI化趨勢，兩者顯示大型銀行自建與新創提供平台兩條路線並行。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "A look inside the AI playbook at Morgan Stanley’s wealth division",
+   "display_title": "摩根士丹利（Morgan Stanley）於10月26日經Banking Dive報導揭露財富管理AI藍圖，已推出客戶助理與服務助理兩類代理",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/morgan-stanley-wealth-division-ai-playbook/872746/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/morgan-stanley-wealth-division-ai-playbook/872746/",
+     "status": "ok",
+     "chars": 3998
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 07:00:00 -0400",
+   "summary": "摩根士丹利財富管理AI代理藍圖。",
+   "core_fact": "摩根士丹利財富管理科技長Hina Shamsi接受CIO Dive訪問，Banking Dive於10月26日報導其AI進程：財富管理部門的AI已由協助單一任務的對話工具，演進為能跨企業平台管理工作流程的協調式系統。約八年前，該部門把資料觀點由「以帳戶為中心」改為「以整體客戶關係為中心」，才得以做出給顧問的下一步最佳行動（next-best-action）等機器學習能力，目前正建立生成式AI與代理能理解的語意層。三大重點是客戶互動、服務與顧問輔助代理：客戶助理讓客戶以白話詢問並完成常見任務，是第一版；服務助理協助客服人員查詢資訊並執行匯款、開戶與變更受益人；顧問助理替顧問處理日常事務。Shamsi強調代理不得享有無限自主權，須有明確邊界、權限、監控與人工介入。",
+   "deep_facts": [
+    "約八年前由帳戶中心改為整體客戶關係中心的資料觀點",
+    "服務助理可執行匯款、開戶與變更受益人",
+    "代理須有明確邊界、權限、監控與人工介入"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "First Internet Bank Bets AI Means More Loans, Not Fewer People",
+   "display_title": "第一網路銀行（First Internet Bank of Indiana）於10月26日經個案研究公布，以AI代理把SBA貸款合規審查時間縮短87%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/banking/2026/first-internet-bank-bets-ai-means-more-loans-not-fewer-people/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/banking/2026/first-internet-bank-bets-ai-means-more-loans-not-fewer-people/",
+     "status": "ok",
+     "chars": 4445
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 22:38:56 +0000",
+   "summary": "第一網路銀行以AI代理縮短SBA貸款合規審查。",
+   "core_fact": "PYMNTS於10月26日報導，AI合規公司Bretton AI的個案研究顯示，資產約60億美元的第一網路銀行（First Internet Bank of Indiana）導入AI代理後，美國小型企業管理局（SBA）貸款申請的合規審查時間縮短87%，由過去8至10小時降到不到1小時。四條合規流程（SBA撥貸、加強盡職調查、詐欺審查、定期客戶審查）估計每年節省24,300個員工工時，約等於12名全職人員；代理負責查詢公司登記資料、辨識實質受益人、比對制裁名單與詐欺指標並彙整成報告，再由分析師審閱並處理需判斷的案件。執行長David Becker對SBA經理表示「我要你做兩倍的業務」，該行2024年SBA 7(a)計畫撥貸6.1億美元，較前一年成長44%，已名列7(a)前十大放款機構。",
+   "deep_facts": [
+    "四條合規流程每年估計節省24,300工時，約12名全職人員",
+    "2024年SBA 7(a)撥貸6.1億美元、成長44%",
+    "Customers Bank試點把部分商業貸款結案由30至60天縮為7天"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Banks Narrow Fraud Technology Divide but Deliver Uneven Results",
+   "display_title": "PYMNTS Intelligence於10月26日報導銀行詐欺防制調查，區域與社區銀行AI採用率由77%升至96%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-narrow-fraud-technology-divide-but-deliver-uneven-results/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-narrow-fraud-technology-divide-but-deliver-uneven-results/",
+     "status": "ok",
+     "chars": 4726
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 21:59:35 +0000",
+   "summary": "區域與社區銀行防詐AI採用率升至96%。",
+   "core_fact": "PYMNTS於10月26日刊出PYMNTS Intelligence調查分析，依9月報告《Scams Get Personal》研究，區域與社區銀行及信用合作社使用行為分析的比例由2025年74%升至2026年100%，使用機器學習與AI的比例由77%升至96%，大型銀行兩年都是100%。客戶被詐騙者操控而付款的「客戶操縱型詐欺」占詐欺金額22.4%，高於2025年的12%；新創銀行與金融科技公司的詐欺損失率下降，但估計損失金額與防制支出大幅上升。另一份10月調查（150位跨七個產業的主管）顯示，即時驗證帳戶歸屬的企業有60%在數分鐘內發現疑似詐欺，未驗證者為38%；71%的企業指出人工審查瓶頸是誤拒交易或延遲的主因。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation",
+   "display_title": "OpenAI於10月26日推出GPT-6.1 Terra模型，API價格較GPT-5.6 Terra與GPT-6.1 Sol低50%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-unveils-half-price-ai-model-to-target-enterprise-automation/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-unveils-half-price-ai-model-to-target-enterprise-automation/",
+     "status": "ok",
+     "chars": 2900
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 22:59:27 +0000",
+   "summary": "OpenAI推出API價格減半的GPT-6.1 Terra。",
+   "core_fact": "PYMNTS於10月26日報導，OpenAI發布GPT-6.1 Terra，新模型相較GPT-5.6 Terra「顯著進步」，標準API價格比GPT-5.6 Terra與GPT-6.1 Sol低50%，適合讀取發票並輸入會計軟體等大量作業，也可處理草擬提案、解讀技術圖面、填寫表單與影片剪輯。新模型當日開放給ChatGPT Work與Codex的Plus、Pro、Enterprise與Edu用戶及API開發者。Bloomberg於10月9日報導，OpenAI年化營收預計年底至少達700億美元，高於9月底的500億美元，企業業務是主要動能；OpenAI並於7月將GPT-5.6 Luna降價80%、GPT-5.6 Terra降價20%。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "OCC calls on community banks to enter the stablecoin payments market",
+   "display_title": "美國貨幣監理署（OCC）於10月26日呼籲社區銀行申請成為GENIUS Act許可的穩定幣發行人，合規期限為2027年1月18日",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+     "status": "ok",
+     "chars": 5296
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 15:45:51 +0000",
+   "summary": "OCC呼籲社區銀行申請成為穩定幣發行人。",
+   "core_fact": "美國貨幣監理署（OCC）於10月26日（週一）呼籲社區銀行進入穩定幣市場，包括直接或透過子公司申請成為GENIUS Act下的許可穩定幣發行人，並稱此舉與「社區銀行東山再起」計畫（Community Bank Comeback）調整監管負擔的方向一致。OCC在10月21日公告中說明，發行人須自2027年1月18日起遵守最終規則並取得聯邦核准；該日前提交「大致完整」申請的既有發行人可申請暫時豁免，OCC原則上預期在適當時核准。OCC尚未開始受理申請，須待所需聯邦文書核准程序完成。同時，銀行團體持續遊說限制穩定幣收益，擔心付息代幣吸走存款；獨立社區銀行協會（ICBA）已就OCC核發國家信託銀行牌照給加密業者一事提告，參議員Elizabeth Warren也要求OCC說明為何核准九家加密相關機構。",
+   "deep_facts": [
+    "2027年1月18日前提交大致完整申請的既有發行人可申請暫時豁免",
+    "OCC尚未開始受理申請，待聯邦文書核准程序完成",
+    "ICBA已提告OCC核發加密業者國家信託牌照，Warren要求說明九家機構"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+   "display_title": "加拿大政府（Government of Canada）於10月26日啟動穩定幣草案規則60天諮詢，維持收益給付禁令並將諮詢期訂至12月23日",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+     "status": "ok",
+     "chars": 5502
+    },
+    {
+     "url": "https://www.pymnts.com/cryptocurrency/2026/canada-draft-stablecoin-rules-uphold-ban-yield-payments/",
+     "status": "ok",
+     "chars": 3105
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 14:23:41 +0000",
+   "summary": "加拿大啟動穩定幣草案規則諮詢。",
+   "core_fact": "加拿大政府於10月26日公布穩定幣法（Stablecoin Act）配套草案規則並展開60天公眾諮詢，期限至12月23日。草案要求非銀行發行人持有與流通代幣等值的準備金，且須存放在銀行、信用合作社與信託公司等合格加拿大金融機構；客戶須能在3個工作日內贖回，贖回費上限1%；禁止發行人直接或透過第三方給付利息，但允許與交易連動的獎勵；規則預計於2027年底生效，發行人須向加拿大銀行（Bank of Canada）登記。加拿大銀行家協會（CBA）支持禁止收益，但Coinbase Canada今年已獲安大略證券委員會許可，在揭露風險且無存款保險保障的條件下提供收益；加拿大六大銀行上月表示正研究加幣代幣化系統，金融監理機關OSFI於9月10日指出代幣化存款在法律上與傳統存款無區別。",
+   "deep_facts": [
+    "諮詢期至12月23日，贖回3個工作日內、費用上限1%",
+    "規則預計2027年底生效，發行人向加拿大銀行登記",
+    "Coinbase Canada獲安大略證券委員會許可提供收益，OSFI於9月10日稱代幣化存款與傳統存款無法律區別"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+   "display_title": "英傑華投資（Aviva Investors）於10月26日與Ripple推出290億美元英鎊流動性基金的代幣化份額，部署於XRP Ledger",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger",
+     "status": "fail",
+     "chars": 79
+    }
+   ],
+   "date_evidence": "Mon, 26 Oct 2026 11:34:12 +0000",
+   "summary": "英傑華投資在XRP Ledger推出英鎊流動性基金代幣化份額。",
+   "core_fact": "The Block與Cointelegraph於10月26日報導，英國資產管理公司英傑華投資（Aviva Investors）與Ripple合作，推出旗下英鎊流動性基金（Sterling Liquidity Fund）的代幣化份額類別，部署於Ripple支持的XRP Ledger；該基金規模約290億美元。Cointelegraph指出，這是英傑華第二檔列出代幣化份額的基金，屬雙方更廣泛合作的一部分，目標是把更多代幣化基金帶上XRP Ledger。本文僅採用兩家媒體標題與摘要可確認的資訊，兩篇原文因網站限制無法完整取得，認購門檻、託管安排與發行時程等細節均未能確認，不予推測。",
+   "deep_facts": []
+  }
+ ]
+}
