@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-28",
+  "archived_at": "2026-10-27T23:16:00Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "f381275aa6046a1014717087384d63976ef8509a",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 736429,
+  "files": [
+    {
+      "path": "data/2026-10-28-candidates.txt",
+      "bytes": 65028,
+      "sha256": "d9bc5372beb41607c28c1d909afd0308ac22657a6e4c9c037a03a45b385f20b1"
+    },
+    {
+      "path": "data/2026-10-28-glossary.json",
+      "bytes": 1737,
+      "sha256": "ef7bf86f05f75900001162c66c914e01646928d5fe5bf4b76a0f8d5b8aa914ad"
+    },
+    {
+      "path": "data/2026-10-28-manifest.txt",
+      "bytes": 3460,
+      "sha256": "2b3767c72a402173fbd33d5eb7425ebd40abe2fab0ba1e8c7d3093d969bf129a"
+    },
+    {
+      "path": "data/2026-10-28-orgs.json",
+      "bytes": 2395,
+      "sha256": "525913f3fef3cf1743a82558fe028cf72d103a261c45a376b0af145ec6cdc85c"
+    },
+    {
+      "path": "data/2026-10-28-topic-cases.json",
+      "bytes": 2910,
+      "sha256": "53bf6f8757121e1f931af535670ad11671db87862af167c19faf51e2573f8724"
+    },
+    {
+      "path": "data/2026-10-28-topic-decisions.json",
+      "bytes": 1464,
+      "sha256": "fd1863d6754a47585a380178df4a77ff42fecd4a9a8f2dff629099c59dd197a7"
+    },
+    {
+      "path": "data/2026-10-28.json",
+      "bytes": 20834,
+      "sha256": "38e576b3b11b82594f6fd274edaad8012ae7fad119847b376f04b44b05935cc6"
+    },
+    {
+      "path": "outbox/2026-10-28-archive.html",
+      "bytes": 108577,
+      "sha256": "5b2b3de10f94f2bb3025d15747f4c53dfc0d5c01aba006de14ebdefb9e607495"
+    },
+    {
+      "path": "outbox/2026-10-28-email.html",
+      "bytes": 10225,
+      "sha256": "5d9b5eca61ca82f1948985cbb4f847354645d97606a02a11c68e2bb9d98226d0"
+    },
+    {
+      "path": "published/2026-10-28.html",
+      "bytes": 555,
+      "sha256": "5ac0da05e656318c2b921082897b3efbeada6dcc2bc8e30a27fb0fd412a3fc35"
+    },
+    {
+      "path": "published/2026-10-28/ai.html",
+      "bytes": 47800,
+      "sha256": "8618c3d77622a3e10d7beff0329f083aa77053159c6b075fcdfa26644e62e98c"
+    },
+    {
+      "path": "published/2026-10-28/blockchain.html",
+      "bytes": 43684,
+      "sha256": "7e62233c267e370fc77d318b35122327ada2ba2c833d18878ca5f0156974b120"
+    },
+    {
+      "path": "published/2026-10-28/index.html",
+      "bytes": 24901,
+      "sha256": "81dea78c3ac4bf001bbeeb6e3a28824e00a0aa37f92a49646dc9ce25431c396f"
+    },
+    {
+      "path": "published/2026-10-28/innovation.html",
+      "bytes": 52765,
+      "sha256": "9d526b18e7796c558dd6c604c5accfe9a189c830f1792d72a146ba2b235feae0"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 299930,
+      "sha256": "74f7b86d6b331fb40f8fc6637b5dcf6f4dfb41a167f4fd22d63d9601f1b980b0"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "0453c637e18ecccb085c83afcb9f8189646cbe39d3d816f96f38fa795db23c5c"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "5ac0da05e656318c2b921082897b3efbeada6dcc2bc8e30a27fb0fd412a3fc35"
+    },
+    {
+      "path": "published/topics/ai-datacenter-circular-financing-risk.html",
+      "bytes": 4712,
+      "sha256": "7fcc145d4a7976f608be444ae65fbaad11ffe58ccef118017e6f56793ae5d557"
+    },
+    {
+      "path": "published/topics/ripple-rlusd-enterprise-treasury-expansion.html",
+      "bytes": 3258,
+      "sha256": "81f56ef8cecb132a312ebfeb6954a7788989195172914e2c0f8866d70d61c980"
+    },
+    {
+      "path": "source/2026-10-28-report.txt",
+      "bytes": 38845,
+      "sha256": "3c3d54744301bd00025e5811f059bf0d49b6b2e14e06228dda42b69409185b2b"
+    },
+    {
+      "path": "source/2026-10-28-summary.txt",
+      "bytes": 2002,
+      "sha256": "261e4614420011f51821b9387899c30af20b2bcb78d0a7977d6ec0f8bbe1c1c5"
+    }
+  ]
+}

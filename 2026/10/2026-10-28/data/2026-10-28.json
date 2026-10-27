@@ -1,0 +1,296 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-10-27T23:15:20.958845+00:00",
+ "counts": {
+  "ai": 5,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "PayPal於10月27日公布第三季財報，Venmo簽帳金融卡月活躍帳戶成長約55%至670萬個",
+   "display_title": "PayPal於10月27日公布第三季財報，Venmo簽帳金融卡月活躍帳戶成長約55%至670萬個",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/venmo-results-lift-paypal/872889/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/venmo-results-lift-paypal/872889/",
+     "status": "ok",
+     "chars": 6391
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 10:51:00 -0400",
+   "summary": "PayPal第三季財報顯示Venmo交易量中十位數成長，簽帳金融卡月活躍帳戶成長約55%。",
+   "core_fact": "PayPal Holdings於10月27日公布第三季財報，Venmo交易量呈中十位數百分比成長，帶動整體表現，傳統PayPal結帳品牌則維持單位數成長，近四季成長率約1%至2%。Venmo簽帳金融卡月活躍帳戶成長約55%至670萬個，其中160萬人是當季首度使用；今年3月上任的執行長Enrique Lores表示，公司已裁撤約2,000個職位，並導入更多AI工具自動化部分營運。",
+   "deep_facts": [
+    "Venmo簽帳金融卡月活躍帳戶約增55%至670萬，其中160萬人為當季首次使用",
+    "公司已裁撤約2,000個職位並導入AI工具自動化營運",
+    "公司7月據報拒絕了由Advent支持的Stripe收購報價，股價五年來下跌76%",
+    "Venmo信用卡10月初改版回饋，特定餐飲與娛樂消費最高4%現金回饋"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "皮耶蒙銀行（Piermont Bank）執行長Wendy Cai-Lee於10月Money20/20大會表示，將以5.05億美元資產規模續推嵌入式銀行，並對新特許業者能否通過檢查保持觀望",
+   "display_title": "皮耶蒙銀行（Piermont Bank）執行長Wendy Cai-Lee於10月Money20/20大會表示，將以5.05億美元資產規模續推嵌入式銀行，並對新特許業者能否通過檢查保持觀望",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/piermont-bank-ceo-fintech-clients-embedded-banking/872895/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/piermont-bank-ceo-fintech-clients-embedded-banking/872895/",
+     "status": "ok",
+     "chars": 5507
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 11:49:58 -0400",
+   "summary": "Piermont執行長談金融科技客戶管理紀律，並觀察新特許業者能否通過銀行檢查。",
+   "core_fact": "紐約數位商業放款銀行皮耶蒙銀行（Piermont Bank）創辦人兼執行長Wendy Cai-Lee在10月的Money20/20大會受訪時表示，該行資產規模約5.05億美元，目標成為完整的全通路嵌入式銀行業者，業務涵蓋「為受益人設立」帳戶、發卡與嵌入式放款。該行成立於2019年，今年上半年虧損500萬美元，2025年與2024年分別虧損460萬與530萬美元，並於2024年因銀行即服務缺失與FDIC簽署同意令。上週該行宣布與BlxckPay、MassPay兩家金融科技合作。",
+   "deep_facts": [
+    "資產規模約5.05億美元，成立於2019年",
+    "2024年與FDIC簽署同意令，今年上半年虧損500萬美元",
+    "上週宣布與BlxckPay（雇主帳戶連員工薪資卡）、MassPay（支付軌道與全球出款）合作",
+    "曾合作的金融科技Parker今年聲請破產，Piermont負責其銀行產品"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Revolut於10月27日經英國《金融時報》報導，遭英格蘭銀行下令檢視其新產品核准流程",
+   "display_title": "Revolut於10月27日經英國《金融時報》報導，遭英格蘭銀行下令檢視其新產品核准流程",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48653/bank-of-england-orders-review-of-revolut-product-approvals---ft",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 27 Oct 2026 13:44:00 GMT",
+   "summary": "英格蘭銀行已啟動對Revolut產品核准流程運作方式的檢視，消息來自金融時報。",
+   "core_fact": "Finextra於10月27日轉述英國《金融時報》報導，指英格蘭銀行已啟動檢視，範圍是Revolut內部如何核准新產品上線。目前可確認的公開資訊僅限於檢視啟動這項事實與消息來源是《金融時報》，檢視期程、是否涉及裁罰或限制新產品，報導摘要均未說明，因此本案不推論任何後續結果，只就制度面做分析。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "威士（Visa）與萬事達卡（Mastercard）於10月27日經報導面臨兩起擬提起的英國集體訴訟，主張消費者卡片費用違法並求償數十億英鎊",
+   "display_title": "威士（Visa）與萬事達卡（Mastercard）於10月27日經報導面臨兩起擬提起的英國集體訴訟，主張消費者卡片費用違法並求償數十億英鎊",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48657/visa-and-mastercard-face-potential-uk-suit-over-card-fees",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 27 Oct 2026 19:14:00 GMT",
+   "summary": "Visa與Mastercard面臨兩起擬提起的英國集體訴訟，涉及消費者卡片費用，求償達數十億英鎊。",
+   "core_fact": "Finextra於10月27日報導，威士（Visa）與萬事達卡（Mastercard）面臨兩起擬提起的英國集體訴訟，原告主張消費者卡片費用不合法，求償金額達數十億英鎊。報導摘要未提供訴訟主體、法院審理時程與訴訟標的期間，因此本案僅就兩起擬訴訟、求償規模為數十億英鎊這兩項已公開事實進行分析，不預測訴訟結果。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Zafin於10月27日宣布收購Naehas，擴充AI銀行與合規平台",
+   "display_title": "Zafin於10月27日宣布收購Naehas，擴充AI銀行與合規平台",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48654/zafin-to-buy-naehas-to-expand-ai-powered-banking-and-compliance-platform",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 27 Oct 2026 14:34:00 GMT",
+   "summary": "Zafin將收購Naehas，擴充AI銀行與合規平台，補強優惠管理與揭露自動化能力。",
+   "core_fact": "總部位於多倫多、為受監管機構（如銀行）提供AI平台的Zafin，於10月27日宣布簽約收購Naehas，後者提供優惠管理、揭露自動化與行銷合規技術。報導摘要未揭露交易金額與完成時程，因此本案不討論估值，僅就併購標的的能力補強與對銀行採購模式的影響進行分析。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "博通（Broadcom）於10月26日與美國銀行、花旗集團、摩根士丹利及黑石集團宣布630億美元融資，供Anthropic擴充AI算力",
+   "display_title": "博通（Broadcom）於10月26日與美國銀行、花旗集團、摩根士丹利及黑石集團宣布630億美元融資，供Anthropic擴充AI算力",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/banks-structure-63-billion-anthropic-ai-financing-deepening-exposure-to-ai-infrastructure/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/banks-structure-63-billion-anthropic-ai-financing-deepening-exposure-to-ai-infrastructure/",
+     "status": "ok",
+     "chars": 3824
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 19:23:54 +0000",
+   "summary": "美國銀行、花旗、摩根士丹利與黑石合計承諾630億美元，經特殊目的公司購買博通AI設備並出租給Anthropic。",
+   "core_fact": "美國銀行（Bank of America）、花旗集團（Citigroup）、摩根士丹利（Morgan Stanley）與黑石集團（Blackstone）與博通（Broadcom）於10月26日宣布630億美元融資方案：四家金融機構向新成立的特殊目的公司（SPV）出資，由SPV購買博通的AI加速器與網路設備，再出租給Anthropic，設備預計2027年交付。三家銀行負責安排主要融資，黑石提供額外融資，博通則協助保護貸款人免於設備價值下跌的損失；630億美元是承諾融資額，並非設備交付價值。",
+   "deep_facts": [
+    "SPV購買博通AI加速器與網路設備，出租給Anthropic，預計2027年交付",
+    "三家銀行負責安排主要融資，黑石提供額外融資，博通協助保護貸款人免於設備價值損失",
+    "630億美元為承諾融資額，並非設備交付價值",
+    "Anthropic今年2月完成300億美元G輪，5月完成650億美元H輪"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "美國銀行（Bank of America）於10月27日以電子郵件提醒客戶，勿把網銀帳密交給AI助理，否則須自負交易責任",
+   "display_title": "美國銀行（Bank of America）於10月27日以電子郵件提醒客戶，勿把網銀帳密交給AI助理，否則須自負交易責任",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+     "status": "ok",
+     "chars": 3021
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 21:44:34 +0000",
+   "summary": "美國銀行提醒客戶不要把網銀帳密交給AI助理，並強調客戶須為相關活動負責。",
+   "core_fact": "美國銀行（Bank of America）在標題為「在AI世界中保護您的財務」的客戶電子郵件中，要求客戶不要把帳號與密碼交給任何外部人士或服務，包括聲稱可代為操作的AI工具或代理，並提醒「若您分享帳密，須為相關活動負責」。TechCrunch指出，客戶正越來越常把登入資訊交給個人AI助理，風險包括代理在客戶不知情下動用資金、被銀行判定為盜用而鎖帳，以及AI助理本身的漏洞造成帳密外洩。",
+   "deep_facts": [
+    "電子郵件標題為「Protecting your finances in the AI World」",
+    "信中提醒若客戶分享帳密，須為相關活動負責",
+    "風險包括代理在客戶不知情下動用資金、被誤判為盜用而鎖帳、AI助理漏洞導致帳密外洩",
+    "銀行與支付業者仍在研究如何讓客戶透過AI工具安全存取帳戶"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Socure於10月27日推出Agent Intelligence，可辨識AI代理並連結至已驗證的真人或企業",
+   "display_title": "Socure於10月27日推出Agent Intelligence，可辨識AI代理並連結至已驗證的真人或企業",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/socure-launches-tools-to-determine-ai-agents-trustworthiness/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/socure-launches-tools-to-determine-ai-agents-trustworthiness/",
+     "status": "ok",
+     "chars": 3019
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 19:07:25 +0000",
+   "summary": "Socure推出Agent Intelligence，辨識AI代理、評估可信度並連結真人或企業。",
+   "core_fact": "身分與風險情報業者Socure於10月27日推出Agent Intelligence，功能是偵測AI代理、評分其是否可信，並把每個代理連結到已驗證的真人或企業。控制環境實驗中，Muse與Instinct等已命名的消費者代理被辨識的準確率為99.99%；評分涵蓋身分、授權與風險三項，各項分數分別回傳，客戶可依場景選擇採用的屬性。另依PYMNTS Intelligence調查，近九成組織將機器人管理列為挑戰，52%表示到2025年9月止的12個月內機器人流量上升。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "PNC金融服務集團（PNC）執行長Bill Demchak於10月Money20/20大會期間表示，AI投資將花費數億美元、每年省下數十億美元",
+   "display_title": "PNC金融服務集團（PNC）執行長Bill Demchak於10月Money20/20大會期間表示，AI投資將花費數億美元、每年省下數十億美元",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/pnc-ceo-ai-will-change-ma-landscape/872898/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/pnc-ceo-ai-will-change-ma-landscape/872898/",
+     "status": "ok",
+     "chars": 3592
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 12:28:06 -0400",
+   "summary": "PNC執行長表示AI投資將花數億美元每年省數十億美元，並預期AI轉型帶動小型銀行併購。",
+   "core_fact": "PNC金融服務集團（PNC）執行長Bill Demchak在10月的Money20/20大會期間接受採訪時表示，PNC希望擁有自己的算力與資料，AI計畫將「花數億美元、每年省下數十億美元」，並認為未來數年AI轉型會引發多起併購，尤其是缺乏資金的小型銀行。他預期AI將在三年內出現有意義的進展，並將在此之前公布路線圖；他同時強調AI流程中人類永遠在迴圈中，離岸外包承包商會因此減少，但不影響美國員工。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Raise於10月27日經詐欺防制平台Sardine個案研究公布，人工詐欺審核比例由最高18%降至0.25%，退單率降45%",
+   "display_title": "Raise於10月27日經詐欺防制平台Sardine個案研究公布，人工詐欺審核比例由最高18%降至0.25%，退單率降45%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/raise-cuts-chargebacks-45-and-nearly-ends-manual-fraud-reviews/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/raise-cuts-chargebacks-45-and-nearly-ends-manual-fraud-reviews/",
+     "status": "ok",
+     "chars": 4758
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 22:12:05 +0000",
+   "summary": "禮物卡交易所Raise退單率降45%，人工詐欺審核比例由最高18%降至0.25%。",
+   "core_fact": "禮物卡交易所Raise的退單率從0.53%降至0.29%，降幅45%，需人工審核的訂單比例從最高18%降至0.25%，原本人工審核每年耗費逾1萬小時；詐欺防制平台Sardine在10月27日公布的個案研究指出，Raise累計處理逾100億美元交易、約600萬名用戶、涵蓋1,000個品牌。Sardine先調整Raise既有規則，再針對禮物卡詐欺手法訓練客製機器學習模型。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Ripple於10月26日宣布取得美國貨幣監理署（OCC）國家信託銀行執照最終核准，並於27日擴大與BNY、Robinhood合作",
+   "display_title": "Ripple於10月26日宣布取得美國貨幣監理署（OCC）國家信託銀行執照最終核准，並於27日擴大與BNY、Robinhood合作",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/ripple-occ-charter-bny-robinhood-partnerships-garlinghouse-alderoty/872896/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/ripple-occ-charter-bny-robinhood-partnerships-garlinghouse-alderoty/872896/",
+     "status": "ok",
+     "chars": 4365
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 12:20:17 -0400",
+   "summary": "Ripple取得OCC國家信託銀行執照最終核准，並擴大與BNY、Robinhood的合作。",
+   "core_fact": "Ripple於10月26日宣布取得美國貨幣監理署（OCC）對國家信託銀行的最終核准，距離去年與其他四家加密業者一起獲得有條件核准已近一年。國家信託執照不得收存款或辦理商業放款，但可提供受託數位資產託管、管理支持穩定幣RLUSD的準備金並擔任準備金的擔保受託人。10月27日，Ripple宣布與BNY擴大機構數位資產託管，BNY將提高對XRP Ledger上代幣化資產的支援，並與Ripple合作讓客戶直接鑄造與贖回RLUSD；同日RLUSD也在Robinhood Chain與Bitstamp上線，預計今年稍後進入Robinhood App。",
+   "deep_facts": [
+    "OCC核准距去年有條件核准已近一年",
+    "國家信託執照不得收存款或辦理商業放款，可做受託託管、管理RLUSD準備金並擔任準備金擔保受託人",
+    "BNY將協助客戶直接鑄造與贖回RLUSD，並提高對XRP Ledger代幣化資產的支援",
+    "RLUSD於Robinhood Chain與Bitstamp上線，預計今年稍後進入Robinhood App"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "詹姆斯·亨德森（Janus Henderson）與Centrifuge於10月27日在Stellar上推出追蹤那斯達克100指數的鏈上基金JQQQ",
+   "display_title": "詹姆斯·亨德森（Janus Henderson）與Centrifuge於10月27日在Stellar上推出追蹤那斯達克100指數的鏈上基金JQQQ",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+     "status": "ok",
+     "chars": 5816
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 14:21:10 +0000",
+   "summary": "Janus Henderson與Centrifuge在Stellar推出追蹤Nasdaq-100的發行人主導型鏈上基金。",
+   "core_fact": "管理資產約5,000億美元的倫敦資產管理公司詹姆斯·亨德森（Janus Henderson）與代幣化平台Centrifuge於10月27日推出JQQQ，這是在Stellar區塊鏈上發行、追蹤那斯達克100指數的鏈上基金，由Janus Henderson發行與管理、Centrifuge提供區塊鏈基礎設施、那斯達克授權指數。此舉使Janus Henderson的鏈上投資平台資產突破10億美元，涵蓋美國公債、結構型信貸與股票；去年該公司已推出由標普道瓊指數授權的鏈上指數基金SPXA。",
+   "deep_facts": [
+    "JQQQ在Stellar發行，由Janus Henderson發行管理、Centrifuge提供基礎設施、那斯達克授權指數",
+    "Janus Henderson鏈上平台資產已超過10億美元，涵蓋公債、結構型信貸與股票",
+    "去年已推出首檔獲標普道瓊指數授權的鏈上指數基金SPXA",
+    "對象為符合資格的非美國投資人"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "香港證監會於10月27日核准首檔散戶代幣化貨幣市場基金全天候交易，華夏基金（香港）數碼貨幣基金在PantherTrade開始交易",
+   "display_title": "香港證監會於10月27日核准首檔散戶代幣化貨幣市場基金全天候交易，華夏基金（香港）數碼貨幣基金在PantherTrade開始交易",
+   "source": "Ledger Insights",
+   "source_tier": "T2",
+   "url": "https://www.ledgerinsights.com/hong-kong-launches-regulated-24-7-trading-of-retail-tokenized-money-market-funds/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ledgerinsights.com/hong-kong-launches-regulated-24-7-trading-of-retail-tokenized-money-market-funds/",
+     "status": "ok",
+     "chars": 1885
+    }
+   ],
+   "date_evidence": "Tue, 27 Oct 2026 12:10:19 +0000",
+   "summary": "香港證監會核准首檔散戶代幣化貨幣市場基金全天候交易，美元與港元份額已在PantherTrade開始交易。",
+   "core_fact": "香港證券及期貨事務監察委員會（SFC）核准首檔散戶代幣化貨幣市場基金的全天候交易，華夏基金（香港）數碼貨幣基金的美元與港元份額已在Nasdaq上市數位券商Futu Holdings旗下的加密貨幣交易所PantherTrade開始交易。該基金目前資產規模約6.6億美元，其中約16%為散戶份額，僅F類份額可在PantherTrade交易；代幣無法提領，正式所有權仍記錄在基金的鏈下登記冊，屬於封閉系統內的委託簿交易。",
+   "deep_facts": []
+  }
+ ]
+}
