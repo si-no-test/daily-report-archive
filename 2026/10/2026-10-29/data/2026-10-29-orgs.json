@@ -1,0 +1,12 @@
+[
+{"name":"Wealthsimple","url":"https://www.wealthsimple.com","intro":"加拿大數位金融平台，提供投資、支票、支出與交易服務。"},
+{"name":"加拿大皇家銀行","url":"https://www.rbc.com","intro":"加拿大最大銀行之一，提供零售、商業與財富管理服務。"},
+{"name":"PNC銀行","url":"https://www.pnc.com","intro":"美國大型區域銀行，提供零售、企業與財富管理服務。"},
+{"name":"ADP","url":"https://www.adp.com","intro":"全球薪資與人力資源服務供應商。"},
+{"name":"高盛","url":"https://www.goldmansachs.com","intro":"全球投資銀行與資產管理機構。"},
+{"name":"DTCC","url":"https://www.dtcc.com","intro":"美國證券市場的清算、結算與存託基礎設施機構。"},
+{"name":"穆迪","url":"https://www.moodys.com","intro":"國際信用評等與風險分析機構。"},
+{"name":"Stripe","url":"https://stripe.com","intro":"全球線上支付與金融基礎設施業者。"},
+{"name":"Coinbase","url":"https://www.coinbase.com","intro":"美國大型加密資產交易與託管平台。"},
+{"name":"Ripple","url":"https://ripple.com","intro":"XRP Ledger生態與穩定幣RLUSD發行相關的區塊鏈支付公司。"}
+]

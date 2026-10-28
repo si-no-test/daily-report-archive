@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **Wealthsimple**於10月27日宣布完成3.02億美元募資，估值達98億美元（138億加幣）",
+  "summary": "加拿大數位金融平台Wealthsimple於10月27日宣布完成3.02億美元募資，估值為98億美元（約138億加幣），資金將用於擴充支出、支票、交易與投資產品。公司表示過去一年已推出逾50項新產品，包括免佣選擇權交易、期貨交易，以及讓加拿",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **美國PNC銀行（PNC Bank）**於10月28日宣布與ADP合作，把薪資與人資服務嵌入數位銀行平台，推出PNC Payroll by ADP",
+  "summary": "美國PNC銀行與薪資服務商ADP於10月28日宣布合作，把ADP的薪資與人資功能嵌入PNC的數位銀行平台，推出PNC Payroll by ADP，小企業客戶可在同一介面管理薪資、人資、銀行與支付，並使用工時追蹤、保險與退休方案，同時可取得",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **加拿大皇家銀行（Royal Bank of Canada，RBC）**於10月27日向客戶公告，封鎖第三方個人AI代理直接存取網路銀行等已驗證數位平台",
+  "summary": "加拿大皇家銀行（RBC）於10月27日在客戶公告中表示，決定封鎖第三方個人AI代理直接存取包含網路銀行在內的已驗證數位平台，客戶先前用來讓第三方代理連入RBC帳戶的連線將停止運作，客戶仍可透過官方網站、行動App、銀行自有數位工具與客服使用",
+  "theme": "ai"
+ },
+ {
+  "title": "- **美國早期預警服務公司（Early Warning Services）**執行長Cameron Fowler於10月19日Money20/20大會期間指出，AI代理購物的責任歸屬規則嚴重落後技術發展",
+  "summary": "Zelle與Paze的母公司、由7家美國大型銀行持有的早期預警服務公司（Early Warning Services）執行長Cameron Fowler，於10月19日在Money20/20大會場邊表示，AI代理購物的責任、資料存取與消費者",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Stellar Development Foundation**於10月28日在里斯本Meridian 2026大會主張以實際使用量衡量網路，Spiko稱其代幣化現金基金規模達30億美元",
+  "summary": "支持Stellar網路的非營利組織Stellar Development Foundation（SDF）於10月28日在里斯本舉行的Meridian 2026大會開幕日主張，網路下一階段應以使用量衡量，包括更多支付與穩定幣交易量，以及把代幣",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **美國存託信託與清算公司（DTCC）**於10月28日宣布代幣化服務（DTS）正式上線，已有20家DTC參與者簽約",
+  "summary": "美國證券清算與存託機構DTCC於10月28日宣布代幣化服務（DTS）正式上線，服務運行於Canton Network與私有鏈Besu，已有20家DTC參與者簽署協議，其中包括摩根大通、花旗與摩根士丹利。CoinDesk標題指出此舉讓約30兆",
+  "theme": "blockchain"
+ }
+]

@@ -1,0 +1,280 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-28T23:13:50.982273+00:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Wealthsimple於10月27日宣布完成3.02億美元募資，估值達98億美元（138億加幣）",
+   "display_title": "Wealthsimple於10月27日宣布完成3.02億美元募資，估值達98億美元（138億加幣）",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/wealthsimple-raises-302-million-for-financial-platform/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48661/wealthsimple-hits-c138bn-valuation",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.pymnts.com/news/investment-tracker/2026/wealthsimple-raises-302-million-for-financial-platform/",
+     "status": "ok",
+     "chars": 3086
+    }
+   ],
+   "date_evidence": "announced Tuesday (Oct. 27)",
+   "summary": "Wealthsimple完成3.02億美元募資，估值98億美元，支票戶開戶量首度超過投資戶。",
+   "core_fact": "加拿大數位金融平台Wealthsimple於10月27日宣布完成3.02億美元募資，估值為98億美元（約138億加幣），資金將用於擴充支出、支票、交易與投資產品。公司表示過去一年已推出逾50項新產品，包括免佣選擇權交易、期貨交易，以及讓加拿大人以發行價參與部分首次公開募股的IPO Access，第二季新開支票帳戶數首度超過新開投資帳戶數。據彭博報導，公司託管資產達1,692億加幣，已超越原訂2028年前達1,000億加幣的目標，下一個目標是1兆加幣。",
+   "deep_facts": [
+    "第二季新開支票帳戶數首度超過新開投資帳戶數",
+    "託管資產達1,692億加幣，超越原訂2028年前1,000億加幣目標，下一目標為1兆加幣",
+    "過去一年推出逾50項新產品，含免佣選擇權、期貨與IPO Access",
+    "5月與Visa Canada啟動穩定幣結算合作"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "美國PNC銀行（PNC Bank）於10月28日宣布與ADP合作，把薪資與人資服務嵌入數位銀行平台，推出PNC Payroll by ADP",
+   "display_title": "美國PNC銀行（PNC Bank）於10月28日宣布與ADP合作，把薪資與人資服務嵌入數位銀行平台，推出PNC Payroll by ADP",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/back-office/payroll/2026/pnc-bank-to-expand-small-business-offerings-with-embedded-adp-payroll/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/back-office/payroll/2026/pnc-bank-to-expand-small-business-offerings-with-embedded-adp-payroll/",
+     "status": "ok",
+     "chars": 3001
+    }
+   ],
+   "date_evidence": "ADP said in a Wednesday (Oct. 28) press release",
+   "summary": "PNC與ADP合作，把薪資與人資服務嵌入PNC數位銀行平台，供小企業使用。",
+   "core_fact": "美國PNC銀行與薪資服務商ADP於10月28日宣布合作，把ADP的薪資與人資功能嵌入PNC的數位銀行平台，推出PNC Payroll by ADP，小企業客戶可在同一介面管理薪資、人資、銀行與支付，並使用工時追蹤、保險與退休方案，同時可取得ADP薪資專家全天候真人協助。ADP表示服務客戶達110萬家、遍及逾140國；PNC第三季平均商業放款較上季增加104億美元、較去年同期增加424億美元。",
+   "deep_facts": [
+    "服務內容含薪資、人資、工時追蹤、保險與退休方案，並提供24小時真人薪資專家",
+    "ADP服務110萬家客戶、逾140國",
+    "PNC第三季平均商業放款較上季增104億美元、較去年同期增424億美元"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "維利國家銀行（Valley National Bank）經Banking Dive 10月29日報導，說明併購小企業金融科技Bluevine（3.4億美元）後的整合做法",
+   "display_title": "維利國家銀行（Valley National Bank）經Banking Dive 10月29日報導，說明併購小企業金融科技Bluevine（3.4億美元）後的整合做法",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/bluevine-valley-bank-execs-talk-integration-approach/873084/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/bluevine-valley-bank-execs-talk-integration-approach/873084/",
+     "status": "ok",
+     "chars": 4706
+    }
+   ],
+   "date_evidence": "2026-10-29（Banking Dive，Money20/20訪談報導）",
+   "summary": "Valley與Bluevine高層說明3.4億美元併購後的整合方式。",
+   "core_fact": "維利國家銀行於9月同意以3.4億美元現金加股票收購小企業金融科技Bluevine，交易預計2027年初完成，Bluevine將帶入21億美元存款與17.5萬家活躍小企業客戶，創辦人兼執行長Eyal Lifshitz交割後將主管維利的小企業銀行業務。Banking Dive於10月29日報導兩家公司高層在Money20/20大會說明整合方式，約180名Bluevine研發人員與工程師將加入維利，維利的小企業客戶基礎將擴大20倍。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "UMB金融公司（UMB Financial Corp.）於10月27日宣布以5.06億美元現金加股票收購加州El Dorado Savings Bank",
+   "display_title": "UMB金融公司（UMB Financial Corp.）於10月27日宣布以5.06億美元現金加股票收購加州El Dorado Savings Bank",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/umb-buy-california-bank-el-dorado-506-million-kemper-acquisitions/873021/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/umb-buy-california-bank-el-dorado-506-million-kemper-acquisitions/873021/",
+     "status": "ok",
+     "chars": 4688
+    }
+   ],
+   "date_evidence": "the banks said Tuesday（2026-10-27）",
+   "summary": "UMB以5.06億美元收購加州El Dorado Savings Bank，預計2027年第一季完成。",
+   "core_fact": "總部設於密蘇里州的UMB金融公司於10月27日宣布，以現金加股票共5.06億美元收購加州El Dorado Savings Bank，UMB將取得約24億美元資產、21億美元存款、5億美元放款，以及加州31家與內華達4家分行，交易預計2027年第一季完成。收購價相當於8%的存款溢價，UMB資產規模為708億美元，完成後分行網絡將達227處、橫跨15州；執行長Mariner Kemper表示不會進行會讓資產逼近1,000億美元門檻的併購。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Hyphenate經Finovate 10月29日報導完成4,500萬美元A輪募資，以AI代理自動化財務對帳與開票",
+   "display_title": "Hyphenate經Finovate 10月29日報導完成4,500萬美元A輪募資，以AI代理自動化財務對帳與開票",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/hyphenate-raises-45-million-for-autonomous-finance/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/hyphenate-raises-45-million-for-autonomous-finance/",
+     "status": "ok",
+     "chars": 3343
+    }
+   ],
+   "date_evidence": "2026-10-29（Finovate）",
+   "summary": "Hyphenate完成4,500萬美元A輪募資，以AI代理自動化財務作業。",
+   "core_fact": "自主財務平台Hyphenate（原名Maximor）經Finovate於10月29日報導完成4,500萬美元A輪募資，由Nexus Venture Partners領投、B Capital跟投，自去年1月成立以來累計募資達5,400萬美元。平台以AI代理執行現金對帳、銷售訂單處理、開立發票與維護子分類帳，涵蓋數百個法人實體、數千個銀行帳戶與每日數百萬筆交易；客戶回報重複性財務工作減少90%、稽核例外減少75%。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "加拿大皇家銀行（Royal Bank of Canada，RBC）於10月27日向客戶公告，封鎖第三方個人AI代理直接存取網路銀行等已驗證數位平台",
+   "display_title": "加拿大皇家銀行（Royal Bank of Canada，RBC）於10月27日向客戶公告，封鎖第三方個人AI代理直接存取網路銀行等已驗證數位平台",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/banking/2026/rbc-blocks-third-party-personal-ai-agents-over-fraud-risks/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/banking/2026/rbc-blocks-third-party-personal-ai-agents-over-fraud-risks/",
+     "status": "ok",
+     "chars": 3051
+    }
+   ],
+   "date_evidence": "the bank told its customers in an article posted Tuesday (Oct. 27)",
+   "summary": "RBC封鎖第三方個人AI代理直接存取網路銀行，理由為詐欺與消費者傷害風險。",
+   "core_fact": "加拿大皇家銀行（RBC）於10月27日在客戶公告中表示，決定封鎖第三方個人AI代理直接存取包含網路銀行在內的已驗證數位平台，客戶先前用來讓第三方代理連入RBC帳戶的連線將停止運作，客戶仍可透過官方網站、行動App、銀行自有數位工具與客服使用服務。PYMNTS指出，10月19日報導已有4家美國大型銀行拒絕AI代理，10月22日又有報導稱美國大型銀行正偵測並刪除在客戶帳戶內動作的未授權第三方代理。",
+   "deep_facts": [
+    "RBC表示連線停止後客戶仍可透過官方網站、App、自有數位工具與客服使用服務",
+    "PYMNTS 10月19日報導Schwab、摩根大通、美國銀行、花旗均限制外部代理",
+    "10月22日報導大型銀行正偵測並刪除在客戶帳戶內動作的未授權代理"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "美國早期預警服務公司（Early Warning Services）執行長Cameron Fowler於10月19日Money20/20大會期間指出，AI代理購物的責任歸屬規則嚴重落後技術發展",
+   "display_title": "美國早期預警服務公司（Early Warning Services）執行長Cameron Fowler於10月19日Money20/20大會期間指出，AI代理購物的責任歸屬規則嚴重落後技術發展",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/liability-looms-over-ai-shopping/872979/",
+     "status": "ok",
+     "chars": 7512
+    }
+   ],
+   "date_evidence": "Fowler said on Oct. 19（Payments Dive，2026-10-28）",
+   "summary": "EWS執行長指出代理購物責任規則落後技術，Visa、Stripe呼籲建立稽核軌跡。",
+   "core_fact": "Zelle與Paze的母公司、由7家美國大型銀行持有的早期預警服務公司（Early Warning Services）執行長Cameron Fowler，於10月19日在Money20/20大會場邊表示，AI代理購物的責任、資料存取與消費者意圖等企業政策與聯邦立法，遠落後於代理技術的步伐。Meta於9月在美國與加拿大推出個人代理Muse，購物是1,000萬名早期用戶最常用的任務；Fowler舉例，兒子用Muse買了尺寸不合的紅外套，究竟誰該負責。PNC執行長Demchak則批評科技公司需承擔「大規模責任轉移」。",
+   "deep_facts": [
+    "EWS由7家大型美國銀行持有，旗下有Zelle與Paze",
+    "Stripe卡片發行產品負責人Piazza稱目前沒有代理責任歸屬的判例",
+    "Visa的Moran主張代理交易需有詳細稽核軌跡",
+    "亞馬遜已拒絕Meta的代理進入其購物網站"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "高盛（Goldman Sachs）投資銀行共同主管Kim Posnett於10月28日表示，AI投資人轉趨審慎，AI本身不是泡沫但泡沫可能存在其中",
+   "display_title": "高盛（Goldman Sachs）投資銀行共同主管Kim Posnett於10月28日表示，AI投資人轉趨審慎，AI本身不是泡沫但泡沫可能存在其中",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-exec-says-investors-growing-more-judicious-on-ai/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-exec-says-investors-growing-more-judicious-on-ai/",
+     "status": "ok",
+     "chars": 2996
+    }
+   ],
+   "date_evidence": "Speaking at The Information's WTF Summit on Tuesday (Oct. 28)",
+   "summary": "高盛主管稱AI投資人轉趨審慎，AI不是泡沫但泡沫可能存在其中。",
+   "core_fact": "高盛投資銀行共同主管Kim Posnett於10月28日在The Information的WTF Summit上表示，她對AI整體「極度看好」，但投資人正在重新配置並區分AI交易，資金傾向垂直整合、同時握有前沿模型、軟體與AI晶片的公司。高盛正在參與本週公布的多項大型AI交易，包括SpaceX的GPU融資、Meta的新股發行與Anthropic規劃中的首次公開募股；她也認為若利率長期偏高，AI專案將難以帶來預期報酬。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Stellar Development Foundation於10月28日在里斯本Meridian 2026大會主張以實際使用量衡量網路，Spiko稱其代幣化現金基金規模達30億美元",
+   "display_title": "Stellar Development Foundation於10月28日在里斯本Meridian 2026大會主張以實際使用量衡量網路，Spiko稱其代幣化現金基金規模達30億美元",
+   "source": "Tearsheet",
+   "source_tier": "T2",
+   "url": "https://tearsheet.co/blockchain-crypto/at-meridian-stellar-makes-the-case-that-utility-should-drive-the-network/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://tearsheet.co/blockchain-crypto/at-meridian-stellar-makes-the-case-that-utility-should-drive-the-network/",
+     "status": "ok",
+     "chars": 7948
+    }
+   ],
+   "date_evidence": "Zack Miller | October 28, 2026",
+   "summary": "SDF在Meridian大會主張以使用量衡量Stellar網路，Spiko稱代幣化現金基金規模30億美元。",
+   "core_fact": "支持Stellar網路的非營利組織Stellar Development Foundation（SDF）於10月28日在里斯本舉行的Meridian 2026大會開幕日主張，網路下一階段應以使用量衡量，包括更多支付與穩定幣交易量，以及把代幣化資產作為抵押品用於放款、保證金與附買回交易；SDF總裁表示單純放在錢包裡的代幣化貨幣市場基金「不錯但不夠好」。法國金融科技Spiko稱在Stellar上管理的代幣化現金基金規模達30億美元，每月成長逾15%，約90%資產屬於企業、非營利組織、創投基金與公共機構。",
+   "deep_facts": [
+    "SDF總裁稱放在錢包裡的代幣化貨幣基金「不錯但不夠好」",
+    "Spiko管理規模30億美元、每月成長逾15%、約90%資產屬機構客戶",
+    "Project Thruput在FutureNet測試網單一驗證者8台機器達每秒702萬筆，SDF自承尚無外部驗證",
+    "U.S. Bank於9月發行USBDC並用於北美與歐洲實體間移轉價值"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "美國存託信託與清算公司（DTCC）於10月28日宣布代幣化服務（DTS）正式上線，已有20家DTC參與者簽約",
+   "display_title": "美國存託信託與清算公司（DTCC）於10月28日宣布代幣化服務（DTS）正式上線，已有20家DTC參與者簽約",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.crowdfundinsider.com/2026/10/320710-dtcc-tokenization-service-dts-is-live/",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services",
+     "status": "fail",
+     "chars": 82
+    }
+   ],
+   "date_evidence": "Wed, 28 Oct 2026 13:14:37 +0000",
+   "summary": "DTCC代幣化服務上線於Canton與Besu，20家DTC參與者簽約。",
+   "core_fact": "美國證券清算與存託機構DTCC於10月28日宣布代幣化服務（DTS）正式上線，服務運行於Canton Network與私有鏈Besu，已有20家DTC參與者簽署協議，其中包括摩根大通、花旗與摩根士丹利。CoinDesk標題指出此舉讓約30兆美元的證券更接近上鏈；DTCC表示代幣化服務將為代幣化證券的採用創造一條務實的路徑。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "穆迪評級（Moody's Ratings）於10月28日給予Ripple的穩定幣RLUSD長期A2、短期P-1的投資等級評等",
+   "display_title": "穆迪評級（Moody's Ratings）於10月28日給予Ripple的穩定幣RLUSD長期A2、短期P-1的投資等級評等",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Wed, 28 Oct 2026 09:15:20 +0000",
+   "summary": "穆迪給予RLUSD長期A2、短期P-1評等，Coinbase同日上架RLUSD。",
+   "core_fact": "穆迪評級（Moody's Ratings）於10月28日給予Ripple發行的穩定幣RLUSD長期A2與短期P-1評等，理由是其儲備資產的信用品質與市場價值；同日The Block報導，RLUSD已在Coinbase的零售、交易所與Prime平台上線，可與美元1比1轉換，支援XRP Ledger、以太坊與Base三條鏈，Ripple當週還取得多項重要進展。",
+   "deep_facts": []
+  }
+ ]
+}
