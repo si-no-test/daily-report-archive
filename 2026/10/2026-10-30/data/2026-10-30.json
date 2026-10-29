@@ -1,0 +1,266 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T07:14:00.277516+08:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "FTC, states sue Toast over fees",
+   "display_title": "Toast於10月29日遭美國聯邦貿易委員會（FTC）與八個州聯手提告，指控其以隱藏費用與難以取消的訂閱誤導餐廳客戶，平均訂閱月費約900美元",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/ftc-states-sue-toast-over-fees-restaurant-dining-online-food/873225/",
+     "status": "ok",
+     "chars": 4695
+    }
+   ],
+   "date_evidence": "Thu, 29 Oct 2026 14:00:02 -0400",
+   "summary": "FTC與加州及科羅拉多、佛羅里達、伊利諾、愛荷華、內布拉斯加、奧克拉荷馬、猶他七州檢察長，10月29日在美國加州北區聯邦地方法院對波士頓的POS與支付服務商Toast提起訴訟。起訴書指出，餐廳簽約時必須加入自動續約的訂閱方案，平均月費約90",
+   "core_fact": "FTC與加州及科羅拉多、佛羅里達、伊利諾、愛荷華、內布拉斯加、奧克拉荷馬、猶他七州檢察長，10月29日在美國加州北區聯邦地方法院對波士頓的POS與支付服務商Toast提起訴訟。起訴書指出，餐廳簽約時必須加入自動續約的訂閱方案，平均月費約900美元，依終端機數量與加購服務而定；Toast宣稱部分方案硬體免費、客服全天候，但訴狀稱沒有任何硬體是零元，客服也常聯絡不上。訴狀並指Toast自2023年6月起向透過線上通路點餐、金額逾10美元的消費者收取99美分費用，卻未載明費用由Toast而非餐廳留存；至少數萬名消費者曾向FTC、網路或Toast本身申訴。Toast回應不同意指控，並稱自2025年中即配合FTC調查，將提出訴訟抗辯，並認為2010年《線上購物者信心恢復法》不適用於雙方協商的企業對企業合約。",
+   "deep_facts": [
+    "Toast自2023年6月起向線上點餐金額逾10美元的消費者收取99美分費用，未載明由Toast留存",
+    "餐廳訂閱平均月費約900美元，取消流程需Toast多個內部團隊配合",
+    "訴狀依據《FTC法》與2010年《線上購物者信心恢復法》，Toast稱自2025年中即配合調查"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "American Express Converts Card Rewards Into Bank Deposits",
+   "display_title": "美國運通（American Express）於10月29日宣布，美國消費與企業現金回饋卡會員可將回饋點數以1:1比率轉入美國運通高收益儲蓄帳戶或企業支票帳戶",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/american-express-converts-card-rewards-into-bank-deposits/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/american-express-converts-card-rewards-into-bank-deposits/",
+     "status": "ok",
+     "chars": 2806
+    }
+   ],
+   "date_evidence": "Thu, 29 Oct 2026 20:41:23 +0000",
+   "summary": "美國運通10月29日公布新的回饋兌換方式，美國消費者現金回饋卡會員可把回饋點數（Reward Dollars）以1:1比率兌換成美國運通高收益儲蓄帳戶的存款，企業現金回饋卡會員則可兌換成美國運通企業支票帳戶的存款。美國運通消費者銀行業務資深",
+   "core_fact": "美國運通10月29日公布新的回饋兌換方式，美國消費者現金回饋卡會員可把回饋點數（Reward Dollars）以1:1比率兌換成美國運通高收益儲蓄帳戶的存款，企業現金回饋卡會員則可兌換成美國運通企業支票帳戶的存款。美國運通消費者銀行業務資深副總裁柯里·提姆林（Corey Timlin）表示，該公司多數存款來自既有卡友，因此有機會把卡片與銀行業務拉得更近。此舉延續近期的整合動作：與Airbnb合作擴充旅遊平台、為企業卡推出新的支出管理工具，以及推出高收益企業儲蓄帳戶。PYMNTS Intelligence 2025年報告指出，超過四分之一的購物者會在不同卡片間切換付款，顯示回饋誘因直接影響卡片使用率。",
+   "deep_facts": [
+    "消費者回饋點數以1:1轉入高收益儲蓄帳戶，企業回饋轉入企業支票帳戶",
+    "美國運通稱多數存款來自既有卡友",
+    "近期另有Airbnb合作、企業卡支出管理工具與高收益企業儲蓄帳戶"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Will ditching the 'honor all cards' rule matter?",
+   "display_title": "威士（Visa）與萬事達卡（Mastercard）於10月下旬經報導同意在與商家的和解中放棄「接受所有卡」規則，結束長達約20年的商家訴訟，但規則取消的實際效果受到質疑",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/will-ditching-honor-all-cards-rule-matter-visa-mastercard-amex/873187/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 29 Oct 2026 10:54:00 -0400",
+   "summary": "Payments Dive指出，卡組織與商家之間延續約20年的訴訟，其和解方案包含取消「接受所有卡」規則，該規則原本要求商家只要接受一種威士卡就必須接受全部威士卡，萬事達卡亦同，使商家必須連同交換費較高的高階卡一起受理。和解方案仍待聯邦法官",
+   "core_fact": "Payments Dive指出，卡組織與商家之間延續約20年的訴訟，其和解方案包含取消「接受所有卡」規則，該規則原本要求商家只要接受一種威士卡就必須接受全部威士卡，萬事達卡亦同，使商家必須連同交換費較高的高階卡一起受理。和解方案仍待聯邦法官最終核准，部分商家認為和解條件低於預期而反對。美國運通執行長史蒂芬·史奎利（Stephen Squeri）在第三季財報分析師電話會議上回應此事時僅以「祝你們好運」帶過，認為商家很難區分卡片，並預期若商家開始拒收特定卡片，將引發消費者反彈。業界顧問丹·史蒂爾（Dan Stiel）也指出，高階卡消費者的客單價遠高於簽帳金融卡消費者，商家沒有誘因拒收。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Visa and Tencent ink agentic commerce and cross-border payments MoU",
+   "display_title": "威士（Visa）與騰訊（Tencent）於10月29日簽署跨境支付與代理式商務合作備忘錄，時間點在威士取得中國監管許可擴大營運的數週之後",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48672/visa-and-tencent-ink-agentic-commerce-and-cross-border-payments-mou",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 29 Oct 2026 18:57:00 GMT",
+   "summary": "Finextra 10月29日報導，威士在取得中國監管機關核准擴大當地營運的數週之後，與中國科技集團騰訊簽署合作備忘錄，內容涵蓋跨境支付與AI驅動的商務。備忘錄屬意向性文件，目前公開資訊並未揭露交易金額、上線時程或具體產品形式，後續是否轉為",
+   "core_fact": "Finextra 10月29日報導，威士在取得中國監管機關核准擴大當地營運的數週之後，與中國科技集團騰訊簽署合作備忘錄，內容涵蓋跨境支付與AI驅動的商務。備忘錄屬意向性文件，目前公開資訊並未揭露交易金額、上線時程或具體產品形式，後續是否轉為實際產品仍待雙方公告。這項合作延續威士在亞太推動代理式商務準備計畫的路線，並使其在中國跨境收付市場與本土生態系業者建立連結。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "CIBC rolls out Thought Machine core platform",
+   "display_title": "加拿大帝國商業銀行（CIBC）於10月29日成為英國核心銀行平台業者Thought Machine最新的一級銀行客戶，並被揭露是先前宣布的3,000萬英鎊投資背後的出資方",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48668/cibc-rolls-out-thought-machine-core-platform",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 29 Oct 2026 13:38:00 GMT",
+   "summary": "Finextra 10月29日報導，核心銀行軟體公司Thought Machine簽下加拿大帝國商業銀行（CIBC）為最新的一級銀行客戶，同時揭露CIBC正是先前宣布的3,000萬英鎊投資的出資銀行。這代表銀行對核心平台供應商同時擔任客戶與",
+   "core_fact": "Finextra 10月29日報導，核心銀行軟體公司Thought Machine簽下加拿大帝國商業銀行（CIBC）為最新的一級銀行客戶，同時揭露CIBC正是先前宣布的3,000萬英鎊投資的出資銀行。這代表銀行對核心平台供應商同時擔任客戶與股東，雙方利害關係深度綁定。公開資訊並未載明導入的業務範圍與時程，只確認CIBC為一級客戶，因此導入規模與遷移節奏仍待雙方進一步揭露。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Smaller AI models help Bank of America, Capital One manage costs",
+   "display_title": "美國銀行（Bank of America）於10月下旬在Evident AI研討會上表示，將於明年把AI預算加倍，並以分類器模型路由層Orchestra把查詢分流至成本最合適的模型",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/bank-of-america-gopalkrishnan-capital-one-natarajan-manage-ai-costs/873146/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/bank-of-america-gopalkrishnan-capital-one-natarajan-manage-ai-costs/873146/",
+     "status": "ok",
+     "chars": 3697
+    }
+   ],
+   "date_evidence": "Thu, 29 Oct 2026 09:57:00 -0400",
+   "summary": "Banking Dive報導，美國銀行技術長哈利·戈帕克里許南（Hari Gopalkrishnan）在紐約Evident AI研討會表示，該行計畫明年把AI預算加倍，重點在對AI金融助理Erica的複雜對話進行分流，並強化其機構記憶與複雜",
+   "core_fact": "Banking Dive報導，美國銀行技術長哈利·戈帕克里許南（Hari Gopalkrishnan）在紐約Evident AI研討會表示，該行計畫明年把AI預算加倍，重點在對AI金融助理Erica的複雜對話進行分流，並強化其機構記憶與複雜交易能力。該行的AI路由層Orchestra以小型分類器模型，把查詢導向財務上最有效率的模型，以掌控代幣支出，戈帕克里許南說「我們不想被任何單一模型綁住」。資本一號（Capital One）首席企業AI官普雷姆·納塔拉詹（Prem Natarajan）則說明，該行把經自有資料微調的開放權重模型蒸餾成小模型，用於協助購車者的多代理應用Chat Concierge，延遲降低五倍，經銷商客戶互動提升50%。",
+   "deep_facts": [
+    "美國銀行路由層Orchestra以小型分類器模型分流查詢",
+    "資本一號將微調的開放權重模型蒸餾成小模型，延遲降五倍、經銷商互動升50%",
+    "美國銀行護欄限制代理人運行時間並禁止自主連續完成多項任務"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "display_title": "米斯特拉（Mistral）於10月29日釋出兆級參數開源模型Mistral Large 4的權重，主打企業與政府可自行部署的資安防禦能力，並稱其每項任務使用的代幣比GLM-5.3少47%",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+     "status": "ok",
+     "chars": 4567
+    }
+   ],
+   "date_evidence": "Thu, 29 Oct 2026 17:00:00 +0000",
+   "summary": "TechCrunch報導，法國AI公司米斯特拉10月29日公布其兆級參數開源模型Mistral Large 4（暱稱Le Chonk）的權重，可於Hugging Face下載並透過API使用，模型稍早於本月推出。米斯特拉稱其在網路安全任務上",
+   "core_fact": "TechCrunch報導，法國AI公司米斯特拉10月29日公布其兆級參數開源模型Mistral Large 4（暱稱Le Chonk）的權重，可於Hugging Face下載並透過API使用，模型稍早於本月推出。米斯特拉稱其在網路安全任務上與中國開放權重模型GLM-5.3性能相當，但每項任務使用的代幣少47%，並在Artificial Analysis的程式代理指數上勝過其他開放模型。科學副總裁皮耶·斯托克（Pierre Stock）表示，開放權重代表企業與政府取得的能力不會被供應商切斷，也可在本地端部署，用於即時辨識、協調並因應重大資安事件；他同時承認近期失控AI代理事件的風險，但主張問題可解。",
+   "deep_facts": [
+    "Mistral稱每項任務代幣比GLM-5.3少47%",
+    "權重在Hugging Face與API提供，可本地端部署",
+    "科學副總裁斯托克稱開放權重使防禦能力不會被供應商切斷"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Elavon CEO: Trust, not speed, will rule in agentic commerce",
+   "display_title": "伊拉文（Elavon）執行長瓦利·姆林斯基（Wally Mlynarski）於10月下旬在Money20/20大會訪談中表示，代理式商務應以信任與穩健優先於速度，且Paze行動錢包已準備好試辦",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/elavon-ceo-trust-not-speed-will-rule-agentic-commerce/873117/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 29 Oct 2026 05:55:00 -0400",
+   "summary": "Banking Dive於10月29日報導，美國合眾銀行（U.S. Bank）子公司、位於亞特蘭大的商戶支付服務商Elavon，其執行長姆林斯基表示，電商引進後產業花了25年追堵詐欺，並因此引進信用卡驗證碼與PCI資安標準，若在代理式商務再",
+   "core_fact": "Banking Dive於10月29日報導，美國合眾銀行（U.S. Bank）子公司、位於亞特蘭大的商戶支付服務商Elavon，其執行長姆林斯基表示，電商引進後產業花了25年追堵詐欺，並因此引進信用卡驗證碼與PCI資安標準，若在代理式商務再度犯錯，消費者將受害。他指出，Paze行動錢包可在代理式商務中運作並處理代理人幻覺問題，已準備好試辦；Paze由七家美國大型銀行共同持有的Early Warning Services營運。他並說，行動錢包之戰證明經濟分配很難，若在消費者、商家、收單行、發卡行與卡組織之間加入代理人並重新分配利益，將是挑戰。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Mollie introduces ChatGPT and Claude integrations",
+   "display_title": "莫利（Mollie）於10月29日推出ChatGPT與Claude整合，讓企業可直接從自己慣用的AI助理管理日常財務營運",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111506/mollie-introduces-chatgpt-and-claude-integrations",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 29 Oct 2026 12:24:00 GMT",
+   "summary": "Finextra 10月29日刊出新聞稿，歐洲支付服務商莫利宣布推出ChatGPT與Claude整合，使企業可在自己慣用的AI助理內直接管理日常財務營運。公開資訊並未揭露可用功能清單、定價或支援地區，因此實際可操作的範圍須以後續公告為準，這",
+   "core_fact": "Finextra 10月29日刊出新聞稿，歐洲支付服務商莫利宣布推出ChatGPT與Claude整合，使企業可在自己慣用的AI助理內直接管理日常財務營運。公開資訊並未揭露可用功能清單、定價或支援地區，因此實際可操作的範圍須以後續公告為準，這裡僅就公告所述的方向說明。這屬於支付業者把既有商戶後台能力以對話介面開放的作法。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Galaxy Digital applies for OCC charter",
+   "display_title": "Galaxy Digital於10月29日宣布向美國貨幣監理署（OCC）申請國家信託銀行牌照，將在聯邦單一框架下提供數位資產託管、交易、質押與信託投資顧問服務",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/galaxy-digital-applies-occ-national-trust-bank-charter/873209/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/galaxy-digital-applies-occ-national-trust-bank-charter/873209/",
+     "status": "ok",
+     "chars": 2197
+    }
+   ],
+   "date_evidence": "Thu, 29 Oct 2026 12:28:31 -0400",
+   "summary": "Banking Dive報導，總部位於紐約的數位資產公司Galaxy Digital 10月29日宣布向OCC申請國家信託銀行牌照，創辦人暨執行長麥克·諾沃格拉茨（Mike Novogratz）稱此為「重要的下一步」，可讓更多服務納入單一聯",
+   "core_fact": "Banking Dive報導，總部位於紐約的數位資產公司Galaxy Digital 10月29日宣布向OCC申請國家信託銀行牌照，創辦人暨執行長麥克·諾沃格拉茨（Mike Novogratz）稱此為「重要的下一步」，可讓更多服務納入單一聯邦框架。Galaxy目前提供託管、交易、質押與信託投資顧問服務，並持有橫跨美國、歐洲與亞洲的50多張牌照，包括經紀自營商與交換交易商資格，以及紐約州的BitLicense與匯款業務牌照。獲得信託牌照後，Galaxy不得吸收存款或從事商業放款。這波申請潮與川普第二任期內金融科技業者向OCC等機構提出牌照申請明顯增加有關，瑞波（Ripple）本週才揭露取得OCC無條件核准。",
+   "deep_facts": [
+    "Galaxy持有橫跨美國、歐洲與亞洲的50多張牌照，含BitLicense",
+    "取得信託牌照後不得吸收存款或從事商業放款",
+    "ICBA本月已對OCC提告，稱信託牌照擴張造成監理漏洞"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "At Meridian, tokenized assets on Stellar go to work",
+   "display_title": "Stellar發展基金會（Stellar Development Foundation，SDF）於10月28至29日在里斯本Meridian 2026大會上表示，網路上約50億美元的現實資產代幣已多數生息，並將推動其作為抵押品與回購交易使用",
+   "source": "Tearsheet",
+   "source_tier": "T2",
+   "url": "https://tearsheet.co/blockchain-crypto/at-meridian-tokenized-assets-on-stellar-go-to-work/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://tearsheet.co/blockchain-crypto/at-meridian-tokenized-assets-on-stellar-go-to-work/",
+     "status": "ok",
+     "chars": 8577
+    }
+   ],
+   "date_evidence": "Thu, 29 Oct 2026 21:51:12 +0000",
+   "summary": "Tearsheet報導，SDF執行長丹妮爾·狄克森（Denelle Dixon）在Meridian第三天表示，Stellar上約有50億美元代幣化現實資產，多數已產生收益，她希望這些資產成為可用的抵押品，並用於回購與借貸。Figure的YL",
+   "core_fact": "Tearsheet報導，SDF執行長丹妮爾·狄克森（Denelle Dixon）在Meridian第三天表示，Stellar上約有50億美元代幣化現實資產，多數已產生收益，她希望這些資產成為可用的抵押品，並用於回購與借貸。Figure的YLDS是在SEC註冊的債務證券，自5月起在Stellar上線，轉帳不需經紀商核准，利息每日計算、每月支付，金融科技或新銀行約90秒可完成接入。Etherfuse發行以在地政府債為底的「穩定債券」，墨西哥部分以BBVA保管Cetes短期國庫券，每月約有5,000萬美元流經平台。M1X Global協助馬紹爾群島發行1:1由美國國庫券支持的USDM1，10月16至19日在回購交易中以每小時展期72次，折減率2%、利率為SOFR加10個基點，傳統回購通常需24至48小時交割。",
+   "deep_facts": [
+    "USDM1在回購交易中10月16至19日每小時展期72次，折減率2%、利率SOFR加10個基點",
+    "Figure的YLDS為SEC註冊債務證券，約90秒可完成接入",
+    "Etherfuse墨西哥Cetes穩定債券每月約5,000萬美元流量"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Binance loses $5.7 billion in largest crypto hack to date",
+   "display_title": "幣安（Binance）於10月29日遭駭，Arkham Intelligence追蹤到駭客錢包內超過57億美元資產，The Block報導可疑資金外流最高約58億美元，泰達幣（Tether）與Circle合計凍結約17.9億美元穩定幣",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 29 Oct 2026 21:12:45 +0000",
+   "summary": "據CoinDesk、The Block與Cointelegraph 10月29日報導，全球交易量最大的加密貨幣交易所幣安的熱錢包出現數十億美元異常外流，幣安表示正調查潛在資安事件。Arkham Intelligence追蹤到駭客錢包內超過5",
+   "core_fact": "據CoinDesk、The Block與Cointelegraph 10月29日報導，全球交易量最大的加密貨幣交易所幣安的熱錢包出現數十億美元異常外流，幣安表示正調查潛在資安事件。Arkham Intelligence追蹤到駭客錢包內超過57億美元，包括約15億美元比特幣、9億美元以太幣與約14億美元泰達幣與USDC；泰達幣稱凍結逾15.7億美元，Circle稱凍結逾8億美元，各媒體對凍結總額的統計不同，在17.9億至23.6億美元之間。創辦人趙長鵬（CZ）表示用戶資金安全，預期全數獲得補償；駭客並以被盜USDT為抵押，向借貸協議Aave借出約2萬枚包裝以太幣（約4,400萬美元），使Aave可能受損。比特幣價格下跌約3%至7萬8,800美元左右，BNB下跌6.7%，AAVE下跌8%。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+   "display_title": "波利岡（Polygon）於10月29日把其支付堆疊Open Money Stack延伸至Solana，使Solana上的企業可透過單一整合取得銀行資金、數位錢包、跨鏈轉帳與付款服務",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 29 Oct 2026 16:35:43 +0000",
+   "summary": "CoinDesk與The Block 10月29日報導，Polygon Labs把Open Money Stack支付基礎設施延伸至Solana，企業無需整合多個供應商即可取得銀行帳戶資金、錢包、跨鏈轉帳與全球付款。兩條鏈並未合併，企業仍在",
+   "core_fact": "CoinDesk與The Block 10月29日報導，Polygon Labs把Open Money Stack支付基礎設施延伸至Solana，企業無需整合多個供應商即可取得銀行帳戶資金、錢包、跨鏈轉帳與全球付款。兩條鏈並未合併，企業仍在Solana上轉移穩定幣，同時使用Polygon的銀行連接與支付服務。Solana基金會的賈邁勒·雷斯（Jamal Raees）稱，Solana今年穩定幣轉帳量已超過5.7兆美元；Polygon自推出以來累計轉帳量超過3兆美元，這些數字包含錢包對錢包轉帳，並非全為商品付款。跨境支付公司Kira已使用Solana轉帳穩定幣，並透過Polygon的銀行連接協助客戶以美元向海外供應商付款。Polygon近期也把TRON納入Open Money Stack，並收購美國加密支付公司Coinme。",
+   "deep_facts": []
+  }
+ ]
+}

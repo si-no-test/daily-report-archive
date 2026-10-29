@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-30",
+  "archived_at": "2026-10-29T23:14:14Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "5f77b39c3152bdfc610ecd6637d2bbbb9b8bd75a",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 20,
+  "total_bytes": 761359,
+  "files": [
+    {
+      "path": "data/2026-10-30-candidates.txt",
+      "bytes": 66822,
+      "sha256": "89d57c2e234662721081d049b47ff9662ed03c77b20eb5f291d77ef18b592d8e"
+    },
+    {
+      "path": "data/2026-10-30-glossary.json",
+      "bytes": 2406,
+      "sha256": "740d3cc3bcfbe478a56c29ebca7929ac7e29ca6d86cf20a21db863a05e1411f7"
+    },
+    {
+      "path": "data/2026-10-30-manifest.txt",
+      "bytes": 3460,
+      "sha256": "82c26aece74de8e30d53b49345b592688dcb1e5a2ebda209d5cda6046b54dffb"
+    },
+    {
+      "path": "data/2026-10-30-orgs.json",
+      "bytes": 2172,
+      "sha256": "6d1df593e6cc017b3aae015098f0851e102e51b56e014df692187a4c0efb7951"
+    },
+    {
+      "path": "data/2026-10-30-topic-cases.json",
+      "bytes": 2165,
+      "sha256": "b340122fd82341afeb14a035e54f134cf06a131f8fb50950af7bbd14342a60a6"
+    },
+    {
+      "path": "data/2026-10-30-topic-decisions.json",
+      "bytes": 612,
+      "sha256": "5fcf30e7432520de6ea43aec0cd47f6463f818898a740148e2a22ca09d9cbd82"
+    },
+    {
+      "path": "data/2026-10-30.json",
+      "bytes": 24443,
+      "sha256": "ae5abb41d183a091ca0fe9ce926f4a3397b6de7929e59ec16399a8fc49a321ca"
+    },
+    {
+      "path": "outbox/2026-10-30-archive.html",
+      "bytes": 114340,
+      "sha256": "000da58d477db003d0640a01041ee54351e2fa99201fd9097345139b96f1685a"
+    },
+    {
+      "path": "outbox/2026-10-30-email.html",
+      "bytes": 11852,
+      "sha256": "cc1df545f08f4a1b84e67d9a4ca0559fc70294031422358199c952754e14f6ce"
+    },
+    {
+      "path": "published/2026-10-30.html",
+      "bytes": 555,
+      "sha256": "9b4e156afb3544aafb4ccff43e25b7037c43be00aabe1869ab4768545bb162f3"
+    },
+    {
+      "path": "published/2026-10-30/ai.html",
+      "bytes": 44085,
+      "sha256": "c6469aca7a246fec6af0fd7281fb68251377475e6bb7ced86945bc8a66dc95be"
+    },
+    {
+      "path": "published/2026-10-30/blockchain.html",
+      "bytes": 50723,
+      "sha256": "0124d0458f43d4388e98efb73cd704da0fd19a2f2d70336928d34c2616df4f26"
+    },
+    {
+      "path": "published/2026-10-30/index.html",
+      "bytes": 25439,
+      "sha256": "b614a59fdc441783b3c80e78f2e4e30f6bd71660b3faf6c3682cce2ccaf8798a"
+    },
+    {
+      "path": "published/2026-10-30/innovation.html",
+      "bytes": 56537,
+      "sha256": "654f8261ff2e394a227028b5c91cc07942f9fc14d51477cc316a0edb3beb203d"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 306149,
+      "sha256": "97e537323ad8790c04d82ff12d8be49e19c371fbacf88ba6819504af49359ef2"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "8074a88774f2487c9248b67c3cccdbe9ccfbbcee3cccdce0047d63daf66d84d0"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "9b4e156afb3544aafb4ccff43e25b7037c43be00aabe1869ab4768545bb162f3"
+    },
+    {
+      "path": "published/topics/icba-occ-crypto-trust-charter-lawsuit.html",
+      "bytes": 2210,
+      "sha256": "085dcf38bf4eed02a190fc8148810f2211520b84bdfadb9fca3976082460b887"
+    },
+    {
+      "path": "source/2026-10-30-report.txt",
+      "bytes": 42977,
+      "sha256": "48ebcce3d7b83f18c25ba05b60c1cdfa881f121a65b757e84bde28f33cbc692a"
+    },
+    {
+      "path": "source/2026-10-30-summary.txt",
+      "bytes": 3065,
+      "sha256": "ce1858697b936febdc78420c30d06e42363c37ee89b658e16ade7675c16d9291"
+    }
+  ]
+}

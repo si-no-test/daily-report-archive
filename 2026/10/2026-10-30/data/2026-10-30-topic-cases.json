@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **Toast**於10月29日遭美國聯邦貿易委員會（FTC）與八個州聯手提告，指控其以隱藏費用與難以取消的訂閱誤導餐廳客戶，平均訂閱月費約900美元",
+  "summary": "FTC與八州起訴Toast，指其隱藏費用與難以取消的訂閱，平均月費約900美元。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **美國運通（American Express）**於10月29日宣布，美國消費與企業現金回饋卡會員可將回饋點數以1:1比率轉入美國運通高收益儲蓄帳戶或企業支票帳戶",
+  "summary": "美國運通讓現金回饋卡點數1:1轉入自家儲蓄或企業支票帳戶。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **美國銀行（Bank of America）**於10月下旬在Evident AI研討會上表示，將於明年把AI預算加倍，並以分類器模型路由層Orchestra把查詢分流至成本最合適的模型",
+  "summary": "美國銀行以分類器路由查詢、明年AI預算加倍；資本一號蒸餾小模型降低延遲五倍。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **米斯特拉（Mistral）**於10月29日釋出兆級參數開源模型Mistral Large 4的權重，主打企業與政府可自行部署的資安防禦能力，並稱其每項任務使用的代幣比GLM-5.3少47%",
+  "summary": "Mistral釋出兆級參數Mistral Large 4權重，主打自主可控的資安防禦。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Galaxy Digital**於10月29日宣布向美國貨幣監理署（OCC）申請國家信託銀行牌照，將在聯邦單一框架下提供數位資產託管、交易、質押與信託投資顧問服務",
+  "summary": "Galaxy Digital申請OCC國家信託銀行牌照，ICBA同時提告反對信託特許擴張。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Stellar發展基金會（Stellar Development Foundation，SDF）**於10月28至29日在里斯本Meridian 2026大會上表示，網路上約50億美元的現實資產代幣已多數生息，並將推動其作為抵押品與回購交易使用",
+  "summary": "Stellar上約50億美元代幣化資產，SDF推動其成為抵押品與回購交易工具。",
+  "theme": "blockchain"
+ }
+]
