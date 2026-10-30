@@ -1,0 +1,57 @@
+[
+ {
+  "name": "環球支付",
+  "url": "https://www.globalpayments.com",
+  "intro": "美國大型卡片處理與商家收單業者，已把發卡處理業務出售給FIS、專注商家服務。"
+ },
+ {
+  "name": "加拿大豐業銀行",
+  "url": "https://www.scotiabank.com",
+  "intro": "加拿大五大銀行之一，業務涵蓋北美與拉丁美洲。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "開發Claude系列模型的AI公司，近期提出上市申請。"
+ },
+ {
+  "name": "黑石",
+  "url": "https://www.blackstone.com",
+  "intro": "全球最大另類資產管理公司之一，業務含私募股權、不動產與信貸。"
+ },
+ {
+  "name": "多拉達",
+  "url": "https://www.doordash.com",
+  "intro": "美國外送與在地商務平台。"
+ },
+ {
+  "name": "幣安",
+  "url": "https://www.binance.com",
+  "intro": "全球交易量最大的加密貨幣交易所之一。"
+ },
+ {
+  "name": "泰達",
+  "url": "https://tether.io",
+  "intro": "USDT穩定幣發行人，為市值最大的穩定幣。"
+ },
+ {
+  "name": "歐洲央行",
+  "url": "https://www.ecb.europa.eu",
+  "intro": "歐元區貨幣政策與支付體系的中央銀行，主導數位歐元研究。"
+ },
+ {
+  "name": "普萊德",
+  "url": "https://plaid.com",
+  "intro": "連結銀行帳戶資料與金融科技應用的資料聚合平台。"
+ },
+ {
+  "name": "Securitize",
+  "url": "https://securitize.io",
+  "intro": "提供資產代幣化與數位證券發行服務的平台。"
+ },
+ {
+  "name": "Nasdaq",
+  "url": "https://www.nasdaq.com",
+  "intro": "美國那斯達克證券交易所營運商，推動發行人自行發行代幣。"
+ }
+]

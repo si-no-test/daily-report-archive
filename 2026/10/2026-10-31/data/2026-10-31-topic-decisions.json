@@ -1,0 +1,71 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "anthropic-ipo-path",
+  "headline": "黑石預期Anthropic上市後獲雙B區間垃圾級信評",
+  "one_line_update": "10月30日金融時報報導，630億美元晶片融資案錨定投資人黑石預期Anthropic上市後獲雙B區間投機級信評，與先前預期2027年前取得投資級相反；Anthropic本週已遞件申請上市。",
+  "source_title": "Anthropic expected to receive high junk rating from credit agencies following IPO, FT report says",
+  "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "binance-record-hack-recovery",
+  "title": "幣安63億美元遭駭事件的補償、凍結與提領恢復進程",
+  "theme": "blockchain",
+  "keywords": [
+   "幣安",
+   "Binance",
+   "遭駭",
+   "SAFU",
+   "凍結",
+   "準備金證明"
+  ],
+  "headline": "幣安動用逾63.4億美元補償遭駭損失並凍結約30億美元資產",
+  "one_line_update": "10月30日幣安表示以SAFU與公司資金補償所有損失，撥出逾63.4億美元，並與夥伴在鏈上凍結約30億美元；泰達幣與Circle合計凍結約30億美元穩定幣，調查與歸因仍在進行。",
+  "source_title": "Binance Hack Tests Its Pledge to Cover Customer Losses",
+  "source_url": "https://www.pymnts.com/cybersecurity/2026/binance-hack-tests-pledge-cover-customer-losses/"
+ },
+ {
+  "action": "match",
+  "topic_id": "okx-ice-tokenized-stock-venue",
+  "headline": "OKXICE 63檔代幣化股票中39檔遭發行公司異議",
+  "one_line_update": "10月30日Ledger Insights報導，華爾街日報整版廣告抨擊SEC代幣化證券場所豁免，OKXICE擬上市63檔代幣中39檔遭異議，含Alphabet、IBM、摩根大通、高盛與富國銀行。",
+  "source_title": "Who is behind the WSJ ad attacking tokenized stock venues?",
+  "source_url": "https://www.ledgerinsights.com/who-is-behind-the-wsj-ad-attacking-tokenized-stock-venues/"
+ },
+ {
+  "action": "match",
+  "topic_id": "ecb-digital-euro-pilot",
+  "headline": "歐洲央行選定數位歐元網路服務供應商",
+  "one_line_update": "10月30日Finextra報導，歐洲央行選定兩家網路服務供應商，連接支付服務業者與各國央行至數位歐元服務平台。",
+  "source_title": "ECB picks digital euro network service providers",
+  "source_url": "https://www.finextra.com/newsarticle/48678/ecb-picks-digital-euro-network-service-providers"
+ },
+ {
+  "action": "skip"
+ }
+]

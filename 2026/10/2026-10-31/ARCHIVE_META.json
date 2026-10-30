@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-31",
+  "archived_at": "2026-10-30T23:14:29Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "4bb2825215fecf582b2c924acac63ccb2291e48d",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 23,
+  "total_bytes": 758386,
+  "files": [
+    {
+      "path": "data/2026-10-31-candidates.txt",
+      "bytes": 64923,
+      "sha256": "31fc1f255d415c94631bd5938a32436f555a01e4d600590b0fff27929c6faf55"
+    },
+    {
+      "path": "data/2026-10-31-glossary.json",
+      "bytes": 2449,
+      "sha256": "b11b8836868238299a3a7b40a3f019bfb2a9c54711affeda871facac66fcc220"
+    },
+    {
+      "path": "data/2026-10-31-manifest.txt",
+      "bytes": 3460,
+      "sha256": "51b746dc59c59590e098b056eb340f5288f3ae45f7344040c12e8e88419cb605"
+    },
+    {
+      "path": "data/2026-10-31-orgs.json",
+      "bytes": 1657,
+      "sha256": "f299da2b8d423bdee20209f0cb8e47d722a4538d0075cfa1ef2d47eafe516bc9"
+    },
+    {
+      "path": "data/2026-10-31-topic-cases.json",
+      "bytes": 6446,
+      "sha256": "9c75fec1ffa72b4887f2f95cffcb66a5ba53d5611352ca28f9f5b42f9a47de21"
+    },
+    {
+      "path": "data/2026-10-31-topic-decisions.json",
+      "bytes": 2754,
+      "sha256": "2065aea656981b17492f985bd32b46315504e6384e90706817425538a5658f74"
+    },
+    {
+      "path": "data/2026-10-31.json",
+      "bytes": 20089,
+      "sha256": "a3f26c3f34cbdad47806cf6e22b27f5eadd6e7b2c24ad53c3817244914a1197d"
+    },
+    {
+      "path": "outbox/2026-10-31-archive.html",
+      "bytes": 108139,
+      "sha256": "4b05a0666d5b3c19ca4af4911320cb10705281ee1f7b165625a3bfd22993f6e1"
+    },
+    {
+      "path": "outbox/2026-10-31-email.html",
+      "bytes": 11172,
+      "sha256": "1a23bdae43ed94a4fdf5c8df7eb6f1dffa128745b4ddf64060580d95cba6afd3"
+    },
+    {
+      "path": "published/2026-10-31.html",
+      "bytes": 555,
+      "sha256": "936262e23667334e1fc28c140e0b607d0341fb19464c7f33ade71de97c62f371"
+    },
+    {
+      "path": "published/2026-10-31/ai.html",
+      "bytes": 42965,
+      "sha256": "77a113e6fece8b65e31d813bbefe20cc79fd98ca15823d8d1e9e24042cab1938"
+    },
+    {
+      "path": "published/2026-10-31/blockchain.html",
+      "bytes": 49551,
+      "sha256": "f84ecdd02c0d8043d3aaa0ad0c61a2f5361aa75bd9321b984e90fa6e8ade7915"
+    },
+    {
+      "path": "published/2026-10-31/index.html",
+      "bytes": 24280,
+      "sha256": "eed7bd919a0f5f07ed76bcff45d97cc889695981097e3df45d05fae718120832"
+    },
+    {
+      "path": "published/2026-10-31/innovation.html",
+      "bytes": 52829,
+      "sha256": "4946b332f8285908a28cf9d281ded0a8cd03ec9b53cc780fe272bcebf197d37d"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 309761,
+      "sha256": "029912ae929844a222d40bbbf41569088a300cf77ecc51b2105369e5f9e0ebfa"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "5a9e7b8d665972458a623b34a0b82499e19f11d928ee3e9a8e7bc273698670cc"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "936262e23667334e1fc28c140e0b607d0341fb19464c7f33ade71de97c62f371"
+    },
+    {
+      "path": "published/topics/anthropic-ipo-path.html",
+      "bytes": 6202,
+      "sha256": "9229bc536ceb6f2b3394a0ffd7e536f5762e553d5c4e4afa990f8f177297ef6b"
+    },
+    {
+      "path": "published/topics/binance-record-hack-recovery.html",
+      "bytes": 1588,
+      "sha256": "22dbeba777cb410943d78044f2a15e2b1dc5825d233eeaf05ef2afcac7270ec3"
+    },
+    {
+      "path": "published/topics/ecb-digital-euro-pilot.html",
+      "bytes": 2366,
+      "sha256": "b77b6f7a92710e2f99229ba5ac5715c8886a99b9e79d9ac038c3bf5d214fc6c9"
+    },
+    {
+      "path": "published/topics/okx-ice-tokenized-stock-venue.html",
+      "bytes": 5163,
+      "sha256": "427d04aeaff18ffb8cd137341b976b9ff63d757a7c0cecd0586f5becffb4b31c"
+    },
+    {
+      "path": "source/2026-10-31-report.txt",
+      "bytes": 38031,
+      "sha256": "8af903bcbfc53eca4a135f540616c3ef8db70a1b5b0856edd703c67f3fc74cff"
+    },
+    {
+      "path": "source/2026-10-31-summary.txt",
+      "bytes": 2659,
+      "sha256": "4938ffb957f36e7cfa9a2da560aefa1ba40ce56f455bea89edd199a8d5331bc4"
+    }
+  ]
+}
