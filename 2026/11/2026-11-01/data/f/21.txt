@@ -1,0 +1,4 @@
+FINAL_URL: https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 429: Too Many Requests

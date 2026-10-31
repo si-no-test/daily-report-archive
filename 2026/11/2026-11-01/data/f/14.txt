@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident
+STATUS: fail
+CHARS: 83
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping

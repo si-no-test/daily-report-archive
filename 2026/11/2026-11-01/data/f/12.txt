@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/binance-hack-90-percent-replenished
+STATUS: fail
+CHARS: 65
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Blockchain investigator Chainalysis hit by cybersecurity incident

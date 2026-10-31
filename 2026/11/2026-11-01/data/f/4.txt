@@ -1,0 +1,29 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/why-ai-investors-are-buying-adt-accountants-and-call-centers/
+STATUS: ok
+CHARS: 5586
+---CONTENT---
+Why AI Investors Are Buying ADT, Accountants and Call Centers
+Thrive Holdings, an OpenAI-backed holding company, agreed Oct. 29 to buy ADT, the home security provider, for $15.3 billion including debt, a deal that would add 6.1 million monitoring subscribers to a portfolio of more than 75 businesses.
+Long Lake, the General Catalyst-backed holding company that owns HOA management, payroll and travel businesses, has bought 40 companies, and General Catalyst says its Nexus platform builds board packets in seconds.
+Lightspeed Venture Partners, the Silicon Valley firm that has backed Anthropic and Databricks, has raised more than $750 million for a fund to buy and upgrade eight to 10 established businesses.
+Artificial intelligence investors are no longer only backing software for accountants, property managers and call centers. A growing number are buying the businesses themselves. The targets already have customers, recurring revenue and years of operating data. What they lack is the technology to do the same work in fewer hours.
+The latest example is ADT. Thrive Holdings agreed Thursday (Oct. 29) to buy the home security company for $15.3 billion including debt, ADT said . Thrive Holdings is a permanent capital holding company spun out of venture firm Thrive Capital in 2025. It buys accounting and IT services firms and rebuilds their workflows on AI, and it owns more than 75 businesses, TechCrunch reported . Its accounting platform, Current, has acquired 48 local firms and runs a tax-return agent built with OpenAI’s Codex, PYMNTS reported in August.
+OpenAI took a stake in Thrive Holdings in December 2025 and supplies researchers, product staff and engineers to its companies. Thrive Holdings raised $2 billion at a $12 billion valuation in August from SoftBank, D1 Capital Partners and Altimeter Capital, PYMNTS reported .
+ADT Brings 6.1 Million Subscribers and 4,000 Service Agents
+ADT installs and monitors security systems for homes and small businesses, charging a monthly fee under two-, three- or five-year contracts. It had about 6.1 million subscribers, six monitoring centers and roughly 4,000 customer care staff at the end of 2025, according to its annual report . It already runs AI virtual agents in its call centers and resolves more than 90% of technical issues remotely, the report said.
+Thrive Holdings’ engineers will work alongside ADT staff to find where technology can improve products and service, according to the merger announcement ADT filed with the Securities and Exchange Commission. Kareem Zaki, a partner at Thrive Holdings, said in the filing that the firm will strengthen ADT’s technology “with the capital and patience to invest over decades.”
+We’d love to be your preferred source for news .
+Please add us to your preferred sources list so our news, data and interviews show up in your feed. Thanks!
+ADT had started buying AI on its own. In February it paid $170 million for Origin AI, whose sensors detect human presence in a home without cameras. Bloomberg called the ADT deal one of Thrive Holdings’ largest bets yet.
+Long Lake’s 40 Deals Put Numbers on AI Ownership
+Long Lake, a holding company backed by General Catalyst, has completed 40 acquisitions in two and a half years and runs one AI platform, Nexus, across every company it owns, General Catalyst said in September. In homeowners’ association management, Nexus generates full board packets and financial reports in seconds, work that once took days, and top-performing HOA managers save more than 65 hours a month. In payroll, Nexus flags and resolves processing exceptions on its own, which lifted capacity per processor by more than 30%, General Catalyst said.
+Long Lake’s biggest purchase is American Express Global Business Travel, which it agreed in May to take private for $6.3 billion, PYMNTS reported . Alex Taubman, Long Lake’s co-founder and CEO, said at the time that AI and human agents together would deliver faster bookings and proactive disruption handling.
+Long Lake is one of roughly a dozen roll-up vehicles General Catalyst has co-created. Managing Director Madhu Namburi calls the model “service as software,” CNBC reported in June.
+Lightspeed Raises $750 Million to Buy and Upgrade Businesses
+Lightspeed Venture Partners has raised more than $750 million for its AI Renaissance Fund and a related co-investment vehicle, beating its target, The Wall Street Journal reported this week. Partner Isaac Kim disclosed the figures at a public meeting of the New Mexico State Investment Council, and the fund could reach $1 billion, the Journal said. The vehicles will buy eight to 10 established businesses in financial services, healthcare, engineering and business services and upgrade their operations with AI.
+The buyers are betting that margins move before headcount does. Finance chiefs are starting to measure AI the same way. In the PYMNTS Intelligence report “ What Happens When CFOs Get Serious About Gen AI ,” a December 2025 survey of 60 CFOs at U.S. companies with at least $1 billion in revenue, 39.1% expected very positive returns within one to two years, up from none in July 2025. Seventy-five percent now judge gen AI by improved margins. Only 25% judge it by headcount reduction, down from 36.7%.
+Luxury Mystery Boxes Turn Shopping Into a $500 Surprise
+Snack Giant Mondelez Says Inflation Pressure Drives Global Demand for Smaller Packs
+Samsung Warns AI Memory Shortage Will Worsen Through 2027
+Scotiabank Wins Fed Approval to Buy Oklahoma-Based MapleMark Bank
+acquisitions , artificial intelligence , News , OpenAI , PYMNTS News

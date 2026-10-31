@@ -1,0 +1,10 @@
+[
+{"name":"輝達","url":"https://www.nvidia.com","intro":"全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"},
+{"name":"OpenAI","url":"https://openai.com","intro":"ChatGPT與GPT系列模型的開發商，總部位於美國舊金山。"},
+{"name":"Anthropic","url":"https://www.anthropic.com","intro":"Claude系列AI模型的開發商，專注AI安全研究。"},
+{"name":"威士","url":"https://usa.visa.com","intro":"全球最大的國際卡組織之一，營運跨境支付網路。"},
+{"name":"萬事達卡","url":"https://www.mastercard.com","intro":"全球主要國際卡組織，提供支付網路與相關金融科技服務。"},
+{"name":"匯豐","url":"https://www.hsbc.com","intro":"總部位於英國的全球性銀行集團，在亞洲與跨境金融業務具重要地位。"},
+{"name":"優步","url":"https://www.uber.com","intro":"全球叫車與外送平台業者。"},
+{"name":"Tribe Payments","url":"https://www.tribepayments.com","intro":"總部位於倫敦的發卡與收單處理平台業者，提供雲端原生處理服務。"}
+]

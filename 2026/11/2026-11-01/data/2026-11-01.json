@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-10-31T23:14:14.440144",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "M&F Black-owned bank Triad Optus",
+   "display_title": "M&F銀行（M&F Bank）於10月30日經Banking Dive報導，面對Triad Business Bank第四度競價，11月4日股東將表決是否併入Optus，Triad最新開價為每股53.50美元現金",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/m-and-f-bank-optus-triad-competing-offer-black-mdi-cdfi-north-carolina/873339/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/m-and-f-bank-optus-triad-competing-offer-black-mdi-cdfi-north-carolina/873339/",
+     "status": "ok",
+     "chars": 4846
+    }
+   ],
+   "date_evidence": "Fri, 30 Oct 2026 12:32:03 -0400",
+   "summary": "總部位於北卡羅來納州達勒姆的M&F是全美20家黑人所有銀行之一，11月4日股東將表決是否併入南卡羅來納州哥倫比亞市的Optus。Optus於7月提案，每股最高53.30美元現金，但交割時僅支付46.57美元，其餘6.73美元須待特定特別股在",
+   "core_fact": "總部位於北卡羅來納州達勒姆的M&F是全美20家黑人所有銀行之一，11月4日股東將表決是否併入南卡羅來納州哥倫比亞市的Optus。Optus於7月提案，每股最高53.30美元現金，但交割時僅支付46.57美元，其餘6.73美元須待特定特別股在交割後一年內買回才會支付。Triad自8月起已提出四次報價，10月8日的最新版本為每股53.50美元現金，若逾25%股東選擇現金，其餘股東可換取每股1.25股合併後新股。M&F董事會10月19日表示，Triad的報價並非更優提案，且質疑Triad過去六年股價下跌逾30%、獲利以虧損為主；Triad方案下M&F股東僅持有合併後公司47.4%。",
+   "deep_facts": [
+    "Optus方案交割時每股僅付46.57美元，其餘6.73美元須待特別股於一年內買回",
+    "M&F董事會稱Triad過去六年股價下跌逾30%，Triad方案下M&F股東僅持47.4%",
+    "Triad主張M&F續任控股公司並固定多數黑人董事會，保留MDI與CDFI身分"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "TCM Solutions partners with Tribe Payments",
+   "display_title": "TCM Solutions（TCMS）於10月30日經Finovate報導，宣布與Tribe Payments合作，以雲端原生處理平台拓展新加坡等亞洲收單業務",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/finovate-global-hong-kong-raising-capital-powering-payments-and-planning-for-the-future/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/finovate-global-hong-kong-raising-capital-powering-payments-and-planning-for-the-future/",
+     "status": "ok",
+     "chars": 9651
+    }
+   ],
+   "date_evidence": "Fri, 30 Oct 2026 21:16:43 +0000",
+   "summary": "香港商家收單機構TCM Solutions（TCMS）宣布採用倫敦支付處理商Tribe Payments的雲端原生、API導向處理平台，目標是推出更客製化的方案、服務更多類型商家並擴展至新加坡。TCMS服務餐飲集團、連鎖醫療、航空與機場免稅",
+   "core_fact": "香港商家收單機構TCM Solutions（TCMS）宣布採用倫敦支付處理商Tribe Payments的雲端原生、API導向處理平台，目標是推出更客製化的方案、服務更多類型商家並擴展至新加坡。TCMS服務餐飲集團、連鎖醫療、航空與機場免稅店等核心產業，專攻免稅與跨境支付及POS方案，並提供動態貨幣轉換（DCC）。Tribe成立於2018年，連接威士（Visa）、萬事達卡（Mastercard）、美國運通、銀聯、JCB與Discover六大卡組織，另以Bank Connect連結多個市場的本地支付軌道。",
+   "deep_facts": [
+    "Tribe成立於2018年，連接六大卡組織並以Bank Connect連結本地支付軌道",
+    "TCMS核心產業為餐飲、連鎖醫療、航空與機場免稅，專攻免稅與跨境及DCC",
+    "TCMS計劃藉Tribe平台擴展至新加坡等亞洲市場"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Visa signs digital payments deal with Senegal",
+   "display_title": "威士（Visa）於10月30日與塞內加爾電信暨數位事務部簽署備忘錄，建立為期兩年的策略合作框架，推動數位支付發展",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111520/visa-signs-digital-payments-deal-with-senegal",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 30 Oct 2026 20:13:00 GMT",
+   "summary": "Finextra報導，威士與塞內加爾電信暨數位事務部於10月30日簽署備忘錄，建立為期兩年的策略合作框架，主題為支持該國數位支付發展。這類備忘錄由政府部門而非銀行簽署，代表合作範圍可能涵蓋政策、基礎建設與普惠金融，而非單一產品。公開摘要未載",
+   "core_fact": "Finextra報導，威士與塞內加爾電信暨數位事務部於10月30日簽署備忘錄，建立為期兩年的策略合作框架，主題為支持該國數位支付發展。這類備忘錄由政府部門而非銀行簽署，代表合作範圍可能涵蓋政策、基礎建設與普惠金融，而非單一產品。公開摘要未載明具體金額或交易量目標，因此成效須待兩年期內的後續發布才能衡量。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Tech Mahindra acquired Finastra Cash Management suite",
+   "display_title": "Tech Mahindra於10月30日經Finovate週報列入，完成收購Finastra的現金管理（Cash Management）產品套件",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/finovate-global-hong-kong-raising-capital-powering-payments-and-planning-for-the-future/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 30 Oct 2026 21:16:43 +0000",
+   "summary": "Finovate在10月30日的全球週報中指出，印度的Tech Mahindra收購了Finastra的現金管理產品套件。現金管理屬於法人金融的核心模組，涵蓋帳戶管理、資金池與流動性監控。公開摘要未揭露交易金額與交割時程，因此規模與整合進度",
+   "core_fact": "Finovate在10月30日的全球週報中指出，印度的Tech Mahindra收購了Finastra的現金管理產品套件。現金管理屬於法人金融的核心模組，涵蓋帳戶管理、資金池與流動性監控。公開摘要未揭露交易金額與交割時程，因此規模與整合進度尚無法評估，僅能確認買方為印度資訊服務業者、標的為單一產品線而非整家公司。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Pine Labs and Webxpay bring UPI to Sri Lanka",
+   "display_title": "Pine Labs於10月30日經Finovate週報列入，與Webxpay合作把印度即時支付系統UPI帶到斯里蘭卡",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/finovate-global-hong-kong-raising-capital-powering-payments-and-planning-for-the-future/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 30 Oct 2026 21:16:43 +0000",
+   "summary": "Finovate在10月30日的全球週報中報導，印度支付業者Pine Labs與斯里蘭卡的Webxpay合作，把印度統一支付介面（UPI）帶到斯里蘭卡。UPI是印度國家級即時支付標準，以行動裝置與二維碼完成帳戶到帳戶轉帳。公開摘要未揭露上線",
+   "core_fact": "Finovate在10月30日的全球週報中報導，印度支付業者Pine Labs與斯里蘭卡的Webxpay合作，把印度統一支付介面（UPI）帶到斯里蘭卡。UPI是印度國家級即時支付標準，以行動裝置與二維碼完成帳戶到帳戶轉帳。公開摘要未揭露上線日期、交易額度或手續費安排，因此實際普及度仍待觀察。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Nvidia weighs cosigner for Nscale West Virginia",
+   "display_title": "輝達（Nvidia）於10月29日傳出正洽談為AI雲端業者Nscale的西維吉尼亞資料中心提供債務擔保，Anthropic就首棟建築簽下446億美元合約",
+   "source": "TechCrunch AI",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+     "status": "ok",
+     "chars": 4332
+    }
+   ],
+   "date_evidence": "Sat, 31 Oct 2026 01:20:05 +0000",
+   "summary": "The Information於10月29日報導，輝達正與Nscale洽談為其規劃中的Anthropic資料中心提供債務擔保，Bloomberg隨後證實。根據Nscale的IPO文件，Anthropic就西維吉尼亞園區首棟460兆瓦建築簽下",
+   "core_fact": "The Information於10月29日報導，輝達正與Nscale洽談為其規劃中的Anthropic資料中心提供債務擔保，Bloomberg隨後證實。根據Nscale的IPO文件，Anthropic就西維吉尼亞園區首棟460兆瓦建築簽下446億美元合約，雙方並討論約450億美元的第二棟合約。依殘值保證安排，若Nscale無法償付建設款項，輝達將暫時接管設施並協助尋找買家與新租戶。輝達先前的支持多限於租賃與晶片採購，此次首度涉及建設；The Information估計輝達對新雲端業者與大客戶的投資與信用支持已約1,700億美元，其中9月承諾Nscale 10億美元可轉換融資。",
+   "deep_facts": [
+    "輝達對新雲端業者與大客戶的投資與信用支持約1,700億美元，含9月10億美元可轉換融資",
+    "Nscale 8月約2.5萬顆晶片運轉，目標近50萬顆；微軟因電網延至2030年代退出英格蘭據點",
+    "輝達殘值保證首度擴及建設款項：違約時暫時接管設施並協助找買家與新租戶"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "OpenAI lowers funding target",
+   "display_title": "OpenAI於10月30日經金融時報報導將新一輪募資目標下修至200億美元，華爾街日報指已募得110億美元，部分大型投資人反應冷淡",
+   "source": "TechCrunch AI",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+     "status": "ok",
+     "chars": 2016
+    }
+   ],
+   "date_evidence": "Sat, 31 Oct 2026 16:12:55 +0000",
+   "summary": "TechCrunch整理金融時報與華爾街日報報導指出，OpenAI原先傳出以1.4兆美元估值募資300億美元，後降為1.25兆美元估值，10月30日金融時報再報導目標下修至200億美元，首次交割金額預期更低。本輪由阿拉伯聯合大公國投資人領投",
+   "core_fact": "TechCrunch整理金融時報與華爾街日報報導指出，OpenAI原先傳出以1.4兆美元估值募資300億美元，後降為1.25兆美元估值，10月30日金融時報再報導目標下修至200億美元，首次交割金額預期更低。本輪由阿拉伯聯合大公國投資人領投，之後可能再向富裕個人開放零售認購以湊足目標；華爾街日報指OpenAI已取得110億美元，且部分大型投資人反應冷淡。",
+   "deep_facts": [
+    "募資目標歷經300億美元（估值1.4兆、再降1.25兆）後降至200億美元",
+    "本輪由阿聯投資人領投，後續擬向富裕個人開放零售認購",
+    "華爾街日報指已取得110億美元，部分大型投資人反應冷淡"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Why AI Investors Are Buying ADT",
+   "display_title": "Thrive Holdings於10月29日宣布以153億美元（含債務）收購居家保全業者ADT，OpenAI支持的控股公司旗下事業已逾75家",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/why-ai-investors-are-buying-adt-accountants-and-call-centers/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/why-ai-investors-are-buying-adt-accountants-and-call-centers/",
+     "status": "ok",
+     "chars": 5586
+    }
+   ],
+   "date_evidence": "Fri, 30 Oct 2026 19:36:10 +0000",
+   "summary": "PYMNTS報導，OpenAI支持的控股公司Thrive Holdings於10月29日同意以153億美元（含債務）買下ADT，後者在2025年底擁有約610萬名訂戶、六座監控中心與約4,000名客服人員。Thrive Holdings是T",
+   "core_fact": "PYMNTS報導，OpenAI支持的控股公司Thrive Holdings於10月29日同意以153億美元（含債務）買下ADT，後者在2025年底擁有約610萬名訂戶、六座監控中心與約4,000名客服人員。Thrive Holdings是Thrive Capital在2025年分拆出的永久資本控股公司，旗下事業逾75家，8月以120億美元估值募得20億美元。報導並指General Catalyst支持的Long Lake已完成40件收購，Lightspeed則為AI復興基金募得逾7.5億美元，預計收購8至10家包含金融服務在內的成熟企業。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "PhotonPay raises $40M stablecoin Financial OS",
+   "display_title": "PhotonPay於10月30日經Finovate報導完成4,000萬美元C輪募資，由Blockchain Capital領投，用於擴張穩定幣金融作業系統",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/finovate-global-hong-kong-raising-capital-powering-payments-and-planning-for-the-future/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/finovate-global-hong-kong-raising-capital-powering-payments-and-planning-for-the-future/",
+     "status": "ok",
+     "chars": 9651
+    }
+   ],
+   "date_evidence": "Fri, 30 Oct 2026 21:16:43 +0000",
+   "summary": "香港的PhotonPay完成4,000萬美元C輪，由Blockchain Capital領投，SBI集團為新投資人，IDG Capital、GL Ventures與Lightspeed Faction追加。資金將用於強化多資產錢包、擴大全球",
+   "core_fact": "香港的PhotonPay完成4,000萬美元C輪，由Blockchain Capital領投，SBI集團為新投資人，IDG Capital、GL Ventures與Lightspeed Faction追加。資金將用於強化多資產錢包、擴大全球發卡、加強主要市場的本地清算基礎建設，並建立代理人可用的金融執行層。公司稱已取得34項支付與金融牌照，服務逾20萬家企業、遍及200多個國家與地區，並可在17個市場開設本地收款帳戶、收取60多種貨幣；截至2026年8月年化交易量達650億美元。",
+   "deep_facts": [
+    "PhotonPay持有34項牌照，服務逾20萬家企業，17個市場開本地收款帳戶、收60多種貨幣",
+    "2026年8月年化交易量650億美元",
+    "資金將用於多資產錢包、全球發卡、本地清算與代理人可用的金融執行層"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Luxury Mystery Boxes Beezie",
+   "display_title": "Beezie於10月1日宣布其首批奢侈品神祕盒500件於42分鐘售罄，每盒500美元並於Solana留存數位所有權紀錄",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/retail/2026/luxury-mystery-boxes-turn-shopping-into-500-dollar-surprise/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/retail/2026/luxury-mystery-boxes-turn-shopping-into-500-dollar-surprise/",
+     "status": "ok",
+     "chars": 4708
+    }
+   ],
+   "date_evidence": "Sat, 31 Oct 2026 08:00:14 +0000",
+   "summary": "PYMNTS報導，收藏品與數位所有權平台Beezie在10月1日新聞稿中表示，首批奢侈品神祕盒500件於42分鐘內全數售出，每盒500美元，內容包含愛馬仕Birkin 40、勞力士GMT-Master II與香奈兒手袋等。該平台與二手奢侈品",
+   "core_fact": "PYMNTS報導，收藏品與數位所有權平台Beezie在10月1日新聞稿中表示，首批奢侈品神祕盒500件於42分鐘內全數售出，每盒500美元，內容包含愛馬仕Birkin 40、勞力士GMT-Master II與香奈兒手袋等。該平台與二手奢侈品平台The Luxury Closet合作，後者負責採購與鑑定，每件實體商品在Solana上有對應數位紀錄，買家開箱後可保留、存入保管庫或換回平台。公司自稱34.3%的參與帳戶為活動新用戶、50.5%重複參與，這些為公司自述數據。",
+   "deep_facts": [
+    "與The Luxury Closet合作，實體商品在Solana有對應數位紀錄，公開機率",
+    "公司自述34.3%為新用戶、50.5%重複參與",
+    "StockX類似方案賣回金額為標示價值75%至90%且僅限平台點數"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Uber tests tokenization HSBC Franklin Templeton",
+   "display_title": "優步（Uber）於10月31日經CoinDesk報導，與匯豐（HSBC）、富蘭克林鄧普頓（Franklin Templeton）試行代幣化貨幣市場產品，使閒置資金可持續投資並於週末用於支付",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sat, 31 Oct 2026 14:40:29 +0000",
+   "summary": "CoinDesk於10月31日報導，優步在匯豐與富蘭克林鄧普頓參與下完成一項試點，讓公司可讓資金持續停留於貨幣市場產品並仍能取得現金用於支付，包含週末。公開摘要未載明試點金額、期間與使用的區塊鏈，因此規模與商業化時程尚待後續報導。可確認的是",
+   "core_fact": "CoinDesk於10月31日報導，優步在匯豐與富蘭克林鄧普頓參與下完成一項試點，讓公司可讓資金持續停留於貨幣市場產品並仍能取得現金用於支付，包含週末。公開摘要未載明試點金額、期間與使用的區塊鏈，因此規模與商業化時程尚待後續報導。可確認的是，參與者同時涵蓋全球性銀行、資產管理公司與大型平台企業，並以週末付款為驗證情境。",
+   "deep_facts": []
+  }
+ ]
+}

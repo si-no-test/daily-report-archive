@@ -1,0 +1,4 @@
+FINAL_URL: https://www.finextra.com/pressarticle/111520/visa-signs-digital-payments-deal-with-senegal
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden
