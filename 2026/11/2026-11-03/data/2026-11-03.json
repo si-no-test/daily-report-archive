@@ -1,0 +1,273 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-02T23:13:05.970670+00:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Mastercard scales in India",
+   "display_title": "萬事達卡（Mastercard）於10月29日在第三季財報電話會議揭露，與印度最大民營銀行HDFC銀行簽署小企業協議，潛在新增約300萬張卡",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/",
+     "status": "ok",
+     "chars": 3014
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 11:18:04 -0500",
+   "summary": "Mastercard與HDFC銀行簽署小企業協議，潛在新增約300萬張卡。",
+   "core_fact": "萬事達卡執行長Michael Miebach在10月29日的第三季財報電話會議指出，該公司本季與印度最大民營銀行HDFC銀行簽署以小企業為對象的協議，可能再多發行約300萬張卡；公司發言人表示雙方自2005年即有往來，而競爭對手Visa同樣與該行有合作。Miebach提到HDFC銀行擁有約1萬個分行據點、服務1億名客戶，並形容這是全球競爭最激烈市場之一的重要進展。同一份財報顯示，第三季淨收入年增14%至98億美元、淨利年增18%至46億美元，美國以外交易量占整體約七成。",
+   "deep_facts": [
+    "HDFC銀行約1萬個分行據點、服務1億名客戶",
+    "美國以外交易量約占整體七成，第三季淨收入年增14%至98億美元"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Brim Financial Partners with Manulife Bank",
+   "display_title": "Brim Financial於11月2日經Finovate報導，與加拿大宏利銀行（Manulife Bank）合作，協助該行轉移信用卡組合並更換舊有平台",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/brim-financial-partners-with-manulife-bank/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/brim-financial-partners-with-manulife-bank/",
+     "status": "ok",
+     "chars": 3609
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 15:51:40 +0000",
+   "summary": "Brim與宏利銀行合作轉移信用卡組合。",
+   "core_fact": "Brim Financial於11月2日宣布與宏利銀行合作，宏利銀行將採用其嵌入式技術，讓行員、銀行家、顧問與面對客戶的團隊使用智慧化數位流程；Brim提供涵蓋發卡、處理、客服、忠誠度活動與客戶互動的可配置營運模型。宏利銀行是宏利金融集團旗下的加拿大聯邦監管銀行，1993年成立，2026年第二季總資產為348億加幣，並稱是加拿大第一家由保險公司開設的聯邦監管銀行。Brim成立於2016年，總部位於多倫多，2024年於FinovateFall首度亮相。",
+   "deep_facts": [
+    "宏利銀行2026年第二季總資產348億加幣",
+    "宏利銀行1993年成立，為加拿大第一家由保險公司開設的聯邦監管銀行"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Google Wallet Tests Letting Users Confirm Identity Before Every Contactless Payment",
+   "display_title": "Google Wallet於11月1日經Android Authority報導，測試讓使用者選擇每次感應付款前都重新驗證身分",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/authentication/2026/google-wallet-tests-letting-users-confirm-identity-before-every-contactless-payment/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/authentication/2026/google-wallet-tests-letting-users-confirm-identity-before-every-contactless-payment/",
+     "status": "ok",
+     "chars": 2670
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 22:54:01 +0000",
+   "summary": "Google Wallet測試每次感應付款前驗證身分。",
+   "core_fact": "Android Authority於11月1日報導，Google Wallet 26.43.1009867093版本的驗證設定出現新的「Tap to pay」選項，使用者可選擇每次付款前立即驗證身分，而目前的機制是在最近幾分鐘內驗證過後，可連續多次感應付款而不必重複驗證。該報導根據開發中的程式碼，功能未必正式推出，Google也未即時回覆PYMNTS的詢問。PYMNTS Intelligence指出，數位錢包在店內交易的占比已由2022年的11%升至2025年的21%。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Regulator warns Australians about 'highly speculative' prediction markets",
+   "display_title": "澳洲證券投資委員會（ASIC）於11月2日表示「尚未確信」面向零售客戶的預測市場符合公共利益，並警告其屬高度投機",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48680/regulator-warns-australians-about-highly-speculative-prediction-markets",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48680/regulator-warns-australians-about-highly-speculative-prediction-markets",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 00:01:00 GMT",
+   "summary": "ASIC尚未確信零售預測市場符合公共利益。",
+   "core_fact": "據Finextra於11月2日報導，澳洲證券投資委員會（ASIC）表示目前「尚未確信」面向零售客戶的預測市場符合公共利益，並警告參與者這類產品屬於高度投機。這項表態發生在預測市場平台近期快速擴張之際，監理機關選擇在產品大量接觸一般投資人之前先公開立場，並提醒民眾自行承擔虧損風險。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "HugoHub goes live with HugoHub platform",
+   "display_title": "HugoHub於11月2日宣布，首個受監管銀行客戶巴基斯坦HugoBank已上線，新加坡金融基礎設施平台進入實際部署",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111528/hugohub-goes-live-with-hugohub-platform",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/pressarticle/111528/hugohub-goes-live-with-hugohub-platform",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 13:12:00 GMT",
+   "summary": "HugoHub首個受監管銀行客戶HugoBank上線。",
+   "core_fact": "新加坡金融基礎設施平台HugoHub於11月2日宣布，其平台第一個實際部署的受監管銀行客戶是巴基斯坦的HugoBank，一家受監管的數位零售銀行。這次上線讓HugoHub從產品發布進入商業營運階段，也使巴基斯坦成為其平台第一個落地的市場。這則消息以新聞稿形式發布，細節以業者公告為準。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "AI Agents Take the Grunt Work Out of Pamarco's Close",
+   "display_title": "Pamarco於11月2日經PYMNTS報導，以自主AI代理自動化約40%的月結作業，涵蓋七個法人實體",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-the-grunt-work-out-of-pamarcos-close/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-the-grunt-work-out-of-pamarcos-close/",
+     "status": "ok",
+     "chars": 4482
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 23:00:09 +0000",
+   "summary": "Pamarco以AI代理自動化約40%月結作業。",
+   "core_fact": "Pamarco是印刷與包裝產業精密零件製造商，資訊長Glyn Wilson在微軟9月發布的案例研究中表示，公司已用自主AI代理自動化約40%的月結任務，涵蓋美國與歐洲共七個法人實體，並預期年底前可提高到五至六成。代理人每小時檢查ERP月結工作區的待辦事項，條件齊備即執行並以電子郵件回報，貨運發票自動編碼成功率約95%，併購德國公司後該實體發票需人工編碼者低於5%。",
+   "deep_facts": [
+    "貨運發票自動編碼成功率約95%",
+    "德國併購實體發票需人工編碼低於5%",
+    "90%財務長認為整合複雜度是最大障礙，高於2025年的67%"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+   "display_title": "Anthropic於11月2日提交修訂版S-1A，揭露第三季營收170億美元、營業虧損5.67億美元，並預警可能「即將」達到自訂的AI加速研發門檻",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+     "status": "ok",
+     "chars": 4700
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 22:14:50 +0000",
+   "summary": "Anthropic修訂版S-1A預警可能即將達到AI加速研發門檻。",
+   "core_fact": "據TechCrunch與CoinDesk於11月2日報導，Anthropic在修訂版S-1A新增風險因素：公司內部估計與對未來模型的預期顯示，可能「即將」達到其負責任擴展政策所定義的「由AI帶動的研發顯著加速」，但目前並未將任何現有模型指定為已超過門檻。公司同時承認過去曾未能即時辨識能力躍升，並正考慮修訂政策以確保人類持續主導前沿模型開發。CoinDesk指出，該公司第三季營收達170億美元，但運算成本上升造成5.67億美元營業虧損。",
+   "deep_facts": [
+    "S-1A風險因素稱可能「即將」達到負責任擴展政策定義的由AI帶動的研發顯著加速，但未將任何現有模型指定為超過門檻",
+    "公司承認過去曾未能即時辨識能力躍升，並考慮修訂政策以確保人類主導前沿模型開發"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
+   "display_title": "OpenAI於11月2日經TechCrunch報導，將合併ChatGPT的聊天與工作分頁，並讓ChatGPT與Codex共用同一份額度，12月起依詞元計算用量",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+     "status": "ok",
+     "chars": 1886
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 13:57:53 +0000",
+   "summary": "OpenAI合併ChatGPT聊天與工作分頁並共用額度。",
+   "core_fact": "TechCrunch於11月2日報導，OpenAI以電子郵件通知使用者，將合併ChatGPT桌面應用內的聊天與工作分頁，初期僅開放部分使用者回饋，之後再全面推出；Codex仍維持獨立體驗，但ChatGPT與Codex將從同一份詞元額度扣抵。iThome報導，這項調整預計自12月起適用於Plus、Pro與Business方案，額度消耗取決於所選模型及使用量。TechCrunch並指出，Anthropic已在9月把Claude的聊天與Cowork功能合併為單一畫面。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "OKX and Mastercard Bring Stablecoin Card to Most US States",
+   "display_title": "OKX於11月2日宣布，與萬事達卡合作的OKX Card在美國多數州開放，持有穩定幣可直接刷卡且無交易與匯兌手續費",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/okx-and-mastercard-bring-stablecoin-card-to-most-us-states/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cryptocurrency/2026/okx-and-mastercard-bring-stablecoin-card-to-most-us-states/",
+     "status": "ok",
+     "chars": 2841
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 21:19:42 +0000",
+   "summary": "OKX Card在美國多數州開放。",
+   "core_fact": "OKX於11月2日宣布，由萬事達卡支援的虛擬卡OKX Card已開放給美國多數州與部分屬地的合格客戶，持有人可用OKX Pay錢包內的USDC、USDT與USDG，在任何接受萬事達卡的地方消費，無須先換成法幣，且無交易手續費與外匯手續費。使用者可在OKX應用程式啟用卡片並加入Apple Pay或Google Pay，選擇Autopay後以USDG消費可獲現金回饋。該卡此前已於1月在歐洲經濟區推出、7月擴至部分南亞與非洲國家。",
+   "deep_facts": [
+    "支援USDC、USDT、USDG，無交易與外匯手續費",
+    "1月於歐洲經濟區、7月於部分南亞與非洲上線",
+    "USDG餘額在消費間隔可獲收益並有Autopay現金回饋"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Mercado Bitcoin Takes $40 Million Loss in Latest Crypto Hack",
+   "display_title": "Mercado Bitcoin於11月2日經PYMNTS報導，熱錢包遭駭損失約4,000萬美元，由交易所自行吸收且暫停應用程式存取",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/mercado-bitcoin-takes-40-million-dollar-loss-latest-crypto-hack/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cryptocurrency/2026/mercado-bitcoin-takes-40-million-dollar-loss-latest-crypto-hack/",
+     "status": "ok",
+     "chars": 2779
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 20:36:41 +0000",
+   "summary": "Mercado Bitcoin熱錢包遭駭損失約4000萬美元。",
+   "core_fact": "Bloomberg與PYMNTS於11月2日報導，巴西加密貨幣經紀商Mercado Bitcoin在熱錢包遭攻擊後，將自行吸收約4,000萬美元損失，預期客戶不會有損失，公司為預防起見暫停應用程式存取，並未外洩客戶資料。CoinDesk指出至少10條鏈上的錢包被清空，The Block報導的金額則為4,600萬美元，各媒體數字略有差異。這起事件發生在幣安於10月29日遭竊63億美元的數日後，幣安客戶淨提領已接近50億美元。",
+   "deep_facts": [
+    "Tether與Circle在幣安事件後凍結約30億美元",
+    "CFTC主席Michael Selig主張將境外加密交易所納入聯邦監管",
+    "Chainalysis指出比特幣無發行者可凍結"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+   "display_title": "渣打銀行（Standard Chartered）於11月2日在香港推出企業客戶代幣化存款，透過EnsembleTX系統全天候跨行移轉並以央行貨幣結算",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Mon, 02 Nov 2026 15:05:24 +0000",
+   "summary": "渣打於香港為企業客戶推出代幣化存款。",
+   "core_fact": "CoinDesk於11月2日報導，渣打銀行在香港為企業客戶推出代幣化存款，使用香港的EnsembleTX系統，在參與銀行之間全天候移轉存款，並以央行貨幣完成結算。這項服務針對的是企業客戶而非零售客戶，把原本只在營業時間內進行的銀行間存款移轉，擴展為不受營業時間限制。CoinDesk摘要未揭露參與銀行家數與交易規模，實際範圍須待渣打官方資料確認。",
+   "deep_facts": []
+  }
+ ]
+}

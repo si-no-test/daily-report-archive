@@ -1,0 +1,47 @@
+[
+ {
+  "name": "萬事達卡",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要卡組織之一，營運跨國支付網路並與銀行合作發行信用卡與借記卡。"
+ },
+ {
+  "name": "Brim Financial",
+  "url": "https://brimfinancial.com",
+  "intro": "總部位於多倫多的金融科技公司，提供銀行發卡、處理與客戶互動的整合式平台。"
+ },
+ {
+  "name": "宏利銀行",
+  "url": "https://www.manulifebank.ca",
+  "intro": "宏利金融集團旗下的加拿大聯邦監管銀行。"
+ },
+ {
+  "name": "Pamarco",
+  "url": "https://www.pamarco.com",
+  "intro": "美國印刷與包裝產業精密零件製造商。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "開發Claude系列模型的AI公司。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "開發ChatGPT的AI公司。"
+ },
+ {
+  "name": "OKX",
+  "url": "https://www.okx.com",
+  "intro": "全球加密貨幣交易與數位資產服務平台。"
+ },
+ {
+  "name": "渣打銀行",
+  "url": "https://www.sc.com",
+  "intro": "總部位於倫敦、深耕亞洲與新興市場的國際銀行。"
+ },
+ {
+  "name": "澳洲證券投資委員會",
+  "url": "https://asic.gov.au",
+  "intro": "澳洲的證券與投資市場監理機關。"
+ }
+]

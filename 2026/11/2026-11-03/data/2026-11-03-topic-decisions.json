@@ -1,0 +1,22 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "anthropic-ipo-path",
+  "headline": "Anthropic提交修訂版S-1A，揭露第三季營收170億美元、營業虧損5.67億美元並預警AI加速研發門檻",
+  "one_line_update": "11月2日修訂版S-1A顯示第三季營收170億美元、營業虧損5.67億美元，並新增風險因素稱可能即將達到自訂的AI加速研發門檻。",
+  "source_title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+  "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ }
+]
