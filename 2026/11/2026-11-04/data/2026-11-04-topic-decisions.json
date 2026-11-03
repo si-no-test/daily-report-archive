@@ -1,0 +1,46 @@
+[
+ {
+  "action": "match",
+  "topic_id": "revolut-global-banking-license-expansion",
+  "headline": "Revolut取得紐西蘭銀行註冊，成為該國首家數位銀行",
+  "one_line_update": "Revolut於11月3日取得紐西蘭儲備銀行銀行註冊，為第七張銀行牌照、今年第五張，並承諾五年投入1.2億紐幣。",
+  "source_title": "Revolut Secures New Zealand Banking License, Expanding Its Global Footprint",
+  "source_url": "https://finovate.com/revolut-secures-new-zealand-banking-license-expanding-its-global-footprint/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "anthropic-ipo-path",
+  "headline": "Anthropic修訂版S-1揭露第三季算力成本占營收58%",
+  "one_line_update": "Anthropic於11月2日提交修訂版S-1，第三季營收170億美元，算力成本占營收比由48%升至58%。",
+  "source_title": "Anthropic is still grappling with the economics of compute",
+  "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+ },
+ {
+  "action": "match",
+  "topic_id": "us-genius-act-stablecoin-rules",
+  "headline": "OCC最終規則保留500萬美元資本下限，社區銀行可經子公司發行穩定幣",
+  "one_line_update": "OCC在GENIUS Act最終規則中保留500萬美元資本下限並延長適用期間，規則將於2027年1月18日生效。",
+  "source_title": "OCC Opens Stablecoin Issuance Path for Community Banks",
+  "source_url": "https://www.pymnts.com/cryptocurrency/2026/occ-opens-stablecoin-issuance-path-community-banks/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "open-usd-consortium-stablecoin",
+  "headline": "Open Standard公布OUSD管理費與股權獎勵池",
+  "one_line_update": "Open Standard於11月3日公布OUSD管理費為支付金額0.1個基點、單筆上限0.01美元，並提供股權獎勵池。",
+  "source_title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+  "source_url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Revolut",
+  "url": "https://www.revolut.com",
+  "intro": "總部位於英國的數位銀行與金融科技公司，業務橫跨多國零售銀行與跨境支付。"
+ },
+ {
+  "name": "高盛",
+  "url": "https://www.goldmansachs.com",
+  "intro": "美國大型投資銀行，業務涵蓋投資銀行、交易與資產管理。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "AI公司，開發Claude系列大型語言模型。"
+ },
+ {
+  "name": "美國貨幣監理署",
+  "url": "https://www.occ.gov",
+  "intro": "美國財政部下轄的聯邦銀行監理機關，負責國家銀行與聯邦儲蓄機構的許可與監督。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "線上支付與金融基礎設施業者，提供收單、帳務與穩定幣相關服務。"
+ },
+ {
+  "name": "Visa",
+  "url": "https://usa.visa.com",
+  "intro": "全球卡組織，經營跨國電子支付網路。"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://www.mastercard.com",
+  "intro": "全球卡組織，經營跨國電子支付網路。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國上市的加密資產交易與託管平台。"
+ },
+ {
+  "name": "OnePay",
+  "url": "https://www.onepay.com",
+  "intro": "沃爾瑪支持的數位金融應用，提供支票帳戶、卡片與支付服務。"
+ },
+ {
+  "name": "Truist",
+  "url": "https://www.truist.com",
+  "intro": "美國大型區域銀行，提供零售、企業與支付服務。"
+ },
+ {
+  "name": "輝達",
+  "url": "https://www.nvidia.com",
+  "intro": "全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"
+ },
+ {
+  "name": "Google",
+  "url": "https://www.google.com",
+  "intro": "Alphabet旗下科技公司，經營搜尋、雲端、AI與Google Pay等服務。"
+ }
+]

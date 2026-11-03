@@ -1,0 +1,251 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-03T23:12:07.288053+00:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Revolut Secures New Zealand Banking License",
+   "display_title": "Revolut於11月3日取得紐西蘭儲備銀行銀行註冊，成為該國第27家註冊銀行與首家數位銀行，並承諾五年內投入1.2億紐幣",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/revolut-secures-new-zealand-banking-license-expanding-its-global-footprint/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/revolut-secures-new-zealand-banking-license-expanding-its-global-footprint/",
+     "status": "ok",
+     "chars": 2966
+    }
+   ],
+   "date_evidence": "Digital banking platform Revolut announced today (Tue, 03 Nov 2026 19:54:13 +0000)",
+   "summary": "Revolut於11月3日宣布，紐西蘭儲備銀行已註冊Revolut Bank New Zealand Limited，使其成為該國第27家註冊銀行與首家數位銀行，距離該公司2023年以金融服務業者身分進入紐西蘭已滿三年。新銀行首波推出即時提",
+   "core_fact": "Revolut於11月3日宣布，紐西蘭儲備銀行已註冊Revolut Bank New Zealand Limited，使其成為該國第27家註冊銀行與首家數位銀行，距離該公司2023年以金融服務業者身分進入紐西蘭已滿三年。新銀行首波推出即時提領儲蓄帳戶，提供為期四個月的3.50%浮動優惠利率，合資格存款最高10萬紐幣受紐西蘭存款人補償機制保障，並承諾未來五年在當地投入1.2億紐幣。",
+   "deep_facts": [
+    "紐西蘭第27家註冊銀行與首家數位銀行",
+    "3.50%四個月優惠利率、存款保障上限10萬紐幣",
+    "集團第七張銀行牌照、今年第五張，5年投入1.2億紐幣"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Bilt tackles sports with $300M deal",
+   "display_title": "Bilt Technologies於11月2日宣布以3億美元收購運動忠誠度科技公司Lava，把租金回饋延伸到職業球隊客群",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/bilt-acquire-lava-sports-technology-rewards-loyalty-300-million-wells-fargo-cards-cfpb/873572/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/bilt-acquire-lava-sports-technology-rewards-loyalty-300-million-wells-fargo-cards-cfpb/873572/",
+     "status": "ok",
+     "chars": 3107
+    }
+   ],
+   "date_evidence": "Tue, 03 Nov 2026 09:29:16 -0500",
+   "summary": "以房租刷卡賺點數起家的Bilt Technologies於11月2日宣布，以3億美元收購運動忠誠度科技公司Lava。Lava平台以逾300個技術轉接器串接銷售點、身分、忠誠度、票務與支付，已與56支職業運動球隊合作；Bilt本身約有700萬",
+   "core_fact": "以房租刷卡賺點數起家的Bilt Technologies於11月2日宣布，以3億美元收購運動忠誠度科技公司Lava。Lava平台以逾300個技術轉接器串接銷售點、身分、忠誠度、票務與支付，已與56支職業運動球隊合作；Bilt本身約有700萬名會員、約5萬家合作商家。雙方計畫把Bilt的AI代理與Lava的即時互動技術結合，依共享資料推出在地商家的個人化優惠。",
+   "deep_facts": [
+    "Lava有逾300個技術轉接器、與56支職業球隊合作",
+    "Bilt約700萬會員、5萬家商家",
+    "富國銀行提前結束聯名卡合作、CFPB 6月要求退費約500名客戶"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Truist bolsters merchant tools",
+   "display_title": "Truist於11月3日宣布強化商戶服務，納入Fiserv旗下Clover收銀系統與Paze數位錢包作為線上結帳選項",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/truist-expands-merchant-tools-chris-ward/873617/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 03 Nov 2026 12:37:00 -0500",
+   "summary": "美國區域銀行Truist於11月3日宣布，為商戶客戶推出更快的開戶流程、新的管理功能與更完整的支付活動檢視，並借助Fiserv的Clover收銀系統及Early Warning Services的Paze數位錢包作為線上結帳選項。企業支付主",
+   "core_fact": "美國區域銀行Truist於11月3日宣布，為商戶客戶推出更快的開戶流程、新的管理功能與更完整的支付活動檢視，並借助Fiserv的Clover收銀系統及Early Warning Services的Paze數位錢包作為線上結帳選項。企業支付主管Chris Ward表示，新功能已於上季試辦後全數上線；Truist第三季卡片與資金管理費用年增2%，達3.47億美元，銀行資產規模為5,540億美元。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Google makes big plans for wallet",
+   "display_title": "Google的付款主管Stavan Parikh於10月26日表示，將把Google錢包擴大為收據、退款與優惠整合的購物全流程入口",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/google-thinks-bigger-about-the-wallet-digital-agentic-retail/873585/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 03 Nov 2026 10:26:00 -0500",
+   "summary": "Google付款業務副總裁暨總經理Stavan Parikh在10月26日受訪時表示，Google錢包要從存放卡片與證件，擴展到收據保管、線上訂單追蹤、退款處理與商家優惠傳遞，目標是讓使用者出門不必攜帶實體皮夾。Payments Dive於",
+   "core_fact": "Google付款業務副總裁暨總經理Stavan Parikh在10月26日受訪時表示，Google錢包要從存放卡片與證件，擴展到收據保管、線上訂單追蹤、退款處理與商家優惠傳遞，目標是讓使用者出門不必攜帶實體皮夾。Payments Dive於11月3日報導此訪談；Google並已於6月宣布Chrome瀏覽器的表單自動填寫與錢包更緊密整合。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "10x Banking and ezbob Team Up to Transform SME Lending",
+   "display_title": "10x Banking與ezbob於11月3日宣布策略合作，目標讓銀行在數週而非數個月內推出中小企業放款產品",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/10x-banking-and-ezbob-team-up-to-transform-sme-lending/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 03 Nov 2026 19:52:17 +0000",
+   "summary": "核心銀行平台業者10x Banking與中小企業放款軟體業者ezbob於11月3日宣布策略合作，把ezbob的放款流程與10x的雲端核心結合，協助銀行以數週而非數個月的時間推出中小企業放款產品。雙方指出，銀行常被迫在自建系統與沿用舊系統之間",
+   "core_fact": "核心銀行平台業者10x Banking與中小企業放款軟體業者ezbob於11月3日宣布策略合作，把ezbob的放款流程與10x的雲端核心結合，協助銀行以數週而非數個月的時間推出中小企業放款產品。雙方指出，銀行常被迫在自建系統與沿用舊系統之間二選一，新合作旨在提供預先整合的第三條路，內容未揭露合作金額或首批銀行客戶。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Goldman Benches Its Vibe Coders While BNY Lets Everyone Build",
+   "display_title": "高盛（Goldman Sachs）於11月2日經彭博報導將Claude Code與GitHub編碼工具限縮至工程師與量化專才，收回7月起推動的氛圍編碼做法",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-benches-its-vibe-coders-while-bny-lets-everyone-build/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-benches-its-vibe-coders-while-bny-lets-everyone-build/",
+     "status": "ok",
+     "chars": 5142
+    }
+   ],
+   "date_evidence": "Tue, 03 Nov 2026 20:52:40 +0000",
+   "summary": "PYMNTS於11月2日引述彭博報導，高盛已把Anthropic的Claude Code與微軟旗下GitHub編碼工具限縮給工程師與量化專才，逆轉資訊長Marco Argenti在7月鼓勵員工自行建置應用程式的作法，當時構想是由約1.2萬名",
+   "core_fact": "PYMNTS於11月2日引述彭博報導，高盛已把Anthropic的Claude Code與微軟旗下GitHub編碼工具限縮給工程師與量化專才，逆轉資訊長Marco Argenti在7月鼓勵員工自行建置應用程式的作法，當時構想是由約1.2萬名工程師再精修員工原型。發言人Nick Carcaterra表示，決定源於對生產力與風險管理的內部檢討；高盛未揭露資安事件，也未公布生產力評估數據。",
+   "deep_facts": [
+    "MUFG因Claude Code可繞過資訊存取限制而自建替代工具",
+    "BNY逾400項AI解決方案上線、德銀逾1.5萬名開發人員使用編碼助理",
+    "43%財務長願在人工核准下給AI代理中等權限、無人願給完全權限"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Apollo's Record AI Lending Begins to Rival Banking Giants",
+   "display_title": "阿波羅（Apollo Global）於11月3日經金融時報報導單季放款達1,140億美元創新高，較第二季成長50%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/",
+     "status": "ok",
+     "chars": 2832
+    }
+   ],
+   "date_evidence": "Tue, 03 Nov 2026 21:29:49 +0000",
+   "summary": "PYMNTS於11月3日引述金融時報報導，阿波羅單季放款達1,140億美元創新高，較第二季成長50%，過去12個月累計放款逾3,500億美元，較前一年增加近三分之一，規模已與匯豐（HSBC）與花旗（Citigroup）等大型商業銀行相當。借",
+   "core_fact": "PYMNTS於11月3日引述金融時報報導，阿波羅單季放款達1,140億美元創新高，較第二季成長50%，過去12個月累計放款逾3,500億美元，較前一年增加近三分之一，規模已與匯豐（HSBC）與花旗（Citigroup）等大型商業銀行相當。借款對象包括Anthropic、輝達（Nvidia）與SpaceX/xAI，結構多以高價值晶片作為擔保。",
+   "deep_facts": [
+    "12個月累計放款逾3,500億美元",
+    "Ares執行長稱無法評估晶片折舊曲線而避開晶片抵押放款",
+    "Apollo首席經濟學家10月24日稱企業AI投資尚無財務報酬"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "display_title": "Anthropic於11月2日提交修訂版S-1，揭露第三季營收170億美元、算力成本占營收比由48%升至58%",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 03 Nov 2026 17:07:01 +0000",
+   "summary": "Anthropic於11月2日（週一）提交S-1修訂版，把財務揭露由6月30日延伸至9月30日。第三季營收達170億美元，高於前一季的115億美元；算力成本占營收比例由前一季的48%升至58%，單季算力帳單約100億美元，其中50億美元屬短",
+   "core_fact": "Anthropic於11月2日（週一）提交S-1修訂版，把財務揭露由6月30日延伸至9月30日。第三季營收達170億美元，高於前一季的115億美元；算力成本占營收比例由前一季的48%升至58%，單季算力帳單約100億美元，其中50億美元屬短期承諾，價格明顯高於多年期合約。每花一美元算力所帶來的營收，由高峰略高於2倍回落至1.72倍。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "OCC Opens Stablecoin Issuance Path for Community Banks",
+   "display_title": "美國貨幣監理署（OCC）於11月3日經PYMNTS報導，GENIUS Act最終規則保留500萬美元資本下限，社區銀行可透過子公司發行穩定幣",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/occ-opens-stablecoin-issuance-path-community-banks/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cryptocurrency/2026/occ-opens-stablecoin-issuance-path-community-banks/",
+     "status": "ok",
+     "chars": 4978
+    }
+   ],
+   "date_evidence": "Tue, 03 Nov 2026 22:58:10 +0000",
+   "summary": "PYMNTS於11月3日報導，OCC在GENIUS Act最終規則中說明社區銀行可透過子公司發行穩定幣，準備金須涵蓋流通幣值，營運備援通常為12個月費用，500萬美元資本下限在發行人最初三年後仍然保留。OCC監理986家機構，其中約602家",
+   "core_fact": "PYMNTS於11月3日報導，OCC在GENIUS Act最終規則中說明社區銀行可透過子公司發行穩定幣，準備金須涵蓋流通幣值，營運備援通常為12個月費用，500萬美元資本下限在發行人最初三年後仍然保留。OCC監理986家機構，其中約602家屬小型機構，占約64%；分析採商業銀行與儲蓄機構資產8.5億美元、信託公司4,700萬美元的門檻。規則將於2027年1月18日生效。",
+   "deep_facts": [
+    "OCC監理986家機構、約602家屬小型機構",
+    "資本下限500萬美元延長至發行人最初三年後",
+    "北達科他州Roughrider Coin由Versabank發行、Fiserv提供基礎設施"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "OnePay Taps Stripe to Power Stablecoin Deposits",
+   "display_title": "OnePay於10月30日公告，開放部分美國客戶以12條區塊鏈上的USDC儲值支票帳戶，並由Stripe旗下Bridge轉為美元",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/onepay-taps-stripe-to-power-stablecoin-deposits/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/onepay-taps-stripe-to-power-stablecoin-deposits/",
+     "status": "ok",
+     "chars": 3751
+    }
+   ],
+   "date_evidence": "Tue, 03 Nov 2026 22:49:55 +0000",
+   "summary": "沃爾瑪（Walmart）支持的數位銀行OnePay於10月30日在公司部落格公告，部分美國客戶可從外部錢包把USDC送到存款地址，系統在數分鐘內兌換為美元並入帳支票帳戶，支援包含Tempo、Base、Solana與以太坊在內的12條區塊鏈。",
+   "core_fact": "沃爾瑪（Walmart）支持的數位銀行OnePay於10月30日在公司部落格公告，部分美國客戶可從外部錢包把USDC送到存款地址，系統在數分鐘內兌換為美元並入帳支票帳戶，支援包含Tempo、Base、Solana與以太坊在內的12條區塊鏈。OnePay在推出階段不收兌換費，但區塊鏈網路費仍由客戶負擔；轉換由Stripe旗下Bridge負責建立並保護存款地址、監控鏈上交易。",
+   "deep_facts": [
+    "支援12條區塊鏈的USDC儲值",
+    "由Stripe旗下Bridge建立存款地址並兌換",
+    "推出階段不收兌換費、客戶仍負擔鏈上網路費"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+   "display_title": "Open Standard於11月3日經CoinDesk報導，OUSD管理費定為支付金額的0.1個基點、單筆上限0.01美元",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 03 Nov 2026 16:12:35 +0000",
+   "summary": "OUSD背後的治理組織Open Standard於11月3日經CoinDesk報導公布管理費機制：依支付金額收取0.1個基點，單筆上限0.01美元；另提供股權獎勵池，依夥伴持有與流動的OUSD規模分配。聯盟包含Stripe、Visa、Mas",
+   "core_fact": "OUSD背後的治理組織Open Standard於11月3日經CoinDesk報導公布管理費機制：依支付金額收取0.1個基點，單筆上限0.01美元；另提供股權獎勵池，依夥伴持有與流動的OUSD規模分配。聯盟包含Stripe、Visa、Mastercard與Coinbase等，各創始夥伴承諾逾10億美元的近期啟動流動性；與USDT、USDC由發行人保留準備金利息不同，OUSD把準備金收益在扣除管理費後歸還夥伴。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+   "display_title": "美國商品期貨交易委員會（CFTC）於11月3日核准個股永續期貨可在美國交易所交易，旋即遭Citadel Securities等支持的團體提告",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 03 Nov 2026 20:24:55 +0000",
+   "summary": "CFTC主席Michael Selig於11月3日表示，個股永續期貨依規則40.3視同核准，可在同時登記CFTC與SEC的美國交易所交易，讓美國交易員不必轉向「離岸且常不受監管的場所」。Selig未點名交易所或開始日期；Coinbase、K",
+   "core_fact": "CFTC主席Michael Selig於11月3日表示，個股永續期貨依規則40.3視同核准，可在同時登記CFTC與SEC的美國交易所交易，讓美國交易員不必轉向「離岸且常不受監管的場所」。Selig未點名交易所或開始日期；Coinbase、Kalshi與Kraken母公司Payward於9月已提出申請。Citadel Securities等支持的團體隨後起訴，主張這類產品應歸SEC管轄。",
+   "deep_facts": []
+  }
+ ]
+}

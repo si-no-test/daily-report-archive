@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-04",
+  "archived_at": "2026-11-03T23:12:18Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "2458f871ec0ca30a7312f0f03b283fe598b0b796",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 23,
+  "total_bytes": 751399,
+  "files": [
+    {
+      "path": "data/2026-11-04-candidates.txt",
+      "bytes": 66419,
+      "sha256": "66ca08396e817c09a98bff4ed7a3dcfaffe3ccc7727a1048848d6acb4ca868de"
+    },
+    {
+      "path": "data/2026-11-04-glossary.json",
+      "bytes": 1604,
+      "sha256": "5f0af5342b51802701035898f0e48019449bc3278e9a45e37c8660ed77bf44b6"
+    },
+    {
+      "path": "data/2026-11-04-manifest.txt",
+      "bytes": 3460,
+      "sha256": "eda1be0f85caf29411072494f1c0a070558797d40b6829268ca6e62a3ede36ea"
+    },
+    {
+      "path": "data/2026-11-04-orgs.json",
+      "bytes": 1837,
+      "sha256": "497770f007cc86c8cfa4699865996b89c86e84462a5c3da011e9a1f94aca92e5"
+    },
+    {
+      "path": "data/2026-11-04-topic-cases.json",
+      "bytes": 1868,
+      "sha256": "6e64b464b79f3bd85380cc1300f897774bc845cdffff14d6bc93404c77906ce0"
+    },
+    {
+      "path": "data/2026-11-04-topic-decisions.json",
+      "bytes": 2211,
+      "sha256": "27ad125f78dd18fd36f6076b1ed5474a4be9007dc6dfb5da515e7c962be21481"
+    },
+    {
+      "path": "data/2026-11-04.json",
+      "bytes": 18231,
+      "sha256": "3995b4f011c1519db1eb83faec58e2a0a849f93d66f4070f3e5e0dd2dd44fbe0"
+    },
+    {
+      "path": "outbox/2026-11-04-archive.html",
+      "bytes": 100498,
+      "sha256": "e3807639d1351ccd8ccb991b0788a9bc54e2c0fb9928d0370031ecd7e4687dca"
+    },
+    {
+      "path": "outbox/2026-11-04-email.html",
+      "bytes": 11073,
+      "sha256": "d2f16afbc1b05178a5ff7adc0e1a0fa386f35179f12730ae78b83457a96b4cd3"
+    },
+    {
+      "path": "published/2026-11-04.html",
+      "bytes": 555,
+      "sha256": "80a129b6f52938b472190b5b4e3c9168c84d4152e676b6059c95edf286a962d5"
+    },
+    {
+      "path": "published/2026-11-04/ai.html",
+      "bytes": 36743,
+      "sha256": "dcac5911a2fd70dad38bbcbab26aa71f8c5784a50044c3a83a6782e67648acb8"
+    },
+    {
+      "path": "published/2026-11-04/blockchain.html",
+      "bytes": 47313,
+      "sha256": "40a1f80db347b244e4b585c9a20ac9b4ddffd47e609e13e8fa4cdff9ce698364"
+    },
+    {
+      "path": "published/2026-11-04/index.html",
+      "bytes": 22639,
+      "sha256": "44e607d8dde193e553a07da2ba561301b38d40b1af468876d78b15f8e2683b83"
+    },
+    {
+      "path": "published/2026-11-04/innovation.html",
+      "bytes": 51196,
+      "sha256": "ad6b3d074f301e039a74a491f88e9988208c096dd422d307833b111152403bfc"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 324922,
+      "sha256": "140542e9faf39f277f6e734403fd19fef6516fea129a0cb4b2c3a1632eec0e73"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "c107b987c443320aaf900429d6f2341e5c8a1b8137113864d0f52d899019ece0"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "80a129b6f52938b472190b5b4e3c9168c84d4152e676b6059c95edf286a962d5"
+    },
+    {
+      "path": "published/topics/anthropic-ipo-path.html",
+      "bytes": 7847,
+      "sha256": "3b84c8fadeb27d8e4fbdad448dc3984ed0e90324f22f25399855c2df9e065561"
+    },
+    {
+      "path": "published/topics/open-usd-consortium-stablecoin.html",
+      "bytes": 4404,
+      "sha256": "a0fea8a373fc19b32fced2a5f6dbbdbd9c71317308e63a6c6f55c6b5049d6c26"
+    },
+    {
+      "path": "published/topics/revolut-global-banking-license-expansion.html",
+      "bytes": 3239,
+      "sha256": "bb965623bcd1659a8a624a05ad7b8ed751cc39685f1e5d39d5b5c4aefbdf9951"
+    },
+    {
+      "path": "published/topics/us-genius-act-stablecoin-rules.html",
+      "bytes": 7567,
+      "sha256": "ffb5b0cc31b6c090a3a0d6954c6da96754c84695b9e229daf7f5f15303c7da5f"
+    },
+    {
+      "path": "source/2026-11-04-report.txt",
+      "bytes": 33999,
+      "sha256": "2f1b22fe44c571122f240066bd520b124775b34c7bd21d4bd61eeb0c59684523"
+    },
+    {
+      "path": "source/2026-11-04-summary.txt",
+      "bytes": 2427,
+      "sha256": "5e7a37954b7905114530d39139f2afdb3847649b5b0384491279788443f72d3e"
+    }
+  ]
+}

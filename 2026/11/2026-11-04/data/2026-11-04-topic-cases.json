@@ -1,0 +1,42 @@
+[
+ {
+  "title": "- **Revolut**於11月3日取得紐西蘭儲備銀行銀行註冊，成為該國第27家註冊銀行與首家數位銀行，並承諾五年內投入1.2億紐幣",
+  "summary": "Revolut取得紐西蘭銀行註冊，推出儲蓄帳戶",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Bilt Technologies**於11月2日宣布以3億美元收購運動忠誠度科技公司Lava，把租金回饋延伸到職業球隊客群",
+  "summary": "Bilt收購Lava",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **高盛（Goldman Sachs）**於11月2日經彭博報導將Claude Code與GitHub編碼工具限縮至工程師與量化專才，收回7月起推動的氛圍編碼做法",
+  "summary": "高盛限縮AI編碼工具",
+  "theme": "ai"
+ },
+ {
+  "title": "- **阿波羅（Apollo Global）**於11月3日經金融時報報導單季放款達1,140億美元創新高，較第二季成長50%",
+  "summary": "Apollo AI融資放款創高",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Anthropic**於11月2日提交修訂版S-1，揭露第三季營收170億美元、算力成本占營收比由48%升至58%",
+  "summary": "Anthropic S-1修訂版揭露算力成本",
+  "theme": "ai"
+ },
+ {
+  "title": "- **美國貨幣監理署（OCC）**於11月3日經PYMNTS報導，GENIUS Act最終規則保留500萬美元資本下限，社區銀行可透過子公司發行穩定幣",
+  "summary": "OCC GENIUS Act最終規則",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **OnePay**於10月30日公告，開放部分美國客戶以12條區塊鏈上的USDC儲值支票帳戶，並由Stripe旗下Bridge轉為美元",
+  "summary": "OnePay穩定幣儲值",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Open Standard**於11月3日經CoinDesk報導，OUSD管理費定為支付金額的0.1個基點、單筆上限0.01美元",
+  "summary": "OUSD管理費與股權獎勵池",
+  "theme": "blockchain"
+ }
+]
