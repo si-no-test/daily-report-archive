@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-05",
+  "archived_at": "2026-11-04T23:13:47Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "923ed6fffe57c5f202124562ad87c1f43ef66f69",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 793873,
+  "files": [
+    {
+      "path": "data/2026-11-05-candidates.txt",
+      "bytes": 71275,
+      "sha256": "32702406b77a192c80bb03c4e8315ba53376b4505490a2c8eadd3ddd001ff7d2"
+    },
+    {
+      "path": "data/2026-11-05-glossary.json",
+      "bytes": 1902,
+      "sha256": "3352297c0999d08d9ba54afdbce07814e56fe92c1f162e4ab836d20cce169ae3"
+    },
+    {
+      "path": "data/2026-11-05-manifest.txt",
+      "bytes": 3460,
+      "sha256": "41084b74ab448434d051e80ebf174a00783b13d1f6f30c998d9e71df6243c833"
+    },
+    {
+      "path": "data/2026-11-05-orgs.json",
+      "bytes": 2072,
+      "sha256": "2b7c90a91ab600dea3b0363d2c6f3ef007549548ba237f252709c58fc0d79b83"
+    },
+    {
+      "path": "data/2026-11-05-topic-cases.json",
+      "bytes": 1547,
+      "sha256": "4ad0c1d48f1dd97776776697254643534494eecb8a60f06247bca9fee5b363a0"
+    },
+    {
+      "path": "data/2026-11-05-topic-decisions.json",
+      "bytes": 1265,
+      "sha256": "e9ae186152a68011a327a101ef871a2df3da8976aa6f38013b19812675f6831f"
+    },
+    {
+      "path": "data/2026-11-05.json",
+      "bytes": 18936,
+      "sha256": "2835b74b5ae9e52b5e2d0c9278361843963d28c7821ff7a1b35d3eb2cf0c0234"
+    },
+    {
+      "path": "outbox/2026-11-05-archive.html",
+      "bytes": 116549,
+      "sha256": "0fcd83ac1532daf5e89c614ce6d6a73b45310d102c97c8066cb86703d59e189c"
+    },
+    {
+      "path": "outbox/2026-11-05-email.html",
+      "bytes": 10919,
+      "sha256": "32ceb21ea38a5996442869ee4d7cdec5ad9712ebee2cb77f362c1c1c2ad82fcc"
+    },
+    {
+      "path": "published/2026-11-05.html",
+      "bytes": 555,
+      "sha256": "5f72a2c73050cfc358d841adbce13105ffa1d1b9cf4314db3c09498a4da4f07b"
+    },
+    {
+      "path": "published/2026-11-05/ai.html",
+      "bytes": 42410,
+      "sha256": "80a2106c235e2e5d40042f95f236be000347be3a3e0048a6e55d558ec001c750"
+    },
+    {
+      "path": "published/2026-11-05/blockchain.html",
+      "bytes": 52916,
+      "sha256": "af547bae0ae5fc1b88a370adb08ce9cfc0003f0cb61681a1a603613321536701"
+    },
+    {
+      "path": "published/2026-11-05/index.html",
+      "bytes": 24958,
+      "sha256": "2382828676af87da459674870628298421a67555a4d4a57a8787fc80fe61b180"
+    },
+    {
+      "path": "published/2026-11-05/innovation.html",
+      "bytes": 55787,
+      "sha256": "1f6422d17a5c451d1990a95d67e17b071b046f7da67c550bf57f0b6029beee55"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 329960,
+      "sha256": "bb50c53ebdef255d7b9b820d7f111a526df4963d9c25e14b4e4b391973495b6a"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "eaf89f0ae51710d9c42e334930711e7742ef86d5a020084c3c7ebb35be383f28"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "5f72a2c73050cfc358d841adbce13105ffa1d1b9cf4314db3c09498a4da4f07b"
+    },
+    {
+      "path": "published/topics/revolut-global-banking-license-expansion.html",
+      "bytes": 4149,
+      "sha256": "d376cd6bc43fd406a187a614e717650144b6bb4ac37747144f97d1db84bcdfcd"
+    },
+    {
+      "path": "published/topics/us-clarity-act-market-structure-bill.html",
+      "bytes": 8112,
+      "sha256": "1de6f32c0b0f5649977dda1a111d9f80889b89ca4b7e5066159aa49ee339966c"
+    },
+    {
+      "path": "source/2026-11-05-report.txt",
+      "bytes": 43199,
+      "sha256": "b8e307ca9a1582811e85e326e12d41632e7fde5f4f125868dcd76fc419756439"
+    },
+    {
+      "path": "source/2026-11-05-summary.txt",
+      "bytes": 2555,
+      "sha256": "371594e34e6e52b77716a644ac244480f4f3257d14700e31f8f2c661411b7ebf"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T09:00:00+08:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 5,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Revolut valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+   "display_title": "Revolut於11月4日完成二級市場股份出售，估值達1,150億美元、較一年前成長53%",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+     "status": "ok",
+     "chars": 4044
+    }
+   ],
+   "date_evidence": "Wed, 04 Nov 2026 14:10:10 +0000",
+   "summary": "Revolut二級市場股份出售估值1,150億美元，較一年前成長53%，並預計2027年上半年推出美國國家銀行。",
+   "core_fact": "Revolut的投資人完成二級市場股份出售，將這家英國金融科技公司估值定在1,150億美元，較一年前另一輪股份出售的價格高出53%，由Glade Brook Capital Partners、Coatue、Durable Capital Partners、T. Rowe Price與Baillie Gifford領投，沒有帶進新資金，公司也未透露出售股數。Revolut成立於2015年，已有逾8,000萬名零售客戶、業務涵蓋逾40個國家，2025年營收60億美元、利潤率38%，並已取得美國貨幣監理署對國家銀行的有條件核准，預計2027年上半年推出，仍須最終監理核准。",
+   "deep_facts": [
+    "Revolut Business約貢獻20%毛利，每月處理逾360億英鎊交易、年化營收逾9.5億英鎊、客戶存款逾180億英鎊",
+    "美國新增企業客戶近半數為新設立公司，企業客戶目標由逾80萬家增至2027年100萬家",
+    "IPO最早2028年，可能以2,000億美元估值為目標"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Block reaches $964M DOJ pact",
+   "display_title": "Block於11月3日在季報揭露與美國司法部達成原則性和解，擬支付7.64億美元了結洗錢防制缺失指控",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/block-reaches-964m-doj-pact/873729/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/block-reaches-964m-doj-pact/873729/",
+     "status": "ok",
+     "chars": 4665
+    }
+   ],
+   "date_evidence": "Wed, 04 Nov 2026 10:58:00 -0500",
+   "summary": "Block與DOJ達成原則性協議，支付7.64億美元並延後起訴三年。",
+   "core_fact": "Block在11月3日提交的季報中揭露，已與美國司法部就《銀行保密法》指控達成原則性協議，擬支付7.64億美元，並可獲得2億美元先前監管和解的抵扣，報導因此以約9.64億美元稱呼整體協議規模。司法部將延後起訴三年，只要Block履行條件就會撤銷指控；Block同時表示最終條款仍可能使損失超過已提列的7.64億美元，也不保證一定達成最終協議。",
+   "deep_facts": [
+    "SEC今年3月告知Block已終止調查、不採取執法行動",
+    "去年與CFPB及48州達成2.55億美元和解、紐約金融監理機關4,000萬美元、今年7月與46州達成4,500萬美元和解",
+    "Cash App單季新增約100萬月活躍用戶至6,000萬、淨利5.656億美元、營收約67.2億美元"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "OppFi withdraws regulatory applications to buy bank",
+   "display_title": "OppFi於11月3日撤回收購BNC National Bank的監理申請，併購協議本身仍然有效",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/oppfi-withdraw-applications-occ-fed-fdic-bnc-bank-schwartz-warren-van-hollen/873757/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 12:17:47 -0500",
+   "summary": "OppFi撤回向OCC、聯準會與FDIC提出的收購BNC National Bank申請。",
+   "core_fact": "美國次級放款機構OppFi在11月3日表示，已撤回收購亞利桑那州BNC National Bank的申請，申請對象為貨幣監理署、聯準會與聯邦存款保險公司；執行長Todd Schwartz強調併購協議仍然有效，該協議於4月提出、交易價值1.3億美元，原預計年底前完成，若終止須支付約195萬美元，約為交易價值的1.5%。他同時指出，監理機關缺乏清楚闡明的標準來評估這類申請。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Verifone Turns to Visa's Featurespace to Combat Fraud",
+   "display_title": "Verifone於11月4日宣布將Visa旗下Featurespace導入支付閘道，每筆交易即時評估逾1,800項屬性",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/verifone-turns-to-visas-featurespace-to-combat-fraud/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 19:58:00 +0000",
+   "summary": "Verifone把Featurespace部署於所有支付閘道，提供即時詐欺風險評分。",
+   "core_fact": "支付與商務科技公司Verifone在11月4日宣布，已把Visa旗下的Featurespace納入防詐騙架構，並部署到其所有支付閘道。該框架對每筆交易即時檢視逾1,800項屬性，處理時間控制在100毫秒內，結合Visa的自適應行為分析，為每個商戶、卡片與帳戶建立正常輪廓，協助商戶與支付服務商降低詐欺、流失銷售與退單損失。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Key to buy private capital adviser in boost to investment bank",
+   "display_title": "KeyCorp旗下KeyBanc Capital Markets於11月3日宣布收購私募資本顧問Atlantic-Pacific Capital，預計2027年初完成",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/keycorp-buy-atlantic-pacific-capital-investment-bank/873739/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 11:11:05 -0500",
+   "summary": "KeyBanc同意收購私募資本顧問Atlantic-Pacific Capital，交易條件未揭露。",
+   "core_fact": "KeyCorp旗下企業與投資銀行部門KeyBanc Capital Markets在11月3日宣布，同意收購為財務型投資人提供服務的私募資本顧問Atlantic-Pacific Capital，交易條件未揭露，預計2027年初完成。Atlantic-Pacific成立於1995年、總部在紐約，將為資產規模1,930億美元的Key新增約30名員工，並已替另類資產管理公司處理約180件募資案，總額達1,230億美元。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Anthropic is working on a system to prove AI models' identity",
+   "display_title": "Anthropic於11月3日發表開源系統FlashProve，以密碼學證明驗證AI輸出確實來自指定模型",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+     "status": "ok",
+     "chars": 3742
+    }
+   ],
+   "date_evidence": "Tue, 03 Nov 2026 22:41:03 +0000",
+   "summary": "FlashProve可驗證AI輸出確實來自指定模型。",
+   "core_fact": "Anthropic在11月3日週二發表的部落格文章中公布FlashProve，這是一套開源系統，目標是提供可證明推論，也就是以密碼學方式證明某個輸出出自特定模型。研究人員同步釋出詳細技術規格與可運作的程式碼，採開源授權放在GitHub；但Anthropic表示這只是階段性成果，目前沒有在Anthropic或其他AI實驗室部署的計畫。",
+   "deep_facts": [
+    "實驗室須為每個模型公開指紋，指紋不洩漏模型權重，閉源模型也適用",
+    "驗證設計為輕量，可在本機裝置完成",
+    "可防止AI公司暗中改用較便宜或較昂貴的模型，即使冒充者是模型開發者本人"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "CrowdStrike Lets Security Teams Kill Rogue AI Agents",
+   "display_title": "CrowdStrike於11月3日推出AI Kill Switch，讓管理員切斷失控AI代理與模型的連線",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/2026/crowdstrike-lets-security-teams-kill-rogue-ai-agents/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/2026/crowdstrike-lets-security-teams-kill-rogue-ai-agents/",
+     "status": "ok",
+     "chars": 5168
+    }
+   ],
+   "date_evidence": "Wed, 04 Nov 2026 21:22:01 +0000",
+   "summary": "CrowdStrike AI Kill Switch經由AI閘道拒絕代理對模型的請求。",
+   "core_fact": "CrowdStrike在11月3日宣布AI Kill Switch，讓資安管理員可停止行為失當的AI代理、阻止其重啟並切斷其與公司網路的連線，目前只有第一項功能上線。依Cloud Security Alliance在1月對418位資訊與資安專業人員的調查，僅11%的組織會自動阻擋越權的代理，38%等待人工核准，24%只記錄；65%的組織去年曾發生與代理相關的事件，其中43%營運中斷、35%造成金錢損失。",
+   "deep_facts": [
+    "開關運作方式是經由AI閘道拒絕代理對模型的請求，代理仍運行但拿不到指令",
+    "其餘功能（端點、雲端、應用程式層級關閉與撤銷權限）仍在開發、無發布日期",
+    "CrowdStrike同日宣布以約9,500萬美元收購Dreadnode、約4億美元收購Fiddler"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "display_title": "優步（Uber）於11月4日在財報會議揭露，萬聖節當週約3.2億筆行程與訂單中僅4趟車由AI代理叫車",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 21:56:01 +0000",
+   "summary": "Uber最繁忙一週僅4趟車由AI代理叫車。",
+   "core_fact": "Uber在11月4日週三第三季財報會議上表示，十月最繁忙的萬聖節當週，只有4趟車是透過AI代理叫的；財務長Balaji Krishnamurthy指出，該週Uber與Uber Eats共處理約3.2億筆行程與訂單，其中僅500筆Uber Eats訂單由AI代理下單。執行長Dara Khosrowshahi形容為非常早期、非常有限的成效，並表示在Uber叫車平均只要50秒、重複訂購喜愛餐點只要90秒。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "The CFO's Guide to LLMjacking: When Stolen AI Becomes a 7-Figure Cloud Bill",
+   "display_title": "Google威脅情報團隊於11月2日公布LLMjacking攻擊報告，單日盜刷AI用量曾逾10萬美元，累計達100萬美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-cfos-guide-to-llmjacking-when-stolen-ai-becomes-a-7-figure-cloud-bill/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 21:38:26 +0000",
+   "summary": "Google報告揭露攻擊者盜用企業AI存取權並轉嫁算力費用。",
+   "core_fact": "Google威脅情報部門在11月2日週一的報告中記錄了多起LLMjacking事件：攻擊者盜用受害企業的AI基礎設施存取權，單日不當AI消耗曾超過10萬美元，部分組織在存取被撤銷前累計費用達100萬美元；受害者涵蓋金融服務、零售、科技與運輸業，遍及多個大陸。有一項名為Jet Night的轉售服務，宣稱每月約60美元即可無限使用前沿模型，Google研究人員將其連結到一名攻擊者，該攻擊者在不到8小時內發出逾50萬次API呼叫，把近100萬美元的詞元費用轉嫁給受害組織。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "What the 2026 Midterms Mean for Crypto, Banks and Stablecoin Regulation",
+   "display_title": "美國國會於11月3日期中選舉後由民主黨同時取得參眾兩院多數，加密產業重心由立法轉向監管實施之爭",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/what-the-2026-midterms-mean-for-crypto-banks-and-stablecoin-regulation/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cryptocurrency/2026/what-the-2026-midterms-mean-for-crypto-banks-and-stablecoin-regulation/",
+     "status": "ok",
+     "chars": 6605
+    }
+   ],
+   "date_evidence": "Wed, 04 Nov 2026 19:55:58 +0000",
+   "summary": "民主黨掌控國會，GENIUS Act實施與國會監督成為下一場戰場。",
+   "core_fact": "民主黨在11月3日的期中選舉中同時取得參眾兩院多數，扭轉了推動GENIUS Act與更廣泛數位資產監管改革的共和黨多數。四個主導數位資產政策的委員會包括參議院銀行、參議院農業、眾議院金融服務與眾議院農業委員會；Elizabeth Warren有望領導參議院銀行委員會，Maxine Waters可能重拾眾議院金融服務委員會主席，但兩者都未定案。曾任參議院銀行委員會主席的Sherrod Brown在俄亥俄州擊敗共和黨的Jon Husted，共和黨眾議員Bryan Steil、Zach Nunn與Ann Wagner等親加密議員也落選。",
+   "deep_facts": [
+    "四個關鍵委員會為參議院銀行、參議院農業、眾議院金融服務、眾議院農業",
+    "Warren有望領導參議院銀行委員會、Waters可能領導眾議院金融服務委員會，皆未定案",
+    "下一場戰場為GENIUS Act實施：發行資格、準備金監控、通路商義務"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Tron, Tether and TRM Pivot to New Crypto Crime-Fighting Alliances After T3 Shutdown",
+   "display_title": "T3金融犯罪小組（T3 FCU）於8月悄然解散，11月4日經彭博報導，累計曾凍結逾3億美元非法資產",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/tron-tether-and-trm-pivot-to-new-crypto-crime-fighting-alliances-after-t3-shutdown/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/tron-tether-and-trm-pivot-to-new-crypto-crime-fighting-alliances-after-t3-shutdown/",
+     "status": "ok",
+     "chars": 2789
+    }
+   ],
+   "date_evidence": "Wed, 04 Nov 2026 20:23:11 +0000",
+   "summary": "T3 FCU解散，TRM Beacon Network與Tether FASE Foundation接手。",
+   "core_fact": "彭博在11月4日週三報導，由Tron、Tether與TRM Labs於2024年9月成立、2025年再加入Binance的T3金融犯罪小組，已在8月悄然解散。該小組2025年曾表示與執法單位合作凍結2.5億美元非法資產，TRM在今年2月募得7,000萬美元C輪資金時，則稱T3已凍結逾3億美元受汙染資產。匿名消息人士指出，過去一年小組運作因回應緩慢與成員協調不足而崩解；Tron、Tether與TRM證實小組已結束運作，Binance不予置評。",
+   "deep_facts": [
+    "TRM於2025年8月推出Beacon Network作為即時加密犯罪應變網路",
+    "Tether執行長Ardoino於10月31日宣布成立FASE Foundation",
+    "Tron將很快公布新的阻止非法活動倡議"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC's service",
+   "display_title": "摩根士丹利（Morgan Stanley）於11月4日表示，已透過DTCC新代幣化服務把美國股票與公債轉成代幣形式",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 09:37:45 +0000",
+   "summary": "摩根士丹利為首批採用DTCC代幣化服務的銀行之一。",
+   "core_fact": "摩根士丹利在11月4日表示，已透過美國存託信託與清算公司的新代幣化服務，把美國股票與公債轉換為代幣形式，成為首批採用此服務的銀行之一。DTCC的代幣化服務已於10月28日宣布正式上線，當時已有20家DTC參與者簽約，因此摩根士丹利的動作是上線後一週內的首批實際使用案例。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+   "display_title": "施羅德（Schroders）於11月4日透過Centrifuge在Solana推出新興市場債券代幣化基金，管理資產逾1.1兆美元",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 13:00:00 +0000",
+   "summary": "施羅德把主動管理的新興市場債券策略經由Centrifuge上鏈。",
+   "core_fact": "施羅德在11月4日表示，將一檔主動管理的新興市場債券策略，透過代幣化專業業者Centrifuge帶上Solana區塊鏈，成為鏈上主動管理基金的新增選項。施羅德管理資產規模超過1兆美元，約為1.1兆美元，這是一家歷史悠久的傳統資產管理公司，而非加密原生業者。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Circle's ARC token sale lifts earnings as lower yields weigh on USDC income",
+   "display_title": "Circle於11月4日公布第三季營收與準備金收益8.65億美元，同時宣布裁減約5%員工",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 04 Nov 2026 18:02:42 +0000",
+   "summary": "Circle第三季營收與準備金收益8.65億美元並裁員約5%。",
+   "core_fact": "Circle在11月4日公布第三季營收與準備金收益共8.65億美元，持續經營業務淨利為2.26億美元、年增5%，並宣布裁減約5%員工。報導指出，USDC交易量大增推動營運表現優於市場預期，同時ARC代幣的出售貢獻了獲利；但較低的利率使USDC的準備金收益承壓。",
+   "deep_facts": []
+  }
+ ]
+}

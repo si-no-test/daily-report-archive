@@ -1,0 +1,8 @@
+[
+{"title":"- **Revolut**於11月4日完成二級市場股份出售，估值達1,150億美元、較一年前成長53%","summary":"Revolut二級市場股份出售估值1,150億美元，並規劃2027年上半年推出美國國家銀行。","theme":"innovation"},
+{"title":"- **Block**於11月3日在季報揭露與美國司法部達成原則性和解，擬支付7.64億美元了結洗錢防制缺失指控","summary":"Block與DOJ就Bank Secrecy Act指控達成原則性協議，延後起訴三年。","theme":"innovation"},
+{"title":"- **Anthropic**於11月3日發表開源系統FlashProve，以密碼學證明驗證AI輸出確實來自指定模型","summary":"FlashProve以模型指紋與密碼學證明驗證輸出來源，目前無部署計畫。","theme":"ai"},
+{"title":"- **CrowdStrike**於11月3日推出AI Kill Switch，讓管理員切斷失控AI代理與模型的連線","summary":"AI Kill Switch經由AI閘道拒絕代理對模型的請求，使代理無法行動。","theme":"ai"},
+{"title":"- **美國國會**於11月3日期中選舉後由民主黨同時取得參眾兩院多數，加密產業重心由立法轉向監管實施之爭","summary":"民主黨掌控參眾兩院，CLARITY Act受挫，GENIUS Act實施細則成為下一場戰場。","theme":"blockchain"},
+{"title":"- **T3金融犯罪小組（T3 FCU）**於8月悄然解散，11月4日經彭博報導，累計曾凍結逾3億美元非法資產","summary":"Tron、Tether、TRM Labs成立的T3 FCU解散，改以Beacon Network與FASE Foundation接手。","theme":"blockchain"}
+]

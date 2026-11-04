@@ -1,0 +1,16 @@
+[
+{"name":"Revolut","url":"https://www.revolut.com","intro":"總部位於倫敦的數位銀行與金融科技公司，提供個人與企業帳戶、跨境匯款及多幣別服務。"},
+{"name":"Block","url":"https://block.xyz","intro":"由Jack Dorsey創辦的金融科技公司，旗下有Square商戶支付與Cash App行動支付服務。"},
+{"name":"Verifone","url":"https://www.verifone.com","intro":"全球支付終端與商務科技供應商，提供支付閘道與收單相關解決方案。"},
+{"name":"Visa","url":"https://www.visa.com","intro":"全球最大的卡片支付網路業者之一，提供跨境與數位支付基礎設施。"},
+{"name":"KeyCorp","url":"https://www.key.com","intro":"總部在美國克里夫蘭的區域性金融服務集團，旗下KeyBanc Capital Markets經營企業與投資銀行業務。"},
+{"name":"Anthropic","url":"https://www.anthropic.com","intro":"美國AI研究與產品公司，開發Claude系列大型語言模型。"},
+{"name":"CrowdStrike","url":"https://www.crowdstrike.com","intro":"美國資安公司，以雲端原生的端點防護與威脅偵測平台聞名。"},
+{"name":"優步（Uber）","url":"https://www.uber.com","intro":"全球行動出行與外送平台，經營叫車與Uber Eats餐飲外送服務。"},
+{"name":"Google","url":"https://www.google.com","intro":"Alphabet旗下的網路與雲端科技公司，涵蓋搜尋、雲端與AI服務。"},
+{"name":"Tether","url":"https://tether.to","intro":"全球流通量最大的美元穩定幣USDT的發行公司。"},
+{"name":"摩根士丹利（Morgan Stanley）","url":"https://www.morganstanley.com","intro":"美國大型投資銀行與財富管理集團。"},
+{"name":"施羅德（Schroders）","url":"https://www.schroders.com","intro":"總部位於倫敦的全球資產管理公司，管理資產逾1兆美元。"},
+{"name":"Circle","url":"https://www.circle.com","intro":"美國穩定幣發行公司，發行美元穩定幣USDC。"},
+{"name":"Binance","url":"https://www.binance.com","intro":"全球交易量最大的加密貨幣交易所之一。"}
+]
