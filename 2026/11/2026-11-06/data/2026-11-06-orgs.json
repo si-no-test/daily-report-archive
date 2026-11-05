@@ -1,0 +1,23 @@
+[
+{"name":"Adyen","url":"https://www.adyen.com","intro":"荷蘭全球支付平台業者，提供線上與實體商家的收單與支付處理服務。"},
+{"name":"Checkout.com","url":"https://www.checkout.com","intro":"英國全球支付處理商，為商家提供線上收款與驗證服務。"},
+{"name":"Marqeta","url":"https://www.marqeta.com","intro":"美國發卡處理平台，以API提供虛擬與實體支付卡發行服務。"},
+{"name":"Anthropic","url":"https://www.anthropic.com","intro":"美國AI公司，開發Claude系列大型語言模型。"},
+{"name":"Plaid","url":"https://plaid.com","intro":"美國金融資料連結服務商，讓應用程式安全連結用戶銀行帳戶。"},
+{"name":"Bluevine","url":"https://www.bluevine.com","intro":"美國小企業數位銀行與放款平台。"},
+{"name":"Starling Bank","url":"https://www.starlingbank.com","intro":"英國數位銀行，提供個人與企業帳戶及放款服務。"},
+{"name":"Kalepa","url":"https://www.kalepa.com","intro":"專注保險核保的AI平台新創。"},
+{"name":"Visa","url":"https://www.visa.com","intro":"全球最大卡組織之一，營運支付網路與相關解決方案。"},
+{"name":"威士","url":"https://www.visa.com","intro":"全球最大卡組織之一，營運支付網路與相關解決方案。"},
+{"name":"凱捷","url":"https://www.capgemini.com","intro":"法國跨國顧問與科技服務公司。"},
+{"name":"Capgemini","url":"https://www.capgemini.com","intro":"法國跨國顧問與科技服務公司。"},
+{"name":"三星電子","url":"https://www.samsung.com","intro":"南韓電子與行動裝置大廠，營運Samsung Wallet與Samsung Pay。"},
+{"name":"Coinbase","url":"https://www.coinbase.com","intro":"美國上市的加密資產交易與託管平台。"},
+{"name":"Circle","url":"https://www.circle.com","intro":"USDC穩定幣發行商。"},
+{"name":"東方匯理","url":"https://www.amundi.com","intro":"歐洲最大資產管理公司。"},
+{"name":"Amundi","url":"https://www.amundi.com","intro":"歐洲最大資產管理公司。"},
+{"name":"CACEIS","url":"https://www.caceis.com","intro":"歐洲資產服務與託管機構，提供基金過戶與代幣化代理服務。"},
+{"name":"Anchorage Digital","url":"https://www.anchorage.com","intro":"美國持牌數位資產銀行，提供託管與穩定幣基礎設施。"},
+{"name":"Yellow Card","url":"https://yellowcard.io","intro":"非洲起家的穩定幣支付基礎設施業者。"},
+{"name":"Solana","url":"https://solana.com","intro":"高效能公共區塊鏈網路。"}
+]

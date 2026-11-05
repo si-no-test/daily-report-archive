@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **Adyen與Checkout.com**於11月6日經PYMNTS報導，分別在英國與歐洲選定商家導入Visa Payment Passkey，以通行密鑰取代部分銀行驗證挑戰",
+  "summary": "Adyen與Checkout.com透過既有驗證整合導入Visa Payment Passkey，重複購買時以裝置生物辨識取代銀行驗證頁。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Marqeta**於11月3日公布第三季淨利1.154億美元、處理量年增29%至1,265億美元，並指大型企業正導入卡片與穩定幣服務",
+  "summary": "Marqeta執行長表示財星500大企業想透過卡片深化客戶互動，並提供穩定幣整合選項。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Anthropic**於11月5日推出Claude個人理財（Personal Finance）功能，經Plaid連結銀行與信用卡帳戶並以唯讀方式回答財務問題",
+  "summary": "Claude新增個人理財功能，唯讀存取帳戶，並邀請銀行與財富管理業者共同塑造後續服務。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **威士（Visa）**於11月5日發布Visa Agentic Commerce Benchmark，22款AI模型購物測試通過率僅57.2%",
+  "summary": "Visa以22款AI模型測試購物情境，42.8%失敗，54%失敗仍完成購買。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **三星電子（Samsung）**於11月5日讓美國符合資格的Galaxy用戶可在Samsung Wallet以Solana上的USDC持有與轉帳，涵蓋8,200萬台相容裝置",
+  "summary": "Samsung Wallet穩定幣帳戶上線，採Solana上USDC，Bastion提供授權框架、Coinbase擔任次託管。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **東方匯理（Amundi）**於11月6日經Ledger Insights報導，為規模228億歐元的Core STOXX Europe 600指數基金新增以太坊代幣化股份類別",
+  "summary": "Amundi在公共以太坊為歐洲股票指數基金新增代幣化股份類別，CACEIS擔任過戶與代幣化代理。",
+  "theme": "blockchain"
+ }
+]

@@ -1,0 +1,268 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-05T23:17:04.492383+00:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Payment Processors Compete on Checkout With Passkeys",
+   "display_title": "Adyen與Checkout.com於11月6日經PYMNTS報導，分別在英國與歐洲選定商家導入Visa Payment Passkey，以通行密鑰取代部分銀行驗證挑戰",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/payment-processors-compete-on-checkout-with-passkeys/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/payment-processors-compete-on-checkout-with-passkeys/",
+     "status": "ok",
+     "chars": 4692
+    }
+   ],
+   "date_evidence": "2026-11-06",
+   "summary": "PYMNTS於11月6日報導，支付處理商Adyen與Checkout.com正把通行密鑰（passkey）加進既有的付款驗證流程：Adyen先在英國透過Authenticate導入Visa Payment Passkey，Checkout.",
+   "core_fact": "PYMNTS於11月6日報導，支付處理商Adyen與Checkout.com正把通行密鑰（passkey）加進既有的付款驗證流程：Adyen先在英國透過Authenticate導入Visa Payment Passkey，Checkout.com則經既有驗證整合，先向英國與歐洲的選定商家提供，商家不必另建結帳流程。依Adyen已公開的試行流程，購物者先完成一次發卡行驗證，再選擇建立通行密鑰；日後以同一張卡與同一裝置回購時，由Authentication Engine判斷是否需要挑戰，並考量瀏覽器與付款方式選出驗證方式。PYMNTS Intelligence調查顯示62%的商家對生物辨識驗證表達高度興趣，另有80%購物者使用已儲存的付款憑證。",
+   "deep_facts": [
+    "Adyen與Checkout.com分別在英國與歐洲選定商家導入Visa Payment Passkey",
+    "Adyen試行流程為先完成一次發卡行驗證再建立通行密鑰，日後由Authentication Engine判斷是否挑戰",
+    "PYMNTS Intelligence調查62%商家對生物辨識驗證高度感興趣、80%購物者使用已儲存付款憑證"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Cards draw customers, Marqeta CEO says",
+   "display_title": "Marqeta於11月3日公布第三季淨利1.154億美元、處理量年增29%至1,265億美元，並指大型企業正導入卡片與穩定幣服務",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/cards-draw-customers-marqeta-ceo-says/873864/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/cards-draw-customers-marqeta-ceo-says/873864/",
+     "status": "ok",
+     "chars": 3955
+    }
+   ],
+   "date_evidence": "2026-11-05",
+   "summary": "Payments Dive報導，Marqeta執行長Mike Milotich在公布第三季財報後一天受訪，公司該季淨利1.154億美元，去年同期為虧損360萬美元；總處理量年增29%至1,265億美元，營收1.762億美元、年增8%。Blo",
+   "core_fact": "Payments Dive報導，Marqeta執行長Mike Milotich在公布第三季財報後一天受訪，公司該季淨利1.154億美元，去年同期為虧損360萬美元；總處理量年增29%至1,265億美元，營收1.762億美元、年增8%。Block占Marqeta營收的41%，低於去年全年的45%，顯示客戶集中度略降。Milotich指出，平均消費者每天使用支付卡2.5次，大型企業看上卡片能把用戶帶進自家App與平台；KBW分析師則認為Marqeta在約30兆美元的卡片資金移動市場占比不到1%。",
+   "deep_facts": [
+    "第三季淨利1.154億美元，去年同期虧損360萬美元",
+    "Block占營收41%，低於去年全年45%",
+    "KBW估計Marqeta在約30兆美元卡片資金移動市場占比不到1%"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "What Bluevine learned from $2 billion in mobile check deposits",
+   "display_title": "Bluevine於11月5日經Tearsheet說明，已處理逾20億美元行動支票存款，並以自建、嵌入夥伴產品與轉介三種路徑擴充小企業帳戶",
+   "source": "Tearsheet",
+   "source_tier": "T2",
+   "url": "https://tearsheet.co/podcasts/what-bluevine-learned-from-2-billion-in-mobile-check-deposits-and-a-growing-partner-stack/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://tearsheet.co/podcasts/what-bluevine-learned-from-2-billion-in-mobile-check-deposits-and-a-growing-partner-stack/",
+     "status": "ok",
+     "chars": 13169
+    }
+   ],
+   "date_evidence": "November 05, 2026",
+   "summary": "Tearsheet於11月5日刊出Bluevine的Kyle Cooper訪談，Bluevine從小企業放款起家，六年來圍繞支票帳戶建立更完整的銀行產品，且在沒有分行的情況下處理了逾20億美元行動支票存款。Cooper指出，年營收約200萬",
+   "core_fact": "Tearsheet於11月5日刊出Bluevine的Kyle Cooper訪談，Bluevine從小企業放款起家，六年來圍繞支票帳戶建立更完整的銀行產品，且在沒有分行的情況下處理了逾20億美元行動支票存款。Cooper指出，年營收約200萬美元的承包商需要付款給分包商、向客戶開立發票、發行員工卡並記帳，多數銀行仍以消費者模式服務這類企業。Bluevine已自建發票軟體並由Stripe處理支付，也宣布與Xero合作的會計產品，且定價顯著低於獨立軟體。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Starling launches fee-free business credit card",
+   "display_title": "Starling Bank於11月宣布推出首張企業信用卡，提供不設上限的1%每月現金回饋且無年費與外幣手續費",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111593/starling-launches-fee-free-business-credit-card",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Starling Bank is diversifying its lending by launching its first business credit card this month",
+   "summary": "Finextra轉載新聞稿指出，Starling Bank本月推出首張企業信用卡，合格客戶可獲得不設上限的1%每月現金回饋，且不收年費與外幣手續費；該行表示這是其放款多元化的一部分。這是Starling在帳戶與既有放款之外新增的卡片產品，面",
+   "core_fact": "Finextra轉載新聞稿指出，Starling Bank本月推出首張企業信用卡，合格客戶可獲得不設上限的1%每月現金回饋，且不收年費與外幣手續費；該行表示這是其放款多元化的一部分。這是Starling在帳戶與既有放款之外新增的卡片產品，面向已使用其企業帳戶的小企業客群。本案以公司新聞稿為依據，詳細額度與利率條件未在可取得的摘要中列出。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Kalepa raises $75m to expand AI underwriting platform",
+   "display_title": "Kalepa於11月5日宣布完成7,500萬美元B輪募資、估值4.7億美元，擴大保險價值鏈上的AI核保平台",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48707/kalepa-raises-75m-to-expand-ai-underwriting-platform",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Insurance AI firm Kalepa has raised $75 million in Series B funding at a $470 million valuation",
+   "summary": "Finextra報導，保險AI業者Kalepa完成7,500萬美元B輪募資，估值4.7億美元，資金將用於把AI平台擴展到保險價值鏈的更多環節並進入新市場。Kalepa以AI協助保險業者的核保流程，這輪融資使其進入較大規模的商用階段。本案以F",
+   "core_fact": "Finextra報導，保險AI業者Kalepa完成7,500萬美元B輪募資，估值4.7億美元，資金將用於把AI平台擴展到保險價值鏈的更多環節並進入新市場。Kalepa以AI協助保險業者的核保流程，這輪融資使其進入較大規模的商用階段。本案以Finextra摘要為依據，投資人名單與營收等細節未在可取得資料中列出，故不列示。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "display_title": "Anthropic於11月5日推出Claude個人理財（Personal Finance）功能，經Plaid連結銀行與信用卡帳戶並以唯讀方式回答財務問題",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+     "status": "ok",
+     "chars": 4209
+    }
+   ],
+   "date_evidence": "Anthropic announced Thursday that Claude is getting a new tool called Personal Finance",
+   "summary": "TechCrunch與PYMNTS於11月5日報導，Anthropic宣布為Claude推出Personal Finance功能，美國Pro、Max與Ultra方案用戶本週起分階段取得測試版。用戶透過Plaid連結銀行與信用卡帳戶，Clau",
+   "core_fact": "TechCrunch與PYMNTS於11月5日報導，Anthropic宣布為Claude推出Personal Finance功能，美國Pro、Max與Ultra方案用戶本週起分階段取得測試版。用戶透過Plaid連結銀行與信用卡帳戶，Claude僅能讀取，不能移動、管理或投資資金，也不提供自家信用卡、貸款或儲蓄帳戶。Anthropic表示可存取的資料包括銀行名稱、帳戶名稱與類型、帳號末四碼、餘額、信用額度與最多兩年的交易紀錄，且該中心內的對話不用於訓練模型。OpenAI已於5月推出類似的帳戶連結功能。",
+   "deep_facts": [
+    "Claude可存取銀行名稱、帳戶名稱與類型、帳號末四碼、餘額、信用額度與最多兩年交易紀錄",
+    "Personal Finance中的對話不用於訓練模型",
+    "OpenAI已於5月推出類似帳戶連結功能"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Visa Finds AI Models Fail 43% of Shopping Test Runs",
+   "display_title": "威士（Visa）於11月5日發布Visa Agentic Commerce Benchmark，22款AI模型購物測試通過率僅57.2%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-finds-ai-models-fail-43percent-shopping-test-runs/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-finds-ai-models-fail-43percent-shopping-test-runs/",
+     "status": "ok",
+     "chars": 2480
+    }
+   ],
+   "date_evidence": "Thursday (Nov. 5) press release",
+   "summary": "PYMNTS於11月6日報導，Visa在11月5日新聞稿中表示，22款來自12個實驗室的AI模型在擬真購物情境中，57.2%的測試通過、42.8%失敗；表現最佳的模型通過率82.2%，最差者28.9%。測試涵蓋購買電視、筆電與個人護理電器，",
+   "core_fact": "PYMNTS於11月6日報導，Visa在11月5日新聞稿中表示，22款來自12個實驗室的AI模型在擬真購物情境中，57.2%的測試通過、42.8%失敗；表現最佳的模型通過率82.2%，最差者28.9%。測試涵蓋購買電視、筆電與個人護理電器，檢驗AI能否從對話辨識需求、取得足夠資訊支持決策，並在沒有合適商品時選擇不購買。成本最高的五款模型平均通過67.1%，最便宜的五款為50.2%，且54%的失敗測試仍完成了購買。",
+   "deep_facts": [
+    "最佳模型通過率82.2%、最差28.9%",
+    "成本最高五款模型通過67.1%、最便宜五款50.2%",
+    "54%的失敗測試仍完成購買"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Capgemini: Multi-agent AI moves into banking and insurance",
+   "display_title": "凱捷（Capgemini）於11月5日發布研究指出，59%的銀行與保險業者試行或部署多代理AI，但僅10%達成企業級協調",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "59% piloting or deploying; 10% enterprise-wide orchestration",
+   "summary": "Finextra於11月5日報導凱捷的研究，金融機構在把多代理AI推出試點之外時遇到困難：59%的銀行與保險業者正在試行或部署多代理AI，但只有10%達成企業級協調（orchestration）。報導標題指出多代理AI已進入銀行與保險，但協",
+   "core_fact": "Finextra於11月5日報導凱捷的研究，金融機構在把多代理AI推出試點之外時遇到困難：59%的銀行與保險業者正在試行或部署多代理AI，但只有10%達成企業級協調（orchestration）。報導標題指出多代理AI已進入銀行與保險，但協調能力仍然有限。本案僅取得Finextra摘要，細部調查樣本與其他數字未取得，故不展開。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
+   "display_title": "三星電子（Samsung）於11月5日讓美國符合資格的Galaxy用戶可在Samsung Wallet以Solana上的USDC持有與轉帳，涵蓋8,200萬台相容裝置",
+   "source": "Decrypt",
+   "source_tier": "T2",
+   "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+     "status": "ok",
+     "chars": 3570
+    },
+    {
+     "url": "https://cryptobriefing.com/samsung-wallet-usdc-solana-transfers/",
+     "status": "ok",
+     "chars": 3945
+    }
+   ],
+   "date_evidence": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users",
+   "summary": "The Block於11月5日報導Samsung Wallet的穩定幣帳戶已對符合資格的美國Galaxy用戶上線，可持有USDC並使用Solana網路。Solana基金會10月8日（美國時間）公布，此功能涵蓋8,200萬台美國相容Galax",
+   "core_fact": "The Block於11月5日報導Samsung Wallet的穩定幣帳戶已對符合資格的美國Galaxy用戶上線，可持有USDC並使用Solana網路。Solana基金會10月8日（美國時間）公布，此功能涵蓋8,200萬台美國相容Galaxy裝置，內建法幣出入金，並可經Samsung Wallet與Samsung Pay使用；Crypto Briefing指出用戶可轉帳至外部錢包，或換成當地貨幣存入逾60國銀行帳戶，Samsung不收取傳送至外部錢包的費用。服務限18歲以上美國居民，需通過身分驗證與生物辨識，且裝置需為Android 13以上；Samsung 7月曾預告錢包將支援穩定幣，但當時未公布發行商與區塊鏈。",
+   "deep_facts": [
+    "Solana基金會表示網路今年穩定幣交易量超過5.25兆美元、供給年增近20%",
+    "Bastion提供授權穩定幣框架、Coinbase擔任USDC次託管",
+    "服務限18歲以上美國居民、需身分驗證與生物辨識、Android 13以上"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Amundi adds tokenized share class to €22.8bn European equity index fund",
+   "display_title": "東方匯理（Amundi）於11月6日經Ledger Insights報導，為規模228億歐元的Core STOXX Europe 600指數基金新增以太坊代幣化股份類別",
+   "source": "Ledger Insights",
+   "source_tier": "T2",
+   "url": "https://www.ledgerinsights.com/amundi-adds-tokenized-share-class-to-e22-8bn-european-equity-index-fund/",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.ledgerinsights.com/amundi-adds-tokenized-share-class-to-e22-8bn-european-equity-index-fund/",
+     "status": "fail",
+     "chars": 1415
+    },
+    {
+     "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
+     "status": "fail",
+     "chars": 75
+    }
+   ],
+   "date_evidence": "The new share class offers blockchain-based exposure to an index tracking 600 companies",
+   "summary": "Ledger Insights與Cointelegraph於11月6日報導，Amundi為其Core STOXX Europe 600指數基金新增代幣化股份類別，該基金規模為228億歐元，在公共以太坊上發行，並由CACEIS擔任過戶與代幣化",
+   "core_fact": "Ledger Insights與Cointelegraph於11月6日報導，Amundi為其Core STOXX Europe 600指數基金新增代幣化股份類別，該基金規模為228億歐元，在公共以太坊上發行，並由CACEIS擔任過戶與代幣化代理。依Ledger Insights，這是首檔新增區塊鏈股份類別的大型歐洲股票指數基金，追蹤橫跨歐洲市場600家公司的指數。報導並提到Amundi去年11月已為Cash EUR貨幣市場基金新增代幣化股份類別。本案兩次抓取皆未取得完整全文，僅依可取得的片段撰寫。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Anchorage Digital seeks CFTC swap dealer registration",
+   "display_title": "Anchorage Digital於11月5日向美國CFTC申請交換交易商（swap dealer）註冊，計畫提供歐式比特幣與以太幣選擇權",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Anchorage Digital has applied for CFTC swap dealer registration",
+   "summary": "The Block與Crowdfund Insider於11月5日報導，Anchorage Digital已向美國商品期貨交易委員會（CFTC）申請交換交易商註冊，若獲批准將提供歐式比特幣與以太幣選擇權。本案僅取得RSS摘要，申請時程、客群",
+   "core_fact": "The Block與Crowdfund Insider於11月5日報導，Anchorage Digital已向美國商品期貨交易委員會（CFTC）申請交換交易商註冊，若獲批准將提供歐式比特幣與以太幣選擇權。本案僅取得RSS摘要，申請時程、客群與其他細節未在可取得資料中列出，故不寫入。這項申請把Anchorage從託管與穩定幣基礎設施業務，延伸到受CFTC監理的衍生品交易對手角色。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Stablecoin firm Yellow Card target Brazil through GoMoney acquisition",
+   "display_title": "Yellow Card於11月5日宣布收購巴西虛擬資產服務業者GoMoney，以穩定幣支付基礎設施切入巴西市場",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Yellow Card has set its sights on Brazil after acquiring local virtual asset service outfit GoMoney",
+   "summary": "Finextra於11月5日報導，穩定幣支付基礎設施業者Yellow Card透過收購巴西本地虛擬資產服務業者GoMoney，把目標鎖定巴西，交易金額未公布。本案僅取得RSS摘要，GoMoney的規模與牌照細節未在可取得資料中列出，故不寫入",
+   "core_fact": "Finextra於11月5日報導，穩定幣支付基礎設施業者Yellow Card透過收購巴西本地虛擬資產服務業者GoMoney，把目標鎖定巴西，交易金額未公布。本案僅取得RSS摘要，GoMoney的規模與牌照細節未在可取得資料中列出，故不寫入。Yellow Card以穩定幣支付基礎設施為主要業務，這次是其向拉丁美洲擴張的動作。",
+   "deep_facts": []
+  }
+ ]
+}
