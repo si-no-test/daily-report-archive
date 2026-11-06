@@ -1,0 +1,25 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "match",
+  "topic_id": "us-genius-act-stablecoin-rules",
+  "headline": "美國銀行政策研究所於11月6日發布研究，十大美元穩定幣中僅兩檔符合GENIUS Act準備資產規定",
+  "one_line_update": "BPI研究指十大美元穩定幣僅USDC與PYUSD符合準備資產要求，USD1與Ripple USD因持有貨幣市場基金不符，法案將於明年生效。",
+  "source_title": "Study Finds Most Stablecoins Fail GENIUS Act Requirements",
+  "source_url": "https://www.pymnts.com/news/2026/study-finds-most-stablecoins-fail-genius-act-requirements/"
+ },
+ {
+  "action": "skip"
+ }
+]

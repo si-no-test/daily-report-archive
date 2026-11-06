@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **Synctera**於11月6日宣布完成2,450萬美元新融資，並以4月併購的Cable持續測試銀行與金融科技專案的合規控制",
+  "summary": "Synctera完成2,450萬美元融資，主打銀行回頭做BaaS，並以Cable對合規控制做持續測試。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **第一公民銀行（First Citizens Bank）**於10月19日宣布與NCR Atleos合作，客戶可在約2,000間塔吉特（Target）門市的ATM免手續費提款",
+  "summary": "第一公民銀行與NCR Atleos合作，客戶可在約2000間Target ATM免手續費；NCR Atleos正被Brink's以66億美元收購。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Socure**於11月6日經Banking Dive報導，執行長預期銀行約六個月後才會訂出AI代理行為規範，並推出AI代理偵測工具",
+  "summary": "Socure執行長指銀行對AI代理處於code red，摩根大通、美國銀行、花旗已封鎖代理存取客戶帳戶。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Ramp**於11月6日公布資料，8至9月企業AI詞元支出僅成長1.5%，7月單月成長則為42%",
+  "summary": "Ramp資料顯示AI詞元支出8至9月僅成長1.5%，價格戰壓抑OpenAI與Anthropic營收，Anthropic即將IPO。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **美國銀行政策研究所（Bank Policy Institute）**於11月6日發布研究，十大美元穩定幣中僅兩檔、占流通量26%符合GENIUS Act準備資產規定",
+  "summary": "BPI研究指十大穩定幣僅USDC與PYUSD符合GENIUS Act準備資產要求，法案明年生效。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Nubank**於11月6日暫停巴西加密貨幣存提款，Mercado Pago同日因風控服務商事件封鎖部分外部錢包轉帳",
+  "summary": "Nubank與Mercado Pago因第三方供應商事件暫停加密操作，發生在Binance被盜63億美元一週後。",
+  "theme": "blockchain"
+ }
+]

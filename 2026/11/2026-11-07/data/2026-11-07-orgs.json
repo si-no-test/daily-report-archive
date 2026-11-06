@@ -1,0 +1,67 @@
+[
+ {
+  "name": "萬事達卡",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要國際卡組織之一，提供支付網路與相關金融科技服務。"
+ },
+ {
+  "name": "摩根士丹利",
+  "url": "https://www.morganstanley.com",
+  "intro": "美國大型投資銀行與財富管理機構。"
+ },
+ {
+  "name": "摩根大通",
+  "url": "https://www.jpmorganchase.com",
+  "intro": "美國最大銀行之一，業務涵蓋商業銀行、投資銀行與支付。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國上市的加密貨幣交易與託管平台。"
+ },
+ {
+  "name": "Circle",
+  "url": "https://www.circle.com",
+  "intro": "USDC穩定幣的發行機構。"
+ },
+ {
+  "name": "Mercado Pago",
+  "url": "https://www.mercadopago.com",
+  "intro": "拉丁美洲電商Mercado Libre旗下的支付與金融服務業者。"
+ },
+ {
+  "name": "Nubank",
+  "url": "https://nubank.com.br",
+  "intro": "巴西與拉丁美洲大型數位銀行。"
+ },
+ {
+  "name": "OKX",
+  "url": "https://www.okx.com",
+  "intro": "全球加密貨幣交易所之一。"
+ },
+ {
+  "name": "蘋果",
+  "url": "https://www.apple.com",
+  "intro": "美國消費電子與軟體服務大廠。"
+ },
+ {
+  "name": "Meta",
+  "url": "https://www.meta.com",
+  "intro": "Facebook與Instagram母公司，投入AI代理等產品。"
+ },
+ {
+  "name": "花旗",
+  "url": "https://www.citigroup.com",
+  "intro": "美國大型跨國銀行。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "Claude系列AI模型的開發公司。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "ChatGPT與GPT系列模型的開發公司。"
+ }
+]
