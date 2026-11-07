@@ -1,0 +1,62 @@
+[
+ {
+  "title": "- **巴克萊銀行（Barclays）**於11月6日經Banking Dive專訪說明，7月推出的三星Galaxy聯名信用卡採用率超出內部預期，逾半交易經Samsung Pay完成",
+  "summary": "巴克萊美國卡務與合作夥伴負責人Doug Villone表示，Galaxy卡於7月推出，核准後會自動綁入Samsung錢包，公司未公布申辦人數，但採用狀況已高於內部商業模型預期。他指出逾半交易經Samsung Pay完成，且多數發生在三星生態",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Wealthsimple**於11月6日經Finovate報導，推出可代客轉帳、繳款與買賣ETF的AI助理Penny，並預告11月底推出加幣穩定幣CADD",
+  "summary": "Wealthsimple在11月第一週發表一組新產品，核心是AI助理Penny，可寄送電子轉帳、支付帳單、標示重複信用卡扣款，並協助自主投資人買賣股票與ETF，任何交易完成前都要客戶明確同意。公司服務逾400萬名加拿大客戶，截至9月託管資產",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Monzo**於11月7日經報導正評估新一輪募資，目標估值約75億英鎊",
+  "summary": "據熟悉內情人士向媒體透露，英國數位銀行Monzo正考慮啟動新一輪募資，估值約75億英鎊，消息於11月7日由Crowdfund Insider報導。目前公開資訊僅止於估值與正在評估階段，募資規模、投資人與時程尚未公布，因此本案屬傳聞性質，後續",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Pine Labs與Stripe**於11月7日經報導宣布合作，協助新加坡零售商以單一平台整合線上與店內收款",
+  "summary": "Pine Labs與Stripe宣布合作，協助新加坡零售商用單一平台管理線上與實體店面支付，消息於11月7日見報。報導指出商家希望簡化跨線上與店內的支付營運，合作內容聚焦在整合收款與對帳，其他商業條件與推出時程在目前資料中並未揭露。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **KCB銀行坦尚尼亞分行**於11月6日宣布與PayPal合作，把PayPal服務整合進KCB行動App",
+  "summary": "KCB Bank Tanzania宣布與PayPal合作，把PayPal服務整合到KCB行動App，讓客戶以簡單、安全且便利的方式連結全球支付，消息經Finextra於11月6日刊出。目前資料未揭露整合上線日期、涵蓋功能或用戶規模，屬新聞稿",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **BMO（Bank of Montreal）**於11月6日宣布為信用卡客服中心導入AI Agent Assist，目標縮短20%至30%處理時間並自動處理約40%的合格退款",
+  "summary": "BMO表示，Virtual Connect客服中心每年接獲逾50萬通加拿大客戶關於信用卡交易的來電，每通平均需12至14分鐘處理。AI Agent Assist供員工內部使用，提供交易比對、政策檢索與案件準備，預期縮短20%至30%處理時間",
+  "theme": "ai"
+ },
+ {
+  "title": "- **OpenAI**於11月6日經彭博報導已在新一輪募資中籌得110億美元，估值達1.25兆美元",
+  "summary": "彭博報導，OpenAI已在新一輪融資中籌得110億美元，估值1.25兆美元，該輪尚未結束，預計數週內完成，總額可能約200億美元；9月底曾有報導稱公司尋求籌資300億美元，目前數字明顯低於目標。同一時間彭博另報導，Anthropic首次公開",
+  "theme": "ai"
+ },
+ {
+  "title": "- **高盛（Goldman Sachs）**於11月7日經TechNews報導研究指出，被AI取代的失業者重返職場平均多花約一個月",
+  "summary": "高盛美國經濟學家分析2016年至2025年逾1.5萬名失業勞工資料，認為2023至2025年樣本很可能涵蓋第一波因AI失業者。結果顯示這類勞工平均多花約一個月找到新工作，失業滿一年後仍未就業的機率約高出10個百分點；35歲以下者重返全職工作",
+  "theme": "ai"
+ },
+ {
+  "title": "- **三星電子（Samsung）**於11月6日經PYMNTS分析，Samsung Wallet穩定幣帳戶串接Stripe、Coinbase與Circle，觸及8,200萬台裝置，延續11月6日報導",
+  "summary": "PYMNTS分析指出，Samsung Wallet的穩定幣帳戶由三星掌握介面、Stripe負責購買、Coinbase提供託管、Circle發行數位美元，各方都有商業利益但沒有任何一方掌握完整客戶關係；錢包支援轉往60多個國家的相容錢包與合格",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Binance**於11月7日宣布財務長Kaiser Ng離任，由前Airwallex財務副總Justin Yek接任，距10月29日遭駭九天",
+  "summary": "Binance共同執行長何一（Yi He）在11月7日聲明，任職逾五年、自2022年1月擔任財務長的Kaiser Ng將離開並投入新事業，接任者為前Airwallex財務副總Justin Yek；聲明稱交接計畫已進行六個月。Binance在",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **美國勞工部（DOL）**於11月5日把允許401(k)持有另類資產的規則草案送交白宮管理預算局審查，加密資產可望納入",
+  "summary": "The Block報導，勞工部於11月5日把規則草案送交白宮資訊與法規事務辦公室審查，內容是執行川普的行政命令，讓401(k)可持有包含加密貨幣的另類資產；勞工部3月已公布初步規則，說明受託人應如何評估另類資產。Cointelegraph指",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Gnosis Pay**於11月6日揭露11月3日舊版金融卡系統遭未授權存取，客戶資料外洩但資金未受影響",
+  "summary": "Gnosis Pay表示在11月3日發現其舊版金融卡系統遭未授權存取，已在兩小時內控制事件、更換受影響憑證並修補漏洞；客戶資金與企業白標卡平台未受影響。CoinDesk報導，外洩資料包括卡號、住址與連結的加密錢包。公司在舊系統12月20日除",
+  "theme": "blockchain"
+ }
+]

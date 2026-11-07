@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-08",
+  "archived_at": "2026-11-07T23:14:27Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "0b7aaade490c4e2793f0a9695263bd52d08d2ee1",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 711965,
+  "files": [
+    {
+      "path": "data/2026-11-08-candidates.txt",
+      "bytes": 40013,
+      "sha256": "c32307fdeea585ab4d31f9b9abed5332941efd4c723ddd96fb168bbab49b997d"
+    },
+    {
+      "path": "data/2026-11-08-glossary.json",
+      "bytes": 1416,
+      "sha256": "68bd70f24d144a7fbc1be34f6d13dc178436acbdfa5402509df36dc7996ad693"
+    },
+    {
+      "path": "data/2026-11-08-manifest.txt",
+      "bytes": 3460,
+      "sha256": "4de6258aac8440c0c52aecb96387bd1291dacbc0e9e13b25bb80a9d07e5af4c8"
+    },
+    {
+      "path": "data/2026-11-08-orgs.json",
+      "bytes": 1410,
+      "sha256": "4e1bb4f6a70cebb5cc7ab7dab7f42a393574791cd5d5a9bff0f41d1ca636365a"
+    },
+    {
+      "path": "data/2026-11-08-topic-cases.json",
+      "bytes": 5853,
+      "sha256": "735d339466cb053d60b5218b07d1a039466450a0c0e41cff72274e42bdfba025"
+    },
+    {
+      "path": "data/2026-11-08-topic-decisions.json",
+      "bytes": 1523,
+      "sha256": "bc467e6327310ca74a7a683547de4c037df296435a2faf12802854594cb77576"
+    },
+    {
+      "path": "data/2026-11-08.json",
+      "bytes": 21175,
+      "sha256": "558d409db036efc381eb064a602fba28ed55f50b43f88fe1a537bf22a7d91320"
+    },
+    {
+      "path": "outbox/2026-11-08-archive.html",
+      "bytes": 98248,
+      "sha256": "f409ed78efe5886c1609158f510f614e2f86c684200bd454e23077df94b3f427"
+    },
+    {
+      "path": "outbox/2026-11-08-email.html",
+      "bytes": 10856,
+      "sha256": "db26caf56bb2178b7e721edb1b2073e6d13327f6cec71dfcf00509f4fdfad612"
+    },
+    {
+      "path": "published/2026-11-08.html",
+      "bytes": 555,
+      "sha256": "371b5ab3014a60a178b0f7346bd8e70ee245fa955c86489d720148a0a0df8f8e"
+    },
+    {
+      "path": "published/2026-11-08/ai.html",
+      "bytes": 33721,
+      "sha256": "c2458d004f73f3f421db4d6ef4cd83f6beec15ec0d917046890491bff6ea5b9b"
+    },
+    {
+      "path": "published/2026-11-08/blockchain.html",
+      "bytes": 42672,
+      "sha256": "e9c8c7b96fe5d93d7740f60a564481ef50c02ef744176c1dab68d93153a682fe"
+    },
+    {
+      "path": "published/2026-11-08/index.html",
+      "bytes": 22571,
+      "sha256": "6fa57fa8bbf5d6c1e32d0f124f115e5e0ff5cab30a26a8f1f6d323c635bd3afa"
+    },
+    {
+      "path": "published/2026-11-08/innovation.html",
+      "bytes": 49706,
+      "sha256": "1e89610658c0861023e43a0df7d45b56ef769ed00155e2b6a00efcf80cc8abb3"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 338016,
+      "sha256": "eab91daba849802d35cdebb34f3b4f980dcfa47217100b1b9eb0fd939e19a2f9"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "78a6b3454782a75afadec4f0959a7b604f7dd0eb6899e9ac6871d2775ea0daa0"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "371b5ab3014a60a178b0f7346bd8e70ee245fa955c86489d720148a0a0df8f8e"
+    },
+    {
+      "path": "published/topics/binance-record-hack-recovery.html",
+      "bytes": 2531,
+      "sha256": "404b1c7884f930c1f0af0a94d2d28698c6e2d61a31e6915295c1392a686c91c8"
+    },
+    {
+      "path": "published/topics/openai-ipo-path.html",
+      "bytes": 3096,
+      "sha256": "568e251127fb8a5e6ae4c1844111775f466f91b72e978253d0aa8551a693b16b"
+    },
+    {
+      "path": "source/2026-11-08-report.txt",
+      "bytes": 31445,
+      "sha256": "bade503bd3863dceb6d477158477b7f1df3d19784b536fb006916c0f02db5199"
+    },
+    {
+      "path": "source/2026-11-08-summary.txt",
+      "bytes": 2351,
+      "sha256": "113a0ff3941dee08439885712e5d6ef8a618bc741851bcb53007f984a7914a3f"
+    }
+  ]
+}

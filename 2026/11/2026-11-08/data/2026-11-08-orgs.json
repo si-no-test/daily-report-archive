@@ -1,0 +1,57 @@
+[
+ {
+  "name": "巴克萊銀行",
+  "url": "https://www.barclays.com",
+  "intro": "英國跨國銀行，在美國經營信用卡與聯名卡業務。"
+ },
+ {
+  "name": "三星電子",
+  "url": "https://www.samsung.com",
+  "intro": "南韓電子與行動裝置大廠，營運Samsung Wallet行動錢包。"
+ },
+ {
+  "name": "BMO",
+  "url": "https://www.bmo.com",
+  "intro": "加拿大蒙特婁銀行，北美主要銀行之一。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "ChatGPT 開發商，美國主要生成式AI研發公司。"
+ },
+ {
+  "name": "高盛",
+  "url": "https://www.goldmansachs.com",
+  "intro": "美國大型投資銀行，也發布總體經濟與AI勞動市場研究。"
+ },
+ {
+  "name": "Binance",
+  "url": "https://www.binance.com",
+  "intro": "全球交易量最大的加密貨幣交易所之一。"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com",
+  "intro": "美國線上支付與金融基礎設施業者。"
+ },
+ {
+  "name": "Coinbase",
+  "url": "https://www.coinbase.com",
+  "intro": "美國上市加密貨幣交易所與託管服務業者。"
+ },
+ {
+  "name": "Circle",
+  "url": "https://www.circle.com",
+  "intro": "USDC 穩定幣發行公司。"
+ },
+ {
+  "name": "PayPal",
+  "url": "https://www.paypal.com",
+  "intro": "全球電子支付平台。"
+ },
+ {
+  "name": "Monzo",
+  "url": "https://monzo.com",
+  "intro": "英國純數位銀行。"
+ }
+]

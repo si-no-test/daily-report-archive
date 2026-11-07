@@ -1,0 +1,280 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T10:00:00+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "巴克萊銀行（Barclays）於11月6日經Banking Dive專訪說明，7月推出的三星Galaxy聯名信用卡採用率超出內部預期，逾半交易經Samsung Pay完成",
+   "display_title": "巴克萊銀行（Barclays）於11月6日經Banking Dive專訪說明，7月推出的三星Galaxy聯名信用卡採用率超出內部預期，逾半交易經Samsung Pay完成",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/5-questions-with-barclays-head-of-us-cards/874017/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/5-questions-with-barclays-head-of-us-cards/874017/",
+     "status": "ok",
+     "chars": 5879
+    }
+   ],
+   "date_evidence": "Fri, 06 Nov 2026 12:24:53 -0500",
+   "summary": "巴克萊美國卡務與合作夥伴負責人Doug Villone表示，Galaxy卡於7月推出，核准後會自動綁入Samsung錢包，公司未公布申辦人數，但採用狀況已高於內部商業模型預期。他指出逾半交易經Samsung Pay完成，且多數發生在三星生態系之外，代表客戶不只用來買手機；目前約70%的常見服務可在錢",
+   "core_fact": "巴克萊美國卡務與合作夥伴負責人Doug Villone表示，Galaxy卡於7月推出，核准後會自動綁入Samsung錢包，公司未公布申辦人數，但採用狀況已高於內部商業模型預期。他指出逾半交易經Samsung Pay完成，且多數發生在三星生態系之外，代表客戶不只用來買手機；目前約70%的常見服務可在錢包內完成，包含繳款、查交易與兌換回饋，巴克萊並稱對這個比例並不滿意。",
+   "deep_facts": [
+    "Samsung Galaxy卡核准後自動綁入Samsung錢包，逾半交易經Samsung Pay且多數在三星生態系外",
+    "約70%常見服務已可在錢包內完成，巴克萊稱不滿意並計畫加入客服聊天",
+    "聯名卡改版週期已由五至十年縮短為三至四年；Frontier合作6月延長至2037年"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Wealthsimple於11月6日經Finovate報導，推出可代客轉帳、繳款與買賣ETF的AI助理Penny，並預告11月底推出加幣穩定幣CADD",
+   "display_title": "Wealthsimple於11月6日經Finovate報導，推出可代客轉帳、繳款與買賣ETF的AI助理Penny，並預告11月底推出加幣穩定幣CADD",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/finovate-global-canada-agentic-ai-cross-border-payments-and-partnering-with-the-eu/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/finovate-global-canada-agentic-ai-cross-border-payments-and-partnering-with-the-eu/",
+     "status": "ok",
+     "chars": 9820
+    }
+   ],
+   "date_evidence": "Fri, 06 Nov 2026 19:24:38 +0000",
+   "summary": "Wealthsimple在11月第一週發表一組新產品，核心是AI助理Penny，可寄送電子轉帳、支付帳單、標示重複信用卡扣款，並協助自主投資人買賣股票與ETF，任何交易完成前都要客戶明確同意。公司服務逾400萬名加拿大客戶，截至9月託管資產約1,690億美元；另預告11月底推出整合部位與Level ",
+   "core_fact": "Wealthsimple在11月第一週發表一組新產品，核心是AI助理Penny，可寄送電子轉帳、支付帳單、標示重複信用卡扣款，並協助自主投資人買賣股票與ETF，任何交易完成前都要客戶明確同意。公司服務逾400萬名加拿大客戶，截至9月託管資產約1,690億美元；另預告11月底推出整合部位與Level 2行情的Wealthsimple Pro，以及追蹤加幣一比一的穩定幣CADD，持有者可得年化3.25%回饋，同時推出無外幣手續費、1%現金回饋的企業信用卡。",
+   "deep_facts": [
+    "Penny完全在平台內運作、客戶資料不離開平台，並規劃2027年初開放連接ChatGPT與Claude",
+    "CADD加幣穩定幣一比一追蹤並提供3.25%年化回饋，預計11月底推出",
+    "服務逾400萬名客戶、託管資產約1,690億美元（2026年9月）；加拿大大型銀行正限制第三方AI代理存取"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Monzo於11月7日經報導正評估新一輪募資，目標估值約75億英鎊",
+   "display_title": "Monzo於11月7日經報導正評估新一輪募資，目標估值約75億英鎊",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/322002-uk-digital-bank-monzo-seeks-new-funding-at-appr-7-5b-valuation/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Sat, 07 Nov 2026 14:48:34 +0000",
+   "summary": "據熟悉內情人士向媒體透露，英國數位銀行Monzo正考慮啟動新一輪募資，估值約75億英鎊，消息於11月7日由Crowdfund Insider報導。目前公開資訊僅止於估值與正在評估階段，募資規模、投資人與時程尚未公布，因此本案屬傳聞性質，後續須以公司正式公告為準。",
+   "core_fact": "據熟悉內情人士向媒體透露，英國數位銀行Monzo正考慮啟動新一輪募資，估值約75億英鎊，消息於11月7日由Crowdfund Insider報導。目前公開資訊僅止於估值與正在評估階段，募資規模、投資人與時程尚未公布，因此本案屬傳聞性質，後續須以公司正式公告為準。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Pine Labs與Stripe於11月7日經報導宣布合作，協助新加坡零售商以單一平台整合線上與店內收款",
+   "display_title": "Pine Labs與Stripe於11月7日經報導宣布合作，協助新加坡零售商以單一平台整合線上與店內收款",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/321833-pine-labs-stripe-partner-to-unify-online-in-store-payments-for-singapore-retailers/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Sat, 07 Nov 2026 14:44:48 +0000",
+   "summary": "Pine Labs與Stripe宣布合作，協助新加坡零售商用單一平台管理線上與實體店面支付，消息於11月7日見報。報導指出商家希望簡化跨線上與店內的支付營運，合作內容聚焦在整合收款與對帳，其他商業條件與推出時程在目前資料中並未揭露。",
+   "core_fact": "Pine Labs與Stripe宣布合作，協助新加坡零售商用單一平台管理線上與實體店面支付，消息於11月7日見報。報導指出商家希望簡化跨線上與店內的支付營運，合作內容聚焦在整合收款與對帳，其他商業條件與推出時程在目前資料中並未揭露。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "KCB銀行坦尚尼亞分行於11月6日宣布與PayPal合作，把PayPal服務整合進KCB行動App",
+   "display_title": "KCB銀行坦尚尼亞分行於11月6日宣布與PayPal合作，把PayPal服務整合進KCB行動App",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 06 Nov 2026 18:34:00 GMT",
+   "summary": "KCB Bank Tanzania宣布與PayPal合作，把PayPal服務整合到KCB行動App，讓客戶以簡單、安全且便利的方式連結全球支付，消息經Finextra於11月6日刊出。目前資料未揭露整合上線日期、涵蓋功能或用戶規模，屬新聞稿層級的合作宣告。",
+   "core_fact": "KCB Bank Tanzania宣布與PayPal合作，把PayPal服務整合到KCB行動App，讓客戶以簡單、安全且便利的方式連結全球支付，消息經Finextra於11月6日刊出。目前資料未揭露整合上線日期、涵蓋功能或用戶規模，屬新聞稿層級的合作宣告。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "BMO（Bank of Montreal）於11月6日宣布為信用卡客服中心導入AI Agent Assist，目標縮短20%至30%處理時間並自動處理約40%的合格退款",
+   "display_title": "BMO（Bank of Montreal）於11月6日宣布為信用卡客服中心導入AI Agent Assist，目標縮短20%至30%處理時間並自動處理約40%的合格退款",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bmo-turns-to-agentic-ai-to-resolve-card-issues/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/pressarticle/111609/bmo-launches-ai-agent-to-help-credit-card-customers-get-answers",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bmo-turns-to-agentic-ai-to-resolve-card-issues/",
+     "status": "ok",
+     "chars": 2857
+    }
+   ],
+   "date_evidence": "Fri, 06 Nov 2026 23:13:58 +0000",
+   "summary": "BMO表示，Virtual Connect客服中心每年接獲逾50萬通加拿大客戶關於信用卡交易的來電，每通平均需12至14分鐘處理。AI Agent Assist供員工內部使用，提供交易比對、政策檢索與案件準備，預期縮短20%至30%處理時間，並自動處理約40%的合格信用退款申請，符合條件者最快可當日",
+   "core_fact": "BMO表示，Virtual Connect客服中心每年接獲逾50萬通加拿大客戶關於信用卡交易的來電，每通平均需12至14分鐘處理。AI Agent Assist供員工內部使用，提供交易比對、政策檢索與案件準備，預期縮短20%至30%處理時間，並自動處理約40%的合格信用退款申請，符合條件者最快可當日入帳；公司強調採人在迴路原則，關鍵決定仍由人員負責。",
+   "deep_facts": [
+    "Virtual Connect每年逾50萬通信用卡交易來電、每通平均12至14分鐘",
+    "目標縮短20%至30%處理時間並自動處理約40%合格退款，符合條件者最快當日入帳",
+    "PYMNTS調查：生成式AI用於現金流管理由16%升至80%，代理式AI由6%微降至5%"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "OpenAI於11月6日經彭博報導已在新一輪募資中籌得110億美元，估值達1.25兆美元",
+   "display_title": "OpenAI於11月6日經彭博報導已在新一輪募資中籌得110億美元，估值達1.25兆美元",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+     "status": "ok",
+     "chars": 2353
+    }
+   ],
+   "date_evidence": "Fri, 06 Nov 2026 22:53:46 +0000",
+   "summary": "彭博報導，OpenAI已在新一輪融資中籌得110億美元，估值1.25兆美元，該輪尚未結束，預計數週內完成，總額可能約200億美元；9月底曾有報導稱公司尋求籌資300億美元，目前數字明顯低於目標。同一時間彭博另報導，Anthropic首次公開發行的潛在買家壓低估值預期，部分人認為估值可能低至1.1兆美",
+   "core_fact": "彭博報導，OpenAI已在新一輪融資中籌得110億美元，估值1.25兆美元，該輪尚未結束，預計數週內完成，總額可能約200億美元；9月底曾有報導稱公司尋求籌資300億美元，目前數字明顯低於目標。同一時間彭博另報導，Anthropic首次公開發行的潛在買家壓低估值預期，部分人認為估值可能低至1.1兆美元，一個月前市場曾預期約2兆美元。",
+   "deep_facts": [
+    "該輪總額可能約200億美元，低於9月底傳出的300億美元目標",
+    "Anthropic IPO潛在買家估值預期低至1.1兆美元，一個月前約2兆美元",
+    "期中選舉與41項資料中心相關公投結果引發市場對監管的疑慮"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "高盛（Goldman Sachs）於11月7日經TechNews報導研究指出，被AI取代的失業者重返職場平均多花約一個月",
+   "display_title": "高盛（Goldman Sachs）於11月7日經TechNews報導研究指出，被AI取代的失業者重返職場平均多花約一個月",
+   "source": "TechNews",
+   "source_tier": "T2",
+   "url": "https://technews.tw/2026/11/07/goldman-sachs-says-ai-displaced-employees-face-a-harder-path-back-to-work/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://technews.tw/2026/11/07/goldman-sachs-says-ai-displaced-employees-face-a-harder-path-back-to-work/",
+     "status": "fail",
+     "chars": 845
+    }
+   ],
+   "date_evidence": "Sat, 07 Nov 2026 09:00:32 +0000",
+   "summary": "高盛美國經濟學家分析2016年至2025年逾1.5萬名失業勞工資料，認為2023至2025年樣本很可能涵蓋第一波因AI失業者。結果顯示這類勞工平均多花約一個月找到新工作，失業滿一年後仍未就業的機率約高出10個百分點；35歲以下者重返全職工作多約三週，35歲以上多約五週。",
+   "core_fact": "高盛美國經濟學家分析2016年至2025年逾1.5萬名失業勞工資料，認為2023至2025年樣本很可能涵蓋第一波因AI失業者。結果顯示這類勞工平均多花約一個月找到新工作，失業滿一年後仍未就業的機率約高出10個百分點；35歲以下者重返全職工作多約三週，35歲以上多約五週。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "三星電子（Samsung）於11月6日經PYMNTS分析，Samsung Wallet穩定幣帳戶串接Stripe、Coinbase與Circle，觸及8,200萬台裝置，延續11月6日報導",
+   "display_title": "三星電子（Samsung）於11月6日經PYMNTS分析，Samsung Wallet穩定幣帳戶串接Stripe、Coinbase與Circle，觸及8,200萬台裝置，延續11月6日報導",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/blockchain/2026/samsungs-82-million-device-bet-shows-stablecoin-wars-moving-beyond-crypto/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/blockchain/2026/samsungs-82-million-device-bet-shows-stablecoin-wars-moving-beyond-crypto/",
+     "status": "ok",
+     "chars": 5998
+    }
+   ],
+   "date_evidence": "Fri, 06 Nov 2026 21:38:03 +0000",
+   "summary": "PYMNTS分析指出，Samsung Wallet的穩定幣帳戶由三星掌握介面、Stripe負責購買、Coinbase提供託管、Circle發行數位美元，各方都有商業利益但沒有任何一方掌握完整客戶關係；錢包支援轉往60多個國家的相容錢包與合格銀行帳戶。Circle第三季USDC鏈上交易量成長49%至1",
+   "core_fact": "PYMNTS分析指出，Samsung Wallet的穩定幣帳戶由三星掌握介面、Stripe負責購買、Coinbase提供託管、Circle發行數位美元，各方都有商業利益但沒有任何一方掌握完整客戶關係；錢包支援轉往60多個國家的相容錢包與合格銀行帳戶。Circle第三季USDC鏈上交易量成長49%至13.9兆美元，平均流通量成長8%至733億美元，但準備金收益下降8%至6.58億美元，其他收入2.07億美元中有1.82億美元來自Arc區塊鏈代幣預售，分銷與交易等成本達4.12億美元。",
+   "deep_facts": [
+    "Samsung掌握介面、Stripe負責購買、Coinbase託管、Circle發行，無一方掌握完整客戶關係",
+    "Circle Q3 USDC鏈上交易量+49%至13.9兆美元但準備金收益-8%至6.58億美元，其他收入2.07億美元中1.82億美元來自Arc代幣預售",
+    "88%收到穩定幣的企業立即轉換為美元；42%中型企業有興趣、13%實際使用"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Binance於11月7日宣布財務長Kaiser Ng離任，由前Airwallex財務副總Justin Yek接任，距10月29日遭駭九天",
+   "display_title": "Binance於11月7日宣布財務長Kaiser Ng離任，由前Airwallex財務副總Justin Yek接任，距10月29日遭駭九天",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
+     "status": "fail",
+     "chars": 76
+    }
+   ],
+   "date_evidence": "Sat, 07 Nov 2026 21:57:58 +0000",
+   "summary": "Binance共同執行長何一（Yi He）在11月7日聲明，任職逾五年、自2022年1月擔任財務長的Kaiser Ng將離開並投入新事業，接任者為前Airwallex財務副總Justin Yek；聲明稱交接計畫已進行六個月。Binance在10月29日遭駭，Cointelegraph引述TRM La",
+   "core_fact": "Binance共同執行長何一（Yi He）在11月7日聲明，任職逾五年、自2022年1月擔任財務長的Kaiser Ng將離開並投入新事業，接任者為前Airwallex財務副總Justin Yek；聲明稱交接計畫已進行六個月。Binance在10月29日遭駭，Cointelegraph引述TRM Labs稱被竊規模達63億美元；Elliptic指駭客已把被竊代幣換成1.24億美元比特幣，仍有28.5億美元被凍結。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "美國勞工部（DOL）於11月5日把允許401(k)持有另類資產的規則草案送交白宮管理預算局審查，加密資產可望納入",
+   "display_title": "美國勞工部（DOL）於11月5日把允許401(k)持有另類資產的規則草案送交白宮管理預算局審查，加密資產可望納入",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles",
+     "status": "fail",
+     "chars": 69
+    }
+   ],
+   "date_evidence": "Fri, 06 Nov 2026 18:29:36 +0000",
+   "summary": "The Block報導，勞工部於11月5日把規則草案送交白宮資訊與法規事務辦公室審查，內容是執行川普的行政命令，讓401(k)可持有包含加密貨幣的另類資產；勞工部3月已公布初步規則，說明受託人應如何評估另類資產。Cointelegraph指草案並未排除山寨幣，但專家認為實際納入仍有障礙。",
+   "core_fact": "The Block報導，勞工部於11月5日把規則草案送交白宮資訊與法規事務辦公室審查，內容是執行川普的行政命令，讓401(k)可持有包含加密貨幣的另類資產；勞工部3月已公布初步規則，說明受託人應如何評估另類資產。Cointelegraph指草案並未排除山寨幣，但專家認為實際納入仍有障礙。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Gnosis Pay於11月6日揭露11月3日舊版金融卡系統遭未授權存取，客戶資料外洩但資金未受影響",
+   "display_title": "Gnosis Pay於11月6日揭露11月3日舊版金融卡系統遭未授權存取，客戶資料外洩但資金未受影響",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 06 Nov 2026 18:58:58 +0000",
+   "summary": "Gnosis Pay表示在11月3日發現其舊版金融卡系統遭未授權存取，已在兩小時內控制事件、更換受影響憑證並修補漏洞；客戶資金與企業白標卡平台未受影響。CoinDesk報導，外洩資料包括卡號、住址與連結的加密錢包。公司在舊系統12月20日除役前，要求線上刷卡必須使用3D Secure驗證。",
+   "core_fact": "Gnosis Pay表示在11月3日發現其舊版金融卡系統遭未授權存取，已在兩小時內控制事件、更換受影響憑證並修補漏洞；客戶資金與企業白標卡平台未受影響。CoinDesk報導，外洩資料包括卡號、住址與連結的加密錢包。公司在舊系統12月20日除役前，要求線上刷卡必須使用3D Secure驗證。",
+   "deep_facts": []
+  }
+ ]
+}
