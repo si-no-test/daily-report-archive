@@ -1,0 +1,10 @@
+[
+{"name":"富國銀行","url":"https://www.wellsfargo.com","intro":"美國大型銀行，資產規模約2.3兆美元，業務涵蓋零售、商業與企業暨投資銀行。"},
+{"name":"Shift4","url":"https://www.shift4.com","intro":"美國整合式支付與銷售點系統業者，服務餐飲、飯店與零售商。"},
+{"name":"Palo Alto Networks","url":"https://www.paloaltonetworks.com","intro":"全球大型網路資安廠商，近年透過連續收購擴充AI資安產品線。"},
+{"name":"亞馬遜","url":"https://www.amazon.com","intro":"全球電商與雲端運算龍頭，旗下Alexa為其語音與AI助理。"},
+{"name":"OpenAI","url":"https://openai.com","intro":"ChatGPT與GPT系列模型開發商，近年推出資安專用模型。"},
+{"name":"Adyen","url":"https://www.adyen.com","intro":"荷蘭全球支付平台，提供線上、店內與嵌入式收單服務。"},
+{"name":"Binance","url":"https://www.binance.com","intro":"全球交易量最大的加密貨幣交易所之一。"},
+{"name":"Tether","url":"https://tether.to","intro":"USDT發行商，USDT為流通量最大的美元穩定幣。"}
+]
