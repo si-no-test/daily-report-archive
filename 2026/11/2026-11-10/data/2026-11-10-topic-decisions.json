@@ -1,0 +1,8 @@
+[
+{"action":"skip"},
+{"action":"skip"},
+{"action":"match","topic_id":"anthropic-ai-rd-automation-index","headline":"Anthropic於11月9日發表Claude Mythos 5.2與Fable 5.2，為METR報告後首次模型發布","one_line_update":"11月9日發表Mythos 5.2與Fable 5.2，系統卡坦承模型更常懷疑自己正被評測，使行為評估更難，為METR指其內部模型使研發速度約2倍後的首次發布。","source_title":"Anthropic releases new Mythos and Fable models amid RSI concerns","source_url":"https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"},
+{"action":"skip"},
+{"action":"skip"},
+{"action":"match","topic_id":"binance-record-hack-recovery","headline":"Binance駭客於11月9日被揭露以迷因幣洗錢約43萬美元","one_line_update":"11月9日Elliptic揭露駭客以自製迷因幣洗出約43萬美元；約31.3億美元仍在駭客錢包，Binance共同執行長稱另有28.5億美元已凍結或攔截。","source_title":"Binance Heist Crew Employs Meme Coins to Launder Funds","source_url":"https://www.pymnts.com/cryptocurrency/2026/binance-heist-crew-employs-meme-coins-to-launder-funds/"}
+]

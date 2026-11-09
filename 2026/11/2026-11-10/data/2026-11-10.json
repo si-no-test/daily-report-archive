@@ -1,0 +1,255 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T10:00:00+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Morgan Stanley to bolster IPO wheelhouse with Vinyl acquisition",
+   "display_title": "摩根士丹利（Morgan Stanley）於11月9日宣布收購數位股務代理業者Vinyl Equity，預計2027年第一季完成，整合成本約6,500萬美元",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136/",
+     "status": "ok",
+     "chars": 3394
+    }
+   ],
+   "date_evidence": "Tue, 10 Nov 2026（Banking Dive，宣布日 Monday, Nov. 9）",
+   "summary": "摩根士丹利宣布收購數位股務代理Vinyl Equity，預計2027Q1完成。",
+   "core_fact": "摩根士丹利於11月9日宣布同意收購Vinyl Equity，這家成立於2022年的金融科技業者把公司與股東間的股份轉讓流程數位化，今年已募得2,000萬美元A輪資金。交易金額未揭露，預計2027年第一季完成，發言人向彭博表示整合成本將在數年內約達6,500萬美元。Vinyl將併入Morgan Stanley at Work，該部門服務約670萬名參與者、逾3,400家企業客戶，並涵蓋市值前100大獨角獸中逾70家；第三季財富管理部門淨新增資產達2,320億美元的紀錄，其中約一半與IPO相關。",
+   "deep_facts": [
+    "整合成本約6,500萬美元（發言人向彭博透露）",
+    "Morgan Stanley at Work約670萬參與者、逾3,400家企業客戶、前100大獨角獸中逾70家",
+    "第三季財富管理淨新增資產2,320億美元，約一半與IPO相關",
+    "Vinyl成立於2022年，今年募得2,000萬美元A輪"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Nexi Sells Payment Provider Ratepay to Affirm",
+   "display_title": "Nexi於11月9日宣布把支付業者Ratepay出售給先買後付業者Affirm，並簽署德奧瑞合作備忘錄",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/acquiring/2026/nexi-sells-payment-provider-ratepay-to-affirm/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/acquiring/2026/nexi-sells-payment-provider-ratepay-to-affirm/",
+     "status": "ok",
+     "chars": 2931
+    }
+   ],
+   "date_evidence": "Monday (Nov. 9)",
+   "summary": "Nexi把Ratepay出售給Affirm並簽署備忘錄。",
+   "core_fact": "歐洲數位支付基礎設施業者Nexi於11月9日宣布，把旗下支付業者Ratepay出售給先買後付業者Affirm。交易同時伴隨雙方簽署合作備忘錄，擴大在德國、奧地利與瑞士的既有合作，並探索新機會；交易需通過常規監理核准，預期於明年上半年完成，完成後Nexi將提供過渡支援，包括現場專業人力與技術專長。Nexi執行長Bernardo Mingrone表示，此次出售符合聚焦核心業務、優化資產組合的策略。",
+   "deep_facts": [
+    "預期2027上半年取得監理核准，Nexi提供過渡支援",
+    "雙方簽署備忘錄擴大德奧瑞合作",
+    "PYMNTS研究：已婚父母34%最重視每月付款金額、單親父母29%最重視總成本"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Citizens Intros Treasury Intel For Commercial Clients",
+   "display_title": "Citizens Bank於11月9日推出Citizens Treasury Intelligence，為商業客戶提供跨銀行現金可視化與預測，基礎版對符合資格客戶免費",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/b2b-payments/2026/citizens-intros-treasury-intel-for-commercial-clients/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Monday (Nov. 9)",
+   "summary": "Citizens推出跨銀行財資平台。",
+   "core_fact": "Citizens Bank於11月9日發布新聞稿，推出面向商業銀行客戶的數位平台Citizens Treasury Intelligence，內含多銀行現金可視化、分析、預測與工作流程工具，協助企業管理流動性。基礎版將免費提供給使用其accessOPTIMA資訊報告平台的合格客戶，需要更深財資功能的客戶則有付費層級。該平台可自動彙整與分類跨銀行資料，Citizens財資與批發支付主管Mike Cummins指出，財資團隊面對跨多家銀行的資訊，卻仍大量依賴人工作業。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Chase customers can now deposit cash into their accounts at UK PayPoint locations",
+   "display_title": "大通銀行英國業務（Chase UK）於11月9日宣布客戶可在英國逾3萬個PayPoint據點存入現金",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48723/chase-customers-can-now-deposit-cash-into-their-accounts-at-uk-paypoint-locations",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Mon, 09 Nov 2026 13:07:00 GMT",
+   "summary": "Chase英國客戶可於PayPoint據點存現金。",
+   "core_fact": "Chase於11月9日宣布，英國客戶現在可在PayPoint據點把現金存入自己的帳戶。PayPoint在英國擁有逾3萬個據點，英國有超過99%的人口住在距離一間PayPoint店面一英里內，Chase表示此舉讓客戶更容易管理資金。此做法讓純數位銀行客戶不必為了存現金而依賴實體分行，也使其帳戶可作為日常主要往來帳戶。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Crédit Agricole proposes merger with Banco BPM to create new Italian bank",
+   "display_title": "法國農業信貸銀行（Crédit Agricole）於11月9日提議與Banco BPM合併雙方義大利業務，將成義大利第三大銀行集團",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48721/crdit-agricole-proposes-merger-with-banco-bpm-to-create-new-italian-bank",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Mon, 09 Nov 2026 12:34:00 GMT",
+   "summary": "Crédit Agricole提議合併義大利業務與Banco BPM。",
+   "core_fact": "法國農業信貸銀行於11月9日提議，將旗下義大利業務與Banco BPM合併，成立義大利第三大銀行集團。此案由Crédit Agricole提出，涉及雙方在義大利的零售與企業銀行業務；素材僅揭露合併提案與合併後排名，未揭露交易條件、估值或時程，這些細節仍待雙方進一步公布。對歐洲銀行而言，這是一項跨境銀行整併提案而非已完成交易。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "display_title": "Anthropic於11月9日發表Claude Mythos 5.2與Fable 5.2，Fable每百萬輸入詞元降價至8美元並支援零資料保留",
+   "source": "TechCrunch AI",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+     "status": "ok",
+     "chars": 3793
+    }
+   ],
+   "date_evidence": "Mon, 09 Nov 2026（TechCrunch，發布日 Monday）",
+   "summary": "Anthropic發表Mythos 5.2與Fable 5.2。",
+   "core_fact": "Anthropic於11月9日發表Claude Mythos 5.2與Fable 5.2，官方表示新模型在程式、推理與視覺方面進步，溝通也更清楚。Fable的每百萬輸入詞元價格由10美元降至8美元，低於主要競爭者GPT-6 Astra；各推理強度下回應速度快30%，更快的服務版本價格為兩倍。Fable 5.2並可透過Enterprise Frontier Safeguards系統相容零資料保留政策，長期是許多企業客戶的卡關點。這是METR報告出爐後Anthropic的首次模型發布，報告指內部模型使研發進度加快約2倍。",
+   "deep_facts": [
+    "Fable每百萬輸入詞元由10美元降至8美元，低於GPT-6 Astra",
+    "各推理強度回應快30%，更快服務版本價格為兩倍",
+    "Fable 5.2透過Enterprise Frontier Safeguards相容零資料保留",
+    "METR報告指內部模型使AI研發進度加快約2倍；模型更常懷疑自己被評測"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "geniosAI Raises $19.1 Million to Bring Traceable AI Analysis to Financial Institutions",
+   "display_title": "geniosAI於11月9日結束隱身模式並宣布完成1,910萬美元種子輪與A輪募資，由FactSet領投A輪",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/",
+     "status": "ok",
+     "chars": 3411
+    }
+   ],
+   "date_evidence": "Monday (Nov. 9)",
+   "summary": "geniosAI結束隱身並完成1,910萬美元募資。",
+   "core_fact": "金融情報新創geniosAI於11月9日結束隱身模式，宣布取得合計1,910萬美元的種子輪與A輪資金，投資人包含FactSet、Zoom與General Catalyst，其中FactSet領投A輪並擔任策略夥伴。公司為企業財務團隊、投資專業人士與財務長辦公室開發AI產品，核心主張是保存分析背後的假設、計算與覆核決策，讓員工能驗證結果、質疑結論並延續既有工作。公司稱其技術已被財星500大銀行與科技公司的財務與投資團隊用於準備財報與比較分析師預期。",
+   "deep_facts": [
+    "FactSet領投A輪並擔任策略夥伴，Zoom與General Catalyst參投",
+    "技術已被財星500大銀行與科技公司的財務與投資團隊使用",
+    "75項任務中27項至少半數金融業者使用AI，30%領導者視資料品質為最大障礙"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Google 第八代 TPU 再添兩款，聯手 AMD 打造安全與機密推論 TPU",
+   "display_title": "Google於11月9日發表第八代TPU新系統TPU 8tx與TPU 8i Max，其中8tx主打機密運算",
+   "source": "TechNews",
+   "source_tier": "T2",
+   "url": "https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-09",
+   "summary": "Google發表TPU 8tx與TPU 8i Max。",
+   "core_fact": "Google於11月9日擴充第八代TPU陣容，新增專為安全與機密推論設計的TPU 8tx，以及專為龐大脈絡視窗與最高單機櫃運算密度打造的TPU 8i Max，加上上半年發表的TPU 8t與8i，今年共推出四款TPU系統。TPU 8tx與AMD合作，使用與TPU 8t相同矽晶片並搭配客製AMD x86 CPU主機，延遲比TPU 8t低2倍，專為受高度監管的企業與政府機關設計，可在處理機敏資料時安全執行模型與自主AI代理。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Coinbase secures unconditional trust charter",
+   "display_title": "Coinbase於11月9日宣布取得美國貨幣監理署（OCC）無條件國家信託執照，申請歷時13個月",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/coinbase-secures-unconditional-trust-charter/874135/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/coinbase-secures-unconditional-trust-charter/874135/",
+     "status": "ok",
+     "chars": 3074
+    }
+   ],
+   "date_evidence": "Monday（Banking Dive，2026-11-09宣布）",
+   "summary": "Coinbase取得OCC無條件國家信託執照。",
+   "core_fact": "Coinbase於11月9日宣布取得無條件國家信託執照，距2025年10月向貨幣監理署（OCC）申請已13個月，今年4月曾取得有條件核准。Coinbase National Trust Co.於11月6日週五獲得OCC無條件同意，成為Ripple、Circle與BitGo之後第四家加密業者背景的國家信託銀行。有了執照，Coinbase可在OCC聯邦框架下提供數位資產託管、結算與穩定幣準備金管理，執行長Rick Schonberg曾任職摩根大通與高盛各近十年，他說公司的信託計畫可追溯至兩年多前。",
+   "deep_facts": [
+    "2025年10月申請、今年4月有條件核准，共歷時13個月",
+    "11月6日週五取得OCC無條件同意，繼Ripple、Circle、BitGo之後",
+    "執行長Rick Schonberg曾在摩根大通與高盛任職各近十年",
+    "2017年BitLicense、2018年紐約有限目的信託執照；初期從核心託管服務開始"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Binance Heist Crew Employs Meme Coins to Launder Funds",
+   "display_title": "Binance遭駭案的駭客集團於11月9日被區塊鏈分析業者Elliptic揭露，以迷因幣洗出約43萬美元，被竊總額為63億美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/binance-heist-crew-employs-meme-coins-to-launder-funds/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cryptocurrency/2026/binance-heist-crew-employs-meme-coins-to-launder-funds/",
+     "status": "ok",
+     "chars": 2798
+    }
+   ],
+   "date_evidence": "Monday (Nov. 9)",
+   "summary": "Binance駭客以迷因幣洗錢。",
+   "core_fact": "Elliptic於11月9日在部落格指出，上月Binance遭駭案的駭客（外界認為與北韓有關）已洗出約43萬美元，僅占被竊63億美元的一小部分。Elliptic估計約31.3億美元仍在駭客錢包，主要是比特幣與以太幣；Binance共同執行長Richard Teng向彭博表示，另有28.5億美元被凍結或攔截。Elliptic共同創辦人Tom Robinson說明，駭客創造沒人想買的代幣來掩護資金移動；同樣手法去年也曾用在Bybit的15億美元竊案。",
+   "deep_facts": [
+    "已洗出約43萬美元，約31.3億美元仍在駭客錢包",
+    "Binance共同執行長Teng稱另有28.5億美元被凍結或攔截",
+    "同樣手法去年用於Bybit 15億美元竊案",
+    "Elliptic：迷因幣拖慢調查而非隱藏資金，鏈上軌跡仍可追蹤"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+   "display_title": "紐約證券交易所（NYSE）於11月9日宣布選定Avalanche為其關聯代幣化證券平台的清算公司提供核心帳本技術",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Mon, 09 Nov 2026 14:07:27 +0000",
+   "summary": "NYSE選定Avalanche為清算公司提供核心帳本。",
+   "core_fact": "據The Block與CoinDesk於11月9日報導，NYSE選定Avalanche，為其關聯代幣化證券平台的清算公司提供核心帳本技術。計畫中的市場為全天候24小時運作。同日報導顯示Avalanche代幣AVAX在消息後領漲加密貨幣，Cointelegraph稱此為NYSE代幣化交易的利多。本案僅取得摘要資訊，未能取得全文，因此資金規模與時程等細節不在此陳述。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "PNC Bank tests turning USDC payments into dollar deposits",
+   "display_title": "PNC銀行於11月9日擴大與Coinbase合作，試辦讓企業與機構客戶以Ethereum上的USDC收款",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Mon, 09 Nov 2026 17:48:35 +0000",
+   "summary": "PNC試辦USDC收款並轉美元存款。",
+   "core_fact": "PNC銀行於11月9日透過擴大與Coinbase的合作，試辦讓合格的企業與機構客戶接受USDC付款。此試辦中客戶可在Ethereum上收取USDC，每枚代幣轉換為1美元後存入帳戶，也就是客戶看到的是美元存款而非代幣。本案僅取得The Block與Cointelegraph的摘要，未能取得全文，因此不陳述未在摘要出現的規模、費用與客戶數。",
+   "deep_facts": []
+  }
+ ]
+}

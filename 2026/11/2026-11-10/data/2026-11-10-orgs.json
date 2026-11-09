@@ -1,0 +1,10 @@
+[
+{"name":"Anthropic","url":"https://www.anthropic.com","intro":"美國AI研究公司，開發Claude系列大型語言模型。"},
+{"name":"Coinbase","url":"https://www.coinbase.com","intro":"美國主要加密資產交易與託管平台，於美國上市。"},
+{"name":"Google","url":"https://www.google.com","intro":"美國科技公司，旗下Google Cloud提供雲端與TPU等AI運算基礎設施。"},
+{"name":"FactSet","url":"https://www.factset.com","intro":"提供金融資料與分析工具的美國資料供應商，客戶涵蓋銀行與投資機構。"},
+{"name":"Affirm","url":"https://www.affirm.com","intro":"美國先買後付（BNPL）業者，提供消費者分期付款與商家支付服務。"},
+{"name":"Nexi","url":"https://www.nexi.it","intro":"歐洲數位支付基礎設施業者，提供商家收單與支付處理服務。"},
+{"name":"PNC銀行","url":"https://www.pnc.com","intro":"美國大型區域銀行，提供零售、企業與財富管理服務。"},
+{"name":"Elliptic","url":"https://www.elliptic.co","intro":"區塊鏈分析業者，提供加密資產交易追蹤與反洗錢監控。"}
+]
