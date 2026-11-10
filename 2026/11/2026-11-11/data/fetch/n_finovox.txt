@@ -1,0 +1,4 @@
+FINAL_URL: https://www.finextra.com/newsarticle/48732/finovox-detects-more-than-100000-in-ai-related-fraud-every-month
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

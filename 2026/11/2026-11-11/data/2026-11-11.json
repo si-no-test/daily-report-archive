@@ -1,0 +1,261 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-10T23:15:02.193163+00:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Canada Launches Real-Time Payments System, the Real-Time Rail",
+   "display_title": "加拿大支付協會（Payments Canada）於11月10日宣布啟用全國即時支付系統Real-Time Rail，首年將涵蓋逾九成加拿大人",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/canada-launches-real-time-payments-system-the-real-time-rail/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/canada-launches-real-time-payments-system-the-real-time-rail/",
+     "status": "ok",
+     "chars": 4049
+    }
+   ],
+   "date_evidence": "Tue, 10 Nov 2026",
+   "summary": "加拿大支付協會於11月10日宣布啟用Real-Time Rail（RTR），讓金融機構、信用合作社與支付服務業者可24小時、全年無休即時交換、清算與結算款項。首波參與者包括Wealthsimple、Questbank、Peoples Tru",
+   "core_fact": "加拿大支付協會於11月10日宣布啟用Real-Time Rail（RTR），讓金融機構、信用合作社與支付服務業者可24小時、全年無休即時交換、清算與結算款項。首波參與者包括Wealthsimple、Questbank、Peoples Trust Company、Paramount Commerce、KOHO、DoBusiness.com、Digital Commerce Bank與美國銀行（Bank of America），未來數月將陸續納入所有主要加拿大金融機構，上線首年逾九成加拿大人可使用。系統由CGI、Deloitte Canada、IBM Canada與Interac共同建置並採ISO 20022報文；C.D. Howe Institute估計未來十年可帶來最高145億元成本節省與最高270億元經濟效益。",
+   "deep_facts": [
+    "RTR上線即強制內建收款人確認與交易風險評分等集中式詐欺防制",
+    "系統由CGI、Deloitte Canada、IBM Canada與Interac共同建置並採ISO 20022報文",
+    "首批8家參與者包括Wealthsimple、KOHO與美國銀行，所有主要加拿大金融機構將於未來數月接入",
+    "C.D. Howe Institute估計十年可省最高145億元成本並帶來最高270億元經濟效益"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Wise Launches Interest and Stocks Products for US Customers",
+   "display_title": "Wise於11月10日在美國推出Wise Interest與Wise Stocks，首度動用其美國券商執照，全球客戶持有資金一年成長40%至390億美元",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/wise-launches-interest-and-stocks-products-for-us-customers/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/wise-launches-interest-and-stocks-products-for-us-customers/",
+     "status": "ok",
+     "chars": 4119
+    }
+   ],
+   "date_evidence": "2026-11-11（Finovate RSS）",
+   "summary": "Wise在美國推出兩項新產品：Wise Interest把客戶的美元餘額投入貝萊德（BlackRock）美國公債貨幣市場基金，每日計算收益、每月配息；Wise Stocks則讓客戶把美元餘額投入標普500指數基金。兩者都保留即時取用、轉帳與",
+   "core_fact": "Wise在美國推出兩項新產品：Wise Interest把客戶的美元餘額投入貝萊德（BlackRock）美國公債貨幣市場基金，每日計算收益、每月配息；Wise Stocks則讓客戶把美元餘額投入標普500指數基金。兩者都保留即時取用、轉帳與刷卡消費不受罰的彈性，且Wise指出逾90%收益可能免繳州與地方所得稅。這是Wise於2025年4月透過子公司Wise US Assets Inc.取得的美國券商執照首次啟用，受SIPC保障上限50萬美元（含現金25萬美元）；Wise全球活躍客戶達1,900萬，上一財年客戶持有資金成長40%至390億美元，2023年推出的基本利息功能在FY26利息收入年增近17%。",
+   "deep_facts": [
+    "Wise Interest投資貝萊德美國公債貨幣市場基金，每日計息、每月配息",
+    "為Wise於2025年4月透過Wise US Assets Inc.取得之美國券商執照首次啟用，SIPC保障上限50萬美元",
+    "全球客戶持有資金上一財年成長40%至390億美元，基本利息功能FY26利息收入年增近17%"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Avaloq Unveils Mosaic, a Modular Platform for Wealth Managers",
+   "display_title": "瑞士財富科技公司Avaloq於11月10日推出模組化財富管理平台Avaloq Mosaic進軍美國市場，該公司服務全球逾170家金融機構",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/avaloq-unveils-mosaic-a-modular-platform-for-wealth-managers/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 10 Nov 2026 19:59:48 +0000",
+   "summary": "Avaloq於11月10日當週宣布推出Avaloq Mosaic並正式進入美國市場，首發兩項核心功能：Portfolio IQ整合多帳戶、多保管機構的持倉與交易資料，提供即時投資全貌；Allocator則把投資策略大規模轉換為客戶投資組合。",
+   "core_fact": "Avaloq於11月10日當週宣布推出Avaloq Mosaic並正式進入美國市場，首發兩項核心功能：Portfolio IQ整合多帳戶、多保管機構的持倉與交易資料，提供即時投資全貌；Allocator則把投資策略大規模轉換為客戶投資組合。平台另含Agent Connect，讓業者的AI工具以受控方式存取經驗證的投資資料，後續將加入稅務導向投資、證券事件管理與證券擔保融資等模組。Avaloq目前服務逾170家金融機構，並將20%的軟體營收投入研發；數週前該公司才宣布永豐銀行（Bank SinoPac）已導入其平台擴展香港財富管理業務，永豐銀行截至2025年底總資產為新台幣2.97兆元。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "KeyBank Upgrades Products as Consumers Struggle to Save",
+   "display_title": "KeyBank於11月10日推出個人化理財洞察與通行密鑰登入等數位銀行升級，其民調顯示近三分之二美國人每週至少管理一次收支",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/banking/2026/keybank-upgrades-products-as-consumers-struggle-to-save/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "announced Tuesday (Nov. 10)",
+   "summary": "KeyBank於11月10日宣布一系列數位與行動銀行升級：已註冊網路與行動銀行的客戶可取得個人化消費可視化洞察與量身建議；網頁與App全面支援通行密鑰（passkey）登入；客戶可直接在App與網站透過與Pinwheel的合作申請薪資直接入",
+   "core_fact": "KeyBank於11月10日宣布一系列數位與行動銀行升級：已註冊網路與行動銀行的客戶可取得個人化消費可視化洞察與量身建議；網頁與App全面支援通行密鑰（passkey）登入；客戶可直接在App與網站透過與Pinwheel的合作申請薪資直接入帳，並在適用地區申請提前發薪服務。KeyBank引用其2026年Financial Mobility Pulse民調指出，近三分之二美國人至少每週管理一次支出與儲蓄，年收入10萬美元以上者也有26%表示每天都要做財務取捨；PYMNTS研究則顯示X世代有38%可動用儲蓄在1,000美元以下。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Affirm and Nuvei Seek Bigger Roles in Merchants' Payment Operations",
+   "display_title": "Nuvei以27.5億美元收購Payoneer案持續推進，Payoneer於11月5日公布B2B支付量年增59%至50億美元，並新取得加拿大與以色列支付執照",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/b2b-payments/2026/affirm-and-nuvei-seek-bigger-roles-in-merchants-payment-operations/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-11（PYMNTS RSS）",
+   "summary": "Nuvei於6月同意以27.5億美元收購Payoneer，Payoneer股東已於9月投票通過，目前仍待各地監理核准，目標2027年中完成。Payoneer於11月5日公布的季報顯示，中小型平台賣家支付量約126億美元、年增1%，企業撥付成",
+   "core_fact": "Nuvei於6月同意以27.5億美元收購Payoneer，Payoneer股東已於9月投票通過，目前仍待各地監理核准，目標2027年中完成。Payoneer於11月5日公布的季報顯示，中小型平台賣家支付量約126億美元、年增1%，企業撥付成長14%至74億美元，B2B支付量則大增59%至50億美元，成長主要來自中國、歐洲、中東與非洲的大型客戶；該公司並新取得加拿大與以色列支付執照。PYMNTS引述的調查指出，99%企業已推出某種嵌入式金融，但93%表示執行上遇到整合、法遵與資安困難。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Anthropic Unveils Office Suite to Challenge Microsoft Ahead of Landmark IPO",
+   "display_title": "Anthropic於11月10日推出內建AI的辦公應用套件與試算表Claude Sheets，截至10月底年化營收達810億美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/",
+     "status": "ok",
+     "chars": 2986
+    }
+   ],
+   "date_evidence": "unveiled at a company event Tuesday (Nov. 10)",
+   "summary": "據彭博報導，Anthropic於11月10日的活動中發表一系列職場應用，包括視訊會議助理、資料儀表板服務，以及外觀類似Excel與Google Sheets、全面嵌入AI的試算表Claude Sheets，部分工具以測試版提供付費訂閱用戶使",
+   "core_fact": "據彭博報導，Anthropic於11月10日的活動中發表一系列職場應用，包括視訊會議助理、資料儀表板服務，以及外觀類似Excel與Google Sheets、全面嵌入AI的試算表Claude Sheets，部分工具以測試版提供付費訂閱用戶使用；Adobe、Atlassian與HubSpot等企業軟體商可把自家應用嵌入Claude。消息公布後微軟股價於紐約盤中下跌3%。根據監理申報文件，Anthropic截至10月31日的年化營收達810億美元，較9月底增加100億美元，並在即將進行的首次公開發行中尋求約1.4兆美元的完全稀釋估值，同日公布的發行價區間為每股70至78美元。",
+   "deep_facts": [
+    "產品負責人Nicholas Lin坦言Claude Sheets屬相當基本的產品，不適合進階財務建模",
+    "Adobe、Atlassian與HubSpot可把自家應用嵌入Claude，消息公布後微軟股價盤中下跌3%",
+    "截至10月31日年化營收達810億美元，較9月底增加100億美元"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+   "display_title": "紐約州政府於11月10日開放前沿AI開發商註冊入口，RAISE法將於2027年1月1日生效，違規最高罰款300萬美元",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+     "status": "ok",
+     "chars": 4016
+    }
+   ],
+   "date_evidence": "The state opened a registration portal Tuesday（2026-11-10）",
+   "summary": "紐約州於11月10日開放註冊入口，要求Anthropic、OpenAI等大型前沿AI開發商在2027年1月1日前完成註冊。RAISE法適用年營收逾5億美元的大型前沿開發商，規定須在官網公布安全框架、於72小時內通報重大安全事故，並發布模型透",
+   "core_fact": "紐約州於11月10日開放註冊入口，要求Anthropic、OpenAI等大型前沿AI開發商在2027年1月1日前完成註冊。RAISE法適用年營收逾5億美元的大型前沿開發商，規定須在官網公布安全框架、於72小時內通報重大安全事故，並發布模型透明度報告；新成立的數位創新、治理、誠信與信任辦公室（DIGIT）負責執行，首次違規最高罰款100萬美元、再犯最高300萬美元。州長Kathy Hochul同日在紐約州立大學賓漢頓分校成立紐約AI責任與研究中心，該中心於1月宣布時已獲5,500萬美元捐款與資本。",
+   "deep_facts": [
+    "RAISE法適用年營收逾5億美元的前沿開發商，重大安全事故須72小時內通報",
+    "首次違規最高罰100萬美元、再犯最高300萬美元，由新設DIGIT辦公室執行",
+    "加州SB 53要求15天內通報，伊利諾州SB 315於2027年生效並加入獨立安全稽核"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "8 questions for the Wells Fargo wealth unit's AI chief",
+   "display_title": "富國銀行（Wells Fargo）財富暨投資管理部門AI主管於11月10日表示，上一季上線的AI Teammate已累積數十萬次互動，消費端AI助理Fargo互動逾10億次",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/8-questions-for-the-wells-fargo-wealth-units-ai-chief/874275/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 10 Nov 2026 12:21:20 -0500",
+   "summary": "富國銀行財富暨投資管理部門（WIM）AI主管Andre Mansour半年前從Google加入，他接受Banking Dive訪問時表示，上一季推出的AI Teammate是一套模型框架，以代理方式疊加在整合逾200項工具的理專平台Advi",
+   "core_fact": "富國銀行財富暨投資管理部門（WIM）AI主管Andre Mansour半年前從Google加入，他接受Banking Dive訪問時表示，上一季推出的AI Teammate是一套模型框架，以代理方式疊加在整合逾200項工具的理專平台Advisor Gateway之上，讓理專與客戶助理以對話視窗取代在多個應用程式間點選。上線至今已有數十萬次互動，許多原本需數小時的工作縮短到幾分鐘，其中會議準備最明顯；消費端AI解決方案Fargo則已累積逾10億次互動，並將延伸到財富管理情境。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+   "display_title": "花旗、高盛與德意志銀行等大型銀行於11月10日據報承諾投入約2.7億美元成立美元穩定幣合資事業Project Faro",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Tue, 10 Nov 2026 17:32:22 +0000",
+   "summary": "據彭博報導、經CoinDesk與Finextra轉述，花旗（Citi）、高盛（Goldman Sachs）與德意志銀行（Deutsche Bank）等全球大型銀行已承諾投入約2.7億美元，成立名為Project Faro的穩定幣合資事業，計",
+   "core_fact": "據彭博報導、經CoinDesk與Finextra轉述，花旗（Citi）、高盛（Goldman Sachs）與德意志銀行（Deutsche Bank）等全球大型銀行已承諾投入約2.7億美元，成立名為Project Faro的穩定幣合資事業，計畫發行以美元計價的穩定幣，預期將在美國設立公司。此事延續9月1日報導：當時包括美國銀行、花旗等21家金融機構宣布籌組新公司支援美元穩定幣發行，目標2027年上半年推出，先發美元穩定幣、再擴及七大工業國貨幣。本次為該聯盟首度傳出具體出資規模。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Moody's and Chainlink test cross-chain credit ratings distribution",
+   "display_title": "穆迪評等（Moody's Ratings）於11月10日與Chainlink以跨鏈互通協定CCIP完成測試網試點，把信用評等資料同步發布到許可鏈與公有鏈",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.theblock.co/post/437245",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Tue, 10 Nov 2026 15:49:59 +0000",
+   "summary": "穆迪評等與區塊鏈預言機業者Chainlink於11月10日公布，雙方在測試網上以Chainlink的跨鏈互通協定（CCIP）進行試點，把信用評等資料分送至許可制區塊鏈與公有區塊鏈。這是穆迪推動評等資料上鏈的延續：穆迪曾於2026年3月推出不",
+   "core_fact": "穆迪評等與區塊鏈預言機業者Chainlink於11月10日公布，雙方在測試網上以Chainlink的跨鏈互通協定（CCIP）進行試點，把信用評等資料分送至許可制區塊鏈與公有區塊鏈。這是穆迪推動評等資料上鏈的延續：穆迪曾於2026年3月推出不限定鏈別的Token Integration Engine，首先在Canton Network上運行節點，並表示將擴展至更多區塊鏈網路；本次試點則是首度以跨鏈協定把同一份評等資料同步提供給多條鏈使用。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Visa adds Monad to stablecoin settlement network options",
+   "display_title": "威士（Visa）於11月10日把Monad納入穩定幣結算網路選項，其穩定幣結算年化規模截至9月已達200億美元、年增逾15倍",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 10 Nov 2026 14:00:02 +0000",
+   "summary": "據The Block報導，Visa於11月10日把Monad加入其穩定幣結算計畫，參與的發卡與收單機構可在Monad上結算。Visa此前已支援Avalanche、以太坊、Solana、Stellar、Circle的Arc、Base、Cant",
+   "core_fact": "據The Block報導，Visa於11月10日把Monad加入其穩定幣結算計畫，參與的發卡與收單機構可在Monad上結算。Visa此前已支援Avalanche、以太坊、Solana、Stellar、Circle的Arc、Base、Canton、Polygon與Tempo等鏈，其中Arc、Base、Canton、Polygon與Tempo於4月宣布。截至2026年9月，Visa穩定幣結算年化規模達200億美元，年增逾15倍，全球已有逾225個與穩定幣連結的卡片計畫上線。Monad基金會並預告將於未來數月推出機構用的隱私結算功能。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+   "display_title": "Kimber Digital Securities於11月10日宣布登記為美國證券交易委員會券商並加入FINRA，鏈上代幣化股票價值一年成長逾六倍至38.7億美元",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 10 Nov 2026 15:51:56 +0000",
+   "summary": "區塊鏈網路Plume的關係企業Kimber Digital Securities於11月10日宣布已向美國證券交易委員會（SEC）登記為券商並加入美國金融業監管局（FINRA），計畫提供可存放於自主保管錢包的代幣化美股、ETF與債券，但未公",
+   "core_fact": "區塊鏈網路Plume的關係企業Kimber Digital Securities於11月10日宣布已向美國證券交易委員會（SEC）登記為券商並加入美國金融業監管局（FINRA），計畫提供可存放於自主保管錢包的代幣化美股、ETF與債券，但未公布上線日期。其代幣代表透過美國存託公司（DTC）記錄的既有所有權，持有人保有股利與投票權，並可在券商帳戶與鏈上錢包間移轉；另規劃為穩定幣用戶提供含美國大型資產管理公司基金的收益型商品。根據RWA.xyz，鏈上代幣化股票價值已從2025年11月的6.433億美元增至38.7億美元。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "A_site_searches": 10,
+  "B_topic_queries": 5,
+  "C_rss_substitutes": 3,
+  "regional_supplementary": 6,
+  "note": "[A][B][C]共18條皆已執行，均無審計窗內可採用新條目；Fintech Futures、Fintech Nexus、Crowdfund Insider RSS HTTPError"
+ }
+}

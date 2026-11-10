@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-11",
+  "archived_at": "2026-11-10T23:15:24Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "4cae29f13053dfa75e62196bbdf4e0166347bcb8",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 45,
+  "total_bytes": 913098,
+  "files": [
+    {
+      "path": "data/2026-11-11-candidates.txt",
+      "bytes": 65853,
+      "sha256": "1f6372c82147d68c9ca3bd4000f80cb3cfb425e78d6e586ac3895eec3b6e5187"
+    },
+    {
+      "path": "data/2026-11-11-glossary.json",
+      "bytes": 2334,
+      "sha256": "9492ececb4d3b27fe3440ceb752209a269e40731927219fe2d8fe97a92e4c945"
+    },
+    {
+      "path": "data/2026-11-11-manifest.txt",
+      "bytes": 3460,
+      "sha256": "a53af60b1ad8440803a134e124bc1f0287fdcd70f20f8e3f8125722921dba509"
+    },
+    {
+      "path": "data/2026-11-11-orgs.json",
+      "bytes": 1684,
+      "sha256": "27f1e2e5acc550b4a1f8deddd97ce438643af745a8024ebbae46538ceaf3fddf"
+    },
+    {
+      "path": "data/2026-11-11-topic-cases.json",
+      "bytes": 1812,
+      "sha256": "5afee24d63319c116fa148268b513db38db230470caca611ff63eacf560f80e4"
+    },
+    {
+      "path": "data/2026-11-11-topic-decisions.json",
+      "bytes": 2208,
+      "sha256": "6ae27202d63049f1b767505fbcb4b4bb816ca0c3c64805f119d6aea4e158b0c8"
+    },
+    {
+      "path": "data/2026-11-11.json",
+      "bytes": 21389,
+      "sha256": "00ffa8269a2a653f1b35caa2b4d9775c3364f8cec897731fe1444df189a0559a"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 66083,
+      "sha256": "b7332e3130d43fa3bcdf9c891e0602cda8b60e924988a1500941eabebe312620"
+    },
+    {
+      "path": "data/fetch/c1.txt",
+      "bytes": 4197,
+      "sha256": "6b5795dc27bb9396e54609a89d3fa3b2a1dc4c4e8076b92134dbadbd2e860ff6"
+    },
+    {
+      "path": "data/fetch/c2.txt",
+      "bytes": 4282,
+      "sha256": "b81cae81a90920fc48b34c5f07a927b124dda7dc746efa8c37aefa9f6ec55d31"
+    },
+    {
+      "path": "data/fetch/c3.txt",
+      "bytes": 3185,
+      "sha256": "e5c3cfba4546b4a2ce914693e275e6f2918681653a9359c6e049881ab5432dba"
+    },
+    {
+      "path": "data/fetch/c4.txt",
+      "bytes": 4216,
+      "sha256": "7dd1310bc55fef84945d21c6d1a083eb0c5c9f0447ac79e5e7cf298e54baf582"
+    },
+    {
+      "path": "data/fetch/c5.txt",
+      "bytes": 212,
+      "sha256": "c26ac2c3cfe631ebd238b20f225648e227c53f43c7627d106fdaf545865a274d"
+    },
+    {
+      "path": "data/fetch/c5b.txt",
+      "bytes": 180,
+      "sha256": "3e7ffe2167b34a1566bccf3bfc2fc8574fcb070a5d6b40d151980b3ddcf97314"
+    },
+    {
+      "path": "data/fetch/c6.txt",
+      "bytes": 189,
+      "sha256": "3f6c25abd1622f89eb077e3cbb61511ca0c89eca4f774d1ec24ca35016d23f38"
+    },
+    {
+      "path": "data/fetch/c6b.txt",
+      "bytes": 112,
+      "sha256": "295ecdff287c7481edffcf0f61c1069a35b23b32a43016b2e3bd6153353293b7"
+    },
+    {
+      "path": "data/fetch/n_affirm.txt",
+      "bytes": 5113,
+      "sha256": "b300bd58ba035d465258f25c4bdb04b35f1deb08a6bc4e639c96db2efbb4b665"
+    },
+    {
+      "path": "data/fetch/n_avaloq.txt",
+      "bytes": 4118,
+      "sha256": "0f26e6c517ce45575d70c16c3c95ddb027a399f50b8f54ee78a14680fbdbe5c9"
+    },
+    {
+      "path": "data/fetch/n_bottom.txt",
+      "bytes": 178,
+      "sha256": "07234016a30391b4db0591c7c4208296a7082d09b8b5a6ce9e0a9e812fddee05"
+    },
+    {
+      "path": "data/fetch/n_bud.txt",
+      "bytes": 157,
+      "sha256": "085c98c7944d235ffcd89c30b55c519350f9c8829860b72d30f106f8625f11de"
+    },
+    {
+      "path": "data/fetch/n_finovox.txt",
+      "bytes": 184,
+      "sha256": "114980151f740a7bb9a6991985d41e08271cc7627732c2f1d9a9510be6eee8dd"
+    },
+    {
+      "path": "data/fetch/n_hsbc.txt",
+      "bytes": 186,
+      "sha256": "0feb8eb2c92b4eecc049fd7a10804ca6f81345e59da0329c216b35b0e03997c4"
+    },
+    {
+      "path": "data/fetch/n_keybank.txt",
+      "bytes": 3310,
+      "sha256": "73e19a196f175a8994309d679ea447f22be157fc7f369a0f0a44c5f94f6339da"
+    },
+    {
+      "path": "data/fetch/n_kimber.txt",
+      "bytes": 265,
+      "sha256": "8417049cbf693f9f845d52760b39cee7be1592bb01c310293944a4de4dfbc053"
+    },
+    {
+      "path": "data/fetch/n_monad.txt",
+      "bytes": 175,
+      "sha256": "284eb2b129cd7ac8e06fd520d2576b6f34f4ff36b148edd9e1925650d5884193"
+    },
+    {
+      "path": "data/fetch/n_perps.txt",
+      "bytes": 211,
+      "sha256": "ee4efe4948fb1be630a6594efe3e0415c17f65eae78f29518388fa869df632f2"
+    },
+    {
+      "path": "data/fetch/n_poland.txt",
+      "bytes": 255,
+      "sha256": "d233181e26281d85e6a00c7feea6587727eb254bc3345df2498de53ffa01d643"
+    },
+    {
+      "path": "data/fetch/n_venmo.txt",
+      "bytes": 178,
+      "sha256": "d0db7b76f4a00de6656773006472d345c6db9e210b040ab3f0ca6de210feafab"
+    },
+    {
+      "path": "data/fetch/n_wf.txt",
+      "bytes": 7514,
+      "sha256": "9a10038222587436381804e43db2ea09205b6cd0786734e62d27bcc156252336"
+    },
+    {
+      "path": "data/recent.txt",
+      "bytes": 22577,
+      "sha256": "1e90915324a82cb8970af81a8e257aacb7f211d6f1caed938e1ef4862c556ae7"
+    },
+    {
+      "path": "outbox/2026-11-11-archive.html",
+      "bytes": 106714,
+      "sha256": "a949c624b7cf7a5dc469e277e0763cda5c4fb252ebe017b7159dd4a665f3c858"
+    },
+    {
+      "path": "outbox/2026-11-11-email.html",
+      "bytes": 10842,
+      "sha256": "315c9b7082dc070269bff7473d46e647a673bb09c21b96ef1fb74823b22aeecc"
+    },
+    {
+      "path": "published/2026-11-11.html",
+      "bytes": 555,
+      "sha256": "b8e9dcc4fed52c76c54c00d4bd9286b8ec4f7e56ec9906d5a2753ab8f29adb3a"
+    },
+    {
+      "path": "published/2026-11-11/ai.html",
+      "bytes": 37228,
+      "sha256": "38644c87a8566b1f9e5d13a039e4dc0bf02bddd810ddbc8fd7415a055e2239e1"
+    },
+    {
+      "path": "published/2026-11-11/blockchain.html",
+      "bytes": 53299,
+      "sha256": "888ca3cebbfe16f138b1aa961b550193f5433b5b14c7db0b5e858a84a06e85c4"
+    },
+    {
+      "path": "published/2026-11-11/index.html",
+      "bytes": 24772,
+      "sha256": "cc8ddaaca26d7975b6476917ca4b38cf747eb649c241e2ca6fd0932456f96689"
+    },
+    {
+      "path": "published/2026-11-11/innovation.html",
+      "bytes": 55645,
+      "sha256": "b8e31d2da02933174e7821935b147377d6d9ede2f75e4a6425dd3424792a4210"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 348395,
+      "sha256": "a14f2649f034eb3ce0656870af302499af00abfea2c2ab16c98710b51065d460"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "c19a781f71badfaa6c30016c4147a8f770506ac98b61991d42abfba842832f1d"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "b8e9dcc4fed52c76c54c00d4bd9286b8ec4f7e56ec9906d5a2753ab8f29adb3a"
+    },
+    {
+      "path": "published/topics/bank-consortium-usd-stablecoin-venture.html",
+      "bytes": 2487,
+      "sha256": "49f1e5efb4dfd4cb18a8a861795472099967dab127ba6d8067bfd9a3e9e431b7"
+    },
+    {
+      "path": "published/topics/canada-real-time-rail-rollout.html",
+      "bytes": 1624,
+      "sha256": "3dbab48615cc1ca658389e08d96023439ac4c51b7da5564adbea359124d778fc"
+    },
+    {
+      "path": "published/topics/us-ai-state-federal-preemption-fight.html",
+      "bytes": 2677,
+      "sha256": "a813268bb1492426ce2edae72a9430404ca6b6cb49db6cd3497d8f9bce43f86f"
+    },
+    {
+      "path": "source/2026-11-11-report.txt",
+      "bytes": 39218,
+      "sha256": "89140e072bb92cea063795025cd3cda981991a1e0fdf3ed67357340a7118d92d"
+    },
+    {
+      "path": "source/2026-11-11-summary.txt",
+      "bytes": 2478,
+      "sha256": "7917009dd1465427e52a236d3bc3918c821fffe340e70691624a2f598ad8940d"
+    }
+  ]
+}

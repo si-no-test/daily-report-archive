@@ -1,0 +1,22 @@
+FINAL_URL: https://www.pymnts.com/news/banking/2026/keybank-upgrades-products-as-consumers-struggle-to-save/
+STATUS: ok
+CHARS: 3113
+---CONTENT---
+KeyBank Upgrades Products as Consumers Struggle to Save
+KeyBank has introduced a series of enhancements to its digital and mobile banking offerings.
+The new additions, announced Tuesday (Nov. 10), are designed to provide clients with personalized financial guidance, while also boosting security and making it easier to save.
+“The updates reflect how Americans are increasingly engaging with their finances and seeking tools that offer convenience, clarity and guidance,” KeyBank said in a news release.
+The release cited the bank’s 2026 Financial Mobility Pulse Poll, which found that nearly two‑thirds of Americans manage their spending and savings at least weekly.
+“Even higher‑income households are feeling pressure, with 26% of earners making $100,000 or more reporting daily financial trade‑offs—signaling a growing need for accessible, actionable digital support,” the release added.
+The new offerings include personalized insights for customers enrolled in online and mobile banking on things like spending visibility, and tailored recommendations to help them better understand and manage their financial behaviors.
+Customers can now also use passkeys to access their accounts on the web and KeyBank’s mobile app. Clients can also use the app and website to enroll in direct deposit in partnership with PinWheel , and—where available—sign up for the bank’s early pay service.
+The new offerings come at a time when some consumers are finding it harder to save. This includes members of Generation X, as recent PYMNTS Intelligence research shows.
+The report “Gen X’s Savings Split: Retirement on Track, Emergency Cash Running Short” found that 56% of emergency savers in this group depend exclusively on manual methods.
+“These consumers move money themselves or set cash aside, making progress dependent on having money available and remembering to save,” PYMNTS wrote last week. “That is the highest rate of manual-only emergency saving among working-age generations.”
+The research also found that 38% of Gen X consumers have $1,000 or less in readily available savings, with 18% saying they have no readily available savings at all. These figures highlight the potential value of helping consumers develop emergency nest eggs gradually, rather than waiting until they have enough funds to make a major deposit.
+“The need to help Gen X consumers save money is becoming increasingly pronounced as their emergency saving slows,” the report said. “In April, 30% of Gen X consumers said they had saved less over the previous three months than they had in the three months before that. Among those saving less, 62% cited rising regular expenses. Meanwhile, 27% of Gen X consumers had not set aside money for any purpose in the previous 30 days.”
+KeyBank Upgrades Products as Consumers Struggle to Save
+Bilt Seeks Slice of $6 Trillion Neighborhood Commerce Space
+Affirm and Nuvei Seek Bigger Roles in Merchants’ Payment Operations
+Anthropic Unveils Office Suite to Challenge Microsoft Ahead of Landmark IPO
+banking , Banks , Digital Banking , KeyBank , mobile banking , News , PYMNTS News , savings , What's Hot

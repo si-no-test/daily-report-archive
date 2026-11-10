@@ -1,0 +1,14 @@
+[
+ {"name":"加拿大支付協會","url":"https://www.payments.ca","intro":"加拿大的公共目的支付組織，負責營運國內大額、零售批次與即時支付系統。"},
+ {"name":"Wise","url":"https://wise.com","intro":"英國跨境匯款與多幣別帳戶業者，前身為TransferWise。"},
+ {"name":"Avaloq","url":"https://www.avaloq.com","intro":"瑞士財富管理與銀行核心系統軟體供應商，服務全球逾170家金融機構。"},
+ {"name":"KeyBank","url":"https://www.key.com","intro":"美國KeyCorp旗下的區域型銀行，總部位於俄亥俄州克里夫蘭。"},
+ {"name":"Payoneer","url":"https://www.payoneer.com","intro":"提供跨境收款、多幣別帳戶與全球撥付服務的金融科技公司。"},
+ {"name":"Nuvei","url":"https://www.nuvei.com","intro":"加拿大支付處理與收單科技公司，為全球商戶提供收款服務。"},
+ {"name":"Anthropic","url":"https://www.anthropic.com","intro":"美國AI公司，開發Claude系列大型語言模型。"},
+ {"name":"富國銀行","url":"https://www.wellsfargo.com","intro":"美國大型商業銀行之一，總部位於舊金山。"},
+ {"name":"德意志銀行","url":"https://www.db.com","intro":"德國最大的銀行，業務涵蓋企業金融、投資銀行與財富管理。"},
+ {"name":"Chainlink","url":"https://chain.link","intro":"區塊鏈預言機與跨鏈互通基礎設施，提供鏈下資料上鏈與跨鏈傳輸服務。"},
+ {"name":"Visa","url":"https://www.visa.com","intro":"全球主要的電子支付網路與卡組織。"},
+ {"name":"FINRA","url":"https://www.finra.org","intro":"美國金融業監管局，負責監理證券經紀商的自律組織。"}
+]

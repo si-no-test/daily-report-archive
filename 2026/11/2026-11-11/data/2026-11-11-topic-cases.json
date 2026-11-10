@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **加拿大支付協會（Payments Canada）**於11月10日宣布啟用全國即時支付系統Real-Time Rail，首年將涵蓋逾九成加拿大人",
+  "summary": "加拿大支付協會11月10日啟用即時支付系統RTR，強制內建收款人確認與交易風險評分，分階段接入。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Wise**於11月10日在美國推出Wise Interest與Wise Stocks，首度動用其美國券商執照，全球客戶持有資金一年成長40%至390億美元",
+  "summary": "Wise在美國推出貨幣基金與指數基金收益產品，首度動用美國券商執照。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Anthropic**於11月10日推出內建AI的辦公應用套件與試算表Claude Sheets，截至10月底年化營收達810億美元",
+  "summary": "Anthropic推出內建AI的辦公應用套件與Claude Sheets，上市前挑戰微軟。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **紐約州政府**於11月10日開放前沿AI開發商註冊入口，RAISE法將於2027年1月1日生效，違規最高罰款300萬美元",
+  "summary": "紐約州開放前沿AI開發商註冊，RAISE法2027年1月1日生效。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **花旗、高盛與德意志銀行等大型銀行**於11月10日據報承諾投入約2.7億美元成立美元穩定幣合資事業Project Faro",
+  "summary": "花旗、高盛、德意志銀行等據報出資約2.7億美元成立穩定幣合資事業Project Faro。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **穆迪評等（Moody's Ratings）**於11月10日與Chainlink以跨鏈互通協定CCIP完成測試網試點，把信用評等資料同步發布到許可鏈與公有鏈",
+  "summary": "穆迪與Chainlink以CCIP測試跨鏈發布信用評等資料。",
+  "theme": "blockchain"
+ }
+]

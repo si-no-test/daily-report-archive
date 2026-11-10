@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization
+STATUS: fail
+CHARS: 67
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%

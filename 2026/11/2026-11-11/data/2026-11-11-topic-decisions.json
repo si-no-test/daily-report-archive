@@ -1,0 +1,8 @@
+[
+ {"action":"create","topic_id":"canada-real-time-rail-rollout","title":"加拿大即時支付系統Real-Time Rail分階段上線","theme":"innovation","keywords":["Real-Time Rail","RTR","Payments Canada","加拿大支付協會","即時支付"],"headline":"加拿大支付協會啟用即時支付系統Real-Time Rail，強制內建收款人確認與交易風險評分","one_line_update":"11月10日：加拿大支付協會啟用RTR，首批由Wealthsimple、KOHO、美國銀行等8家機構接入，未來數月納入所有主要金融機構，首年涵蓋逾九成加拿大人，並強制內建收款人確認與交易風險評分。","source_title":"Canada Launches Real-Time Payments System, the Real-Time Rail","source_url":"https://finovate.com/canada-launches-real-time-payments-system-the-real-time-rail/"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"match","topic_id":"us-ai-state-federal-preemption-fight","headline":"紐約州開放前沿AI開發商註冊，RAISE法2027年1月1日生效","one_line_update":"11月10日：紐約州開放RAISE法註冊入口，年營收逾5億美元的前沿AI開發商須於2027年1月1日前註冊、72小時內通報重大安全事故，違規最高罰100萬至300萬美元，州級AI監理持續在聯邦立法缺位下推進。","source_title":"OpenAI, Anthropic face new oversight as New York's AI safety law takes effect","source_url":"https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"},
+ {"action":"match","topic_id":"bank-consortium-usd-stablecoin-venture","headline":"花旗、高盛、德意志銀行等據報出資約2.7億美元成立穩定幣合資事業Project Faro","one_line_update":"11月10日：據彭博報導，花旗、高盛與德意志銀行等大型銀行承諾投入約2.7億美元成立美元穩定幣合資事業Project Faro，預計在美國設立公司，為聯盟首度傳出具體出資規模。","source_title":"Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture","source_url":"https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"},
+ {"action":"skip"}
+]

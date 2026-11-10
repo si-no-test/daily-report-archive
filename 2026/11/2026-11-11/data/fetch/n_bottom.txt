@@ -1,0 +1,4 @@
+FINAL_URL: https://www.finextra.com/pressarticle/111632/bottomline-brings-usdc-stablecoin-payments-into-platform
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

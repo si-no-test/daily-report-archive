@@ -1,0 +1,4 @@
+FINAL_URL: https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 429: Too Many Requests

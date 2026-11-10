@@ -1,0 +1,25 @@
+FINAL_URL: https://www.pymnts.com/news/b2b-payments/2026/affirm-and-nuvei-seek-bigger-roles-in-merchants-payment-operations/
+STATUS: ok
+CHARS: 4912
+---CONTENT---
+Affirm and Nuvei Seek Bigger Roles in Merchants’ Payment Operations
+Nexi plans to keep working with Affirm in three European markets after the Ratepay sale.
+Payoneer’s quarterly B2B payment volume rose 59% to $5 billion.
+Payoneer added payment licenses in Canada and Israel while its sale to Nuvei remains pending.
+FinTechs are using cross-border acquisitions to add a service to payment relationships merchants already have. For a lender, that means buying a provider whose payment option is already on a retailer’s checkout page. For a processor, it means buying the accounts and payout services businesses use after they collect a payment.
+The two deals in focus this week show how an acquisition can expand what a FinTech does for a merchant as well as where it does business.
+Getting a financial product into a merchant’s systems is part of what makes those relationships valuable. In a survey cited by the October PYMNTS Intelligence and WEX business payments tracker, “ Built to Scale: How to Grow Embedded Payments Without Starting Over ,” 99% of companies had introduced some form of embedded finance, and 93% reported difficulties offering it. Those difficulties included technical integration, compliance and security. Buying a provider with merchants already using its service gives the acquirer existing connections to work with when it introduces another product.
+Under the agreement Nexi announced Monday (Nov. 9), Affirm would acquire Ratepay , a German payments company that serves merchants in Germany, Austria and Switzerland. Ratepay specializes in letting shoppers place an order and pay the invoice later.
+The agreement gives Affirm two routes to merchants. It would own Ratepay’s business, and it has signed a memorandum of understanding with Nexi to expand their existing partnership in the same three markets. Nexi plans to provide local and technical support after closing. Regulatory approvals are expected in the first half of 2027.
+Nuvei’s Deal Extends Beyond Payment Acceptance
+Nuvei ’s proposed $2.75 billion purchase of Payoneer would add services a business uses after a sale. Nuvei handles payment acceptance. Payoneer offers accounts that hold balances in multiple currencies, a banking network and cross-border payouts. A business that collects money abroad can use those services to keep funds in the currency it received or send money to a supplier in another market.
+Payoneer’s Thursday (Nov. 5) earnings show where the business Nuvei agreed to buy in June is growing. Small and midsize marketplace sellers accounted for roughly half of the company’s quarterly payment volume, at $12.6 billion, up 1% from a year earlier. Enterprise payouts rose 14% to $7.4 billion. Business-to-business volume increased 59% to $5 billion, with Payoneer citing growth across major regions and gains with larger customers, particularly in China, Europe, the Middle East and Africa.
+Payoneer also reported obtaining payment licenses in Canada and Israel. The licenses are part of Payoneer’s operating business. The acquisition itself still requires regulatory approvals after Payoneer shareholders voted in favor in September. The company is targeting a mid-2027 close.
+Retailers weigh the provider’s ability to run a financial service alongside the features it sells. In a separate PYMNTS Intelligence study of retailers , 81.1% cited strong regulatory and compliance capabilities when choosing an embedded finance provider, and 73% cited ease of integration. Retailers’ reported gains also varied. Some 82% said embedded finance improved the customer experience, while 41% said it increased revenue. A new payment option can improve checkout and still leave the retailer weighing the work of adding it against the sales it expects to gain.
+Elsewhere, banks remain the most widely used providers for U.S. small and midsize businesses that pay overseas suppliers. In a February survey of 310 U.S. businesses that sourced abroad, 64% said they used a traditional bank for those payments in 2025, and 69% said they were likely to use one in 2026. For FinTech payment providers, the corresponding figures were 30% and 36%. Both categories stood to gain users, and 91% of businesses that already used FinTechs rated their performance as good.
+The data come from PYMNTS Intelligence and Mastercard’s “The Cross-Border Opportunity ” report. When those businesses were asked what they wanted improved, 43% cited faster processing and settlement, ahead of the 37% who wanted lower fees or better exchange rates.
+Affirm and Nuvei Seek Bigger Roles in Merchants’ Payment Operations
+Anthropic Unveils Office Suite to Challenge Microsoft Ahead of Landmark IPO
+Boost Payment Solutions Expands Cross-Border Card Acceptance for Medical Providers
+What Skydance’s $6 Billion Bet Teaches CFOs About One-Time Charges
+acquisitions , Affirm , B2B , B2B Payments , commercial payments , News , Nuvei , PYMNTS News
