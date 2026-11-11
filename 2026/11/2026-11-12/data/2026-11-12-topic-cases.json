@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **西聯匯款（Western Union）**於11月10日宣布終止以5億美元收購同業Intermex，雙方隨即轉入法律攻防",
+  "summary": "西聯匯款因加州DFPI附加不得縮減代理據點等條件，終止5億美元收購Intermex，Intermex拒絕解約要求完成合併。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **費哲金融服務（Fiserv）**於11月10日表示將把客戶整併至Star與Accel其中一個簽帳金融卡網路，另一網路擬出售或關閉",
+  "summary": "Fiserv將客戶整併至Star與Accel其一，另一簽帳網路擬出售或關閉。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **北方信託（Northern Trust）**於11月9日宣布與微軟前線部署工程團隊打造客戶開戶AI代理，分析師資料準備時間縮短83%",
+  "summary": "北方信託與微軟打造開戶AI代理，資料準備由兩週半縮短為三天。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **螞蟻數科（Ant Digital Technologies）**於11月9日與德意志銀行聯合發布〈批發金融的代理式支付〉白皮書，提出三層架構與「了解你的代理」驗證機制",
+  "summary": "螞蟻數科與德意志銀行發布批發金融代理式支付白皮書，提出三層架構與KYA。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Payward（Kraken母公司）**於11月11日宣布xStocks首度上架逾200檔英國與歐盟上市股票代幣，代幣化資產總數突破1,500檔",
+  "summary": "xStocks上架逾200檔英歐股票代幣，總數破1,500檔，倫交所擬明年掛牌。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **德意志銀行（Deutsche Bank）**於11月11日正式上線數位資產保管服務，並簽署涵蓋代幣化基金、加密ETC與穩定幣的資產管理協議",
+  "summary": "德意志銀行上線企業與機構數位資產保管服務並簽署資產管理協議。",
+  "theme": "blockchain"
+ }
+]

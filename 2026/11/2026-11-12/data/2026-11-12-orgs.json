@@ -1,0 +1,13 @@
+[
+ {"name":"西聯匯款","url":"https://www.westernunion.com","intro":"總部位於美國丹佛、歷史逾百年的全球跨境匯款與支付服務業者。"},
+ {"name":"Intermex","url":"https://www.intermexonline.com","intro":"總部位於邁阿密的匯款業者，主要服務美國往墨西哥與中美洲的匯款需求。"},
+ {"name":"Fiserv","url":"https://www.fiserv.com","intro":"美國大型金融科技與支付處理商，為銀行提供核心系統並為商戶提供收單服務，旗下擁有Star與Accel簽帳網路。"},
+ {"name":"Zilch","url":"https://www.zilch.com","intro":"英國先買後付與支付業者，提供消費者分期付款與支付卡服務。"},
+ {"name":"北方信託","url":"https://www.northerntrust.com","intro":"美國大型託管與財富管理銀行，為機構與高資產客戶提供資產服務。"},
+ {"name":"螞蟻數科","url":"https://www.antdigital.com","intro":"螞蟻集團旗下的數位科技公司，提供區塊鏈、AI與金融科技解決方案。"},
+ {"name":"麥肯錫","url":"https://www.mckinsey.com","intro":"全球管理顧問公司，定期發布金融業策略與科技應用研究。"},
+ {"name":"Payward","url":"https://www.payward.com","intro":"加密貨幣交易所Kraken的母公司，旗下推出代幣化股票框架xStocks。"},
+ {"name":"德意志銀行","url":"https://www.db.com","intro":"德國最大銀行，業務涵蓋企業銀行、投資銀行、私人銀行與資產管理。"},
+ {"name":"Apex Group","url":"https://www.apexgroup.com","intro":"全球基金行政與資產服務業者，為基金與資產管理機構提供後台服務。"},
+ {"name":"美國貨幣監理署","url":"https://www.occ.gov","intro":"美國財政部轄下負責核發與監理全國性銀行與聯邦信託銀行執照的機關。"}
+]

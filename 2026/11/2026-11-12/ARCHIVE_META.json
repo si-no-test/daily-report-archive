@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-12",
+  "archived_at": "2026-11-11T23:16:08Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "b2a791b1be8a1869a27d2f0a3039acde6d5d0512",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 22,
+  "total_bytes": 791797,
+  "files": [
+    {
+      "path": "data/2026-11-12-candidates.txt",
+      "bytes": 68513,
+      "sha256": "007e542ec50295c4217a34944811a7299130b025174d7fad9207a5cbedc4cd88"
+    },
+    {
+      "path": "data/2026-11-12-glossary.json",
+      "bytes": 2378,
+      "sha256": "72682417f44fbd97e223bdd120a40e513fe6451fb21ee0559c873939e44b0ef6"
+    },
+    {
+      "path": "data/2026-11-12-manifest.txt",
+      "bytes": 3460,
+      "sha256": "77f76d48d8d233b0169055754104884b3658809a8ca02aa2ecc866ac75f934fa"
+    },
+    {
+      "path": "data/2026-11-12-orgs.json",
+      "bytes": 1800,
+      "sha256": "7c26ccb9e7d660773c2f926d8011bed68dff0e71700770d45e5b5828f84dbd51"
+    },
+    {
+      "path": "data/2026-11-12-topic-cases.json",
+      "bytes": 1907,
+      "sha256": "dd6399784abdb3d667f317e216e501e68b84216d4cf646c5edfa3d3c88364864"
+    },
+    {
+      "path": "data/2026-11-12-topic-decisions.json",
+      "bytes": 1908,
+      "sha256": "a8e08cbff763cd0bad0b53b1b498a18a687ecf825ae86aa23bbeac52e1c3957d"
+    },
+    {
+      "path": "data/2026-11-12.json",
+      "bytes": 19804,
+      "sha256": "fdd8dc1fb8fbd5b77ead26c47172b5945b0a7060f6cd0249a8c8863363f495b2"
+    },
+    {
+      "path": "outbox/2026-11-12-archive.html",
+      "bytes": 107007,
+      "sha256": "99dc5dd4f46bbcca33b2d8264c8b7709a1504c02bd0fc93fbc8cd1a146fb94fe"
+    },
+    {
+      "path": "outbox/2026-11-12-email.html",
+      "bytes": 11164,
+      "sha256": "6dd5ffec3ded0281451469611ed201f23a172d17d60977b974e499ceb3ba9565"
+    },
+    {
+      "path": "published/2026-11-12.html",
+      "bytes": 555,
+      "sha256": "3854a0d9738076be82f7f63ae084506e14d06d88c0a33abcab7fd49f26391324"
+    },
+    {
+      "path": "published/2026-11-12/ai.html",
+      "bytes": 37733,
+      "sha256": "a61c96444c177db53b9c12960c89b0bef715204e6e6e83a9828b3dff8acece3f"
+    },
+    {
+      "path": "published/2026-11-12/blockchain.html",
+      "bytes": 49907,
+      "sha256": "daba53b2fb375ff67662037d34ee013cf47f006cc1a529976b7d148a315adbca"
+    },
+    {
+      "path": "published/2026-11-12/index.html",
+      "bytes": 23788,
+      "sha256": "81fcad741f68fefc587360c119f3a778f8d9a6c0990bb56fe0e513f13df6ebcd"
+    },
+    {
+      "path": "published/2026-11-12/innovation.html",
+      "bytes": 57681,
+      "sha256": "7921744adeee70a9c99b681c8701ff6302abd8b2695042d34fef46b18e7f6670"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 353387,
+      "sha256": "e24d300f406545da83bb00fb364508437da761c790f57683fbc6e2a6734d6af7"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "3e35fe3ae02efeda98237d56cda0c64c158f30d24c74dbf82bc10abb1a67de89"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "3854a0d9738076be82f7f63ae084506e14d06d88c0a33abcab7fd49f26391324"
+    },
+    {
+      "path": "published/topics/fiserv-project-elevate-monetization.html",
+      "bytes": 2286,
+      "sha256": "015dfca138264d791eaa6b43fad6b63c8920775078b8a4411727afe2626ade55"
+    },
+    {
+      "path": "published/topics/payward-xstocks-tokenized-equity-expansion.html",
+      "bytes": 2457,
+      "sha256": "2b1ceb783c95229023a56ed7b30da58c03605aa14ee46cfc37497b3c7d71f845"
+    },
+    {
+      "path": "published/topics/western-union-intermex-merger.html",
+      "bytes": 1552,
+      "sha256": "3b59d30c82d07f16887d0389ced49e1c4ae61d57368d3bfac1214d4b200ebe2b"
+    },
+    {
+      "path": "source/2026-11-12-report.txt",
+      "bytes": 40363,
+      "sha256": "617f721f71205e3bfd6bcab6e8926e4949850a360b91401150c56ccd3dd0361f"
+    },
+    {
+      "path": "source/2026-11-12-summary.txt",
+      "bytes": 2800,
+      "sha256": "686f03656a585255c6ecfca9016dbd814c5eadf3cc281665dd305b1c8db691e4"
+    }
+  ]
+}

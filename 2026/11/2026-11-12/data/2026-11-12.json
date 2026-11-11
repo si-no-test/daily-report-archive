@@ -1,0 +1,283 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T07:15:46+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Western Union, Intermex clash",
+   "display_title": "西聯匯款（Western Union）於11月10日宣布終止以5億美元收購同業Intermex，雙方隨即轉入法律攻防",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/",
+     "status": "ok",
+     "chars": 4990
+    }
+   ],
+   "date_evidence": "Wed, 11 Nov 2026 10:56:00 -0500",
+   "summary": "Western Union terminated its $500m deal to buy Intermex after California DFPI imposed approval conditions; Intermex rejected the termination and demanded the merger be consummated.",
+   "core_fact": "西聯匯款於2025年8月宣布以5億美元收購邁阿密匯款業者International Money Express（Intermex），等待監理核准逾一年後，加州金融保護與創新局（DFPI）於11月10日核准交易但附帶條件，包括不得減少在加州提供服務的代理據點數，並須採取強化的風險導向反詐騙與洗錢防制措施。西聯以條件「將實質改變其商業模式、代理關係與長期策略」為由，在雙方可退出協議的最後期限當天通知終止；Intermex則於11月11日透過律師拒絕接受解約、要求完成合併。紐約州監理機關今年稍早已與雙方達成核准協議。",
+   "deep_facts": [
+    "加州DFPI附帶條件包括禁止縮減在加州提供服務的代理據點數，並援引既有法院命令要求強化反詐騙與洗錢防制措施",
+    "西聯於雙方可退出協議的最後期限當天通知終止；紐約州監理機關今年稍早已與雙方達成核准協議",
+    "西聯執行長McGranahan表示公司已裁減500名全職員工，並推出預計再減少150人的自願退休方案"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Fiserv preps debit network sale",
+   "display_title": "費哲金融服務（Fiserv）於11月10日表示將把客戶整併至Star與Accel其中一個簽帳金融卡網路，另一網路擬出售或關閉",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/",
+     "status": "ok",
+     "chars": 2342
+    }
+   ],
+   "date_evidence": "Wed, 11 Nov 2026 11:30:26 -0500",
+   "summary": "Fiserv CEO Takis Georgakopoulos said the company is migrating clients to one of its two debit networks (Star, Accel) and will sell or wind down the other.",
+   "core_fact": "Fiserv執行長Takis Georgakopoulos於11月10日在花旗第15屆年度金融科技會議表示，公司正把客戶遷移到旗下兩個簽帳金融卡網路中的一個，遷移將在「未來幾季」完成，若有合適報價就出售另一個網路，否則將其逐步關閉。Fiserv目前擁有Star與Accel兩大網路，分析師預期Accel較可能被出售。華爾街日報7月曾報導，美國銀行、摩根大通、PNC金融服務集團與富國銀行已與Fiserv進行過初步洽談；Georgakopoulos另指出資產檢視已找出「十幾個」零成長或無獲利的小型業務，將在短期內關閉。",
+   "deep_facts": [
+    "執行長於花旗第15屆年度金融科技會議表示兩個網路功能幾乎可互換，遷移將在未來幾季完成",
+    "華爾街日報7月報導美國銀行、摩根大通、PNC與富國銀行曾與Fiserv初步洽談",
+    "資產檢視找出十幾個零成長或無獲利的小型業務將在短期內關閉"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Zilch expands debt facilities to £395m in round led by Deutsche Bank",
+   "display_title": "Zilch於11月11日宣布擴大證券化與企業債務融資額度1.65億英鎊，總承諾額度達3.95億英鎊，由德意志銀行領投",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48741/zilch-expands-debt-facilities-to-395m-in-round-led-by-deutsche-bank",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 11 Nov 2026 11:34:00 GMT",
+   "summary": "Zilch has expanded its securitisation and corporate debt facilities by an additional £165 million, taking the total commitment to £395 million, in a round led by Deutsche Bank.",
+   "core_fact": "英國先買後付與支付業者Zilch於11月11日宣布，其證券化與企業債務融資合計再擴大1.65億英鎊，使可動用的總承諾額度提高到3.95億英鎊，本輪由德意志銀行領投。這筆資金主要用於支撐Zilch的消費者放款與應收帳款規模擴張，顯示其資金結構正從股權募資逐步轉向以應收帳款為擔保的證券化與債務融資，讓放款成長與資本來源更緊密掛鉤。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "OCC Charter Backlog Could Leave Late FinTech Applicants Behind",
+   "display_title": "美國貨幣監理署（OCC）於11月11日經PYMNTS分析指出，2025年1月至2026年10月23日共收到49件新設銀行執照申請、核准28件，後段申請者恐面臨審查瓶頸",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/legal/bank-regulation/2026/occ-charter-backlog-could-leave-late-fintech-applicants-behind/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 11 Nov 2026 22:59:10 +0000",
+   "summary": "A surge of fintech and digital asset charter applications has created a potential bottleneck at the OCC; 49 de novo applications, 28 approved between Jan 2025 and Oct 23, 2026.",
+   "core_fact": "PYMNTS於11月11日分析指出，美國貨幣監理署依其公開儀表板，在2025年1月至2026年10月23日間收到49件新設（de novo）銀行執照申請，核准28件、否決2件、退件1件；該署據報已調整人力因應申請潮。Circle、BitGo、Fidelity Digital Assets與Paxos已推進聯邦信託執照程序，Coinbase亦於11月9日宣布取得核准；Stripe旗下Bridge與Crypto.com則僅獲有條件核准，仍須完成資本與營運里程碑。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "UK-based Kingdom Bank Partners with Sandstone Technology",
+   "display_title": "Kingdom Bank於11月11日宣布與澳洲Sandstone Technology合作上線新數位銀行平台，首月即有逾35%客戶轉移使用",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/uk-based-kingdom-bank-partners-with-sandstone-technology/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 11 Nov 2026 19:53:50 +0000",
+   "summary": "Kingdom Bank went live with a cloud digital banking platform from Sandstone Technology; over 35% of customers migrated in the first month.",
+   "core_fact": "服務基督徒、教會與慈善機構的英國Kingdom Bank於11月11日宣布，與總部位於雪梨的Sandstone Technology合作上線新數位銀行平台，採用託管於Sandstone Cloud Service的雲端方案，涵蓋BankFast Apply數位開戶與存款申辦、網路銀行與行動App。該行表示上線第一個月即有逾35%客戶轉移使用；其年度放款自2020年被基督徒投資人收購後，已由500萬英鎊成長到2026年近3,000萬英鎊。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Northern Trust leans on Microsoft engineers to boost agentic buildout",
+   "display_title": "北方信託（Northern Trust）於11月9日宣布與微軟前線部署工程團隊打造客戶開戶AI代理，分析師資料準備時間縮短83%",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362/",
+     "status": "ok",
+     "chars": 3180
+    }
+   ],
+   "date_evidence": "Wed, 11 Nov 2026 07:00:00 -0500",
+   "summary": "Northern Trust worked with Microsoft forward-deployed engineers to build an onboarding agent that cuts analyst data preparation time by 83%.",
+   "core_fact": "北方信託於11月9日宣布，與微軟Frontier Company的前線部署工程（forward-deployed engineering）團隊合作打造客戶開戶AI代理，將分析師的資料準備時間由兩週半縮短為三天、降幅83%。該代理可把來自多個分散來源的客戶資料整合為標準格式，建構於Microsoft Azure與企業AI平台Microsoft Foundry之上，並串接Microsoft 365工具；分析師可審核並核准代理的工作成果，治理化的知識層則保存開戶知識，讓代理隨時間累積專業。執行長Michael O'Grady另指出，客戶行動計畫代理可為每份客戶備忘錄節省2至3小時。",
+   "deep_facts": [
+    "資料準備時間由兩週半縮短為三天，代理建構於Azure與Microsoft Foundry並串接Microsoft 365",
+    "客戶行動計畫代理可為每份客戶備忘錄節省2至3小時，AI數位化使直通式處理比例接近倍增",
+    "Evident報告指出逾三分之二受訪全球金融機構已為AI系統增設控管"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Deutsche Bank and Ant set out roadmap for integrating agentic AI into wholesale banking",
+   "display_title": "螞蟻數科（Ant Digital Technologies）於11月9日與德意志銀行聯合發布〈批發金融的代理式支付〉白皮書，提出三層架構與「了解你的代理」驗證機制",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://chainwire.org/2026/11/09/deutsche-bank-and-ant-digital-technologies-release-white-paper-on-agentic-payments-in-wholesale-finance/",
+     "status": "ok",
+     "chars": 7536
+    }
+   ],
+   "date_evidence": "Wed, 11 Nov 2026 11:13:00 GMT",
+   "summary": "Deutsche Bank and Ant Digital Technologies released a white paper on agentic AI across institutional treasury, cross-border payments and trade finance.",
+   "core_fact": "螞蟻數科與德意志銀行於11月9日在香港聯合發布白皮書〈Agentic Payments in Wholesale Finance〉，11月11日經Finextra報導。白皮書點出代理式支付的三大應用領域：財資與流動性管理（自動預測資金缺口與盈餘並執行合規調度）、跨境支付協調（綜合匯率、支付通道與執行時點優化成本與結算風險）及貿易融資（判讀單據、找出資料差異並在條件成就後產生融資或付款指令），並援引國際貨幣基金提出的三層參考架構：意圖與協調層、控制與授權層、結算層。",
+   "deep_facts": [
+    "白皮書援引國際貨幣基金三層參考架構：意圖與協調層、控制與授權層、結算層，刻意分離推理與執行",
+    "提出明確有界可撤銷的授權額度、代理身分綁定與了解你的代理（KYA）驗證協定",
+    "以螞蟻數科Anvita Flow平台作為實作案例，螞蟻數科總裁邊卓群主張代理可提議但不可自我擴權"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "AI could cut banking industry's cost base by 20% - McKinsey",
+   "display_title": "麥肯錫（McKinsey）於11月11日發布研究指出AI可望削減銀行業20%以上成本基礎，但多數銀行僅用於提升個別員工生產力",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinsey",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 11 Nov 2026 00:01:00 GMT",
+   "summary": "AI could cut the banking industry's cost base by 20% or more, but most firms have only used it to boost individual employee productivity.",
+   "core_fact": "麥肯錫於11月11日發布的銀行業研究指出，AI有潛力把銀行業的成本基礎削減20%或更多，但截至目前多數銀行僅把這項技術用來提升個別員工的生產力，對整體獲利的影響微乎其微。報告將「個人工具型」與「流程重設型」的導入區分開來，認為前者帶來的效率提升分散在員工個人時間上，未能轉化為可量化的人力與營運成本下降，銀行業尚未真正把AI效益反映到財務數字上。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Payward Expands Its Tokenization Efforts to EU and UK",
+   "display_title": "Payward（Kraken母公司）於11月11日宣布xStocks首度上架逾200檔英國與歐盟上市股票代幣，代幣化資產總數突破1,500檔",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/blockchain/2026/payward-expands-its-tokenization-efforts-to-eu-and-uk/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.pymnts.com/blockchain/2026/payward-expands-its-tokenization-efforts-to-eu-and-uk/",
+     "status": "ok",
+     "chars": 3339
+    }
+   ],
+   "date_evidence": "Wed, 11 Nov 2026 18:16:41 +0000",
+   "summary": "xStocks deployed its first tokenized UK and European equities, more than 200 listings, taking the framework past 1,500 tokenized assets; xStocks holds over $1.1 billion.",
+   "core_fact": "Kraken母公司Payward於11月11日宣布，其代幣化股票框架xStocks首度部署代表英國與歐洲上市公司的股票代幣，首波涵蓋逾200檔歐盟與英國交易最活躍的個股，使xStocks代幣化資產總數突破1,500檔，資產規模逾11億美元；此次擴展由Payward Services與投資科技業者GTN持續合作完成。Payward表示此舉兌現其與倫敦證券交易所合作、將倫敦前100大上市股票代幣化的計畫，倫交所並打算自明年起、在取得監理核准後掛牌xStocks並於LSE 24交易；Nasdaq今年稍早亦與Payward建立代幣化合作並投資1億美元。",
+   "deep_facts": [
+    "首波英歐股票代幣使xStocks資產總數突破1,500檔，由Payward Services與GTN合作完成",
+    "倫敦證交所打算自明年起在取得監理核准後掛牌xStocks並於LSE 24交易",
+    "Nasdaq今年稍早與Payward建立代幣化合作並投資1億美元"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+   "display_title": "德意志銀行（Deutsche Bank）於11月11日正式上線數位資產保管服務，並簽署涵蓋代幣化基金、加密ETC與穩定幣的資產管理協議",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
+     "status": "fail",
+     "chars": 64
+    }
+   ],
+   "date_evidence": "Wed, 11 Nov 2026 11:46:34 +0000",
+   "summary": "Deutsche Bank launched its digital asset custody service for companies and institutions and signed an agreement covering tokenized funds, crypto ETCs and stablecoins.",
+   "core_fact": "德意志銀行於11月11日宣布正式推出數位資產保管服務，對象為企業與機構客戶，客戶可透過該行保管並轉移比特幣、以太幣與部分穩定幣，錢包與私鑰由銀行代為管理。該行同日另簽署一項資產管理協議，範圍涵蓋代幣化基金、加密資產交易所交易商品（ETC）與穩定幣，顯示其數位資產業務已由單純保管延伸到代幣化商品與資產管理合作，為歐洲大型銀行中較完整的布局。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Meet Spiko, the largest tokenized fund in the world you've probably never heard about",
+   "display_title": "Spiko旗艦代幣化基金Spiko Amundi Overnight Swap Fund（SAFO）截至10月底管理資產達23.9億美元，於11月11日經CoinDesk報導為全球最大代幣化基金",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 11 Nov 2026 12:57:36 +0000",
+   "summary": "Spiko's flagship Spiko Amundi Overnight Swap Fund held $2.39 billion in AUM as of late October.",
+   "core_fact": "CoinDesk於11月11日報導，金融科技業者Spiko的旗艦代幣化基金Spiko Amundi Overnight Swap Fund（SAFO）截至10月底的管理資產規模達23.9億美元，並以此躋身全球規模最大的代幣化基金之列。該基金名稱顯示其與歐洲資產管理公司東方匯理（Amundi）合作，產品屬性為隔夜交換型的現金管理工具，讓持有人以鏈上代幣形式取得類似貨幣市場的收益並可在鏈上轉移，規模在歐洲代幣化商品中居於前列。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
+   "display_title": "Apex Group於11月11日宣布加入Hedera理事會，將以其監管的3.5兆美元資產探索代幣化、合規與結算應用",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 11 Nov 2026 17:07:22 +0000",
+   "summary": "Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council to explore tokenization, compliance and settlement.",
+   "core_fact": "全球基金行政與資產服務業者Apex Group於11月11日宣布加入Hedera理事會，成為參與Hedera網路治理的成員，並將探索以Hedera處理代幣化、合規與結算相關應用。Apex Group監管的資產規模達3.5兆美元，服務對象涵蓋各類基金與資產管理機構，其加入理事會意味著代幣化基金的行政、登記與結算等後台作業，可能逐步移到公開區塊鏈網路上執行，而非僅停留在各自獨立的私有帳本。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "rss_feeds": 17,
+  "rss_failed": [
+   "Fintech Futures",
+   "Fintech Nexus"
+  ],
+  "mandatory_searches": {
+   "A": 10,
+   "B": 5,
+   "C": 2
+  },
+  "regional_searches": [
+   "台灣",
+   "香港",
+   "韓國",
+   "新加坡",
+   "中國",
+   "歐洲"
+  ],
+  "supplementary_searches": 0
+ }
+}

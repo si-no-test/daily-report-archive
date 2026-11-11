@@ -1,0 +1,8 @@
+[
+ {"action":"create","topic_id":"western-union-intermex-merger","title":"西聯匯款收購Intermex案監理與解約爭議","theme":"innovation","keywords":["西聯匯款","Western Union","Intermex","匯款","收購"],"headline":"西聯匯款以加州監理條件為由終止5億美元收購Intermex，Intermex拒絕解約","one_line_update":"加州DFPI於11月10日附條件核准（不得縮減代理據點、強化反詐騙與洗錢防制），西聯同日於退出期限終止協議，Intermex於11月11日要求完成合併，雙方轉入法律攻防。","source_title":"Western Union, Intermex clash","source_url":"https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/"},
+ {"action":"match","topic_id":"fiserv-project-elevate-monetization","headline":"Fiserv整併Star與Accel簽帳網路，擬出售或關閉其一並關閉十餘項小型業務","one_line_update":"執行長Georgakopoulos於11月10日花旗金融科技會議表示，客戶將在未來幾季遷移至單一簽帳網路，另一網路有合適報價即出售，資產檢視另找出十幾個零成長或無獲利業務將關閉。","source_title":"Fiserv preps debit network sale","source_url":"https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"match","topic_id":"payward-xstocks-tokenized-equity-expansion","headline":"xStocks首度上架逾200檔英國與歐盟股票代幣，總數破1,500檔","one_line_update":"Payward於11月11日部署首波英歐上市股票代幣，兌現與倫敦證交所代幣化百大英股的計畫，倫交所擬明年於取得核准後在LSE 24掛牌交易xStocks。","source_title":"Payward Expands Its Tokenization Efforts to EU and UK","source_url":"https://www.pymnts.com/blockchain/2026/payward-expands-its-tokenization-efforts-to-eu-and-uk/"},
+ {"action":"skip"}
+]
