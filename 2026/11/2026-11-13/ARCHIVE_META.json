@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-13",
+  "archived_at": "2026-11-12T23:17:07Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "1579693e98cfde423f2c99600f09ff7b1fe46bcb",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 33,
+  "total_bytes": 902395,
+  "files": [
+    {
+      "path": "data/2026-11-13-candidates.txt",
+      "bytes": 70251,
+      "sha256": "31350d4aceec8cc5483233331687dd6d7a979cb23a3cf6bfa3466f7eab724d88"
+    },
+    {
+      "path": "data/2026-11-13-glossary.json",
+      "bytes": 2023,
+      "sha256": "ea822653bd9ff0c9ff343f6dc357d19daccfb5a1c5cb0e043bfc3d4420aaacd8"
+    },
+    {
+      "path": "data/2026-11-13-manifest.txt",
+      "bytes": 3460,
+      "sha256": "cefb02520e8eda4e861a06991a704d11c9f48ca01ef4c094d8eb3f1d1cffb566"
+    },
+    {
+      "path": "data/2026-11-13-orgs.json",
+      "bytes": 1639,
+      "sha256": "bda911797efa356fc187af73660d9ddc724484be7dff18e86ec2c05b751ca16b"
+    },
+    {
+      "path": "data/2026-11-13-topic-cases.json",
+      "bytes": 1942,
+      "sha256": "4c8e04f945b94c6075ada8626f15bb5fdaa12ecf1b1419110357b991663aa42b"
+    },
+    {
+      "path": "data/2026-11-13-topic-decisions.json",
+      "bytes": 1400,
+      "sha256": "1dad2d2f78f71cba6df95257f4b865cd9b9a34893a51937b1cffef8bb601894d"
+    },
+    {
+      "path": "data/2026-11-13.json",
+      "bytes": 17855,
+      "sha256": "a94e70b25721a175d4d8ac515d9fe2688acc0358cfce06cd131634490b9139ce"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 70481,
+      "sha256": "a8418d09763f544af7b13bb8c2f09988bbdd290e97ee995a52d3ec2859d45fcb"
+    },
+    {
+      "path": "data/fetch/c1.txt",
+      "bytes": 3186,
+      "sha256": "3c171691e6c1e342f7c20c8bab366c4c4792e45855a70b4b4c9ad116c1be48a5"
+    },
+    {
+      "path": "data/fetch/c2.txt",
+      "bytes": 6410,
+      "sha256": "6dd252cc1a0749eb548f9be7e0dd729ab5e637c2929e303fbe75116fa674f431"
+    },
+    {
+      "path": "data/fetch/c3.txt",
+      "bytes": 172,
+      "sha256": "7d6ea75ffe8c1179ef68bc39d164ec0eec19756786d374942998700d08c9ab5e"
+    },
+    {
+      "path": "data/fetch/c3b.txt",
+      "bytes": 250,
+      "sha256": "5dfe4d0b333fd77965a3815e9d78718722b06d6eaac91fe935ea3e0c664b8ff9"
+    },
+    {
+      "path": "data/fetch/c4.txt",
+      "bytes": 5036,
+      "sha256": "925050cffd2a9e0bae307d2b12d19256c9a03a4694de9e150c8dd4752937e02b"
+    },
+    {
+      "path": "data/fetch/c5.txt",
+      "bytes": 220,
+      "sha256": "7c00e60e28c578e435e73951ad398ded98fc6a1f5b07bf6ea3c8dafb5ef5d557"
+    },
+    {
+      "path": "data/fetch/c5b.txt",
+      "bytes": 3146,
+      "sha256": "22512fbb6806301d91bf020d731681dc8262b83c86080b3cb64774cf77759453"
+    },
+    {
+      "path": "data/fetch/c6.txt",
+      "bytes": 203,
+      "sha256": "8c76c481e5f20a498245228416a78dd708b2c191b2542f62b317dd292015e58d"
+    },
+    {
+      "path": "data/fetch/c6b.txt",
+      "bytes": 197,
+      "sha256": "4009336590860fc804d0a20952486397d722304fb7f6774d7bdde7d66cd8c6f1"
+    },
+    {
+      "path": "data/recent.txt",
+      "bytes": 22679,
+      "sha256": "767d73fafa24f97fca35e30f7bba1ec1712df3d09e23b4409c5b05612bbf82a2"
+    },
+    {
+      "path": "data/sc.txt",
+      "bytes": 3517,
+      "sha256": "93585b7e8b2284d64c5162f316a56fb6d5a4f98e9b2be4417be4db91ef2456d6"
+    },
+    {
+      "path": "outbox/2026-11-13-archive.html",
+      "bytes": 103974,
+      "sha256": "c9346a060d95dd00a5329efd00899b8efe3e263d8daa899912d2cf917bb74b16"
+    },
+    {
+      "path": "outbox/2026-11-13-email.html",
+      "bytes": 11867,
+      "sha256": "4722b8de45ff23ea8b4e138fb65aa0c248ac282661660b2b21056876c35714f1"
+    },
+    {
+      "path": "published/2026-11-13.html",
+      "bytes": 555,
+      "sha256": "a5868482590a69a95da0a29d09cec792fe01fb444c1aa2243f88ae4e9c1a439e"
+    },
+    {
+      "path": "published/2026-11-13/ai.html",
+      "bytes": 37308,
+      "sha256": "0368d0e79b840ae57f3ea03abed0cfe9889b92e80b43d002571308300fc4a7dd"
+    },
+    {
+      "path": "published/2026-11-13/blockchain.html",
+      "bytes": 50220,
+      "sha256": "af68b97f14c3e9d4581f249ac20b203995cd699de6e1493ae91a6ec2aac47495"
+    },
+    {
+      "path": "published/2026-11-13/index.html",
+      "bytes": 23986,
+      "sha256": "6a6985169e257a96974db1151072b68bcd2db3135e5bab9f316e8da94bd53c55"
+    },
+    {
+      "path": "published/2026-11-13/innovation.html",
+      "bytes": 53438,
+      "sha256": "fa59124ccf0d7bafd6103054a7e34fe712a9679eb04eb4928ba568568ef1fcf3"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 358203,
+      "sha256": "6bb403521172a0d9462c5977faa7624b8ac38e87850205babfc8e9e643b973c9"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "f7e24d8c2610426ae3943a45cc9e4149c56256ce0c3cab9488aa4523949fa65f"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "a5868482590a69a95da0a29d09cec792fe01fb444c1aa2243f88ae4e9c1a439e"
+    },
+    {
+      "path": "published/topics/tokenized-equities-market-growth.html",
+      "bytes": 5330,
+      "sha256": "1e34697c02b01654fc48fa98ad15ff621ede9051b747f22b46396f2deac8f6c4"
+    },
+    {
+      "path": "published/topics/visa-stablecoin-settlement-expansion.html",
+      "bytes": 1546,
+      "sha256": "a35ab91a1304f25042e8880227650ee874d12af19f917077c240fb28cd94c890"
+    },
+    {
+      "path": "source/2026-11-13-report.txt",
+      "bytes": 37333,
+      "sha256": "f1b9fc14a6932959538d687a109fa7282b46cca523e21d9386e44a3654eb16a0"
+    },
+    {
+      "path": "source/2026-11-13-summary.txt",
+      "bytes": 3221,
+      "sha256": "7da697b12d38749fded67acf551f4877f713dd0ebb621fbd1c34f25f60c29aa6"
+    }
+  ]
+}

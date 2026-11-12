@@ -1,0 +1,22 @@
+FINAL_URL: https://www.pymnts.com/news/b2b-payments/2026/visa-expands-stablecoin-services-with-anchorage-partnership/
+STATUS: ok
+CHARS: 2958
+---CONTENT---
+Visa Expands Stablecoin Services With Anchorage Partnership
+The opportunity of stablecoin settlement lies in the fact that money no longer needs to wait for banks to open.
+Visa ’s Thursday (Nov. 12) stablecoin expansion , through a partnership with Anchorage Digital supporting Western Union’s USDPT token, brings that opportunity into focus.
+The arrangement will allow eligible Visa partners to settle obligations using USDPT, a dollar-backed stablecoin issued by Anchorage Digital Bank, with a framework for supporting additional Anchorage-issued tokens.
+“As stablecoin payments grow, we’re focused on providing more choice for our partners in how they settle with Visa,” said Dan Roesbery , vice president of global crypto partnerships and GTM at Visa, in a statement.
+“ Stablecoins have made money move faster, but speed alone won ’ t bring institutions onchain. They need a regulated institution behind the money, ” Nathan McCauley , co-founder and CEO of Anchorage Digital, said in the release. “ With Anchorage Digital select issued stablecoins now being supported on the Visa network, institutions get both: the speed of a stablecoin and the safety of a federally regulated bank behind it. ”
+The collaboration in part of Anchorage Digital ’ s broader plan to become the settlement bank for stablecoins at institutional scale, according to the release. That means not only issuing stablecoins, but also providing the custody and settlement infrastructure that supports the broader ecosystem.
+Visa ’s deal with Anchorage is not its first foray into stablecoins.
+In September, Visa launched a program designed to help stablecoin-linked card programs and FinTechs access working capital through on-chain lending, PYMNTS reported at the time.
+The payment volume of stablecoin-linked card programs operating on Visa’s network has grown nearly 200% year over year, the report added. The annualized run rate of Visa’s stablecoin settlement volume has increased more than 15 times year over year to surpass $20 billion, according to the release.
+The PYMNTS Intelligence report “ Waiting for Certainty: Why Most CFOs Are Holding Back on Crypto and Stablecoins “ revealed in March that most middle market companies remain cautious about digital assets, as 13% of firms use stablecoins and just 5% use other cryptocurrencies.
+Stablecoins have demonstrated that money can move faster. The next challenge for these digital currencies is proving that the financial system can operate with less money standing still.
+For all PYMNTS digital transformation and B2B coverage, subscribe to the daily Digital Transformation and B2B Newsletters .
+HubSpot Founder Returns as CEO
+Visa Helps AviaGames Players Get Paid Faster
+Klarna Picks Robinhood Vet Chris Koegel as New CFO
+Mastercard Touts Successful Agentic Travel Transaction
+B2B , B2B Payments , Blockchain , commercial payments , News , partnerships , PYMNTS News , stablecoins , Visa , What's Hot , What's Hot In B2B

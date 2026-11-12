@@ -1,0 +1,270 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T08:30:00+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Mastercard Touts Successful Agentic Travel Transaction",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/transportation/travel-payments/2026/mastercard-touts-successful-agentic-travel-transaction/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/transportation/travel-payments/2026/mastercard-touts-successful-agentic-travel-transaction/",
+     "status": "ok",
+     "chars": 2968
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 20:51:28 +0000",
+   "summary": "萬事達卡與Travelport、Booked AI、Basis Theory合作完成真實AI代理機票交易，以Mastercard Agent Pay代幣化憑證付款。",
+   "deep_facts": [
+    "AI代理經Travelport取得大型航空公司NDC即時報價，客戶在對話中確認後由Mastercard Agent Pay以代幣化憑證發動付款",
+    "原始卡號存放於Basis Theory符合PCI規範的金庫，AI代理全程未接觸卡號",
+    "航空公司全程維持商戶身分、無中介結帳頁；前一日聯合航空宣布封鎖未授權第三方AI代理訂票"
+   ],
+   "display_title": "萬事達卡（Mastercard）於11月12日宣布完成首筆由AI代理端到端訂位、付款並開票的真實機票交易，全程不暴露卡號",
+   "core_fact": "萬事達卡於11月12日宣布，與旅遊配銷平台Travelport、對話式旅遊平台Booked AI及支付金庫業者Basis Theory合作，完成一筆真實、端到端的AI代理機票交易：Booked的AI旅遊代理經Travelport取得某大型航空公司的NDC（New Distribution Capability）即時報價，客戶在對話中確認細節後，由Mastercard Agent Pay以代幣化憑證發動付款，原始卡號存放於符合PCI規範的Basis Theory金庫，授權後再經Travelport與航空公司系統完成開票；全程航空公司仍是商戶，中間沒有任何中介結帳頁。前一天（11月11日）聯合航空才宣布禁止未授權的第三方AI代理訂票。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Hancock Whitney to buy Trustmark in $3.2B deal",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/hancock-whitney-buy-trustmark-3b-deal-bank-acquisition/874522/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/hancock-whitney-buy-trustmark-3b-deal-bank-acquisition/874522/",
+     "status": "ok",
+     "chars": 6153
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 12:02:46 -0500",
+   "summary": "漢考克惠特尼以32億美元全股票收購Trustmark，合併後資產580億美元、約370家分行。",
+   "deep_facts": [
+    "換股比例0.7463、每股約54.02美元，交易價格為有形帳面價值1.78倍",
+    "預估年化稅前費用節省約2.055億美元，約30家Trustmark分行距漢考克惠特尼分行不到三英里",
+    "財務長表示期中選舉後併購監理窗口收窄有被考慮，並預期未來兩年銀行併購更熱絡"
+   ],
+   "display_title": "漢考克惠特尼（Hancock Whitney）於11月12日宣布以全股票方式、作價32億美元收購密西西比州同業Trustmark",
+   "core_fact": "總部位於密西西比州Gulfport的漢考克惠特尼於11月12日宣布，以全股票方式收購位於Jackson的Trustmark，交易作價約32億美元，每股Trustmark換發0.7463股、約合每股54.02美元，預計2027年第一季完成。合併後資產約580億美元、存款480億美元、放款約400億美元，在南方六州約有370家分行；交易價格為有形帳面價值的1.78倍，預估2028年每股盈餘增厚約7%，年化稅前費用節省約2.055億美元，約30家Trustmark分行與漢考克惠特尼分行相距不到三英里。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Uber adds Revolut Pay option",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111658/uber-adds-revolut-pay-option",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 12 Nov 2026 14:38:00 GMT",
+   "summary": "Revolut擴大與優步支付合作，於優步App新增Revolut Pay；Revolut客戶逾8,000萬、企業客戶85萬家。",
+   "deep_facts": [],
+   "display_title": "Revolut於11月12日宣布擴大與優步（Uber）合作，在優步App新增Revolut Pay付款選項",
+   "core_fact": "Revolut於11月12日宣布擴大與全球叫車與外送平台優步的支付合作，在優步App中新增Revolut Pay作為付款選項。Revolut表示其全球客戶已超過8,000萬人、企業客戶達85萬家；用戶可在優步結帳時直接選用Revolut自家的付款方式。此次合作屬於雙方既有支付合作的擴大，主角是數位銀行自有的帳戶對帳戶錢包，而非傳統卡片付款。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Mexico's Clara raises $65m for spend management platform",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48753/mexicos-clara-raises-65m-for-spend-management-platform",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 12 Nov 2026 20:43:00 GMT",
+   "summary": "拉丁美洲企業支出管理平台Clara完成6,500萬美元C輪股權募資。",
+   "deep_facts": [],
+   "display_title": "Clara於11月12日宣布完成6,500萬美元C輪募資，擴大拉丁美洲企業支出管理平台",
+   "core_fact": "總部位於墨西哥的拉丁美洲企業支出管理平台Clara於11月12日宣布完成6,500萬美元C輪股權募資，資金將用於擴大其企業支出管理平台。Clara提供企業卡與費用管理工具，協助拉丁美洲企業控管員工支出、審批與對帳；本輪為股權募資，顯示投資人仍看好新興市場的企業支付與支出管理賽道。"
+  },
+  {
+   "theme": "innovation",
+   "title": "N26 launches digital private retirement account in Germany",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111654/n26-launches-digital-private-retirement-account-in-germany",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 12 Nov 2026 13:20:00 GMT",
+   "summary": "N26將自2027年1月1日起在德國推出私人退休帳戶Altersvorsorgedepot。",
+   "deep_facts": [],
+   "display_title": "N26於11月12日宣布將自2027年1月1日起在德國推出數位私人退休帳戶",
+   "core_fact": "德國數位銀行N26於11月12日宣布，將在德國推出新的私人退休帳戶（Altersvorsorgedepot），自2027年1月1日起開放申請，客戶可在N26 App內直接管理退休投資。此一帳戶對應德國新推動的私人退休儲蓄制度，N26把開戶、投資與管理流程全部數位化，讓既有活存客戶在同一個App內完成退休規劃，不必另行前往傳統券商或保險公司。"
+  },
+  {
+   "theme": "ai",
+   "title": "DOJ AI Task Force Puts Business Users in Enforcement Spotlight",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/doj-ai-task-force-puts-business-users-enforcement-spotlight/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/doj-ai-task-force-puts-business-users-enforcement-spotlight/",
+     "status": "ok",
+     "chars": 4841
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 18:04:39 +0000",
+   "summary": "美國司法部超級智慧工作小組將使用AI的企業同列執法焦點，要求企業維持嚴格AI內控。",
+   "deep_facts": [
+    "工作小組源自司法部長Todd Blanche於10月13日的備忘錄，並併入1月成立的AI工作小組",
+    "各單位在AI相關案件立案、起訴與和解前須通報工作小組",
+    "成員涵蓋刑事、民事、國安、詐欺、反壟斷與上訴部門，並延續2024年企業合規計畫評估中的AI風險要求"
+   ],
+   "display_title": "美國司法部（DOJ）於11月5日宣布成立超級智慧工作小組（Super Intelligence Task Force），統籌跨部門AI刑事與民事執法",
+   "core_fact": "美國司法部於11月5日宣布成立超級智慧工作小組，源自司法部長Todd Blanche於10月13日發布的備忘錄，並併入1月成立的人工智慧工作小組；PYMNTS於11月12日引述律所McGuireWoods分析指出，小組成員來自刑事、民事、國安、詐欺、反壟斷與上訴等部門，並要求各單位在針對AI相關案件立案調查、提起訴訟及達成和解前先行通報。司法部同時明言企業應維持「嚴格的內部控制」，確保AI依預期運作，並將延續2024年《企業合規計畫評估》中檢視AI風險管理的要求，另行制定評估指引。"
+  },
+  {
+   "theme": "ai",
+   "title": "Starling unveils AI-powered 'talk to transact' feature",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.starlingbank.com/news/",
+     "status": "fail",
+     "chars": 99
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 15:22:00 GMT",
+   "summary": "Starling推出AI語音轉帳功能，零售客戶可對App說話設定付款。",
+   "deep_facts": [],
+   "display_title": "Starling Bank於11月12日推出「talk to transact」AI語音轉帳功能，客戶以口語即可在App設定付款",
+   "core_fact": "英國數位銀行Starling Bank於11月12日宣布推出「talk to transact」功能，讓個人與聯名帳戶的零售客戶透過對App說話或輸入自然語言來設定付款；App內的Starling Assistant會依指令準備好付款內容，再由客戶點擊螢幕確認後才執行。依公開報導，該功能預計在年底前推出，由Starling自有的代理式AI平台Starling Intelligence驅動，小型企業客戶也將取得類似的發票付款功能。"
+  },
+  {
+   "theme": "ai",
+   "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 12 Nov 2026 13:57:53 +0000",
+   "summary": "黃仁勳即刻辭去輝達總裁、執行長與董事職務，財務長Colette Kress暫代執行長，股價重挫。",
+   "deep_facts": [],
+   "display_title": "輝達（Nvidia）於11月12日宣布創辦人黃仁勳即刻辭去執行長與董事職務，由任職13年的財務長Colette Kress暫代執行長",
+   "core_fact": "輝達於11月12日宣布，共同創辦並領導公司約三十年的執行長黃仁勳即刻辭去總裁、執行長與董事會職務，由在公司任職13年的財務長Colette Kress兼任臨時執行長，董事會將另覓正式接任人選。消息傳出後輝達股價大跌，比特幣同日跌至約7.12萬美元、創12週低點，加密市場約7.5億美元部位遭清算；黃仁勳並已同意出席美國國會的閉門聽證，國會民主黨也啟動對輝達中國銷售的調查。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "Visa adds Western Union's USDPT stablecoin to its settlement network in Anchorage tie-up",
+   "source": "The Block / PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/b2b-payments/2026/visa-expands-stablecoin-services-with-anchorage-partnership/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.pymnts.com/news/b2b-payments/2026/visa-expands-stablecoin-services-with-anchorage-partnership/",
+     "status": "ok",
+     "chars": 2958
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 16:00:00 +0000",
+   "summary": "Visa與Anchorage Digital合作，以USDPT作為VisaNet結算資產。",
+   "deep_facts": [
+    "Visa穩定幣連結卡片計畫支付量年增近200%，穩定幣結算年化規模年增逾15倍、超過200億美元",
+    "Anchorage定位為機構級穩定幣結算銀行，提供發行、保管與結算基礎設施",
+    "已建立可支援更多Anchorage發行代幣的框架"
+   ],
+   "display_title": "威士（Visa）於11月12日宣布與Anchorage Digital合作，把西聯匯款穩定幣USDPT納入VisaNet結算資產",
+   "core_fact": "威士於11月12日宣布與Anchorage Digital合作，讓符合資格的Visa夥伴可使用由Anchorage Digital Bank發行、與西聯匯款合作的美元穩定幣USDPT與Visa進行結算，並建立可支援更多Anchorage發行代幣的框架。威士表示，其網路上與穩定幣連結的卡片計畫支付量年增近200%，穩定幣結算的年化規模年增逾15倍、已超過200億美元；Anchorage則把此合作定位為成為「機構級穩定幣結算銀行」的一環，除發行外也提供保管與結算基礎設施。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 14:23:11 +0000",
+   "summary": "DTCC計畫2027年下半年於Solana提供代幣化股票、ETF與美國公債，與Canton、Besu並列。",
+   "deep_facts": [],
+   "display_title": "美國證券集中保管結算公司（DTCC）於11月12日宣布2027年下半年把代幣化服務擴及Solana，涵蓋股票、ETF與美國公債",
+   "core_fact": "美國證券集中保管結算公司於11月12日宣布，計畫於2027年下半年把其代幣化服務延伸至Solana，讓符合資格的股票、ETF與美國公債可在Solana上以代幣形式發行與流通。依公開報導，Solana將與Canton、Besu並列為DTCC代幣化服務支援的網路，並使其明年的路線圖從原先的Stellar與Arc進一步擴大；不過也有分析師指出，DTCC對錢包的限制規則可能侷限實際採用程度。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "BaaS bank Griffin raises £20m to add cards and stablecoin capabilities",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48746/baas-bank-griffin-raises-20m-to-add-cards-and-stablecoin-capabilities",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 12 Nov 2026 14:41:00 GMT",
+   "summary": "Griffin完成2,000萬英鎊B輪募資，估值逾1億英鎊，擴展卡片與穩定幣能力。",
+   "deep_facts": [],
+   "display_title": "Griffin於11月12日宣布完成2,000萬英鎊B輪募資，估值逾1億英鎊並擴展穩定幣服務",
+   "core_fact": "英國銀行即服務（BaaS）業者Griffin於11月12日宣布完成2,000萬英鎊B輪募資，由Octagon Partners領投，估值逾1億英鎊。依公開報導，這筆資金將用於新增卡片發行與穩定幣能力，包括為穩定幣發行商提供準備金服務，以及鏈上跨境支付；Griffin同時也是優步在英國的銀行合作夥伴，持有英國銀行執照，為金融科技業者提供帳戶與支付基礎設施。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "Securitize and Ethena's $100 million BlackRock BUIDL liquidity facility goes live",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Thu, 12 Nov 2026 14:00:00 +0000",
+   "summary": "Securitize與Ethena Labs上線1億美元流動性機制，合格BUIDL持有人可全天候換成USDC等穩定幣。",
+   "deep_facts": [],
+   "display_title": "Securitize於11月12日與Ethena Labs上線1億美元BUIDL流動性機制，讓合格持有人全天候換成USDC",
+   "core_fact": "代幣化平台Securitize於11月12日與Ethena Labs共同上線規模1億美元的流動性機制，讓符合資格的貝萊德代幣化基金BUIDL持有人，可在一週七天、一天二十四小時內把BUIDL換成USDC等穩定幣。此一機制解決了代幣化貨幣市場基金在傳統贖回流程下，仍需等待基金營業日與交割時間的限制，讓代幣化基金在鏈上具備接近現金的流動性。"
+  }
+ ],
+ "search_log": {
+  "rss_feeds": 17,
+  "rss_failed": [
+   "Fintech Futures",
+   "Fintech Nexus"
+  ],
+  "must_search_A": 10,
+  "must_search_B": 5,
+  "must_search_C": 2,
+  "regional_supplement": 6,
+  "note": "[A][B][C] 17 條全數執行，均無審計窗內合格條目；監管動態補搜台灣、香港、日本、韓國、新加坡、中國各 1 次，均無審計窗內結果"
+ }
+}

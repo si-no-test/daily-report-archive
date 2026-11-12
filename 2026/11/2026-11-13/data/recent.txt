@@ -1,0 +1,100 @@
+=== 近 7 天已報導清單（跨日去重比對用；同一事件已報過者，純重複勿再刊、有新進展改延續更新）===
+
+[2026-11-12]
+  ・（金融創新）西聯匯款（Western Union）於11月10日宣布終止以5億美元收購同業Intermex，雙方隨即轉入法律攻防　https://www.paymentsdive.com/news/western-union-intermex-acquisition-fight-California-regulator/874396/
+  ・（金融創新）費哲金融服務（Fiserv）於11月10日表示將把客戶整併至Star與Accel其中一個簽帳金融卡網路，另一網路擬出售或關閉　https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/
+  ・（金融創新）Zilch於11月11日宣布擴大證券化與企業債務融資額度1.65億英鎊，總承諾額度達3.95億英鎊，由德意志銀行領投　https://www.finextra.com/newsarticle/48741/zilch-expands-debt-facilities-to-395m-in-round-led-by-deutsche-bank
+  ・（金融創新）美國貨幣監理署（OCC）於11月11日經PYMNTS分析指出，2025年1月至2026年10月23日共收到49件新設銀行執照申請、核准28件，後段申請者恐面臨審查瓶頸　https://www.pymnts.com/legal/bank-regulation/2026/occ-charter-backlog-could-leave-late-fintech-applicants-behind/
+  ・（金融創新）Kingdom Bank於11月11日宣布與澳洲Sandstone Technology合作上線新數位銀行平台，首月即有逾35%客戶轉移使用　https://finovate.com/uk-based-kingdom-bank-partners-with-sandstone-technology/
+  ・（區塊鏈）Payward（Kraken母公司）於11月11日宣布xStocks首度上架逾200檔英國與歐盟上市股票代幣，代幣化資產總數突破1,500檔　https://www.pymnts.com/blockchain/2026/payward-expands-its-tokenization-efforts-to-eu-and-uk/
+  ・（區塊鏈）德意志銀行（Deutsche Bank）於11月11日正式上線數位資產保管服務，並簽署涵蓋代幣化基金、加密ETC與穩定幣的資產管理協議　https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851
+  ・（區塊鏈）Spiko旗艦代幣化基金Spiko Amundi Overnight Swap Fund（SAFO）截至10月底管理資產達23.9億美元，於11月11日經CoinDesk報導為全球最大代幣化基金　https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about
+  ・（區塊鏈）Apex Group於11月11日宣布加入Hedera理事會，將以其監管的3.5兆美元資產探索代幣化、合規與結算應用　https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917
+  ・（AI）北方信託（Northern Trust）於11月9日宣布與微軟前線部署工程團隊打造客戶開戶AI代理，分析師資料準備時間縮短83%　https://www.bankingdive.com/news/northern-trust-leans-microsoft-fde-agentic-buildout/874362/
+  ・（AI）螞蟻數科（Ant Digital Technologies）於11月9日與德意志銀行聯合發布〈批發金融的代理式支付〉白皮書，提出三層架構與「了解你的代理」驗證機制　https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking
+  ・（AI）麥肯錫（McKinsey）於11月11日發布研究指出AI可望削減銀行業20%以上成本基礎，但多數銀行僅用於提升個別員工生產力　https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinsey
+
+[2026-11-11]
+  ・（金融創新）加拿大支付協會（Payments Canada）於11月10日宣布啟用全國即時支付系統Real-Time Rail，首年將涵蓋逾九成加拿大人　https://finovate.com/canada-launches-real-time-payments-system-the-real-time-rail/
+  ・（金融創新）Wise於11月10日在美國推出Wise Interest與Wise Stocks，首度動用其美國券商執照，全球客戶持有資金一年成長40%至390億美元　https://finovate.com/wise-launches-interest-and-stocks-products-for-us-customers/
+  ・（金融創新）瑞士財富科技公司Avaloq於11月10日推出模組化財富管理平台Avaloq Mosaic進軍美國市場，該公司服務全球逾170家金融機構　https://finovate.com/avaloq-unveils-mosaic-a-modular-platform-for-wealth-managers/
+  ・（金融創新）KeyBank於11月10日推出個人化理財洞察與通行密鑰登入等數位銀行升級，其民調顯示近三分之二美國人每週至少管理一次收支　https://www.pymnts.com/news/banking/2026/keybank-upgrades-products-as-consumers-struggle-to-save/
+  ・（金融創新）Nuvei以27.5億美元收購Payoneer案持續推進，Payoneer於11月5日公布B2B支付量年增59%至50億美元，並新取得加拿大與以色列支付執照　https://www.pymnts.com/news/b2b-payments/2026/affirm-and-nuvei-seek-bigger-roles-in-merchants-payment-operations/
+  ・（區塊鏈）花旗、高盛與德意志銀行等大型銀行於11月10日據報承諾投入約2.7億美元成立美元穩定幣合資事業Project Faro　https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture
+  ・（區塊鏈）穆迪評等（Moody's Ratings）於11月10日與Chainlink以跨鏈互通協定CCIP完成測試網試點，把信用評等資料同步發布到許可鏈與公有鏈　https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245
+  ・（區塊鏈）威士（Visa）於11月10日把Monad納入穩定幣結算網路選項，其穩定幣結算年化規模截至9月已達200億美元、年增逾15倍　https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201
+  ・（區塊鏈）Kimber Digital Securities於11月10日宣布登記為美國證券交易委員會券商並加入FINRA，鏈上代幣化股票價值一年成長逾六倍至38.7億美元　https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization
+  ・（AI）Anthropic於11月10日推出內建AI的辦公應用套件與試算表Claude Sheets，截至10月底年化營收達810億美元　https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-unveils-office-suite-to-challenge-microsoft-ahead-of-landmark-ipo/
+  ・（AI）紐約州政府於11月10日開放前沿AI開發商註冊入口，RAISE法將於2027年1月1日生效，違規最高罰款300萬美元　https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+  ・（AI）富國銀行（Wells Fargo）財富暨投資管理部門AI主管於11月10日表示，上一季上線的AI Teammate已累積數十萬次互動，消費端AI助理Fargo互動逾10億次　https://www.bankingdive.com/news/8-questions-for-the-wells-fargo-wealth-units-ai-chief/874275/
+
+[2026-11-10]
+  ・（金融創新）摩根士丹利（Morgan Stanley）於11月9日宣布收購數位股務代理業者Vinyl Equity，預計2027年第一季完成，整合成本約6,500萬美元　https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136/
+  ・（金融創新）Nexi於11月9日宣布把支付業者Ratepay出售給先買後付業者Affirm，並簽署德奧瑞合作備忘錄　https://www.pymnts.com/news/acquiring/2026/nexi-sells-payment-provider-ratepay-to-affirm/
+  ・（金融創新）Citizens Bank於11月9日推出Citizens Treasury Intelligence，為商業客戶提供跨銀行現金可視化與預測，基礎版對符合資格客戶免費　https://www.pymnts.com/news/b2b-payments/2026/citizens-intros-treasury-intel-for-commercial-clients/
+  ・（金融創新）大通銀行英國業務（Chase UK）於11月9日宣布客戶可在英國逾3萬個PayPoint據點存入現金　https://www.finextra.com/newsarticle/48723/chase-customers-can-now-deposit-cash-into-their-accounts-at-uk-paypoint-locations
+  ・（金融創新）法國農業信貸銀行（Crédit Agricole）於11月9日提議與Banco BPM合併雙方義大利業務，將成義大利第三大銀行集團　https://www.finextra.com/newsarticle/48721/crdit-agricole-proposes-merger-with-banco-bpm-to-create-new-italian-bank
+  ・（區塊鏈）Coinbase於11月9日宣布取得美國貨幣監理署（OCC）無條件國家信託執照，申請歷時13個月　https://www.bankingdive.com/news/coinbase-secures-unconditional-trust-charter/874135/
+  ・（區塊鏈）Binance遭駭案的駭客集團於11月9日被區塊鏈分析業者Elliptic揭露，以迷因幣洗出約43萬美元，被竊總額為63億美元　https://www.pymnts.com/cryptocurrency/2026/binance-heist-crew-employs-meme-coins-to-launder-funds/
+  ・（區塊鏈）紐約證券交易所（NYSE）於11月9日宣布選定Avalanche為其關聯代幣化證券平台的清算公司提供核心帳本技術　https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208
+  ・（區塊鏈）PNC銀行於11月9日擴大與Coinbase合作，試辦讓企業與機構客戶以Ethereum上的USDC收款　https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase
+  ・（AI）Anthropic於11月9日發表Claude Mythos 5.2與Fable 5.2，Fable每百萬輸入詞元降價至8美元並支援零資料保留　https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
+  ・（AI）geniosAI於11月9日結束隱身模式並宣布完成1,910萬美元種子輪與A輪募資，由FactSet領投A輪　https://www.pymnts.com/news/artificial-intelligence/2026/geniosai-raises-19-1-million-to-bring-traceable-ai-analysis-to-financial-institutions/
+  ・（AI）Google於11月9日發表第八代TPU新系統TPU 8tx與TPU 8i Max，其中8tx主打機密運算　https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/
+
+[2026-11-09]
+  ・（金融創新）富國銀行（Wells Fargo）於11月5日由企業暨投資銀行執行長Fernando Rivas指出，期中選舉後併購將出現「不做就沒機會」的窗口，並以跨部門團隊管控AI資料中心融資　https://www.bankingdive.com/news/wells-fargo-corporate-investment-banking-deals-2028/873881/
+  ・（金融創新）Shift4 Payments於11月5日公布第三季財報並下修全年獲利與營收目標，同時宣布收購加拿大pay-by-bank業者Paramount Commerce　https://www.paymentsdive.com/news/shift4-signals-caution-retail-restaurants-travel/873947/
+  ・（金融創新）杭亭頓國民銀行（The Huntington National Bank）於11月6日推出新一代財資管理平台Intelligent Treasury，鎖定商業客戶簡化財資作業　https://www.finextra.com/pressarticle/111599/huntington-national-bank-launches-treasury-management-platform
+  ・（金融創新）Pliant於11月6日宣布完成8,000萬美元C輪募資，由Seaya Nova與Speedinvest領投，專注模組化B2B支付與企業卡　https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80
+  ・（金融創新）Tabs於11月5日宣布與Adyen合作，把支付處理直接嵌入其發票與營收管理平台，Adyen為首個支付夥伴　https://www.finextra.com/pressarticle/111597/tabs-partners-adyen-to-bring-payment-processing-directly-into-invoicing-and-revenue-platform
+  ・（區塊鏈）美國國會民主黨於11月8日經金融時報報導，取得參眾兩院多數後將擁有傳喚加密企業的權力，加密業恐面臨更多調查　https://www.pymnts.com/cryptocurrency/2026/crypto-sector-geared-for-more-scrutiny-under-new-congress/
+  ・（區塊鏈）加州商業暨消費者服務局於11月5日要求加密ATM業者CoinFlip向詐騙受害者賠償480萬美元　https://www.paymentsdive.com/news/california-coinflip-crypto-atm-enforcement-fraud/874002/
+  ・（區塊鏈）俄羅斯於11月6日敲定加密貨幣交易規則，散戶可自11月17日起透過受監管仲介買賣BTC、ETH與USDT　https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout
+  ・（AI）帕洛阿爾托網路（Palo Alto Networks）於11月5日被報導正洽談以5億美元現金加里程碑付款收購AI代理存取安全新創Clutch Security　https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/
+  ・（AI）亞馬遜（Amazon）於11月6日宣布讓部分美國客戶以簡訊與Alexa AI代理對話，完成搜尋、加入購物車與下單　https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
+  ・（AI）OpenAI於11月5日發表資安專用模型GPT-6 Cyber，在Firefox找出81個先前未知的高風險漏洞　https://www.ithome.com.tw/news/180285
+
+[2026-11-08]
+  ・（金融創新）巴克萊銀行（Barclays）於11月6日經Banking Dive專訪說明，7月推出的三星Galaxy聯名信用卡採用率超出內部預期，逾半交易經Samsung Pay完成　https://www.bankingdive.com/news/5-questions-with-barclays-head-of-us-cards/874017/
+  ・（金融創新）Wealthsimple於11月6日經Finovate報導，推出可代客轉帳、繳款與買賣ETF的AI助理Penny，並預告11月底推出加幣穩定幣CADD　https://finovate.com/finovate-global-canada-agentic-ai-cross-border-payments-and-partnering-with-the-eu/
+  ・（金融創新）Monzo於11月7日經報導正評估新一輪募資，目標估值約75億英鎊　https://www.crowdfundinsider.com/2026/11/322002-uk-digital-bank-monzo-seeks-new-funding-at-appr-7-5b-valuation/
+  ・（金融創新）Pine Labs與Stripe於11月7日經報導宣布合作，協助新加坡零售商以單一平台整合線上與店內收款　https://www.crowdfundinsider.com/2026/11/321833-pine-labs-stripe-partner-to-unify-online-in-store-payments-for-singapore-retailers/
+  ・（金融創新）KCB銀行坦尚尼亞分行於11月6日宣布與PayPal合作，把PayPal服務整合進KCB行動App　https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking
+  ・（區塊鏈）三星電子（Samsung）於11月6日經PYMNTS分析，Samsung Wallet穩定幣帳戶串接Stripe、Coinbase與Circle，觸及8,200萬台裝置，延續11月6日報導　https://www.pymnts.com/blockchain/2026/samsungs-82-million-device-bet-shows-stablecoin-wars-moving-beyond-crypto/
+  ・（區塊鏈）Binance於11月7日宣布財務長Kaiser Ng離任，由前Airwallex財務副總Justin Yek接任，距10月29日遭駭九天　https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992
+  ・（區塊鏈）美國勞工部（DOL）於11月5日把允許401(k)持有另類資產的規則草案送交白宮管理預算局審查，加密資產可望納入　https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939
+  ・（區塊鏈）Gnosis Pay於11月6日揭露11月3日舊版金融卡系統遭未授權存取，客戶資料外洩但資金未受影響　https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934
+  ・（AI）BMO（Bank of Montreal）於11月6日宣布為信用卡客服中心導入AI Agent Assist，目標縮短20%至30%處理時間並自動處理約40%的合格退款　https://www.pymnts.com/news/artificial-intelligence/2026/bmo-turns-to-agentic-ai-to-resolve-card-issues/
+  ・（AI）OpenAI於11月6日經彭博報導已在新一輪募資中籌得110億美元，估值達1.25兆美元　https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+  ・（AI）高盛（Goldman Sachs）於11月7日經TechNews報導研究指出，被AI取代的失業者重返職場平均多花約一個月　https://technews.tw/2026/11/07/goldman-sachs-says-ai-displaced-employees-face-a-harder-path-back-to-work/
+
+[2026-11-07]
+  ・（金融創新）Synctera於11月6日宣布完成2,450萬美元新融資，並以4月併購的Cable持續測試銀行與金融科技專案的合規控制　https://www.pymnts.com/startups/2026/synctera-raises-25-million-dollars-support-new-baas-demand/
+  ・（金融創新）第一公民銀行（First Citizens Bank）於10月19日宣布與NCR Atleos合作，客戶可在約2,000間塔吉特（Target）門市的ATM免手續費提款　https://www.paymentsdive.com/news/ncr-atleos-first-citizens-target-stores-atm-digital-banking/873953/
+  ・（金融創新）eToro於11月6日宣布將收購阿根廷金融應用LB Finanzas，作為進軍拉丁美洲的區域據點，為今年第四筆收購　https://finovate.com/etoro-to-acquire-lb-finanzas-to-expand-into-latin-america/
+  ・（金融創新）摩根士丹利財富管理（Morgan Stanley Wealth Management）於11月6日經Finovate報導，選用MDOTM的Sphere平台，擴大旗下模型投資組合的管理規模　https://finovate.com/morgan-stanley-wealth-management-selects-mdotms-sphere-to-scale-model-portfolios/
+  ・（金融創新）摩根大通支付（J.P. Morgan Payments）於11月6日與萬事達卡（Mastercard）加入代理式商務新創firmly的1,500萬美元A輪募資　https://www.finextra.com/newsarticle/48712/jp-morgan-payments-and-mastercard-invest-in-agentic-commerce-startup-firmly
+  ・（區塊鏈）美國銀行政策研究所（Bank Policy Institute）於11月6日發布研究，十大美元穩定幣中僅兩檔、占流通量26%符合GENIUS Act準備資產規定　https://www.pymnts.com/news/2026/study-finds-most-stablecoins-fail-genius-act-requirements/
+  ・（區塊鏈）Nubank於11月6日暫停巴西加密貨幣存提款，Mercado Pago同日因風控服務商事件封鎖部分外部錢包轉帳　https://www.pymnts.com/cryptocurrency/2026/nubank-mercado-pago-pause-crypto-operations-following-provider-issues/
+  ・（區塊鏈）美國財政部金融犯罪執法網路（FinCEN）於11月6日命令美國金融機構停止處理與MEXC Global相關的轉帳，指控其涉及160億美元與伊朗、北韓及俄羅斯有關的交易　https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957
+  ・（區塊鏈）OKX與洲際交易所（ICE）的代幣化股票計畫於11月6日遭蘋果與Meta拒絕，九成發行人選擇退出　https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch
+  ・（AI）Socure於11月6日經Banking Dive報導，執行長預期銀行約六個月後才會訂出AI代理行為規範，並推出AI代理偵測工具　https://www.bankingdive.com/news/ai-agent-protocols-bank-access-socure-pnc-fifth-third-fraud-aml-kyc/873970/
+  ・（AI）Ramp於11月6日公布資料，8至9月企業AI詞元支出僅成長1.5%，7月單月成長則為42%　https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+  ・（AI）蘋果（Apple）於10月將部分工程師每日AI額度由300美元降至200美元，11月6日經PYMNTS彙整大型企業限縮員工AI支出　https://www.pymnts.com/news/artificial-intelligence/2026/tech-giants-ration-premium-ai-as-company-budgets-hold/
+
+[2026-11-06]
+  ・（金融創新）Adyen與Checkout.com於11月6日經PYMNTS報導，分別在英國與歐洲選定商家導入Visa Payment Passkey，以通行密鑰取代部分銀行驗證挑戰　https://www.pymnts.com/cybersecurity/fraud-prevention/2026/payment-processors-compete-on-checkout-with-passkeys/
+  ・（金融創新）Marqeta於11月3日公布第三季淨利1.154億美元、處理量年增29%至1,265億美元，並指大型企業正導入卡片與穩定幣服務　https://www.paymentsdive.com/news/cards-draw-customers-marqeta-ceo-says/873864/
+  ・（金融創新）Bluevine於11月5日經Tearsheet說明，已處理逾20億美元行動支票存款，並以自建、嵌入夥伴產品與轉介三種路徑擴充小企業帳戶　https://tearsheet.co/podcasts/what-bluevine-learned-from-2-billion-in-mobile-check-deposits-and-a-growing-partner-stack/
+  ・（金融創新）Starling Bank於11月宣布推出首張企業信用卡，提供不設上限的1%每月現金回饋且無年費與外幣手續費　https://www.finextra.com/pressarticle/111593/starling-launches-fee-free-business-credit-card
+  ・（金融創新）Kalepa於11月5日宣布完成7,500萬美元B輪募資、估值4.7億美元，擴大保險價值鏈上的AI核保平台　https://www.finextra.com/newsarticle/48707/kalepa-raises-75m-to-expand-ai-underwriting-platform
+  ・（區塊鏈）三星電子（Samsung）於11月5日讓美國符合資格的Galaxy用戶可在Samsung Wallet以Solana上的USDC持有與轉帳，涵蓋8,200萬台相容裝置　https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices
+  ・（區塊鏈）東方匯理（Amundi）於11月6日經Ledger Insights報導，為規模228億歐元的Core STOXX Europe 600指數基金新增以太坊代幣化股份類別　https://www.ledgerinsights.com/amundi-adds-tokenized-share-class-to-e22-8bn-european-equity-index-fund/
+  ・（區塊鏈）Anchorage Digital於11月5日向美國CFTC申請交換交易商（swap dealer）註冊，計畫提供歐式比特幣與以太幣選擇權　https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437
+  ・（區塊鏈）Yellow Card於11月5日宣布收購巴西虛擬資產服務業者GoMoney，以穩定幣支付基礎設施切入巴西市場　https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition
+  ・（AI）Anthropic於11月5日推出Claude個人理財（Personal Finance）功能，經Plaid連結銀行與信用卡帳戶並以唯讀方式回答財務問題　https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+  ・（AI）威士（Visa）於11月5日發布Visa Agentic Commerce Benchmark，22款AI模型購物測試通過率僅57.2%　https://www.pymnts.com/news/artificial-intelligence/2026/visa-finds-ai-models-fail-43percent-shopping-test-runs/
+  ・（AI）凱捷（Capgemini）於11月5日發布研究指出，59%的銀行與保險業者試行或部署多代理AI，但僅10%達成企業級協調　https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited
+
+（共 83 則。比對原則：事件層級——同一事件即使換媒體、換日子仍算同一則。）

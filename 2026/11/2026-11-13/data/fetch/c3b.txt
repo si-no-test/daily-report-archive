@@ -1,0 +1,6 @@
+FINAL_URL: https://www.starlingbank.com/news/
+STATUS: fail
+CHARS: 99
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+HM Treasury’s AI Champions publish plan to accelerate safe AI adoption across UK financial services

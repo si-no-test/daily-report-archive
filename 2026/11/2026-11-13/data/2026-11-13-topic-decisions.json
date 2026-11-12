@@ -1,0 +1,8 @@
+[
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"create","topic_id":"visa-stablecoin-settlement-expansion","title":"威士（Visa）穩定幣結算網路擴充進程","theme":"blockchain","keywords":["Visa","威士","穩定幣結算","VisaNet","USDPT","Anchorage"],"headline":"威士與Anchorage Digital合作，把西聯匯款USDPT納入VisaNet結算資產","one_line_update":"11月12日起合格Visa夥伴可用Anchorage Digital Bank發行的USDPT與Visa結算，並預留框架支援更多Anchorage發行代幣；Visa穩定幣結算年化規模已逾200億美元。","source_title":"Visa Expands Stablecoin Services With Anchorage Partnership","source_url":"https://www.pymnts.com/news/b2b-payments/2026/visa-expands-stablecoin-services-with-anchorage-partnership/"},
+ {"action":"match","topic_id":"tokenized-equities-market-growth","headline":"DTCC宣布2027年下半年把代幣化服務擴及Solana","one_line_update":"DTCC把Solana納入代幣化服務路線圖，計畫2027年下半年在Solana上提供代幣化股票、ETF與美國公債，與Canton、Besu並列，分析師提醒錢包規則可能限制採用。","source_title":"DTCC plans to bring tokenized securities to Solana in second half of 2027","source_url":"https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559"}
+]

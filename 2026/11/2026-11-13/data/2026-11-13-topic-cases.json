@@ -1,0 +1,8 @@
+[
+ {"title":"- **萬事達卡（Mastercard）**於11月12日宣布完成首筆由AI代理端到端訂位、付款並開票的真實機票交易，全程不暴露卡號","summary":"萬事達卡與Travelport、Booked AI、Basis Theory合作，以Mastercard Agent Pay代幣化憑證完成AI代理機票交易，航空公司全程維持商戶身分。","theme":"innovation"},
+ {"title":"- **漢考克惠特尼（Hancock Whitney）**於11月12日宣布以全股票方式、作價32億美元收購密西西比州同業Trustmark","summary":"合併後資產規模580億美元、約370家分行，預計2027年第一季完成，估計年化稅前費用節省2.055億美元。","theme":"innovation"},
+ {"title":"- **美國司法部（DOJ）**於11月5日宣布成立超級智慧工作小組（Super Intelligence Task Force），統籌跨部門AI刑事與民事執法","summary":"PYMNTS引述律所分析，工作小組將要求各單位在立案、起訴與和解前通報，並制定評估企業AI內控的指引，使用AI的企業同列執法焦點。","theme":"ai"},
+ {"title":"- **Starling Bank**於11月12日推出「talk to transact」AI語音轉帳功能，客戶以口語即可在App設定付款","summary":"英國數位銀行Starling讓個人戶以口語或文字請AI助理準備付款，再由客戶點擊確認。","theme":"ai"},
+ {"title":"- **威士（Visa）**於11月12日宣布與Anchorage Digital合作，把西聯匯款穩定幣USDPT納入VisaNet結算資產","summary":"合格Visa夥伴可用Anchorage Digital Bank發行的USDPT與Visa結算，Visa穩定幣結算年化規模已逾200億美元。","theme":"blockchain"},
+ {"title":"- **美國證券集中保管結算公司（DTCC）**於11月12日宣布2027年下半年把代幣化服務擴及Solana，涵蓋股票、ETF與美國公債","summary":"DTCC把Solana加入代幣化服務路線圖，與Canton、Besu並列，但錢包規則可能限制採用。","theme":"blockchain"}
+]

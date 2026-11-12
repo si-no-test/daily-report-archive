@@ -1,0 +1,20 @@
+FINAL_URL: https://www.pymnts.com/transportation/travel-payments/2026/mastercard-touts-successful-agentic-travel-transaction/
+STATUS: ok
+CHARS: 2968
+---CONTENT---
+Mastercard Touts Successful Agentic Travel Transaction
+Mastercard has teamed with a trio of payments and travel companies to complete a live, end-to-end, artificial intelligence-powered travel purchase.
+This effort, announced Thursday (Nov. 12), combined Mastercard’s payment network with Travelport’s travel retailing and connectivity, Booked AI’s conversational travel platform, and Basis Theory’s payment vault.
+“Through the collaboration, an AI travel agent searched, booked, paid for and ticketed a live flight without the customer leaving the conversation, and without the agent ever seeing the underlying card number,” Mastercard said in a news release. “As consumers increasingly engage with AI-powered commerce experiences , the collaboration demonstrated a fully integrated and secure travel booking experience in an AI agent environment.”
+The transaction went as follows: Booked’s AI travel agent sourced a live New Distribution Capability (NDC) offer from a major airline via Travelport. After the customer confirmed the transaction details in the conversation platform, Mastercard Agent Pay initiated payment with a secure tokenized credential, with the underlying card credential held in Basis Theory’s PCI-compliant vault.
+“Following payment authorization, the booking was processed and ticketed through Travelport’s and the airline’s own systems, demonstrating how AI-driven travel experiences can be deployed without requiring separate or fragmented booking or payment rails,” the release added.
+Mastercard also stressed the importance of the fact that the airline “remained the merchant” throughout this transaction, and that processing “the payment itself with no intermediary checkout in between, demonstrating that airlines can sell through AI agents while keeping control of how they are paid.”
+This is happening at a moment when airlines and travel booking sites are divided on whether to permit third-party AI agents to handle reservations or create their own assistants to maintain control over customers and transactions.
+For example, United Airlines said Wednesday (Nov. 11) that it was barring unauthorized third-party AI agents from booking its flights.
+“To be honest, I don’t want to create another middleman ,” United CEO Scott Kirby said at an industry event in Chicago, echoing the airline industry’s previous disputes with online travel agencies over ticketing, customer relationships and fees.
+“ OpenAI moved the other way a day earlier, when its acquisition of AI travel agent startup Odessia became public,” PYMNTS wrote. “ Airbnb CEO Brian Chesky , meanwhile, said on the company’s third-quarter earnings call last week that Airbnb is building its own AI travel agent.”
+HubSpot Founder Returns as CEO
+Visa Helps AviaGames Players Get Paid Faster
+Klarna Picks Robinhood Vet Chris Koegel as New CFO
+Mastercard Touts Successful Agentic Travel Transaction
+Agentic AI , AI Agents , Mastercard , News , PYMNTS News , travel , What's Hot

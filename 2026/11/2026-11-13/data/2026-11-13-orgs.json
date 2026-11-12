@@ -1,0 +1,14 @@
+[
+ {"name":"萬事達卡","url":"https://www.mastercard.com","intro":"全球主要信用卡與支付網路組織。"},
+ {"name":"Travelport","url":"https://www.travelport.com","intro":"全球旅遊配銷與零售技術平台，串接航空公司與旅行社。"},
+ {"name":"漢考克惠特尼","url":"https://www.hancockwhitney.com","intro":"總部位於美國密西西比州的區域銀行集團。"},
+ {"name":"Revolut","url":"https://www.revolut.com","intro":"英國起家的全球數位銀行，提供帳戶、支付與投資服務。"},
+ {"name":"N26","url":"https://n26.com","intro":"德國柏林的行動數位銀行，主要服務歐洲零售客戶。"},
+ {"name":"美國司法部","url":"https://www.justice.gov","intro":"美國聯邦執法與訴訟主管機關。"},
+ {"name":"Starling Bank","url":"https://www.starlingbank.com","intro":"英國持牌數位銀行，提供個人與企業帳戶。"},
+ {"name":"輝達","url":"https://www.nvidia.com","intro":"全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"},
+ {"name":"威士","url":"https://www.visa.com","intro":"全球最大的卡片支付網路組織之一。"},
+ {"name":"Anchorage Digital","url":"https://www.anchorage.com","intro":"持有美國聯邦信託銀行執照的數位資產銀行，提供保管與穩定幣發行服務。"},
+ {"name":"美國證券集中保管結算公司","url":"https://www.dtcc.com","intro":"美國證券市場的集中保管與結算核心基礎設施機構。"},
+ {"name":"Securitize","url":"https://securitize.io","intro":"受監理的資產代幣化平台，協助發行與管理代幣化基金與證券。"}
+]

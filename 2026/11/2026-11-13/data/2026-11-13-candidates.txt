@@ -1,0 +1,592 @@
+=== ⚠️ 必做搜尋（腳本不代抓，AI 各執行一次；漏做＝少掉一半來源）===
+[A] 非 RSS 固定來源 10 條：
+  American Banker（T1）：site:americanbanker.com after:2026-11-12
+  工商時報（T1）：site:ctee.com.tw (金融科技 OR AI OR 穩定幣) after:2026-11-12
+  經濟日報（T1）：site:money.udn.com (金融科技 OR 數位金融 OR AI) after:2026-11-12
+  The Financial Brand（T2）：site:thefinancialbrand.com after:2026-11-12
+  Reuters（T1）：site:reuters.com (fintech OR blockchain OR stablecoin OR "AI banking") after:2026-11-12
+  Bloomberg（T1）：site:bloomberg.com ("AI fintech" OR "AI banking" OR stablecoin OR "digital finance") after:2026-11-12
+  Financial Times（T1）：site:ft.com (fintech OR "AI banking" OR "digital finance") after:2026-11-12
+  Wall Street Journal（T1）：site:wsj.com (fintech OR "AI banking" OR stablecoin OR crypto) after:2026-11-12
+  Nikkei（T1）：site:nikkei.com (fintech OR AI OR 金融科技) after:2026-11-12
+  SCMP（T1）：site:scmp.com (fintech OR "digital bank" OR "AI finance") after:2026-11-12
+[B] 專題查詢 5 條（綁主題，確保指定議題不漏）：
+  Open USD 專題（T1）：("Open USD" OR "Open Standard" OR OUSD) (stablecoin OR bank OR payment) after:2026-11-12
+  Open USD｜PYMNTS（T1）：site:pymnts.com ("Open USD" OR "Open Standard") after:2026-11-12
+  量子威脅｜金融（T1）：("post-quantum" OR "quantum-safe" OR PQC) (bank OR payment OR financial) after:2026-11-12
+  量子威脅｜台灣（T1）：(後量子 OR 量子加密 OR 量子威脅) (銀行 OR 金管會 OR 金融) after:2026-11-12
+  量子威脅｜BIS（T1）：site:bis.org (quantum OR "Project Leap") after:2026-11-12
+[C] RSS 失敗、需 site: 替代 2 條：
+  Fintech Futures（T2）：HTTPError
+  Fintech Nexus（T2）：HTTPError
+[A][B][C] 各執行一次；結果走第一關／第二關日期審計後才可採用。
+
+=== 抓取統計 ===
+  CoinDesk：feed 內 25 則，當日合格 15 則
+  The Block：feed 內 20 則，當日合格 15 則
+  Finextra：feed 內 52 則，當日合格 15 則
+  PYMNTS：feed 內 10 則，當日合格 10 則
+  iThome：feed 內 30 則，當日合格 15 則
+  TechCrunch Fintech：feed 內 20 則，當日合格 0 則
+  TechCrunch AI：feed 內 20 則，當日合格 15 則
+  Cointelegraph：feed 內 30 則，當日合格 15 則
+  TechNews：feed 內 40 則，當日合格 15 則
+  Payments Dive：feed 內 10 則，當日合格 3 則
+  Banking Dive：feed 內 10 則，當日合格 5 則
+  Finovate：feed 內 12 則，當日合格 2 則
+  Crowdfund Insider：feed 內 10 則，當日合格 10 則
+  Ledger Insights：feed 內 1 則，當日合格 1 則
+  Tearsheet：feed 內 10 則，當日合格 2 則
+
+=== 候選清單（僅 2026-11-13 / 2026-11-12，已剔黑名單與重複；日期由程式驗證。標【低信心日期】者為例外，需人工審計）===
+[T1|AI/台灣科技|iThome|2026-11-13] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 基因序列預測模型AlphaGenome 2深入細胞層次，追查疾病相關DNA變異
+  URL: https://www.ithome.com.tw/news/180462
+  日期原文: 2026-11-13  08:11:00
+  摘要: DeepMind發布基因序列預測模型AlphaGenome 2，能依不同細胞類型與狀態，預測DNA變異對基因表現的影響。前代模型主要分析組織整體的分子活動，新版則能辨識只在特定細胞中發揮作用的變異，協助研究人員追查疾病相關的基因調控機制。
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 駭客濫用AI代理滲透測試平臺AntiFox，發動AWS雲端憑證竊取攻擊
+  URL: https://www.ithome.com.tw/news/180465
+  日期原文: 2026-11-12  06:11:39
+  摘要: 資安業者Arctic Wolf Labs近日揭露駭客利用開源AI代理滲透測試平臺AntiFox，對網際網路服務及AWS雲端環境發動攻擊。AntiFox最初是從AI代理滲透測試工具ARTEX 0.1.1分支而來，具備中文介面，可讓使用者透過AI 代理自動執行滲透測試任務。研究人員發現，託管於阿里雲上的AntiFox相關基礎設施曾涉及多起惡意入侵活動。
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 康橋國際學校林口校區遭Osiris勒索，傳出部分資料恐外流
+  URL: https://www.ithome.com.tw/news/180463
+  日期原文: 2026-11-12  06:11:47
+  摘要: 康橋國際學校林口校區近日傳出遭駭客組織Osiris入侵並發動勒索攻擊，校方已向警方報案，並證實部分資料外流，目前已全面隔離受影響系統，偕同外部資安專家進行數位鑑識，釐清資料外流範圍及系統受影響情形。此外，警方初步清查，康橋其他分校並未受害，我們目前也發現僅有該校區的網頁無法正常連線。
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 研究人員透露FortiClient重大漏洞Fortinet2Shell細節
+  URL: https://www.ithome.com.tw/news/180464
+  日期原文: 2026-11-12  06:11:27
+  摘要: 11月10日Fortinet發布每月例行更新，一口氣公布及修補100個資安漏洞，其中一個存在於FortiClient的重大漏洞CVE-2026-121529，成為本次修補的焦點，原因在於，向Fortinet通報此事的Baldur Security資安顧問Kevin Joensen指
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 大型VLM看得懂圖片還不夠，中研院以Taiwan GBA與G-YOLO強化AI理解世界的能力
+  URL: https://www.ithome.com.tw/news/180461
+  日期原文: 2026-11-12  06:11:37
+  摘要: 當AI模型開始能「看懂」照片，但是它真的理解眼前發生的事情嗎？ 中研院資訊科學研究所所長廖弘源在周三一場活動中分享中研院的多模態AI研究成果，他以目前大型視覺語言模型（Vision Language Model, VLM）的發展為例，現在的大型模型已經具備相當程度的影像描述能力，例如Google DeepMind推出的Gemma系列視覺語言模型，可以將影像內容轉換成文字，但是，這類通用模型仍存在限
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 長照系統改採實體卡證驗證引發讀卡機搶購潮，衛福部延至12月實施
+  URL: https://www.ithome.com.tw/news/180456
+  日期原文: 2026-11-12  05:11:07
+  摘要: 為強化系統登入安全，衛生福利部推動「照顧服務管理資訊平臺」及「長照機構暨長照人員相關管理資訊系統」改採實體卡證驗證登入，讓長照業務相關人員透過讀卡機讀取自然人憑證或健保卡等卡證，完成身分驗證後登入系統。但此一作法近日引發長照從業人員反彈，多名從業人員自11月10日起陸續在社群平臺表示，為了因應新制必須緊急搶購讀卡機，也反映長照人員經常需要外出訪視及到宅服務，使用讀卡機登入恐增加外勤作業不便。
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 Google發布生成式介面協定A2UI 1.0，代理可跨平臺產生互動介面
+  URL: https://www.ithome.com.tw/news/180453
+  日期原文: 2026-11-12  05:11:24
+  摘要: AI代理與應用程式介面之間，現在可以透過協定互相呼叫函式，取得執行結果後更新畫面。Google推出生成式介面協定A2UI 1.0，讓訂位、航班選擇等互動介面能透過新增的雙向函式呼叫機制查詢資料，也擴充無障礙及中繼資料支援。 A2UI讓AI代理透過結構化訊息描述表單、圖表或確認卡片，再由應用程式使用既有元件算繪畫面。開發者可限制AI代理只能使用預先核准的介面元件，不必直接執行AI生成的介面程式碼，降
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 Fortinet揭露10月底修補的100個資安漏洞
+  URL: https://www.ithome.com.tw/news/180460
+  日期原文: 2026-11-12  04:11:59
+  摘要: 網路安全設備廠商Fortinet於10月21日，針對FortiOS、FortiManager、FortiAnalyzer、FortiMail，以及FortiAuthenticator等應用系統發布安全強化更新，修補由頂尖AI找出的資安漏洞。本週該公司也如之前預告，公布這些漏洞的資訊。
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 地下論壇有人聲稱兜售4.6萬筆台積電員工紀錄，台積電回應無證據顯示公司系統遭入侵
+  URL: https://www.ithome.com.tw/news/180450
+  日期原文: 2026-11-12  03:11:23
+  摘要: 今日有新聞媒體報導，有人在地下論壇DarkForums與BreachForums聲稱取得4.6萬筆台積電員工紀錄，資料量為6.9GB，當中包含個資，對方開價3個比特幣兜售（約合新台幣726萬元），揚言一週內沒人買就公開全部資料，對此台積電的回應是：「已掌握此情形，正與相關雲端服務供應商及調查機關密切合作，以釐清狀況並採取必要措施。我們將適時提供後續更新。」
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 N-able發布N-central重大安全更新，修補研究人員公布的部分零時差漏洞
+  URL: https://www.ithome.com.tw/news/180452
+  日期原文: 2026-11-12  03:11:50
+  摘要: 軟體公司N-able於11月10日，發布N-central重要安全更新2026.4 Hotfix 2（HF2），內容涵蓋多個資安弱點修補，以及強化該應用系統的整體安全性，包括：身分驗證、權限控管，以及Agent與Probe通訊的安全，呼籲於內部環境自行建置的用戶儘速套用。這次N-able修補的資安漏洞，總共登記為7個CVE，涵蓋XML外部實體（XXE）、OGNL注入、權限提升、跨網站指令碼（XSS
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 【資安日報】11月12日，netiCRM服務商內部管理主機遭駭，暫未發現捐款人資料外洩，已將500多家客戶主機納入檢查及重建範圍
+  URL: https://www.ithome.com.tw/news/180447
+  日期原文: 2026-11-12  02:11:02
+  摘要: 本日新聞焦點 ● netiCRM服務商內部管理主機遭駭，暫未發現捐款人資料外洩 ● 航運巨擘馬士基證實資料外洩，傳遭WhiteArmor勒索500萬美元 ● 代理型AI搜尋GitHub外洩憑證，5分鐘內從Azure Key Vault外傳資料
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 外交部領務局網站遭駭，逾7.2萬個護照大頭照外洩，另有授權書及ABTC資料遭取得
+  URL: https://www.ithome.com.tw/news/180446
+  日期原文: 2026-11-12  02:11:20
+  摘要: 外交部領事事務局（領務局）發生重大資安事件，該機關於11月9日公布部分網站遭駭，並於11月12日更新公告內容，確認此次事件涉及三類民眾個人資料遭未經授權取得，包括7.2萬個護照大頭照檔案、2.6萬個駐紐約辦事處驗證的授權書掃描檔，以及774件亞太經濟合作商務旅行卡（ABTC）申請資料。領務局並提醒，受影響民眾無須因此換發護照，但仍應留意個資遭不當利用的風險，並表示將彙整事證，移送司法機關偵辦駭侵犯
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 netiCRM服務商內部管理主機遭駭，暫未發現捐款人資料外洩，已將500家客戶主機納入檢查及重建範圍
+  URL: https://www.ithome.com.tw/news/180438
+  日期原文: 2026-11-12  01:11:54
+  摘要: 日前netiCRM捐款管理系統服務商網絡行動科技遭駭，數十家非營利組織接連發布相關資安警訊。如今，網絡行動科技進一步釐清事件影響範圍，指出這次遭入侵的是用來管理其他伺服器的內部管理主機，並非客戶使用的netiCRM系統所在主機。該公司表示，已確認自身持有的非營利組織客戶聯絡人資料、方案與帳務資料，以及客服紀錄遭竊，但值得慶幸的是，目前未發現這些非營利組織網站的捐款人及支持者資料遭竊的跡象。 針對此
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 Google同步更新Chrome 157穩定版、Chrome 156延伸穩定版與ChromeOS LTS版
+  URL: https://www.ithome.com.tw/news/180443
+  日期原文: 2026-11-12  12:11:54
+  摘要: Google於11月11日同步發布Chrome瀏覽器及ChromeOS作業系統安全更新。其中在Chrome 157桌面穩定版方面，Windows與Linux平臺更新至157.0.8103.78版，macOS平臺更新至157.0.8103.79版，共修補83個漏洞，包含5個重大漏洞與78個高風險漏洞。在漏洞涉及的元件方面，以Skia與V8元件最多，各有17個。
+[T1|AI/台灣科技|iThome|2026-11-12] 【低信心日期：pubDate 無法標準解析，僅 regex 命中，請人工覆核】 菲律賓證管會傳數位平臺被駭，逾40萬用戶資料外洩
+  URL: https://www.ithome.com.tw/news/180442
+  日期原文: 2026-11-12  12:11:01
+  摘要: 菲律賓證券交易管理委員會（Securities and Exchange Commission，SEC）本週一（11月9日）傳出數位平臺被駭，導致駭客竊走超過40萬用戶姓名、使用者名稱及稅籍編號等資料並放上網兜售。菲國SEC已著手調查。
+[T1|區塊鏈|CoinDesk|2026-11-13] North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto
+  URL: https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto
+  日期原文: Thu, 12 Nov 2026 22:55:52 +0000
+  摘要: Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.
+[T1|區塊鏈|CoinDesk|2026-11-13] U.S. President names CFTC, SEC nominees for first time in a year
+  URL: https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year
+  日期原文: Thu, 12 Nov 2026 22:47:41 +0000
+  摘要: U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.
+[T1|區塊鏈|CoinDesk|2026-11-13] Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment
+  URL: https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment
+  日期原文: Thu, 12 Nov 2026 21:07:49 +0000
+  摘要: Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.
+[T1|區塊鏈|CoinDesk|2026-11-13] Illinois crypto tax is impossible to enforce as written, crypto industry tells court
+  URL: https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court
+  日期原文: Thu, 12 Nov 2026 16:45:52 +0000
+  摘要: The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work.
+[T1|區塊鏈|CoinDesk|2026-11-12] DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout
+  URL: https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout
+  日期原文: Thu, 12 Nov 2026 15:45:48 +0000
+  摘要: The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.
+[T1|區塊鏈|CoinDesk|2026-11-12] Crypto for Advisors: The blockchain built to run financial markets
+  URL: https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets
+  日期原文: Thu, 12 Nov 2026 15:34:29 +0000
+[T1|區塊鏈|CoinDesk|2026-11-12] Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform
+  URL: https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform
+  日期原文: Thu, 12 Nov 2026 14:45:00 +0000
+  摘要: OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.
+[T1|區塊鏈|CoinDesk|2026-11-12] The next Congress will write rules for AI and emerging tech. They should use the stuff first.
+  URL: https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first
+  日期原文: Thu, 12 Nov 2026 14:24:51 +0000
+  摘要: The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of A
+[T1|區塊鏈|CoinDesk|2026-11-12] Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump
+  URL: https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns
+  日期原文: Thu, 12 Nov 2026 13:57:53 +0000
+  摘要: CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble.
+[T1|區塊鏈|CoinDesk|2026-11-12] Bitcoin weakness erases September's bullish signal
+  URL: https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal
+  日期原文: Thu, 12 Nov 2026 12:15:00 +0000
+  摘要: Your day-ahead look for Nov. 12, 2026
+[T1|區塊鏈|CoinDesk|2026-11-12] UK bank Griffin raises $20 million to expand into stablecoin payments
+  URL: https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments
+  日期原文: Thu, 12 Nov 2026 12:04:42 +0000
+  摘要: The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.
+[T1|區塊鏈|CoinDesk|2026-11-12] Ethereum researchers drop faster blocks to race toward quantum defenses in 2027
+  URL: https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027
+  日期原文: Thu, 12 Nov 2026 11:43:41 +0000
+  摘要: Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.
+[T1|區塊鏈|CoinDesk|2026-11-12] Bitcoin dips with Nvidia as ETF outflows reach day five
+  URL: https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five
+  日期原文: Thu, 12 Nov 2026 11:30:00 +0000
+  摘要: Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.
+[T1|區塊鏈|CoinDesk|2026-11-12] Polymarket trims workforce under investor pressure as Kalshi surges ahead
+  URL: https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead
+  日期原文: Thu, 12 Nov 2026 10:42:06 +0000
+  摘要: More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan.
+[T1|區塊鏈|CoinDesk|2026-11-12] Nomura weighs Laser Digital sale as European losses hit four straight quarters
+  URL: https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg
+  日期原文: Thu, 12 Nov 2026 10:32:35 +0000
+  摘要: The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses.
+[T1|區塊鏈|The Block|2026-11-13] DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme
+  URL: https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065
+  日期原文: Thu, 12 Nov 2026 22:40:22 +0000
+  摘要: DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.
+[T1|區塊鏈|The Block|2026-11-13] Gemini trading volume drops 73% as Q3 revenue falls to $41 million
+  URL: https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050
+  日期原文: Thu, 12 Nov 2026 22:18:10 +0000
+  摘要: Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.
+[T1|區塊鏈|The Block|2026-11-13] Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight
+  URL: https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052
+  日期原文: Thu, 12 Nov 2026 21:44:30 +0000
+  摘要: Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.
+[T1|區塊鏈|The Block|2026-11-13] Avalanche Owns Five Percent of Tokenized Stocks
+  URL: https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310
+  日期原文: Thu, 12 Nov 2026 20:02:00 +0000
+  摘要: One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement ch
+[T1|區塊鏈|The Block|2026-11-13] NYDFS sets fresh advertising standards for crypto firms
+  URL: https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014
+  日期原文: Thu, 12 Nov 2026 18:03:57 +0000
+  摘要: NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.
+[T1|區塊鏈|The Block|2026-11-13] Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets
+  URL: https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992
+  日期原文: Thu, 12 Nov 2026 17:40:00 +0000
+  摘要: Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated.
+[T1|區塊鏈|The Block|2026-11-13] Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says
+  URL: https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988
+  日期原文: Thu, 12 Nov 2026 16:55:52 +0000
+  摘要: Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.
+[T1|區塊鏈|The Block|2026-11-13] Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up
+  URL: https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520
+  日期原文: Thu, 12 Nov 2026 16:00:00 +0000
+  摘要: Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.
+[T1|區塊鏈|The Block|2026-11-12] Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions
+  URL: https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654
+  日期原文: Thu, 12 Nov 2026 15:36:17 +0000
+  摘要: Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.
+[T1|區塊鏈|The Block|2026-11-12] Tether Gold issuer follows USDT to complete Big Four audit
+  URL: https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849
+  日期原文: Thu, 12 Nov 2026 15:23:26 +0000
+  摘要: KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or "clean," opinion on its 2025 financial accounts.
+[T1|區塊鏈|The Block|2026-11-12] Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax
+  URL: https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573
+  日期原文: Thu, 12 Nov 2026 15:01:02 +0000
+  摘要: Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax.
+[T1|區塊鏈|The Block|2026-11-12] DTCC plans to bring tokenized securities to Solana in second half of 2027
+  URL: https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559
+  日期原文: Thu, 12 Nov 2026 14:23:11 +0000
+  摘要: DTCC plans to add Solana to its tokenization service in the second half of 2027, alongside Canton and Besu.
+[T1|區塊鏈|The Block|2026-11-12] Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live
+  URL: https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442
+  日期原文: Thu, 12 Nov 2026 14:00:00 +0000
+  摘要: Securitize & Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.
+[T1|區塊鏈|The Block|2026-11-12] SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach
+  URL: https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542
+  日期原文: Thu, 12 Nov 2026 14:00:00 +0000
+  摘要: SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.
+[T1|區塊鏈|The Block|2026-11-12] BNY taps Figment to support staking on its digital asset custody platform
+  URL: https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538
+  日期原文: Thu, 12 Nov 2026 13:05:02 +0000
+  摘要: Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service.
+[T1|支付/金融創新|PYMNTS|2026-11-13] HubSpot Founder Returns as CEO
+  URL: https://www.pymnts.com/personnel/2026/hubspot-founder-returns-as-ceo/
+  日期原文: Thu, 12 Nov 2026 21:41:41 +0000
+  摘要: Sales and marketing software company HubSpot has announced a “refounding” as it wrestles with an artificial intelligence (AI)-centric world. The company announced Thursday (Nov. 12) that it is replaci
+[T1|支付/金融創新|PYMNTS|2026-11-13] Visa Helps AviaGames Players Get Paid Faster
+  URL: https://www.pymnts.com/news/payments-innovation/2026/visa-helps-aviagames-players-get-paid-faster/
+  日期原文: Thu, 12 Nov 2026 21:29:11 +0000
+  摘要: Visa and Global Payments have teamed with AviaGames to help players receive payouts faster. The partnership, announced Thursday (Nov. 12), lets the mobile gaming company’s U.S. players get payouts dir
+[T1|支付/金融創新|PYMNTS|2026-11-13] Klarna Picks Robinhood Vet Chris Koegel as New CFO
+  URL: https://www.pymnts.com/personnel/2026/klarna-picks-robinhood-vet-chris-koegel-as-new-cfo/
+  日期原文: Thu, 12 Nov 2026 21:09:08 +0000
+  摘要: Digital bank/pay later provider Klarna has named a new chief financial officer. Chris Koegel will join the Swedish company effective Jan. 1 of next year, Klarna announced Thursday (Nov. 12). Koegel, h
+[T1|支付/金融創新|PYMNTS|2026-11-13] Mastercard Touts Successful Agentic Travel Transaction
+  URL: https://www.pymnts.com/transportation/travel-payments/2026/mastercard-touts-successful-agentic-travel-transaction/
+  日期原文: Thu, 12 Nov 2026 20:51:28 +0000
+  摘要: Mastercard has teamed with a trio of payments and travel companies to complete a live, end-to-end, artificial intelligence-powered travel purchase. This effort, announced Thursday (Nov. 12), combined 
+[T1|支付/金融創新|PYMNTS|2026-11-13] Visa Expands Stablecoin Services With Anchorage Partnership
+  URL: https://www.pymnts.com/news/b2b-payments/2026/visa-expands-stablecoin-services-with-anchorage-partnership/
+  日期原文: Thu, 12 Nov 2026 20:34:02 +0000
+  摘要: The opportunity of stablecoin settlement lies in the fact that money no longer needs to wait for banks to open. Visa’s Thursday (Nov. 12) stablecoin expansion, through a partnership with Anchorage Dig
+[T1|支付/金融創新|PYMNTS|2026-11-13] Google and Samsung Target Holiday Shoppers With $395 AI Smart Glasses
+  URL: https://www.pymnts.com/news/wearables/2026/google-and-samsung-target-holiday-shoppers-with-395-ai-smart-glasses/
+  日期原文: Thu, 12 Nov 2026 19:33:53 +0000
+  摘要: Google and Samsung are targeting the holiday shopping season with nine styles of artificial intelligence (AI)-powered smart glasses starting at $395, with devices featuring Google’s Gemini assistant t
+[T1|支付/金融創新|PYMNTS|2026-11-13] United Blocks AI Agents as Airbnb and OpenAI Build Their Own
+  URL: https://www.pymnts.com/transportation/travel-payments/2026/united-blocks-ai-agents-as-airbnb-and-openai-build-their-own/
+  日期原文: Thu, 12 Nov 2026 19:09:19 +0000
+  摘要: Airlines and travel booking platforms are splitting over whether to allow third-party artificial intelligence (AI) agents to handle reservations or build their own assistants to retain control over cu
+[T1|支付/金融創新|PYMNTS|2026-11-13] DOJ AI Task Force Puts Business Users in Enforcement Spotlight
+  URL: https://www.pymnts.com/news/artificial-intelligence/2026/doj-ai-task-force-puts-business-users-enforcement-spotlight/
+  日期原文: Thu, 12 Nov 2026 18:04:39 +0000
+  摘要: The Department of Justice’s new Super Intelligence Task Force isn’t aiming its enforcement efforts at artificial intelligence developers alone. Companies using AI in everyday operations should expect 
+[T1|支付/金融創新|PYMNTS|2026-11-13] Fiserv Readies One of Its Two Debit Networks For Sale
+  URL: https://www.pymnts.com/business/2026/fiserv-readies-one-of-its-two-debit-networks-for-sale/
+  日期原文: Thu, 12 Nov 2026 17:50:40 +0000
+  摘要: Fiserv’s CEO said the company could sell one of its two debit networks to the right bidder. The financial services technology company is migrating clients to one of the two networks over the next few 
+[T1|支付/金融創新|PYMNTS|2026-11-13] Polymarket Cuts Staff as It Tries to Catch Kalshi
+  URL: https://www.pymnts.com/personnel/2026/polymarket-cuts-staff-tries-catch-kalshi/
+  日期原文: Thu, 12 Nov 2026 17:29:18 +0000
+  摘要: Polymarket, a prediction market platform, cut staff and broke ties with contractors as it tries to keep pace with rival Kalshi, Bloomberg reported Wednesday (Nov. 11). A screenshot of an email sent by
+[T1|金融創新/AI|Finextra|2026-11-13] Mexico's Clara raises $65m for spend management platform
+  URL: https://www.finextra.com/newsarticle/48753/mexicos-clara-raises-65m-for-spend-management-platform?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 20:43:00 GMT
+  摘要: Latin American corporate spend management platform Clara has raised $65 million in a Series C equity round.
+[T1|金融創新/AI|Finextra|2026-11-13] Fiserv lays groundwork to offload a debit network
+  URL: https://www.finextra.com/newsarticle/48750/fiserv-lays-groundwork-to-offload-a-debit-network?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 18:19:00 GMT
+  摘要: Fiserv is moving clients to one of its two debit networks as it paves the way to sell the other, says Takis Georgakopoulos.
+[T1|金融創新/AI|Finextra|2026-11-13] FNZ to close offices and reduce headcount
+  URL: https://www.finextra.com/newsarticle/48749/fnz-to-close-offices-and-reduce-headcount?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 16:08:00 GMT
+  摘要: Wealth management platform FNZ is closing offices, cutting jobs and raising prices as part of a transformation plan to "build a sustainable business".
+[T1|金融創新/AI|Finextra|2026-11-12] Starling unveils AI-powered 'talk to transact' feature
+  URL: https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 15:22:00 GMT
+  摘要: Starling is launching an AI-powered feature that lets retail customers set up payments by speaking to the bank's app.
+[T1|金融創新/AI|Finextra|2026-11-12] Intermex 'rejects' Western Union's termination of takeover deal
+  URL: https://www.finextra.com/newsarticle/48747/intermex-rejects-western-unions-termination-of-takeover-deal?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 15:02:00 GMT
+  摘要: Intermex says that it rejects Western Union's decision to abandon a $500 million acquisition deal and is demanding its rival takes "all actions necessary to consummate the merger".
+[T1|金融創新/AI|Finextra|2026-11-12] BaaS bank Griffin raises £20m to add cards and stablecoin capabilities
+  URL: https://www.finextra.com/newsarticle/48746/baas-bank-griffin-raises-20m-to-add-cards-and-stablecoin-capabilities?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 14:41:00 GMT
+  摘要: UK Banking-as-a-Service bank Griffin has raised £20 million in a Series B funding round that values the business at over £100 million.
+[T1|金融創新/AI|Finextra|2026-11-12] Metro Bank puts itself up for sale
+  URL: https://www.finextra.com/newsarticle/48745/metro-bank-puts-itself-up-for-sale?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 14:16:00 GMT
+  摘要: Shares in Metro Bank rose by eight per cent on Thursday after the UK lender with a market capitalisation of £1.2 billion put itself up for sale.
+[T1|金融創新/AI|Finextra|2026-11-12] Sparkasse Bank Malta launches digital asset trading services
+  URL: https://www.finextra.com/pressarticle/111653/sparkasse-bank-malta-launches-digital-asset-trading-services?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 13:18:00 GMT
+  摘要: Sparkasse Bank Malta has launched a new digital asset offering for institutional and corporate clients, providing secure and regulated access to selected digital asset markets.
+[T1|金融創新/AI|Finextra|2026-11-12] N26 launches digital private retirement account in Germany
+  URL: https://www.finextra.com/pressarticle/111654/n26-launches-digital-private-retirement-account-in-germany?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 13:20:00 GMT
+  摘要: N26 today announced the upcoming launch of its new private retirement account (Altersvorsorgedepot) in Germany. Available from 1 January 2027, the new product will allow customers to seamlessly manage
+[T1|金融創新/AI|Finextra|2026-11-12] Payment Options picks Tribe to power acquiring across Apac and Cema
+  URL: https://www.finextra.com/pressarticle/111655/payment-options-picks-tribe-to-power-acquiring-across-apac-and-cema?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 13:24:00 GMT
+  摘要: Payment Options, a Singapore-headquartered Payment Service Provider, has partnered with Tribe Payments, a global issuer and acquirer processor, to provide payment processing technology and connectivit
+[T1|金融創新/AI|Finextra|2026-11-12] DTCC tokenisation service to connect with Solana
+  URL: https://www.finextra.com/pressarticle/111656/dtcc-tokenisation-service-to-connect-with-solana?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 13:29:00 GMT
+  摘要: The Depository Trust & Clearing Corporation (DTCC), the premier post-trade market infrastructure for the global financial services industry, today announced plans to enable the tokenization of eligibl
+[T1|金融創新/AI|Finextra|2026-11-12] Finastra and Coefficient Markets team on corporate loan trading workflows
+  URL: https://www.finextra.com/pressarticle/111657/finastra-and-coefficient-markets-team-on-corporate-loan-trading-workflows?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 14:36:00 GMT
+  摘要: Finastra and Coefficient Markets today announced a partnership to modernize corporate loan trading workflows. The collaboration links Coefficient’s dealer workflow system, EPIC, with Finastra’s Loan I
+[T1|金融創新/AI|Finextra|2026-11-12] Uber adds Revolut Pay option
+  URL: https://www.finextra.com/pressarticle/111658/uber-adds-revolut-pay-option?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 14:38:00 GMT
+  摘要: Revolut, the global bank with over 80 million customers and 850,000 business clients, today announced a milestone payments partnership expansion with Uber, the world’s leading ride-hailing and deliver
+[T1|金融創新/AI|Finextra|2026-11-12] Axway launches platform to put banks in control of AI costs, data, and decision
+  URL: https://www.finextra.com/pressarticle/111659/axway-launches-platform-to-put-banks-in-control-of-ai-costs-data-and-decision?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 15:15:00 GMT
+  摘要: Enterprises are racing to put AI to work, but many still can't account for what it costs or how it uses company data to make decisions across disparate systems.
+[T1|金融創新/AI|Finextra|2026-11-12] NYDFS issues virtual currency advertising guidance
+  URL: https://www.finextra.com/pressarticle/111660/nydfs-issues-virtual-currency-advertising-guidance?utm_medium=rssfinextra&utm_source=finextrafeed
+  日期原文: Thu, 12 Nov 2026 15:17:00 GMT
+  摘要: New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow today issued guidance outlining expectations DFS-regulated virtual currency entities to maintain and implement
+[T2|AI|TechCrunch AI|2026-11-13] Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump
+  URL: https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
+  日期原文: Thu, 12 Nov 2026 22:42:51 +0000
+  摘要: This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
+[T2|AI|TechCrunch AI|2026-11-13] Muse can now place calls to U.S. businesses — if you pay
+  URL: https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/
+  日期原文: Thu, 12 Nov 2026 22:22:28 +0000
+  摘要: Muse's AI can now place outbound calls to US businesses — but it's not free.
+[T2|AI|TechCrunch AI|2026-11-13] The unfolding Jensen Huang scandal: a timeline
+  URL: https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+  日期原文: Thu, 12 Nov 2026 21:35:00 +0000
+  摘要: Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+[T2|AI|TechCrunch AI|2026-11-13] Nebius tests the neocloud playbook with $40 billion in planned spending
+  URL: https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/
+  日期原文: Thu, 12 Nov 2026 21:27:10 +0000
+  摘要: Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.
+[T2|AI|TechCrunch AI|2026-11-13] Jensen Huang was having a third affair, Reuters reports
+  URL: https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/
+  日期原文: Thu, 12 Nov 2026 20:26:47 +0000
+  摘要: Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.
+[T2|AI|TechCrunch AI|2026-11-13] Google’s latest Search upgrade promises better answers to your most complicated questions
+  URL: https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/
+  日期原文: Thu, 12 Nov 2026 19:27:45 +0000
+  摘要: Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.
+[T2|AI|TechCrunch AI|2026-11-13] Nectar launches an AI agent to automate creator discovery and outreach for brands
+  URL: https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/
+  日期原文: Thu, 12 Nov 2026 19:11:00 +0000
+  摘要: Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
+[T2|AI|TechCrunch AI|2026-11-13] Jensen Huang’s exit puts Nvidia’s support for open source in question
+  URL: https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+  日期原文: Thu, 12 Nov 2026 18:39:23 +0000
+  摘要: Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n
+[T2|AI|TechCrunch AI|2026-11-13] Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit
+  URL: https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
+  日期原文: Thu, 12 Nov 2026 17:36:40 +0000
+  摘要: Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.
+[T2|AI|TechCrunch AI|2026-11-13] United Airlines blocks AI agents from booking flights, citing cybersecurity risks
+  URL: https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/
+  日期原文: Thu, 12 Nov 2026 17:17:58 +0000
+  摘要: The airline said it will not allow customers to use AI agents to book flights and manage reservations.
+[T2|AI|TechCrunch AI|2026-11-13] SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions
+  URL: https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/
+  日期原文: Thu, 12 Nov 2026 17:00:52 +0000
+  摘要: SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.
+[T2|AI|TechCrunch AI|2026-11-13] Phota Labs uses AI to turn everyday photos into professional-looking shots
+  URL: https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
+  日期原文: Thu, 12 Nov 2026 17:00:00 +0000
+  摘要: Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos
+[T2|AI|TechCrunch AI|2026-11-13] Jensen Huang agrees to testify before Congress
+  URL: https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
+  日期原文: Thu, 12 Nov 2026 16:36:37 +0000
+  摘要: Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.
+[T2|AI|TechCrunch AI|2026-11-13] Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
+  URL: https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/
+  日期原文: Thu, 12 Nov 2026 16:32:33 +0000
+  摘要: Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.
+[T2|AI|TechCrunch AI|2026-11-13] Trump floats Apple chairman Tim Cook as Jensen Huang’s successor
+  URL: https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/
+  日期原文: Thu, 12 Nov 2026 16:12:44 +0000
+  摘要: In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.
+[T2|AI/台灣科技|TechNews|2026-11-13] 輝達臨時執行長致信員工穩定軍心，坦承艱難期但對未來充滿信心
+  URL: https://finance.technews.tw/2026/11/13/nvidias-interim-ceo-sends-letter-to-employees-to-reassure-staff/
+  日期原文: Thu, 12 Nov 2026 18:40:27 +0000
+  摘要: 就在執行長黃仁勳（Jensen Huang）突然離職後，繪圖晶片龍頭輝達（Nvidia）新任臨時執行長克瑞斯（ […]
+[T2|AI/台灣科技|TechNews|2026-11-13] 黃仁勳確定去職，華爾街分析看好 AMD 業績與市場未來表現
+  URL: https://finance.technews.tw/2026/11/13/wall-street-analysts-are-optimistic-about-amds-future-performance-and-market-outlook/
+  日期原文: Thu, 12 Nov 2026 18:15:27 +0000
+  摘要: 隨著人工智慧（AI）晶片龍頭輝達（Nvidia）執行長黃仁勳（Jensen Huang）傳出請辭消息，半導體市 […]
+[T2|AI/台灣科技|TechNews|2026-11-13] 黃仁勳去職，輝達股價大跌為全球科技股投下重量級深水炸彈
+  URL: https://finance.technews.tw/2026/11/13/nvidias-stock-price-plunge-sends-a-bombshell-into-global-tech-stocks/
+  日期原文: Thu, 12 Nov 2026 17:45:44 +0000
+  摘要: 輝達（Nvidia）執行長黃仁勳（Jensen Huang）因個人緋聞醜聞持續延燒而正式辭職，重創這家晶片大廠 […]
+[T2|AI/台灣科技|TechNews|2026-11-13] 黃仁勳去職後，已答應美國會將於下周出席閉門聽證會
+  URL: https://finance.technews.tw/2026/11/13/jensen-huang-has-agreed-to-attend-a-closed-door-hearing-before-the-u-s-congress-next-week/
+  日期原文: Thu, 12 Nov 2026 17:10:09 +0000
+  摘要: 輝達（Nvidia）執行長黃仁勳在確認去職之後，根據外媒報導，已同意前往美國國會作證。美國聯邦眾議院外交委員會 […]
+[T2|AI/台灣科技|TechNews|2026-11-13] 黃仁勳確定去職，臨危授命暫代執行長的財務長是甚麼樣來頭？
+  URL: https://finance.technews.tw/2026/11/13/the-cfo-was-appointed-to-temporarily-act-as-ceo-during-a-crisis/
+  日期原文: Thu, 12 Nov 2026 16:45:30 +0000
+  摘要: 全球市值最高晶片大廠輝達（Nvidia）創辦人黃仁勳日前突發辭職，在公司任職長達 13 年的財務長柯瑞斯（Co […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 黃仁勳確定離職，AI 供應鏈全面拉警報
+  URL: https://technews.tw/2026/11/12/jensen-huang-step-down/
+  日期原文: Thu, 12 Nov 2026 14:38:11 +0000
+  摘要: 輝達執行長黃仁勳確定離職，財務長將接任臨時 CEO，也宣告這顆桃色炸彈正式炸翻全球 AI 供應鏈。 NVIDI […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 韋伯望遠鏡在「飛龍」星系捕捉 104 顆放大恆星，刷新單一星系紀錄
+  URL: https://technews.tw/2026/11/12/jwst-tracks-more-than-100-magnified-stellar-events-in-the-dragon-galaxy/
+  日期原文: Thu, 12 Nov 2026 13:35:42 +0000
+  摘要: 利用詹姆斯·韋伯太空望遠鏡（JWST），天文學家在一座名為「飛龍」（Dragon）的遙遠星系中，成功辨識出 1 […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 聚恆擴大表後儲能版圖，攜燿華打造 5MW 儲能案場
+  URL: https://technews.tw/2026/11/12/juheng-yaohua-expand-post-meter-storage-5mw-project/
+  日期原文: Thu, 12 Nov 2026 11:28:51 +0000
+  摘要: 再生能源業者聚恆科技擴大工商業表後儲能市場，攜手印刷電路板（PCB）大廠燿華電子，於 12 日正式啟動宜蘭廠大 […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 傳奇郵輪美國號沉佛州海底，化身全球最大人工魚礁
+  URL: https://technews.tw/2026/11/12/ss-united-states-sink/
+  日期原文: Thu, 12 Nov 2026 10:20:15 +0000
+  摘要: 曾載運王室成員、電影明星，甚至名畫〈蒙娜麗莎〉前往美國的 20 世紀豪華郵輪「美國號」（SS United S […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 示警點出黃仁勳「中國問題」，31 歲交易員半年後爆紅
+  URL: https://finance.technews.tw/2026/11/12/warning-jensen-huang-china-problem-31-year-old-trader-goes-viral-6-months/
+  日期原文: Thu, 12 Nov 2026 10:10:44 +0000
+  摘要: 6 個月前，沒什麼人注意到 31 歲的交易員拉馬可提出一份 40 頁報告，內容直指輝達的「重大中國問題」；半年 […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 日本無印良品 109 萬筆信用卡資料恐外洩，16 位卡號全都露
+  URL: https://finance.technews.tw/2026/11/12/muji-japan-1-09-million-credit-card-data-leak-16-digit-card-numbers-exposed/
+  日期原文: Thu, 12 Nov 2026 10:00:26 +0000
+  摘要: 日本「無印良品」（MUJI）營運公司良品計畫今天坦承遭駭客入侵，約 109 萬筆會員信用卡資料恐外洩，約 34 […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 元太下修全年營收成長率至 9%，AI 高速傳輸材料拚 2028 年放量
+  URL: https://finance.technews.tw/2026/11/12/e-ink-holdings-2026-q3-earnings/
+  日期原文: Thu, 12 Nov 2026 09:59:00 +0000
+  摘要: 隨著元太與台虹展開深入合作，元太將在桃園觀音建構新的製造基地，加速開拓大尺寸電子紙以及 AI 高速傳輸材料兩大 […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 黃仁勳另爆出軌公司女主管，專家：若遭撤換重大打擊 AI 產業
+  URL: https://finance.technews.tw/2026/11/12/jensen-huang-reportedly-affair-female-executive-experts-warn-removal-major-blow-ai-industry/
+  日期原文: Thu, 12 Nov 2026 09:50:51 +0000
+  摘要: 輝達（NVIDIA）執行長黃仁勳繼捲入涉諜女子婚外情後，再傳出與公司內部直屬女副總裁有染；專家表示，黃仁勳職務 […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 劉揚偉：鴻海 AI 雲端業績占比拚逾六成，觀察記憶體零組件供應
+  URL: https://finance.technews.tw/2026/11/12/honhai-fr-26q3/
+  日期原文: Thu, 12 Nov 2026 09:40:02 +0000
+  摘要: 鴻海董事長劉揚偉下午表示，晶片、記憶體及部分關鍵零組件供應吃緊，是整體產業共同面臨挑戰，2027 年人工智慧 […]
+[T2|AI/台灣科技|TechNews|2026-11-12] 堆疊常見塑膠薄膜，新材料克服月球極端溫差又抗壓
+  URL: https://technews.tw/2026/11/12/mylar-bopet-insulation-film/
+  日期原文: Thu, 12 Nov 2026 09:26:29 +0000
+  摘要: 廉價塑膠經過巧妙堆疊，竟搖身變成下一代月球基地核心建材。賓州大學團隊利用新穎薄膜組裝方式堆疊數百張 Mylar […]
+[T2|區塊鏈|Cointelegraph|2026-11-13] NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express
+  URL: https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 22:29:58 +0000
+  摘要: North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.
+[T2|區塊鏈|Cointelegraph|2026-11-13] Here’s what happened in crypto today
+  URL: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 22:11:41 +0000
+  摘要: Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+[T2|區塊鏈|Cointelegraph|2026-11-13] Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters
+  URL: https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 22:05:01 +0000
+  摘要: The prediction market operator said the decision was mutual and followed 1789 Capital’s investment in rival Polymarket, denying political considerations.
+[T2|區塊鏈|Cointelegraph|2026-11-13] Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off
+  URL: https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 21:52:04 +0000
+  摘要: Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.
+[T2|區塊鏈|Cointelegraph|2026-11-13] US Justice Department, business groups and DeFi firms challenge Illinois crypto tax
+  URL: https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 20:58:06 +0000
+  摘要: Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.
+[T2|區塊鏈|Cointelegraph|2026-11-13] DTCC Plans Solana Expansion as Wallet Rules Limit Access
+  URL: https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 20:07:41 +0000
+  摘要: The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down
+  URL: https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 15:46:06 +0000
+  摘要: Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Jensen Huang resigns as Nvidia CEO, exits board; shares plunge
+  URL: https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 13:59:02 +0000
+  摘要: Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Bit Digital stock falls 5% in pre-market after Q3 revenue miss
+  URL: https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 13:52:39 +0000
+  摘要: Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Thailand proposes $148K daily cap on stablecoin deposits and withdrawals
+  URL: https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 13:44:03 +0000
+  摘要: Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente
+  URL: https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 13:31:59 +0000
+  摘要: Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Are Alt-L1s over? Security, costs drive smaller chains to Ethereum
+  URL: https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 13:30:00 +0000
+  摘要: L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Uber’s UK banking partner Griffin raises $20M for stablecoin services
+  URL: https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 13:21:56 +0000
+  摘要: The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.
+[T2|區塊鏈|Cointelegraph|2026-11-12] EU DeFi proposals could push users to riskier platforms, says Coinbase exec
+  URL: https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 12:21:43 +0000
+  摘要: Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.
+[T2|區塊鏈|Cointelegraph|2026-11-12] Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022
+  URL: https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+  日期原文: Thu, 12 Nov 2026 11:38:50 +0000
+  摘要: Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.
+[T2|區塊鏈（機構）|Ledger Insights|2026-11-12] SEC tells court not to halt Kalshi stock perps but won’t say if they’re legal yet
+  URL: https://www.ledgerinsights.com/sec-tells-court-not-to-halt-kalshi-stock-perps-but-wont-say-if-theyre-legal-yet/
+  日期原文: Wed, 11 Nov 2026 19:50:47 +0000
+  摘要: Single stock perpetual futures started trading in the US last week after the CFTC let a 45 day review clock run out on applications from Kalshi, Coinbase and Bitnomial. Within a day the Capital Market
+[T2|支付/金融創新|Payments Dive|2026-11-12] FTC aims to better fight scams
+  URL: https://www.paymentsdive.com/news/ftc-aims-to-better-fight-scams/874509/
+  日期原文: Thu, 12 Nov 2026 10:58:50 -0500
+  摘要: To combat rising fraud, the Federal Trade Commission may update a rule that could make technology companies more liable when fraud occurs.
+[T2|支付/金融創新|Payments Dive|2026-11-12] Merchants sue feds over Illinois card fee law
+  URL: https://www.paymentsdive.com/news/merchants-sue-feds-over-illinois-card-fee-law/874494/
+  日期原文: Thu, 12 Nov 2026 10:28:00 -0500
+  摘要: Trade groups filed lawsuits against bank and credit union regulators over a preemption of a state law that bans swipe fees for taxes and tips.
+[T2|支付/金融創新|Payments Dive|2026-11-12] Fiserv preps debit network sale
+  URL: https://www.paymentsdive.com/news/fiserv-preps-debit-network-sale/874395/
+  日期原文: Wed, 11 Nov 2026 11:30:26 -0500
+  摘要: The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company’s CEO said Tuesday.
+[T2|金融創新|Finovate|2026-11-12] 3 Ways Fintechs Are Giving AI Agents Their Own Spending Power
+  URL: https://finovate.com/3-ways-fintechs-are-giving-ai-agents-their-own-spending-power/
+  日期原文: Wed, 11 Nov 2026 20:44:46 +0000
+  摘要: As we round out 2026, the fintech industry has shifted from talking about AI to talking about AI agents. Agentic commerce has gained popularity as consumers and businesses have started using AI agents
+[T2|金融創新|Finovate|2026-11-12] UK-based Kingdom Bank Partners with Sandstone Technology
+  URL: https://finovate.com/uk-based-kingdom-bank-partners-with-sandstone-technology/
+  日期原文: Wed, 11 Nov 2026 19:53:50 +0000
+  摘要: UK-based Kingdom Bank has gone live with a new digital banking platform through a partnership with Sandstone Technology, a digital banking solutions provider based in Australia. Working in close partn
+[T2|金融創新/募資|Crowdfund Insider|2026-11-13] Avalanche Offers Grants to Support Blockchain Economics
+  URL: https://www.crowdfundinsider.com/2026/11/323008-avalanche-offers-grants-to-support-blockchain-economics/
+  日期原文: Thu, 12 Nov 2026 20:03:20 +0000
+  摘要: The Avalanche Foundation is offering $50,000 grants for entities pursuing blockchain economics research. The non-profit arm of Avalanche says it has awarded six grants to researchers at the following 
+[T2|金融創新/募資|Crowdfund Insider|2026-11-13] OCC’s Semiannual Risk Perspective Highlights Key Risks in Federal Banking System
+  URL: https://www.crowdfundinsider.com/2026/11/323009-occs-semiannual-risk-perspective-highlights-key-risks-in-federal-banking-system/
+  日期原文: Thu, 12 Nov 2026 20:00:00 +0000
+  摘要: WASHINGTON—The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026. The OCC highlighted cre
+[T2|金融創新/募資|Crowdfund Insider|2026-11-13] After Second Affair Revelation, Jensen Huang Resigns from Nvidia. Did the Board Fail in its Mandate?
+  URL: https://www.crowdfundinsider.com/2026/11/323002-after-second-affair-revelation-jensen-huang-resigns-from-nvidia-did-the-board-fail-in-its-mandate/
+  日期原文: Thu, 12 Nov 2026 18:23:35 +0000
+  摘要: Markets are still ruminating on what the departure of Nvidia (NASDAQ:NVDA) founder and CEO Jensen Huang will mean for the company. Last week, it was revealed that Huang had been having an affair with 
+[T2|金融創新/募資|Crowdfund Insider|2026-11-13] Inflation Surprise Intensifies Fed Rate-Hike Talks, Has Implications for Bitcoin Price and Fintech Sector : Analysis
+  URL: https://www.crowdfundinsider.com/2026/11/322878-inflation-surprise-intensifies-fed-rate-hike-talks-has-implications-for-bitcoin-price-and-fintech-sector-analysis/
+  日期原文: Thu, 12 Nov 2026 17:12:45 +0000
+  摘要: October’s stronger-than-expected consumer price data has heightened pressure on the Federal Reserve to quicken the pace of interest-rate increases. Core prices rose 0.3 percent for a third straight mo
+[T2|金融創新/募資|Crowdfund Insider|2026-11-13] Leaked Iranian Trade Records Reveal Zhejiang Chouzhou Commercial Bank as Leading Destination for China Payments : Analysis
+  URL: https://www.crowdfundinsider.com/2026/11/322993-leaked-iranian-trade-records-reveal-zhejiang-chouzhou-commercial-bank-as-leading-destination-for-china-payments-analysis/
+  日期原文: Thu, 12 Nov 2026 16:11:23 +0000
+  摘要: Analysis by blockchain intelligence firm TRM Labs has mapped the Chinese banking channels Iranian buyers have been directed to use when settling payments for goods from Chinese suppliers. Drawing on m
+[T2|金融創新/募資|Crowdfund Insider|2026-11-12] PayPal Under German Antitrust Scrutiny as AI Accuracy Hits 95% and Analyst Lifts Target
+  URL: https://www.crowdfundinsider.com/2026/11/322977-paypal-under-german-antitrust-scrutiny-as-ai-accuracy-hits-95-and-analyst-lifts-target/
+  日期原文: Thu, 12 Nov 2026 15:14:49 +0000
+  摘要: Germany’s Federal Cartel Office has delivered a preliminary finding that PayPal’s (NASDAQ: PYPL) longstanding prohibition on merchants adding separate surcharges for its payment option may restrain co
+[T2|金融創新/募資|Crowdfund Insider|2026-11-12] CoreWeave ($CRWV) Raises Full-Year Guidance as AI Cloud Providers Nebius and Crusoe Navigate Heavy Capex and Financing Risks
+  URL: https://www.crowdfundinsider.com/2026/11/322882-coreweave-crwv-raises-full-year-guidance-as-ai-cloud-providers-nebius-and-crusoe-navigate-heavy-capex-and-financing-risks/
+  日期原文: Thu, 12 Nov 2026 14:42:13 +0000
+  摘要: CoreWeave (NASDAQ: CRWV), the specialized AI cloud provider serving major customers including OpenAI and Meta, delivered third-quarter results that underscored continued strength in demand for acceler
+[T2|金融創新/募資|Crowdfund Insider|2026-11-12] Ethereum Co-Founders Joe Lubin and Vitalik Buterin Position ETH as a Potential Store of Value, Similar to Bitcoin (BTC), Amid Economic Uncertainty
+  URL: https://www.crowdfundinsider.com/2026/11/322996-ethereum-co-founders-joe-lubin-and-vitalik-buterin-position-eth-as-a-potential-store-of-value-similar-to-bitcoin-btc-amid-economic-uncertainty/
+  日期原文: Thu, 12 Nov 2026 14:10:09 +0000
+  摘要: Ethereum co-founder Joseph Lubin has publicly endorsed the view that Ether (ETH) could function as a legitimate store of value, aligning with recent arguments from fellow co-founder Vitalik Buterin. I
+[T2|金融創新/募資|Crowdfund Insider|2026-11-12] Telegram Surpasses 1 Million Self-Custodial Wallets, Highlighting Demand for Seamless Digital Transactions
+  URL: https://www.crowdfundinsider.com/2026/11/322998-telegram-surpasses-1-million-self-custodial-wallets-highlighting-demand-for-seamless-digital-transactions/
+  日期原文: Thu, 12 Nov 2026 13:03:32 +0000
+  摘要: Telegram has recorded the activation of more than one million self-custodial Gram wallets within a 48-hour period, according to an announcement by founder Pavel Durov on November 11, 2026. The milesto
+[T2|金融創新/募資|Crowdfund Insider|2026-11-12] OpenAI Ex-CTO Mira Murati’s Thinking Machines Lab Targets $40B Valuation in Accel Led Round Amid Nvidia Alliance
+  URL: https://www.crowdfundinsider.com/2026/11/322725-openai-ex-cto-mira-muratis-thinking-machines-lab-targets-40b-valuation-in-accel-led-round-amid-nvidia-alliance/
+  日期原文: Thu, 12 Nov 2026 12:40:09 +0000
+  摘要: Thinking Machines Lab, the artificial intelligence company established by former OpenAI chief technology officer Mira Murati, is advancing toward the close of a substantial new funding round. Accordin
+[T2|銀行/金融創新|Banking Dive|2026-11-13] Ex-PNC employee faces 5 charges in $86K theft
+  URL: https://www.bankingdive.com/news/pnc-ex-employee-charged-86k-theft-gambling/874523/
+  日期原文: Thu, 12 Nov 2026 12:08:37 -0500
+  摘要: Jacqueline Clinton allegedly misused her position to make 10 false credit adjustments between May and August. Investigators flagged ATM withdrawals at casinos and gambling websites after transactions.
+[T2|銀行/金融創新|Banking Dive|2026-11-13] Hancock Whitney to buy Trustmark in $3.2B deal
+  URL: https://www.bankingdive.com/news/hancock-whitney-buy-trustmark-3b-deal-bank-acquisition/874522/
+  日期原文: Thu, 12 Nov 2026 12:02:46 -0500
+  摘要: The combination of Mississippi banks would create a $58 billion-asset lender with about 370 branches across six Southeastern states.
+[T2|銀行/金融創新|Banking Dive|2026-11-13] CSI arms community lenders for commercial banking fight
+  URL: https://www.bankingdive.com/news/csi-core-provider-community-banks-commercial-banking/874508/
+  日期原文: Thu, 12 Nov 2026 11:00:06 -0500
+  摘要: Fintech acquisitions have bolstered CSI’s capabilities so the company, in turn, can enable community bank clients to better compete with larger lenders, CEO Nancy Langer said.
+[T2|銀行/金融創新|Banking Dive|2026-11-12] BofA to settle fake-accounts lawsuit
+  URL: https://www.bankingdive.com/news/bofa-bank-of-america-to-settle-fake-accounts-lawsuit-2023/874495/
+  日期原文: Thu, 12 Nov 2026 10:24:41 -0500
+  摘要: The $3.4 trillion-asset lender allegedly opened thousands of unauthorized accounts from 2012 to 2023, according to plaintiffs in a class-action lawsuit.
+[T2|銀行/金融創新|Banking Dive|2026-11-12] Black-owned M&F shareholders opt overwhelmingly to stay the course
+  URL: https://www.bankingdive.com/news/mf-optus-merger-black-owned-bank-shareholder-vote-triad-proposal-carolina/874393/
+  日期原文: Wed, 11 Nov 2026 11:21:49 -0500
+  摘要: Roughly 98.6% of voting investors supported a tie-up with fellow Black-owned Optus Bank despite a series of counterproposals. The deal, which needs regulator sign-off, is on track for a fourth-quarter
+[T2|銀行/金融創新|Tearsheet|2026-11-13] Tearsheet launches the Vision Awards to honor financial services leaders
+  URL: https://tearsheet.co/awards/tearsheet-launches-the-vision-awards-to-honor-financial-services-leaders/?utm_source=rss&utm_medium=rss&utm_campaign=tearsheet-launches-the-vision-awards-to-honor-financial-services-leaders
+  日期原文: Thu, 12 Nov 2026 17:00:00 +0000
+  摘要: Financial services evolve when leaders question established ways of doing business. The biggest changes often start with a decision to challenge an existing model, approach a difficult problem differe
+[T2|銀行/金融創新|Tearsheet|2026-11-12] How Gen Z’s expectations are pushing treasury toward real-time finance feat. Citizens
+  URL: https://tearsheet.co/payments/how-gen-zs-expectations-are-pushing-treasury-toward-real-time-finance-feat-citizens/?utm_source=rss&utm_medium=rss&utm_campaign=how-gen-zs-expectations-are-pushing-treasury-toward-real-time-finance-feat-citizens
+  日期原文: Thu, 12 Nov 2026 12:30:00 +0000
+  摘要: Treasury is facing a moment of reckoning as money moves faster, but the systems around it struggle to keep pace. A company can send a payment in real time and still have to jump between systems to con
