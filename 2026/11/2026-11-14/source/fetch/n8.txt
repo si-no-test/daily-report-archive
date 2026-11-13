@@ -1,0 +1,28 @@
+FINAL_URL: https://www.bankingdive.com/news/csi-core-provider-community-banks-commercial-banking/874508/
+STATUS: ok
+CHARS: 5125
+---CONTENT---
+CSI arms community lenders for commercial banking fight
+Fintech acquisitions have bolstered CSI’s capabilities so the company, in turn, can enable community bank clients to better compete with larger lenders, CEO Nancy Langer said.
+Recent acquisitions that core provider CSI has made are aimed at helping its community bank clients better compete in commercial banking, where they’re facing more pressure, the company’s CEO said.
+“Bigger banks are coming into some of the smaller communities, for sure, going after small business, which is part of our message to the banks: they also have to be aggressive about leveraging the technology,” said Nancy Langer, CSI’s president and CEO, said during an interview at last month’s Money20/20 conference in Las Vegas.
+“All of our banks, they get it,” she said.
+CSI, which competes with larger rivals Fiserv, FIS and Jack Henry, provides financial software and technology for community banks. The Paducah, Kentucky-based company’s customer base ranges from de novos to banks with about $20 billion in assets, Langer said.
+Serving commercial banking needs is essential for community banks to remain competitive with regional and super-regional lenders, who are racing to serve small businesses . And commercial business is a top driver of margin and growth for small banks, Langer said.
+Local lenders will always get commercial real estate loans but may not be able to retain deposits, especially as a business grows, she said.
+Relationships still go a long way in community banking, but “a lot of those businesses are getting turned over, whether it's from their grandparents or their parents, to fairly young [owners], and they need real-time, they need immediate cash visibility, they need a user experience that they’ve come to expect,” Langer said.
+As community banks beat back competition from fintechs and larger lenders, “our job is to help them stay ahead of that. Their job is to jump on the bandwagon, leverage that technology, and get even more competitive with tech versus just relationship,” Langer said.
+That’s why CSI bought payments infrastructure fintech Qolo in July , and digital banking services firm Apiture in 2025 . Those acquisitions have been integrated into CSI’s core, arming community banks with capabilities larger banks have, Langer said.
+Since she became CEO in May 2025 , Langer said she’s spent time with bank clients and prospects, particularly those with more than $1 billion in assets. The firm is eager to ensure it’s meeting the needs of clients at that size, especially as community bank consolidation continues, she noted.
+“Part of our strategy is to make sure we can satisfy $1 billion and above very well, but still take care of those smaller banks that need the same technology that they do,” she said.
+CSI had “built a good reputation on service, but that only goes so far for us and our banks,” she said. “You've got to deliver innovation.”
+CSI was taken private in 2022 , in a $1.6 billion acquisition by investment firms Centerbridge Partners and Bridgeport Partners. The core provider declined to share its annual revenue or customer count, but a spokesperson said the company has nearly doubled in size since going private, and has boosted its position in the core banking market. CSI’s NuPoint platform supports about 10% of U.S. banks, the company said.
+The deal has given CSI “a better opportunity than some to make pretty sizable investments in modernization and in the commercial capabilities,” Langer said.
+Qolo was CSI’s fourth acquisition in four years; the firm bought Hawthorn River in 2023 and Velocity Solutions in 2024. With Apiture’s and Qolo’s capabilities, CSI clients get a stronger cash management platform and modern payment orchestration, she said.
+Qolo also acts as part of CSI’s modernization strategy, adding virtual account and real-time account ledger capabilities, Langer said. Qolo counts regionals KeyBank and Huntington among its clients, and those relationships continue to run independently, she said.
+As for additional acquisitions, Langer said there’s nothing imminent, although she has circled opportunity on the lending side and in the fraud space.
+“We feel pretty good about where we're at in terms of having the things to help our banks compete. But we're always going to look at things that might add more,” she said. “Instead of third-partying it, we may acquire it.”
+CSI has several fraud products, but “that's one area we could end up going, ‘Hey, we'll buy something there,’” because “you’ve got to keep raising the bar,” she said.
+Acquiring holds appeal over partnering when CSI seeks control of the roadmap and the pace of delivery, she said.
+Small banks competing with larger lenders’ expansive technology staff and budgets also seek artificial intelligence assistance, Langer said. CSI aims to deliver that through services such as a tool that leverages data and AI to deliver pointed customer insights, to help banks offer the right product at the right time, she said.
+“They just want to know we're going to help them get the benefits of AI,” she said, which is “an equalizer for them.”

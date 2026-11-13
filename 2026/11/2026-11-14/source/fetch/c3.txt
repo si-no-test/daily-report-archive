@@ -1,0 +1,28 @@
+FINAL_URL: https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/
+STATUS: ok
+CHARS: 4961
+---CONTENT---
+JPMorgan Stops AI Agents From Using Customer Credit Cards
+JPMorgan Chase blocks AI agents that shop with a customer’s card details, while cards from Bank of America, Capital One and Citigroup are already being used by agents, the Journal reported.
+Stripe gets agent purchases through on a one-time virtual card, but merchants say the card is classed as commercial and costs more to accept.
+Fifty-two percent of consumers want to choose how they pay when an AI agent lines up a $300 purchase, PYMNTS Intelligence found.
+JPMorgan Chase is blocking artificial intelligence (AI) agents from shopping with its customers’ credit cards when customers give the agent their card number, The Wall Street Journal reported Friday (Nov. 13). Cards from Bank of America , Capital One and Citigroup are already being used by agents when customers allow it, the Journal said.
+Stripe gets around the block. Its Link wallet gives the agent a one-time virtual card instead of the customer’s own card. Merchants say that card costs them more to accept, the Journal said.
+Link has more than 300 million users and is accepted at more than 1 million businesses, PYMNTS reported in September. At those businesses, an agent such as Meta’s Muse pays with the shopper’s saved payment method. Everywhere else, Link issues a single-use virtual card for the approved amount, and the agent never sees the real card, Stripe said at the time. Anthropic ’s Claude Duet buys business supplies the same way, Anthropic said in October.
+JPMorgan Extends Its Agent Block from Accounts to Cards
+Outside agents already cannot log in with a Chase customer’s credentials, send money or pay bills, PYMNTS reported after the bank’s Oct. 13 third-quarter earnings call. “You don’t want rogue agents, and there could be thousands of them,” JPMorgan CEO Jamie Dimon said on the call.
+The card block applies the same caution to shopping, and the card business is a large one to protect. JPMorgan’s debit and credit card sales volume was $539.5 billion in the third quarter, up 10% from $492.3 billion a year earlier, PYMNTS reported .
+Michael Spelfogel , president of card technology company Cardless , told the Journal that banks “can’t stop people from using agents to spend their own money.”
+Stripe’s Virtual Cards Cost Merchants More to Accept
+Link also supports agentic tokens from Visa and Mastercard , which hide the card number and carry the shopper’s spending limits, but JPMorgan has been slow to adopt them, people familiar with the matter told the Journal. For Chase cards and other issuers, Link uses a virtual card instead. Stripe creates a card good for one purchase and one amount, the agent pays the merchant with it, and Stripe then bills the shopper’s own card. The shopper sees one charge on the card they chose. The merchant is paid by a different card, the Journal said.
+Merchants have complained to Visa and Mastercard that the virtual card costs more on average to accept than the shopper’s own card because it is classified as a commercial card rather than a consumer card, the Journal reported. Additionally, the temporary cards have also made returns harder to process, merchant executives told the Journal.
+Mastercard does not want the arrangement to last. CEO Michael Miebach called a virtual card number “a bridge to get ready for a fully tokenized transaction” on the company’s third-quarter earnings call, PYMNTS reported .
+52% of Shoppers Want to Keep the Payment Choice
+When an AI agent lines up a $300 purchase, 52% of consumers want to choose how they pay, and another 25% would accept an AI recommendation but keep final approval, according to the July PYMNTS Intelligence report “Global Digital Shopping Index: The Agentic Commerce Deep Dive,” a collaboration with Visa Acceptance Solutions that surveyed 5,241 consumers in the United States, Brazil and the United Arab Emirates.
+Acquirers are waiting too. Twenty-three percent plan to actively accelerate client readiness for agentic commerce; the other 77% will move once their clients, platforms or consumers show demand, according to the March PYMNTS Intelligence report “How Acquirers Prepare for Agentic Commerce,” a Visa Acceptance Solutions collaboration that surveyed 75 acquirers in Brazil, the UAE and the U.S. in January.
+Agents also return more goods and fall for more scams than human shoppers, payments executives told the Journal, including paying stores that take the money and ship nothing. Several banks plan to treat a customer who hands an agent a card the way they treat one who hands it to a family member: the charges are the cardholder’s, the Journal said.
+Fed Raises Check Fees as Businesses Keep Writing Them
+AI Law Firm Crosby Bids for Weil Gotshal’s Name and Data
+IAB Launches New Framework to Track When AI Influences or Completes Purchases
+US and Private Sector Freeze $2.7 Billion in Crypto Stolen in Binance Heist
+AI , AI Agents , credit cards , digital transformation , News , PYMNTS News

@@ -1,0 +1,15 @@
+[
+ {"name":"OpenAI","url":"https://openai.com","intro":"美國AI研究與產品公司，推出ChatGPT與GPT系列模型。"},
+ {"name":"PayPal","url":"https://www.paypal.com","intro":"美國大型數位支付公司，旗下另有Venmo，服務全球數億名消費者與商戶。"},
+ {"name":"德意志銀行","url":"https://www.db.com","intro":"德國最大的銀行集團，業務涵蓋企業銀行、投資銀行與私人銀行。"},
+ {"name":"德國商業銀行","url":"https://www.commerzbank.de","intro":"德國主要商業銀行之一，以企業金融與中小企業客戶見長。"},
+ {"name":"聯準會","url":"https://www.federalreserve.gov","intro":"美國中央銀行體系，負責貨幣政策、銀行監理與支付清算服務。"},
+ {"name":"摩根大通","url":"https://www.jpmorganchase.com","intro":"美國資產規模最大的銀行集團，也是全美最大的信用卡發卡行之一。"},
+ {"name":"Wirex","url":"https://wirexapp.com","intro":"英國起家的數位支付與穩定幣卡片平台，為Visa與萬事達卡主要會員。"},
+ {"name":"LangChain","url":"https://www.langchain.com","intro":"AI代理開發與管理平台業者，旗下產品LangSmith供企業建置與監控AI代理。"},
+ {"name":"英格蘭銀行","url":"https://www.bankofengland.co.uk","intro":"英國中央銀行，負責貨幣政策與英鎊大額支付系統。"},
+ {"name":"新加坡金融管理局","url":"https://www.mas.gov.sg","intro":"新加坡中央銀行暨整合性金融監理機關。"},
+ {"name":"泰國央行","url":"https://www.bot.or.th","intro":"泰國中央銀行，負責貨幣政策、金融監理與支付系統。"},
+ {"name":"Stripe","url":"https://stripe.com","intro":"美國線上支付基礎設施公司，提供收單、發卡與穩定幣等服務。"},
+ {"name":"Payward","url":"https://www.kraken.com","intro":"加密貨幣交易所Kraken的母公司，近年擴展至證券、期貨與支付業務。"}
+]

@@ -1,0 +1,25 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/feds-barr-warns-ai-could-lower-prices-while-concentrating-market-power/
+STATUS: ok
+CHARS: 4495
+---CONTENT---
+Fed’s Barr Warns AI Could Lower Prices While Concentrating Market Power
+Artificial intelligence (AI) could make businesses more productive and lower consumer prices but leave workers with a smaller share of the gains, Federal Reserve Gov. Michael Barr warned on Thursday (Nov. 12).
+Speaking at Yale University, Barr said AI’s economic effects will depend on whether it complements workers or replaces them, how widely businesses can access it, and whether competition prevents its benefits from accumulating among a handful of dominant companies.
+His remarks presented competing possibilities rather than a firm forecast. AI could expand opportunity for small businesses and create new occupations, he acknowledged. But its ability to perform complex, knowledge-intensive tasks could also produce greater labor disruption than earlier technologies.
+“So far, there has been relatively little displacement of workers by AI,” Barr said, pointing to evidence of productivity improvements, increased demand in some sectors and new occupations.
+That picture could change as adoption spreads, however. Barr said signs of substitution are already emerging in some sectors, particularly for younger, less-experienced workers. Tasks that can be automated within clear guardrails and produce predictable results may be replaced quickly. Work involving judgment, relationships, management, coordination or creativity may be more likely to benefit from human-machine collaboration.
+The speed of adoption matters, according to Barr. Rapid changes could make adjustment difficult and cause substantial dislocation. A slower transition could give workers more time to move into different roles.
+Barr urged preparation for potentially serious near-term disruption through investments in job creation, training and efforts to connect workers with new opportunities.
+The distribution of productivity gains from AI is equally critical. Barr cited research suggesting that digital technology has become cheaper relative to labor, encouraging businesses to invest more heavily in capital. Even when automation makes companies more productive and allows them to hire additional workers, profits and equity values can grow faster than labor income.
+AI could reinforce that pattern if investment returns flow primarily to owners rather than employees. Barr noted that labor’s share of national income reached a record low of 52.8% in the second quarter of 2026. Although measurement issues explain some of the decline, he said the downward trend remains after adjustments.
+Market concentration could amplify those effects. Large, productive companies can use technology to expand while commanding higher markups because customers have fewer alternatives.
+That does not necessarily mean higher prices, however. Barr noted that technological improvements can reduce costs enough for dominant companies to charge less even as their markups increase. As a result, consumers could therefore benefit from lower prices even as economic power and investment returns become more concentrated.
+For businesses and policymakers, that distinction means falling prices alone would not establish that AI’s benefits were being broadly shared.
+Barr pointed to data, computing power and model improvements as sources of scale advantages for leading AI companies. AI can also be a powerful tool to help develop better AI systems, potentially reinforcing those advantages, he said.
+A more competitive outcome still remains possible, Barr suggested. Broad access to inexpensive AI could help smaller businesses acquire skills and information, improve productivity and innovate. Competition has so far kept access relatively broad, and smaller language models may satisfy many companies’ needs without requiring the most advanced technology.
+The central uncertainty is whether that access persists as capabilities improve. Barr’s warning was that productivity growth, cheaper products and widening inequality could occur together. With adoption still relatively early, he urged businesses and policymakers to address those risks now so the technology’s long-term benefits can be more widely realized.
+Fed Raises Check Fees as Businesses Keep Writing Them
+AI Law Firm Crosby Bids for Weil Gotshal’s Name and Data
+IAB Launches New Framework to Track When AI Influences or Completes Purchases
+US and Private Sector Freeze $2.7 Billion in Crypto Stolen in Binance Heist
+AI , digital transformation , economy , Federal Reserve , News , PYMNTS News

@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-14",
+  "archived_at": "2026-11-13T23:17:23Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "6bb429c1891b96cd2285d09f622167b8a6cb023e",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 43,
+  "total_bytes": 948470,
+  "files": [
+    {
+      "path": "data/2026-11-14-candidates.txt",
+      "bytes": 69031,
+      "sha256": "23148c90ef44ba5e3eb0f12694b3f88eb9031e7db4638d229fe979c3a0081fa8"
+    },
+    {
+      "path": "data/2026-11-14-glossary.json",
+      "bytes": 2620,
+      "sha256": "fa571a0e41fc4e2a5acf40ca38441767918a575dbdaaacedcc3321db8a6f4e0e"
+    },
+    {
+      "path": "data/2026-11-14-manifest.txt",
+      "bytes": 3460,
+      "sha256": "75faacd28c3c06f4c0c203de5c8f92f58c850e600a4da79cb4337ddceea809be"
+    },
+    {
+      "path": "data/2026-11-14-orgs.json",
+      "bytes": 1945,
+      "sha256": "4c2873c17d4257ac737809f30eee0a0ac92ab20be15151bdc998abe6a5a1407a"
+    },
+    {
+      "path": "data/2026-11-14-topic-cases.json",
+      "bytes": 2805,
+      "sha256": "0a63ed31516649ccbc4d9c4e26491eda8499ee0aa412bdd851698f48b3050bd9"
+    },
+    {
+      "path": "data/2026-11-14-topic-decisions.json",
+      "bytes": 2929,
+      "sha256": "ded4c67dfe741ea45719aa30770fdcfba2a2cc4f88c3573653470991cd422930"
+    },
+    {
+      "path": "data/2026-11-14.json",
+      "bytes": 18938,
+      "sha256": "b932415f566b0c56279626ca71cf3877bd0e27db3e89a31b3aeed037aca6a630"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 69261,
+      "sha256": "0e11a10e36867c2c170cd8ee0b8b8458eb156f3c611db4d74addadffa08c8ccd"
+    },
+    {
+      "path": "data/recent.txt",
+      "bytes": 22383,
+      "sha256": "54ff6f670c8e0593e8022dbc25356af51ce550174089b4f23ca6afe433729a7a"
+    },
+    {
+      "path": "data/selfcheck.log",
+      "bytes": 3517,
+      "sha256": "c758e1faf11bb6a806d8f5eff6b09bf2f396cf4294ebb524fc62fda49604b4be"
+    },
+    {
+      "path": "outbox/2026-11-14-archive.html",
+      "bytes": 105362,
+      "sha256": "bcdd056602643809ac59935ebb5e2c968f4492a49cdeb94a7e6561da3b2c6523"
+    },
+    {
+      "path": "outbox/2026-11-14-email.html",
+      "bytes": 11080,
+      "sha256": "c8f6aed2a90f90e5822c18bd0e0ea3e789de14f81715be407de3aaf64f29c84d"
+    },
+    {
+      "path": "published/2026-11-14.html",
+      "bytes": 555,
+      "sha256": "e89d6703eaf64730a3b56c44fb342b6f71b6f6b0ffefde1cbbb07ace1679ee8d"
+    },
+    {
+      "path": "published/2026-11-14/ai.html",
+      "bytes": 45297,
+      "sha256": "e930edae41916cda5f3698e3ffb7b571406d81d3c3fc856d98d131b84eb77fea"
+    },
+    {
+      "path": "published/2026-11-14/blockchain.html",
+      "bytes": 44569,
+      "sha256": "5ee400589b4a6648514d3ab7f7bd0d8fd372dd6aa0ac162d7a22c8e9ab232a54"
+    },
+    {
+      "path": "published/2026-11-14/index.html",
+      "bytes": 23242,
+      "sha256": "1ae1a1217859cc214b50d6160a109245cb66632f5f0b74d05e3f8e131a09ad92"
+    },
+    {
+      "path": "published/2026-11-14/innovation.html",
+      "bytes": 56623,
+      "sha256": "3fe60ba14a27e742de0cde5cc31d9752a53f2bd756f8efd5ad02772f50462d67"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 362452,
+      "sha256": "b0b51eb2a8d7a679ad9bb0e639974134517bb00bf9d4563c6d792ae09ee5b0c6"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "dade1c5b832e38712300516c3ae3e31e814aba457f97a54c348e8c9f1c2afab5"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "e89d6703eaf64730a3b56c44fb342b6f71b6f6b0ffefde1cbbb07ace1679ee8d"
+    },
+    {
+      "path": "published/topics/bank-ai-agent-card-access-policy.html",
+      "bytes": 1548,
+      "sha256": "880f1c467790dae6adb4c378727a84582ec38953dcd2372ded953a09ebbc6187"
+    },
+    {
+      "path": "published/topics/meridian-fx-synchronised-settlement.html",
+      "bytes": 1673,
+      "sha256": "29ca635b2d0538c4d74ee303cefd734ba5ad413fae95bbcd5edbc98b8024fcfe"
+    },
+    {
+      "path": "published/topics/openai-financial-services-rollout.html",
+      "bytes": 2418,
+      "sha256": "857397151f725b5d52a386b68ef358b0a7b6324078e819e599cb36fc58b9d818"
+    },
+    {
+      "path": "published/topics/paypal-industrial-bank-charter.html",
+      "bytes": 1497,
+      "sha256": "c5249a0d738f88745cc76cf0f06422493f30082961afc4dc57236854b26d0885"
+    },
+    {
+      "path": "source/2026-11-14-report.txt",
+      "bytes": 38827,
+      "sha256": "92c2a6d0c7c3cb65a3a4721ed3f9bf0fd799f4868d55993ed665e0a865b950af"
+    },
+    {
+      "path": "source/2026-11-14-summary.txt",
+      "bytes": 2716,
+      "sha256": "e93b1ddbbace4feb2e966dc6fb8ef583c0a2546cc332c5e34a4c02b6cc1634e5"
+    },
+    {
+      "path": "source/fetch/c1.txt",
+      "bytes": 150,
+      "sha256": "dff29c03583424d2a60eb90c3976a5b0da915ab68c51393be85c8917ea53f9fb"
+    },
+    {
+      "path": "source/fetch/c1b.txt",
+      "bytes": 4547,
+      "sha256": "9bbd009b5b652388eb16b83959a25affde947d319c7ae69941602f51ad4f5f09"
+    },
+    {
+      "path": "source/fetch/c2.txt",
+      "bytes": 3932,
+      "sha256": "2495d1207e652c8b862419184e40a80e63ed538adcda98b4412253ab30710e54"
+    },
+    {
+      "path": "source/fetch/c3.txt",
+      "bytes": 5158,
+      "sha256": "2ec2ad0c8079acf1cc370887c406b974273ff27686942faa2a675eb0d8723eb8"
+    },
+    {
+      "path": "source/fetch/c4.txt",
+      "bytes": 200,
+      "sha256": "b6431561bd61fda7fcad46c5418d9353b15b44a7352bf1e07d6ea354678dea1d"
+    },
+    {
+      "path": "source/fetch/c4b.txt",
+      "bytes": 184,
+      "sha256": "dddad3029319e5e2de86728bf59dcc7ac38d4baf096beb14dca1526e1884e8db"
+    },
+    {
+      "path": "source/fetch/c5.txt",
+      "bytes": 259,
+      "sha256": "530f5ded21b9385257f4d37cb93eff414c091dd00a09b1174ac17f6b34485dc0"
+    },
+    {
+      "path": "source/fetch/c5b.txt",
+      "bytes": 5228,
+      "sha256": "2d5bc541cddbd35af995efb271b3ad0ebed04d18d1829c219e0132401e103787"
+    },
+    {
+      "path": "source/fetch/c6.txt",
+      "bytes": 8253,
+      "sha256": "a102e22726f18089052d2fac2ef515da3d2ccdcf87ee045cae5150d3b3f9a2c7"
+    },
+    {
+      "path": "source/fetch/n1.txt",
+      "bytes": 2978,
+      "sha256": "7ad06e24c76427d1ce6cb584f747f9ae4f98c0e58db2752b2d2d18bd804ab9c7"
+    },
+    {
+      "path": "source/fetch/n2.txt",
+      "bytes": 2404,
+      "sha256": "5848d43526dc5575b52ae2674ce4e97d3b8c199008030bd5daace37d7d7b320a"
+    },
+    {
+      "path": "source/fetch/n3.txt",
+      "bytes": 4693,
+      "sha256": "aa7c1de51f857b6d01cb2c7b8bdc0c4b0a2ec8acf6b4909557267c3574e1e2bf"
+    },
+    {
+      "path": "source/fetch/n4.txt",
+      "bytes": 3399,
+      "sha256": "2afe1b8dcb41ff5fe127c8fdee4b1363f8ea1252bbd077597e6d1a8e665b279d"
+    },
+    {
+      "path": "source/fetch/n5.txt",
+      "bytes": 271,
+      "sha256": "4a032005e8158c6ba19c85541d449407c8d911628ac6f706d5c8679b353c9f67"
+    },
+    {
+      "path": "source/fetch/n6.txt",
+      "bytes": 286,
+      "sha256": "7ad7a4dcd3b918566f4a1cdaaafcfdce8dfd85fcaf958e2a87c884b964cb46bf"
+    },
+    {
+      "path": "source/fetch/n7.txt",
+      "bytes": 5067,
+      "sha256": "e516190c783978e767137194eea627050378a0e3fddf3cf0c004d14c52bdb7bb"
+    },
+    {
+      "path": "source/fetch/n8.txt",
+      "bytes": 5366,
+      "sha256": "f312996fd152981f19ba07dfe0145d26b2b2e0f826dbbec76ba829a135a2283f"
+    }
+  ]
+}

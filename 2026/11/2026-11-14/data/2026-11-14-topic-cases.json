@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **OpenAI**於11月13日推出ChatGPT Wallet，讓AI代理以Visa、萬事達卡與美國運通卡代客結帳，初期僅開放美國18歲以上Pro訂閱戶",
+  "summary": "OpenAI於11月13日（美國時間週五）推出ChatGPT Wallet，讓其AI代理「dots」協助使用者挑選商品並代為完成結帳；初期僅開放給美國18歲以上、持美國發行Visa、萬事達卡或美國運通卡的部分ChatGPT P",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **PayPal**於11月13日經報導說明申設猶他州工業銀行的策略，要以存款支撐對2,000萬家商戶的放款業務",
+  "summary": "PayPal財務暨營運長Jamie Miller在KBW金融科技生態系研討會上說明，該公司去年12月已向美國聯邦存款保險公司（FDIC）及猶他州金融機構廳申設猶他州工業貸款公司，目的在支撐對旗下2,000萬家商戶的放款並分散資",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **摩根大通（JPMorgan Chase）**於11月13日經報導封鎖AI代理以客戶卡號購物，該行第三季卡片交易量達5,395億美元",
+  "summary": "據《華爾街日報》11月13日報導、PYMNTS轉述，摩根大通開始封鎖客戶把信用卡號交給AI代理代為購物，而美國銀行、第一資本與花旗的卡片在客戶同意下已可被代理使用。摩根大通在10月13日第三季財報會議後已禁止外部代理以客戶帳密",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Wirex**於11月13日推出AI代理Navoka，宣稱為首個以專屬銀行帳戶與金融卡代使用者付款的AI代理",
+  "summary": "穩定幣基礎設施平台Wirex於11月13日推出Navoka，宣稱是首個從專屬銀行帳戶與金融卡代表使用者付款的AI代理。Wirex是Visa與萬事達卡的主要會員，在全球服務逾700萬名用戶，今年3月已推出Wirex Agents",
+  "theme": "ai"
+ },
+ {
+  "title": "- **英格蘭銀行（Bank of England）、新加坡金融管理局與泰國央行**於11月13日完成Project Meridian FX APAC跨幣別同步外匯結算試驗，橫跨3家央行的RTGS與分散式帳本系統",
+  "summary": "英格蘭銀行、新加坡金融管理局與泰國央行於11月13日公布Project Meridian FX APAC成果，在三家央行的測試環境中，橫跨即時總額清算（RTGS）與分散式帳本系統，測試款對款外匯結算與多邊淨額外匯結算。依國際清",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **Stripe**於11月13日經報導說明旗下Tempo區塊鏈策略，將90%區塊空間保留給支付交易",
+  "summary": "Payments Dive於11月13日刊出Tempo商務長Dan Romero的專訪。Tempo是Stripe與創投Paradigm共同孵化、專注穩定幣支付的區塊鏈，2025年9月推出，首批夥伴包括Anthropic、Doo",
+  "theme": "blockchain"
+ }
+]

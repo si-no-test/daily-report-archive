@@ -1,0 +1,21 @@
+FINAL_URL: https://www.pymnts.com/cryptocurrency/2026/united-states-private-sector-freeze-3-billion-dollars-crypto-stolen-binance-heist/
+STATUS: ok
+CHARS: 3188
+---CONTENT---
+US and Private Sector Freeze $2.7 Billion in Crypto Stolen in Binance Heist
+Efforts by the U.S. government and private sector entities have led to the freeze of over $2.7 billion of the more than $6 billion worth of virtual assets that were stolen from the Binance cryptocurrency exchange on or around Oct. 29, the Department of Justice said in a Thursday (Nov. 12) press release.
+The DOJ obtained court authorization to seize or restrain more than $1.2 billion of that amount, according to the release.
+The efforts are ongoing as the fraudsters who carried out the theft, the members of the North Korean military referred to by the FBI as “ TraderTraitor ,” continue to launder the stolen virtual assets through cryptocurrency bridges, mixers and exchanges, per the release.
+“North Korea’s government bankrolls its rogue regime and illicit weapons program through cryptocurrency theft,” Principal Deputy Assistant Attorney General for National Security M. Scott Proctor said in the release. “Today’s announcement shows that America will fight back against that corrupt regime’s effort to profit through cybercrime. The National Security Division will use every tool at its disposal to seize and return North Korea’s ill-gotten gains.”
+Binance said in a Thursday announcement that it completed coverage of assets impacted in the security incident and published a new Proof of Reserves snapshot that provides an updated view of assets that are fully accounted for.
+“Following the incident, Binance committed more than $6.34 billion in company funds to cover the losses and began sourcing affected tokens through market and [over-the-counter] channels,” the company said in the announcement. “That process was funded through a combination of a partial deployment of the Secure Asset Fund for Users (SAFU), a portion of Binance’s Futures insurance fund (above the level required under Binance’s risk-management framework) and Binance’s own corporate treasury.”
+Binance also said in the announcement that it has committed to replenishing the SAFU to return the fund to about $1 billion, that it continues to open withdrawals in phases and that it is further enhancing its security infrastructure.
+PYMNTS reported Oct. 30 that the $6.3 billion theft from Binance was the biggest crypto theft ever. In response to the theft, Binance halted withdrawals and said it expected to restart them within 48 hours.
+On Nov. 3, Binance said that the hack of its cryptocurrency exchange resulted from a sophisticated, multi-stage campaign that began in June.
+Blockchain company Elliptic said Monday (Nov. 9) that the hackers behind the heist were using memecoins to launder some of the proceeds.
+For all PYMNTS digital transformation coverage, subscribe to the daily digital transformation newsletter .
+AI Law Firm Crosby Bids for Weil Gotshal’s Name and Data
+IAB Launches New Framework to Track When AI Influences or Completes Purchases
+US and Private Sector Freeze $2.7 Billion in Crypto Stolen in Binance Heist
+Amazon Targets Google and Walmart With Plan to Catalog Every Product Online
+Binance , Bitcoin , Blockchain , Cryptocurrency , Cybersecurity , fraud , News , PYMNTS News , Security , What's Hot

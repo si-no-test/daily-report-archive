@@ -1,0 +1,276 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T07:16:59+08:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "OpenAI launches ChatGPT Wallet / ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "display_title": "OpenAI於11月13日推出ChatGPT Wallet，讓AI代理以Visa、萬事達卡與美國運通卡代客結帳，初期僅開放美國18歲以上Pro訂閱戶",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+     "status": "ok",
+     "chars": 4375
+    }
+   ],
+   "date_evidence": "Fri, 13 Nov 2026 18:28:00 GMT",
+   "summary": "OpenAI推出ChatGPT Wallet，讓AI代理dots代使用者挑選商品並以Visa、萬事達卡或美國運通卡完成結帳，初期開放美國部分Pro訂閱戶。",
+   "core_fact": "OpenAI於11月13日（美國時間週五）推出ChatGPT Wallet，讓其AI代理「dots」協助使用者挑選商品並代為完成結帳；初期僅開放給美國18歲以上、持美國發行Visa、萬事達卡或美國運通卡的部分ChatGPT Pro訂閱戶。使用者一次性綁卡後，結帳時由Wallet以付款代碼取代真實卡號扣款，卡號不會交給代理或商家；每筆交易前須以Face ID或指紋確認並留下交易紀錄，持卡人仍保有信用卡回饋與爭議款處理等保障。",
+   "deep_facts": [
+    "結帳時以付款代碼取代真實卡號，卡號不會交給代理或商家",
+    "每筆交易需以Face ID或指紋確認並留存紀錄，持卡人仍保有回饋與爭議款保障",
+    "未來將開放消費上限、品類與時段等預先授權設定",
+    "OpenAI同步發布Commerce Partner Playbook協助零售商支援代理下單"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Why PayPal wants to have a bank",
+   "display_title": "PayPal於11月13日經報導說明申設猶他州工業銀行的策略，要以存款支撐對2,000萬家商戶的放款業務",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/",
+     "status": "ok",
+     "chars": 3743
+    }
+   ],
+   "date_evidence": "Fri, 13 Nov 2026 10:25:00 -0500",
+   "summary": "PayPal財務暨營運長說明申設猶他州工業銀行，目的是支撐商戶放款並以存款分散資金來源。",
+   "core_fact": "PayPal財務暨營運長Jamie Miller在KBW金融科技生態系研討會上說明，該公司去年12月已向美國聯邦存款保險公司（FDIC）及猶他州金融機構廳申設猶他州工業貸款公司，目的在支撐對旗下2,000萬家商戶的放款並分散資金來源；PayPal擁有4億名消費者客戶，正擴大PayPal Pay Later先買後付與Venmo金融服務。執行長Enrique Lores今年3月上任後已裁減約2,000個職位，Miller表示預計未來兩到三年削減約15億美元成本。",
+   "deep_facts": [
+    "PayPal去年12月向FDIC與猶他州金融機構廳提出工業貸款公司申請",
+    "執行長Lores上任後裁減約2,000個職位，預計兩到三年削減約15億美元成本",
+    "Miller稱存款是分散資金來源較具成本效益的方式，但仍維持輕資產負債表策略",
+    "PayPal曾將歐洲先買後付應收帳款出售給KKR"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "German banks form financial crime fighting JV",
+   "display_title": "德國商業銀行（Commerzbank）、德意志銀行與德國儲蓄銀行協會於11月11日宣布成立合資公司，跨行共享詐欺案件資訊以打擊金融犯罪",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 13 Nov 2026 15:12:00 GMT",
+   "summary": "Commerzbank、Deutsche Bank與德國儲蓄銀行協會成立合資公司打擊金融犯罪。",
+   "core_fact": "德國商業銀行、德意志銀行與代表儲蓄銀行體系的德國儲蓄銀行協會（DSGV）於11月11日宣布成立合資公司，Finextra於11月13日報導。合資公司以金融機構為主要客戶，目的在讓銀行能安全、一致且合法地共享詐欺案件資訊；三方指出詐騙者常在短時間內於多家銀行開戶並跨行移轉資金，個別銀行只能看到部分全貌。首項產品將協助金融機構辨識針對零售與企業客戶的詐欺企圖，服務也將開放給其他金融機構使用。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Globalive-Backed WealthOne Bank Seeks $105 Million to Fuel US and Canadian FinTech Push",
+   "display_title": "WealthOne加拿大銀行（WealthOne Bank of Canada）於11月13日經報導尋求募資1.5億加元，定位為「金融科技業者的銀行」",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/banking/2026/globalive-backed-wealthone-bank-seeks-105-million-dollars-fuel-united-states-canadian-fintech-push/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 13 Nov 2026 18:03:51 +0000",
+   "summary": "WealthOne加拿大銀行尋求募資1.5億加元，鎖定金融科技、財富管理公司與零售客戶。",
+   "core_fact": "據彭博11月13日報導、PYMNTS轉述，WealthOne加拿大銀行正尋求募資1.5億加元（約1.05億美元），鎖定與加拿大及美國的金融科技業者、財富管理公司與零售客戶建立往來。該行於2025年7月由投資公司Globalive領軍的投資人收購，總資產由2025年7月的5.7億加元增至今年9月的11億加元；執行長John Webster曾任職加拿大豐業銀行，他表示「我們要成為金融科技業者的銀行」。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Fed Raises Check Fees as Businesses Keep Writing Them",
+   "display_title": "聯準會（Federal Reserve）於11月12日宣布明年1月1日起支票處理服務價格平均調漲5.4%，加速企業付款轉向電子軌道",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/smbs/2026/federal-reserve-raises-check-fees-businesses-keep-writing-them/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 13 Nov 2026 22:09:55 +0000",
+   "summary": "聯準會預估明年1月1日起支票處理服務價格平均調漲5.4%，企業仍大量以支票付款。",
+   "core_fact": "聯準會於11月12日公布支票處理服務價格，預估自明年1月1日起平均調漲5.4%，其中FedReceipt每日逐筆費用由0.0005美元升至0.0015美元，標準退件修復費由30美分升至36美分。PYMNTS Intelligence調查顯示，59%的受訪企業過去一年仍以支票支付B2B款項，平均占付款筆數13%；營運20年以上的中小企業有54%的供應商付款仍靠支票，而寄送至聯邦準備銀行代收的商業支票量至8月已年減8.7%。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "JPMorgan Stops AI Agents From Using Customer Credit Cards",
+   "display_title": "摩根大通（JPMorgan Chase）於11月13日經報導封鎖AI代理以客戶卡號購物，該行第三季卡片交易量達5,395億美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/",
+     "status": "ok",
+     "chars": 4961
+    }
+   ],
+   "date_evidence": "Fri, 13 Nov 2026 19:26:18 +0000",
+   "summary": "摩根大通封鎖AI代理以客戶卡號購物，美國銀行、第一資本與花旗的卡片已可被代理使用。",
+   "core_fact": "據《華爾街日報》11月13日報導、PYMNTS轉述，摩根大通開始封鎖客戶把信用卡號交給AI代理代為購物，而美國銀行、第一資本與花旗的卡片在客戶同意下已可被代理使用。摩根大通在10月13日第三季財報會議後已禁止外部代理以客戶帳密登入、轉帳或繳費，執行長Jamie Dimon表示「你不會想要失控的代理，而且可能有數千個」；該行第三季簽帳與信用卡交易量達5,395億美元，年增10%。",
+   "deep_facts": [
+    "Jamie Dimon在10月13日財報會議稱不希望出現失控代理，外部代理已不得登入帳戶",
+    "摩根大通第三季簽帳與信用卡交易量達5,395億美元、年增10%",
+    "Stripe Link的單次虛擬卡被歸類為商務卡，商家受理成本較高且退貨困難",
+    "萬事達卡執行長稱虛擬卡號是通往全面代碼化交易的橋梁"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card",
+   "display_title": "Wirex於11月13日推出AI代理Navoka，宣稱為首個以專屬銀行帳戶與金融卡代使用者付款的AI代理",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.wirexapp.com/post/wirex-agents-enabling-ai-driven-stablecoin-cards-and-autonomous-micropayments",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 13 Nov 2026 09:59:00 GMT",
+   "summary": "Wirex推出Navoka，宣稱為首個以專屬銀行帳戶與金融卡代使用者付款的AI代理。",
+   "core_fact": "穩定幣基礎設施平台Wirex於11月13日推出Navoka，宣稱是首個從專屬銀行帳戶與金融卡代表使用者付款的AI代理。Wirex是Visa與萬事達卡的主要會員，在全球服務逾700萬名用戶，今年3月已推出Wirex Agents，讓AI代理可存取穩定幣驅動的Visa卡、穩定幣虛擬帳戶、推播入卡付款與跨境轉帳，並提供MCP伺服器供開發者整合。Navoka進一步把代理付款綁定在獨立帳戶與卡片上，與使用者主帳戶區隔。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "display_title": "LangChain於11月13日宣布完成3億美元C輪募資，估值達30億美元",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 13 Nov 2026 19:37:57 +0000",
+   "summary": "LangChain完成3億美元C輪募資、估值30億美元，LangSmith擁有7,000家客戶。",
+   "core_fact": "AI代理管理新創LangChain於11月13日宣布完成3億美元C輪募資，估值30億美元，由CapitalG領投，新加坡GIC、DFJ Growth、IVP與Sapphire Ventures參與；估值較約一年前募資1.25億美元時的12.5億美元增加逾一倍。該公司2022年以開源專案起家，目前其代理建置與管理軟體LangSmith擁有7,000家客戶，包括Harvey、Rippling、Clay等新創，以及輝達、豐田與Salesforce等大型企業。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Fed’s Barr Warns AI Could Lower Prices While Concentrating Market Power",
+   "display_title": "聯準會理事巴爾（Michael Barr）於11月12日警告AI可能壓低物價卻集中市場力量，美國勞動所得占比已降至52.8%歷史低點",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/feds-barr-warns-ai-could-lower-prices-while-concentrating-market-power/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 13 Nov 2026 18:16:29 +0000",
+   "summary": "聯準會理事Barr警告AI可能壓低物價但讓勞工分得較少成果並集中市場力量。",
+   "core_fact": "聯準會理事Michael Barr於11月12日在耶魯大學演講指出，AI可能提升企業生產力並壓低消費物價，但勞工分得的成果可能縮小；他指出美國勞動所得占國民所得比率在2026年第二季降至52.8%的歷史低點，經調整後下降趨勢依然存在。Barr表示目前AI造成的勞工替代仍相對有限，但部分產業已出現替代跡象，尤其衝擊較年輕、經驗較少的勞工，可在明確規則下自動化、結果可預測的工作最快被取代。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+   "display_title": "英格蘭銀行（Bank of England）、新加坡金融管理局與泰國央行於11月13日完成Project Meridian FX APAC跨幣別同步外匯結算試驗，橫跨3家央行的RTGS與分散式帳本系統",
+   "source": "新加坡金融管理局",
+   "source_tier": "T1",
+   "url": "https://www.mas.gov.sg/news/media-releases/2026/boe-mas-and-bot-complete-trial-of-synchronised-fx-settlement-across-different-currencies-and-systems",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.mas.gov.sg/news/media-releases/2026/boe-mas-and-bot-complete-trial-of-synchronised-fx-settlement-across-different-currencies-and-systems",
+     "status": "ok",
+     "chars": 5012
+    }
+   ],
+   "date_evidence": "Fri, 13 Nov 2026 12:27:41 +0000",
+   "summary": "英格蘭銀行、MAS與泰國央行完成連結傳統與代幣化系統的外匯結算試驗。",
+   "core_fact": "英格蘭銀行、新加坡金融管理局與泰國央行於11月13日公布Project Meridian FX APAC成果，在三家央行的測試環境中，橫跨即時總額清算（RTGS）與分散式帳本系統，測試款對款外匯結算與多邊淨額外匯結算。依國際清算銀行2025年三年期調查，2025年4月平均每日仍有逾1.4兆美元、約10%的外匯結算完全暴露於結算風險。專案由分散式帳本清算業者Partior擔任交付夥伴，開發並測試「同步營運者」原型，澳洲央行與菲律賓央行以觀察員身分參與。",
+   "deep_facts": [
+    "依BIS調查，2025年4月平均每日逾1.4兆美元、約10%的外匯結算完全暴露於結算風險",
+    "Partior擔任交付夥伴，開發並測試同步營運者原型",
+    "澳洲央行與菲律賓央行以觀察員身分參與",
+    "成果分為執行摘要、技術報告與政策報告三份"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Stripe awaits payoff on Tempo chain",
+   "display_title": "Stripe於11月13日經報導說明旗下Tempo區塊鏈策略，將90%區塊空間保留給支付交易",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/stripe-awaits-payoff-on-tempo-chain/874618/",
+     "status": "ok",
+     "chars": 8086
+    }
+   ],
+   "date_evidence": "Fri, 13 Nov 2026 10:57:00 -0500",
+   "summary": "Stripe孵化的Tempo區塊鏈主攻穩定幣支付，用於匯款、跨境撥款與代理式商務。",
+   "core_fact": "Payments Dive於11月13日刊出Tempo商務長Dan Romero的專訪。Tempo是Stripe與創投Paradigm共同孵化、專注穩定幣支付的區塊鏈，2025年9月推出，首批夥伴包括Anthropic、DoorDash與Visa；據Fortune於2025年10月報導，Tempo已募資5億美元、估值50億美元，由Paradigm共同創辦人Matt Huang領導。Romero表示Tempo將90%的區塊空間保留給簡單的點對點支付，交易類活動列為次優先，目前客戶用於匯款、跨境付款與代理式商務。",
+   "deep_facts": [
+    "Tempo將90%區塊空間保留給支付交易，交易類活動列次優先",
+    "Romero以把Visa與紐約證交所放在同一資料庫比喻公鏈擁塞問題",
+    "DoorDash可將外送員收入即時以穩定幣撥入嵌入式錢包並連結簽帳卡",
+    "Tempo募資5億美元、估值50億美元，由Paradigm共同創辦人Matt Huang領導"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
+   "display_title": "Payward（Kraken母公司）於11月13日公布第三季調整後EBITDA年減約三分之二至6,000萬美元，並規劃美國預測市場與個人理財AI代理",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Fri, 13 Nov 2026 15:31:22 +0000",
+   "summary": "Payward第三季調整後EBITDA年減約三分之二至6,000萬美元，有資金帳戶年增37%。",
+   "core_fact": "Kraken母公司Payward於11月13日公布第三季財報，調整後EBITDA年減約三分之二至6,000萬美元，但有資金帳戶數年增37%；The Block報導其調整後EBITDA降幅達66%，並規劃在美國推出預測市場與個人理財AI代理。CoinDesk同日報導Payward表示加密交易以外的業務擴張有助緩衝營收下滑，Cointelegraph則指出在交易放緩下其市占率仍有提升。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "rss_feeds": "17 固定 RSS（Fintech Futures、Fintech Nexus HTTPError；Ledger Insights、TechCrunch Fintech 當日無合格條目）",
+  "A_site_searches": 10,
+  "B_topic_queries": 5,
+  "C_rss_fallback_searches": 2,
+  "regional_supplement_searches": 6,
+  "extra_detail_searches": 5,
+  "note": "[A][B][C] 共 17 條搜尋皆已執行，均無審計窗內可採用新條目；Open USD 與量子威脅專題當日無合格條目"
+ }
+}

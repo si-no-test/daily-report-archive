@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings
+STATUS: fail
+CHARS: 61
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Metaplanet swings to $170M loss as Bitcoin sale hits earnings

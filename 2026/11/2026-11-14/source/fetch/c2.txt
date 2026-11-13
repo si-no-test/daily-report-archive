@@ -1,0 +1,24 @@
+FINAL_URL: https://www.paymentsdive.com/news/why-paypal-wants-to-have-a-bank/874615/
+STATUS: ok
+CHARS: 3743
+---CONTENT---
+Why PayPal wants to have a bank
+The digital payments company would tap a bank subsidiary for lending to its merchants, but also to diversify its sources of capital.
+PayPal Holdings still sees advantages from winning a bank charter as the digital payments giant’s new CEO pursues a transformation of the company.
+That’s according to the company’s chief financial and operating officer, Jamie Miller, who talked about PayPal’s bank charter application at the KBW Fintech Ecosystem Conference this week .
+When Miller was asked by the analyst hosting the event to comment on PayPal’s effort to form an industrial bank, she explained how it would play into PayPal’s plan to provide more financial services, such as lending to its millions of merchant clients.
+She pointed to the “merchant lending that underpins our work,” saying the company’s processing support for small businesses, sole proprietors and micro-sellers are all able to partake of its lending services.
+San Jose, California-based PayPal filed applications with the Federal Deposit Insurance Corp. and the Utah Department of Financial Institutions last December to establish a Utah-chartered industrial loan company back when Alex Chriss was CEO. But Chriss has since exited, with Enrique Lores taking that top post this past March.
+Lores has continued to pursue a strategy offering more financial services to PayPal’s 400 million consumer customers and its 20 million merchant clients. Financial services that the company is spooling up include increased buy now, pay later lending under the PayPal Pay Later brand as well new services via its peer-to-peer payments tool Venmo.
+As part of PayPal’s restructuring plan begun in April, Lores has cut some 2,000 employee jobs , shaved management layers and reorganized the business into three key divisions: checkout and PayPal; consumer financial services and Venmo; and processing, payment services and crypto .
+The company expects to take about $1.5 billion in costs out of the business in the next two to three years, Miller said.
+Miller also suggested a bank operation would be advantageous as another route to capital. “The other side of it is to diversify our funding sources,” she said at the event.
+“We've been building out a variety of different funding sources,” Miller said. “We fund a lot through our own free cash flow and our cash on balance sheet, but we've also begun taking books off balance sheet in Europe and in the U.S. to really just diversify where the cash and funding sources come from.”
+Last year, PayPal sold the investment firm KKR some of its buy now, pay later loan receivables originated in France, Germany, the United Kingdom and other European countries.
+To the extent that a PayPal bank could take in consumer or commercial deposits that could also be a new source of capital, the CFO said. “Certainly, deposits are another cost-efficient way” to diversify the company’s capital sources, she said.
+PayPal’s application for a bank charter is part of a wave of payments companies seeking to form banks. Others include pay later provider Affirm Holdings , which sought FDIC and Nevada bank charters this year, as well as mega-processor Fiserv and digital juggernaut Stripe, which have won special Georgia bank charters.
+Miller doesn’t anticipate the company’s balance sheet approach changing if it does win the option to establish the bank.
+“We continue to expect to be generally balance sheet light,” she said. “We're going to make choices around what the right return profile will be around when we keep it on balance sheet versus when we take it off. ”
+She didn’t provide any update on regulators’ response to the company’s application.
+PayPal isn’t agile enough, CEO says
+PayPal CEO plans for a ‘fix’
