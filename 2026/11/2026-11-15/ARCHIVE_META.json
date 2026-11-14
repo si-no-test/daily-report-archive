@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-15",
+  "archived_at": "2026-11-14T23:17:01Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "9c567346313d57e0f61cdb660f5d34c645537bcf",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 766745,
+  "files": [
+    {
+      "path": "data/2026-11-15-candidates.txt",
+      "bytes": 38010,
+      "sha256": "0c25adb8bc855f3a144238f6390594ad242c611474ca877b76db1c1cea2f6e8e"
+    },
+    {
+      "path": "data/2026-11-15-glossary.json",
+      "bytes": 2511,
+      "sha256": "34057ae7927dbcb69e3e03a6e1a3f41928cece588e7a1ba02b6c79668d646bcd"
+    },
+    {
+      "path": "data/2026-11-15-manifest.txt",
+      "bytes": 3460,
+      "sha256": "32ae5e6ffc93bdc8f100d41883f0d5567b2953c72b58a540475cabbbf638dbe7"
+    },
+    {
+      "path": "data/2026-11-15-orgs.json",
+      "bytes": 1876,
+      "sha256": "63acde07fb250c830612eb6990ff215156a17d1c908eb0742a3902514a28c2ee"
+    },
+    {
+      "path": "data/2026-11-15-topic-cases.json",
+      "bytes": 3463,
+      "sha256": "8fbe14bee441d5951f0b3a925836ca7dc41036a5fd5960f2f65a96061470ea9a"
+    },
+    {
+      "path": "data/2026-11-15-topic-decisions.json",
+      "bytes": 1507,
+      "sha256": "1a49503ce30a9a3d08c9912fb7e17c0663b36cacb8c6ea90a71a215aa1b240f0"
+    },
+    {
+      "path": "data/2026-11-15.json",
+      "bytes": 21723,
+      "sha256": "bc6e58b82cb9516381291c9cef02ca13a1c08c1e6c711a9ec412a9e2730d6dd4"
+    },
+    {
+      "path": "outbox/2026-11-15-archive.html",
+      "bytes": 102923,
+      "sha256": "e2d06ee50c97e011dfc57a1f3218144789e8d26720d9688a0f49d2878d3088db"
+    },
+    {
+      "path": "outbox/2026-11-15-email.html",
+      "bytes": 11958,
+      "sha256": "8e15032bc1d65750106e8a5c2767fbdb31656443313327105ff2bb3fd363c2da"
+    },
+    {
+      "path": "published/2026-11-15.html",
+      "bytes": 555,
+      "sha256": "e45c3b2c46b5fb5df1effbec32dd4d19c59333d20f00a04812aad37032bac56d"
+    },
+    {
+      "path": "published/2026-11-15/ai.html",
+      "bytes": 43152,
+      "sha256": "cd703ae9445fa7e78f4f95a02b69fa8dae6ace86ed9aceda9d9676a9a1741411"
+    },
+    {
+      "path": "published/2026-11-15/blockchain.html",
+      "bytes": 54810,
+      "sha256": "8562f6cd88e2d959d1d379b4e1aa8d062eacf8edaf9bdabe4e41873befd50034"
+    },
+    {
+      "path": "published/2026-11-15/index.html",
+      "bytes": 23484,
+      "sha256": "1d12c883648f2818a34bdd38c5aef80cfd83089807b15bb97caf0855b137d397"
+    },
+    {
+      "path": "published/2026-11-15/innovation.html",
+      "bytes": 40330,
+      "sha256": "1f60b61c902a47bf5eb3f316c2f52523a1e164b29da3ccfd09342f14fcfb1fc3"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 367537,
+      "sha256": "ffef807dbee62fe29a06c313464abcc123141cb31762e3fd40c54b34419beec7"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "33d4a14b61260bc6fa498e31449f84eaaeb0e0af4ee0809d0aebf6eae98598c7"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "e45c3b2c46b5fb5df1effbec32dd4d19c59333d20f00a04812aad37032bac56d"
+    },
+    {
+      "path": "published/topics/binance-record-hack-recovery.html",
+      "bytes": 4209,
+      "sha256": "49a633b28a2562312cb192580bd8041e5bbfd51b711804f9df6459046ec80ea5"
+    },
+    {
+      "path": "published/topics/kazakhstan-tokenized-government-securities.html",
+      "bytes": 1608,
+      "sha256": "8d2150fc021799412251020e713c61642f0d634692b43f61039ad4635dec0871"
+    },
+    {
+      "path": "source/2026-11-15-report.txt",
+      "bytes": 38829,
+      "sha256": "f97e5768fcac73901c63521eb078fc39b5ed05553f8f852577ce91fdf0809bbf"
+    },
+    {
+      "path": "source/2026-11-15-summary.txt",
+      "bytes": 3453,
+      "sha256": "204a2955553f7b04c6f61f4527ef308ce956ac2cf84dac911e3558a68dd1fba0"
+    }
+  ]
+}

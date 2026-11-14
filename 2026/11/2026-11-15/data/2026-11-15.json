@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T07:16:09.646005+08:00",
+  "counts": {
+    "ai": 4,
+    "blockchain": 5,
+    "innovation": 3
+  },
+  "items": [
+    {
+      "theme": "innovation",
+      "title": "U.S. Bank adding 60 middle-market roles",
+      "display_title": "美國合眾銀行（U.S. Bank）於11月12日宣布在全美增聘60名中型企業金融人員，涵蓋其無分行的德州與佛州",
+      "source": "Banking Dive",
+      "source_tier": "T2",
+      "url": "https://www.bankingdive.com/news/us-bank-adding-60-middle-market-roles/874635/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.bankingdive.com/news/us-bank-adding-60-middle-market-roles/874635/",
+          "status": "ok",
+          "chars": 2336
+        }
+      ],
+      "date_evidence": "Thu, 13 Nov 2026 (Banking Dive RSS pubDate, 2026-11-14 Asia/Taipei)",
+      "summary": "U.S. Bank adds 60 middle-market roles including Florida and Texas where it has no branches, targeting companies with $50M-$1B revenue.",
+      "core_fact": "美國合眾銀行旗下機構客戶事業群於11月12日發布新聞稿，宣布在全美新增60個中型企業金融職缺，包括客戶關係經理與業務開發主管，服務對象為年營收5,000萬至10億美元的企業，據點涵蓋佛州、德州與加州。發言人向Banking Dive表示，這是該行在中型企業領域「規模最大的一次招聘」，而且該行在佛州與德州並無任何分行；中型企業部門主管Hassan Salem形容此業務是「全行最優先事項」，但未揭露投資金額。",
+      "deep_facts": [
+        "發言人表示這是該行在中型企業領域規模最大的一次招聘，且在佛州與德州沒有任何分行",
+        "服務對象為年營收5,000萬至10億美元企業，職缺含客戶關係經理與業務開發主管",
+        "該行調查顯示71%財務長看好未來三年前景，高於春季的64%",
+        "同業KeyBank今年3月在亞特蘭大增設五人中型企業團隊"
+      ]
+    },
+    {
+      "theme": "innovation",
+      "title": "Finovate Global Lithuania: Payment Options for Online Merchants, Tokenized Assets, and More! (Genome)",
+      "display_title": "Genome於11月13日經Finovate報導推出Visa與萬事達卡線上收單服務，商戶最快次一營業日即可收到歐元、美元或英鎊撥款",
+      "source": "Finovate",
+      "source_tier": "T2",
+      "url": "https://finovate.com/finovate-global-lithuania-payment-options-for-online-merchants-tokenized-assets-and-more/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://finovate.com/finovate-global-lithuania-payment-options-for-online-merchants-tokenized-assets-and-more/",
+          "status": "ok",
+          "chars": 7988
+        }
+      ],
+      "date_evidence": "2026-11-14 (Finovate RSS pubDate)",
+      "summary": "Lithuanian EMI Genome launched Visa and Mastercard acceptance for online merchants with settlement into the merchant's Genome account.",
+      "core_fact": "總部位於立陶宛維爾紐斯、2018年成立的電子貨幣機構Genome，於11月13日經Finovate報導推出Visa與萬事達卡線上收單服務，商戶可透過Genome代管的付款頁或主機對主機整合，在自家網域內完成結帳。款項直接撥入商戶的Genome帳戶，該帳戶同時用於SEPA即時轉帳、SWIFT匯款、換匯、企業卡與批次付款，最快次一營業日即可以歐元、美元或英鎊三種幣別入帳；Genome另已提供Pay by Bank帳戶直付，並規劃下一步支援Apple Pay與Google Pay。",
+      "deep_facts": [
+        "撥款直接進入同時支援SEPA即時、SWIFT、換匯、企業卡與批次付款的Genome帳戶",
+        "最快次一營業日以歐元、美元或英鎊入帳",
+        "支援代管付款頁與主機對主機整合，並已提供Pay by Bank，下一步規劃Apple Pay與Google Pay"
+      ]
+    },
+    {
+      "theme": "innovation",
+      "title": "Agencies Extend Comment Period for Proposed Third-Party Risk Management Guidance",
+      "display_title": "美國聯邦存款保險公司（FDIC）等四家聯邦金融監理機關於11月13日宣布延長第三方風險管理指引草案的公開意見徵詢期",
+      "source": "Crowdfund Insider",
+      "source_tier": "T2",
+      "url": "https://www.crowdfundinsider.com/2026/11/323209-agencies-extend-comment-period-for-proposed-third-party-risk-management-guidance/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.crowdfundinsider.com/2026/11/323209-agencies-extend-comment-period-for-proposed-third-party-risk-management-guidance/",
+          "status": "fail",
+          "chars": 0
+        }
+      ],
+      "date_evidence": "2026-11-14 (Crowdfund Insider RSS pubDate)",
+      "summary": "FDIC, Federal Reserve Board, NCUA and OCC announced they will extend the comment period for proposed third-party risk management guidance.",
+      "core_fact": "美國聯邦存款保險公司、聯準會理事會、國家信用合作社管理局與貨幣監理署四家機關於11月13日共同宣布，延長「第三方風險管理指引草案」的公開意見徵詢期，此消息於11月14日經Crowdfund Insider報導。這份草案涵蓋銀行與外部服務供應商、金融科技合作夥伴之間的風險控管要求，四家機關以聯合聲明方式發布延長決定，讓銀行、信用合作社與科技供應商有更多時間提交意見。",
+      "deep_facts": []
+    },
+    {
+      "theme": "ai",
+      "title": "AI Law Firm Crosby Bids for Weil Gotshal's Name and Data",
+      "display_title": "Crosby於11月13日經報導競購百年律所威嘉（Weil, Gotshal & Manges）的品牌與內部資料，該公司成立以來累計募資約8,500萬美元",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-law-firm-crosby-bids-for-weil-gotshals-name-and-data/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-law-firm-crosby-bids-for-weil-gotshals-name-and-data/",
+          "status": "ok",
+          "chars": 4776
+        }
+      ],
+      "date_evidence": "2026-11-14 (PYMNTS RSS pubDate)",
+      "summary": "Two-year-old AI-native law firm Crosby bid for the brand and internal data of Weil, Gotshal & Manges as the firm winds down.",
+      "core_fact": "成立約兩年的AI原生律所Crosby，向即將解散的華爾街律所威嘉提出收購其商標、品牌與部分內部資料的要約，PYMNTS於11月13日彙整報導。威嘉成立95年，去年營收逾20億美元，合夥人已於11月10日投票決議解散；Crosby成立以來累計募資約8,500萬美元，僅相當於威嘉一年營收的約4%。Crosby並未對資料開出固定價格，而是提出一個價格區間，須先評估資料內容；另有AI原生律所Scissero與Vetta也分別表達對威嘉技術、智慧財產與交易範本的興趣。",
+      "deep_facts": [
+        "威嘉合夥人於11月10日投票解散，去年營收逾20億美元",
+        "Crosby累計募資約8,500萬美元，約為威嘉一年營收的4%，對資料提出價格區間而非固定價",
+        "Scissero與Vetta等AI原生律所也表達對威嘉技術、智財與交易範本的興趣",
+        "Kirkland & Ellis投入5億美元、A&O Shearman五年投入11億美元自建AI；87%企業法務部門已用生成式AI"
+      ]
+    },
+    {
+      "theme": "ai",
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models",
+      "display_title": "輝達（Nvidia）於11月13日經TechCrunch報導遭研究指出，DeepSeek與月之暗面等中國領先開源模型疑以禁運的Blackwell晶片訓練",
+      "source": "TechCrunch",
+      "source_tier": "T2",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "status": "ok",
+          "chars": 7039
+        }
+      ],
+      "date_evidence": "2026-11-14 (TechCrunch RSS pubDate)",
+      "summary": "Research claims leading Chinese open-weight models were trained on export-banned Nvidia Blackwell chips.",
+      "core_fact": "TechCrunch於11月13日報導，前OpenAI研究員Will DePue主持的非營利研究組織Unemployment Labs分析DeepSeek、月之暗面、MiniMax與螞蟻集團公開釋出的模型權重，發現月之暗面Kimi K3與DeepSeek V4等模型帶有以Blackwell晶片訓練的特徵。非營利研究機構Epoch AI估計，2024至2025年約有200萬顆先進晶片透過隱匿最終用途的方式流入中國，同期約有27.5萬顆輝達AI加速器進口至馬來西亞；另有報導指出約60萬顆H200晶片囤放於香港等待入境中國。",
+      "deep_facts": [
+        "Unemployment Labs由前OpenAI研究員Will DePue主持，從模型權重反推訓練晶片",
+        "Epoch AI估計2024至2025年約200萬顆先進晶片流入中國、約27.5萬顆輝達加速器進口馬來西亞",
+        "約60萬顆H200晶片據報囤放香港等待入境中國"
+      ]
+    },
+    {
+      "theme": "ai",
+      "title": "IAB Launches New Framework to Track When AI Influences or Completes Purchases",
+      "display_title": "美國互動廣告局（IAB）於11月12日發布AI-Era Attribution Blueprint，把每筆消費轉換分為人為主導、AI輔助與AI執行三類",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/interactive-advertising-bureau-launches-new-framework-track-when-ai-influences-completes-purchases/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/interactive-advertising-bureau-launches-new-framework-track-when-ai-influences-completes-purchases/",
+          "status": "ok",
+          "chars": 2961
+        }
+      ],
+      "date_evidence": "2026-11-14 (PYMNTS RSS pubDate)",
+      "summary": "IAB released the AI-Era Attribution Blueprint classifying conversions as Human-Owned, AI-Assisted or AI-Executed.",
+      "core_fact": "代表美國數位廣告業的互動廣告局於11月12日發布新聞稿，推出名為AI-Era Attribution Blueprint的歸因框架，要求逐筆釐清「誰或什麼產生購買意圖、誰做出決定、誰完成付款」，並把每筆轉換分類為人為主導、AI輔助或AI執行三種，再界定哪些參與者可提出決策或貢獻歸因主張、各需何種證據。PYMNTS於10月的研究則指出，約6,100萬名美國消費者、占比23%，已把AI當作網路購物研究的主要起點。",
+      "deep_facts": []
+    },
+    {
+      "theme": "ai",
+      "title": "China's Singles' Day Sells Robots, AI Credits and a Little Help Around the House",
+      "display_title": "阿里巴巴（Alibaba）於雙11期間由直播主李佳琦以30分鐘售出10萬份QwenWork辦公AI月費會員，約合2兆個AI詞元",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/news/retail/2026/china-singles-day-sells-robots-ai-credits-help-around-house/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/news/retail/2026/china-singles-day-sells-robots-ai-credits-help-around-house/",
+          "status": "ok",
+          "chars": 3868
+        }
+      ],
+      "date_evidence": "2026-11-14 (PYMNTS RSS pubDate)",
+      "summary": "Austin Li sold 100,000 QwenWork memberships in 30 minutes; JD humanoid robot unit sales rose 700%.",
+      "core_fact": "PYMNTS於11月14日彙整中國雙11購物節觀察，引述路透報導指出，以銷售化妝品聞名的直播主李佳琦在30分鐘內售出10萬份阿里巴巴QwenWork辦公AI服務的月費會員，合計約2兆個AI詞元額度。京東則表示，購物節早期階段智慧人形機器人銷售件數年增700%；天貓找來6位名人與創作者的數位分身輪流主持直播。今年京東自10月12日、淘寶與天貓自10月20日即開跑，比11月11日提早數週。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "display_title": "哈薩克國家銀行（National Bank of Kazakhstan）於11月9日完成首筆代幣化票據標售約2,230萬美元，哈國並規劃明年第一季推出代幣化政府公債",
+      "source": "CoinDesk",
+      "source_tier": "T1",
+      "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+          "status": "fail",
+          "chars": 0
+        },
+        {
+          "url": "https://timesca.com/national-bank-of-kazakhstan-sells-its-first-tokenized-notes/",
+          "status": "ok",
+          "chars": 2305
+        }
+      ],
+      "date_evidence": "Sat, 14 Nov 2026 15:38:27 +0000",
+      "summary": "Kazakhstan plans tokenized government bonds in Q1 after its first sale of tokenized central bank notes worth about $22 million.",
+      "core_fact": "哈薩克國家銀行於11月9日在哈薩克證券交易所（KASE）標售一檔總面額500億堅戈（約1.117億美元）的短期票據，其中100億堅戈（約2,230萬美元）、即五分之一首度以數位代幣形式發行。投標需求達702億堅戈，較發行額多出約40%；因折價發行，得標金額為481億堅戈，其中代幣化部分為96億堅戈，加權平均年殖利率15.72%。票據於11月11日交割、期限91天，2027年2月10日起償還。CoinDesk於11月14日報導，哈國在此次標售後規劃於明年第一季推出代幣化政府公債。",
+      "deep_facts": [
+        "總面額500億堅戈中100億堅戈以代幣形式發行，需求702億堅戈、超額約40%",
+        "得標481億堅戈（代幣化96億），加權平均年殖利率15.72%，11月11日交割、期限91天",
+        "所有權由KASE數位平台記錄、中央證券存託機構同步保存，清算由KASE清算中心辦理",
+        "數位金融資產規則2026年5月1日生效，KASE為首家雙平台登記業者"
+      ]
+    },
+    {
+      "theme": "blockchain",
+      "title": "Crypto Is Getting Better at Absorbing Hacks Than Preventing Them",
+      "display_title": "幣安（Binance）於11月12日宣布已全數補足10月遭駭約63億美元的被竊代幣，美國當局另已凍結逾27億美元贓款",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-is-getting-better-absorbing-hacks-than-preventing-them/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-is-getting-better-absorbing-hacks-than-preventing-them/",
+          "status": "ok",
+          "chars": 6660
+        }
+      ],
+      "date_evidence": "2026-11-14 (PYMNTS RSS pubDate)",
+      "summary": "Binance replaced all tokens stolen in a ~$6.3B October hack while US authorities froze more than $2.7B; analysis argues crypto absorbs hacks better than it prevents them.",
+      "core_fact": "PYMNTS於11月14日分析指出，全球最大加密貨幣交易所幣安於11月12日宣布，已補足10月網路攻擊中被竊、價值約63億美元的全部代幣；同時美國當局揭露已凍結逾27億美元被竊資產，其中逾12億美元已進入法院授權的扣押或限制程序。依區塊鏈分析業者Chainalysis統計，2024年加密平台共發生303起駭案、被竊約22億美元，年增約21%，其中私鑰外洩占被竊金額的43.8%；2025年2月Bybit則因交易授權流程遭入侵損失約15億美元。",
+      "deep_facts": [
+        "美國當局凍結逾27億美元，其中逾12億美元進入法院授權扣押或限制程序",
+        "Chainalysis：2024年303起駭案被竊約22億美元、年增約21%，私鑰外洩占43.8%",
+        "Bybit案顯示即使多重簽章，呈現給簽署人的交易內容遭竄改即失效",
+        "PYMNTS研究：13%中型企業使用穩定幣，68%金融機構提高資安預算"
+      ]
+    },
+    {
+      "theme": "blockchain",
+      "title": "Brazil's VASP Licensing : 30% of Crypto Exchanges Fail Capital Test According to Banco Central do Brasil (BCB) Update",
+      "display_title": "巴西中央銀行（Banco Central do Brasil）於11月14日經報導更新虛擬資產服務商執照審查進度，收件120件中約三成業者未通過資本門檻",
+      "source": "Crowdfund Insider",
+      "source_tier": "T2",
+      "url": "https://www.crowdfundinsider.com/2026/11/323075-brazils-vasp-licensing-30-of-crypto-exchanges-fail-capital-test-according-to-banco-central-do-brasil-bcb-update/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.crowdfundinsider.com/2026/11/323075-brazils-vasp-licensing-30-of-crypto-exchanges-fail-capital-test-according-to-banco-central-do-brasil-bcb-update/",
+          "status": "fail",
+          "chars": 0
+        }
+      ],
+      "date_evidence": "2026-11-15 (Crowdfund Insider RSS pubDate)",
+      "summary": "Brazil's Central Bank has received 120 applications from crypto platforms, yet roughly 30 percent fail the capital test.",
+      "core_fact": "Crowdfund Insider於11月14日報導，巴西中央銀行已收到120件加密貨幣平台申請，要求以虛擬資產服務商身分繼續營運，但約30%的申請者未通過資本門檻測試。依巴西央行的過渡規定，已在當地營運的業者須於期限內提出申請，申請審查期間可繼續營業；新進業者則須取得許可後才能開業。這項執照制度是巴西把加密交易所納入央行監理的關鍵步驟。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "Finovate Global Lithuania (Axiology)",
+      "display_title": "Axiology於11月13日經Finovate報導獲立陶宛央行核准擴大投資業務授權，可在單一受監理實體內完成代幣化貨幣市場基金的下單、交易、清算與保管",
+      "source": "Finovate",
+      "source_tier": "T2",
+      "url": "https://finovate.com/finovate-global-lithuania-payment-options-for-online-merchants-tokenized-assets-and-more/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "2026-11-14 (Finovate RSS pubDate)",
+      "summary": "Axiology won Bank of Lithuania approval to extend its EU investment firm authorization for tokenized instruments access.",
+      "core_fact": "成立於2023年、總部位於維爾紐斯的Axiology，獲立陶宛央行核准擴大其歐盟投資公司授權，新增接收傳送委託與代客執行兩項投資服務，可在既有交易與清算基礎設施之外提供券商服務，簡化機構投資人取得代幣化貨幣市場基金等金融工具的流程。Axiology依歐盟DLT試行制度營運分散式帳本交易清算系統，並在9月歐元體系Pontes上線時成為四家首批連線業者之一。引述歐洲央行資料，全球代幣化貨幣市場基金市值2025年成長約110%，至2026年2月已接近70億歐元。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "Finovate Global Lithuania (DriveWealth)",
+      "display_title": "DriveWealth於11月13日經Finovate報導，其歐洲子公司UAB DriveWealth Europe取得立陶宛央行依歐盟MiCA核發的加密資產服務商授權",
+      "source": "Finovate",
+      "source_tier": "T2",
+      "url": "https://finovate.com/finovate-global-lithuania-payment-options-for-online-merchants-tokenized-assets-and-more/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "2026-11-14 (Finovate RSS pubDate)",
+      "summary": "UAB DriveWealth Europe secured MiCA crypto-asset service provider authorization from the Bank of Lithuania.",
+      "core_fact": "成立於2012年、總部位於美國新澤西州的券商即服務平台DriveWealth宣布，旗下UAB DriveWealth Europe已取得立陶宛央行依歐盟加密資產市場規範（MiCA）核發的加密資產服務商授權。該子公司原已持有立陶宛央行核發的MiFID II執照，此次授權使其成為單一歐盟實體同時受證券與加密資產監理。DriveWealth先前已與Ripple合作，將以RLUSD穩定幣清算、跨境支付與數位資產保管整合進其基礎設施，首先從歐洲開始。",
+      "deep_facts": []
+    }
+  ],
+  "search_log": {
+    "rss_feeds": 17,
+    "required_searches": {
+      "A": 10,
+      "B": 5,
+      "C": 3
+    },
+    "supplementary_searches": {
+      "innovation": 4,
+      "region_blockchain": 7,
+      "alt_source_lookups": 6
+    },
+    "notes": "[A][B][C] 共18條皆已執行，site: 搜尋均未取得審計窗內可採用條目；Finextra／Fintech Futures／Fintech Nexus RSS 抓取失敗（HTTPError）。第一節已執行全部4條補搜仍無合格條目。"
+  }
+}

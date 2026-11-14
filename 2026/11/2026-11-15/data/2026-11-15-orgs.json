@@ -1,0 +1,14 @@
+[
+ {"name":"美國合眾銀行","url":"https://www.usbank.com","intro":"總部位於明尼亞波利斯的美國大型商業銀行，提供個人、企業與機構金融服務。"},
+ {"name":"KeyBank","url":"https://www.key.com","intro":"總部位於克里夫蘭的美國區域型銀行，以中型企業金融為重點業務之一。"},
+ {"name":"Genome","url":"https://genome.eu","intro":"立陶宛電子貨幣機構，提供企業與個人多幣別帳戶、支付與收單服務。"},
+ {"name":"美國聯邦存款保險公司","url":"https://www.fdic.gov","intro":"美國聯邦存款保險機構，同時負責監理州立非聯準會會員銀行。"},
+ {"name":"輝達","url":"https://www.nvidia.com","intro":"全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"},
+ {"name":"美國互動廣告局","url":"https://www.iab.com","intro":"代表美國數位廣告產業的同業組織，負責制定廣告衡量與技術標準。"},
+ {"name":"阿里巴巴","url":"https://www.alibabagroup.com","intro":"中國電商與雲端服務集團，旗下有淘寶、天貓與通義千問大模型。"},
+ {"name":"哈薩克國家銀行","url":"https://nationalbank.kz","intro":"哈薩克的中央銀行，負責貨幣政策與金融市場監理。"},
+ {"name":"幣安","url":"https://www.binance.com","intro":"全球交易量最大的加密貨幣交易所之一。"},
+ {"name":"巴西中央銀行","url":"https://www.bcb.gov.br","intro":"巴西的中央銀行，負責貨幣政策、支付系統與虛擬資產服務商監理。"},
+ {"name":"DriveWealth","url":"https://www.drivewealth.com","intro":"美國券商即服務平台，讓銀行與金融科技業者以單一整合提供美股與多資產投資服務。"},
+ {"name":"Kirkland & Ellis","url":"https://www.kirkland.com","intro":"全球營收最高的律師事務所之一，總部位於芝加哥。"}
+]

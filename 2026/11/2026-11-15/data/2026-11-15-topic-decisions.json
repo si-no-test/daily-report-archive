@@ -1,0 +1,14 @@
+[
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"create","topic_id":"kazakhstan-tokenized-government-securities","title":"哈薩克央行票據與政府公債代幣化進程","theme":"blockchain","keywords":["哈薩克","Kazakhstan","KASE","代幣化票據","代幣化政府公債","National Bank of Kazakhstan"],
+  "headline":"哈薩克國家銀行於11月9日首度標售代幣化票據約2,230萬美元，並規劃明年第一季推出代幣化政府公債",
+  "one_line_update":"哈薩克國家銀行11月9日在KASE標售500億堅戈短期票據，其中100億堅戈以代幣形式並行發行、同價定價，加權平均年殖利率15.72%，哈國規劃明年第一季推出代幣化政府公債。",
+  "source_title":"National Bank of Kazakhstan Sells Its First Tokenized Notes","source_url":"https://timesca.com/national-bank-of-kazakhstan-sells-its-first-tokenized-notes/"},
+ {"action":"match","topic_id":"binance-record-hack-recovery",
+  "headline":"幣安11月12日宣布補足約63億美元被竊代幣，美方凍結逾27億美元贓款",
+  "one_line_update":"幣安宣布已全數補足10月遭駭約63億美元代幣，美國當局揭露凍結逾27億美元被竊資產，其中逾12億美元進入法院授權扣押或限制程序。",
+  "source_title":"Crypto Is Getting Better at Absorbing Hacks Than Preventing Them","source_url":"https://www.pymnts.com/cryptocurrency/2026/crypto-is-getting-better-absorbing-hacks-than-preventing-them/"}
+]
