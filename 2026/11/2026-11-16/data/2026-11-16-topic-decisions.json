@@ -1,0 +1,8 @@
+[
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"match","topic_id":"bank-ai-agent-card-access-policy","headline":"威爾默海爾（WilmerHale）於11月13日經報導指出銀行須區分AI代理身分驗證與代理權限","one_line_update":"路透引述指多數銀行仍封鎖外部代理在系統內授權交易；麥肯錫調查4.6萬名零售客戶，AI使用者72%願委託代理但自主核准上限約500美元，WilmerHale則提醒授權範圍、反洗錢監控與爭議舉證須重新設計。","source_title":"Banks Face Agentic AI’s Twin Tests: Customer Authority and Internal Costs","source_url":"https://www.pymnts.com/news/artificial-intelligence/2026/banks-face-agentic-ais-twin-tests-customer-authority-and-internal-costs/"},
+ {"action":"skip"},
+ {"action":"skip"}
+]

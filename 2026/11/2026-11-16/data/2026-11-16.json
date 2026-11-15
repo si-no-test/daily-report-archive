@@ -1,0 +1,295 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T07:16:47+08:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 3,
+  "innovation": 4
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "CSI arms community lenders for commercial banking fight",
+   "display_title": "CSI（Computer Services, Inc.）於11月12日經報導說明以併購Qolo與Apiture強化社區銀行商業金融能力，其NuPoint核心平台支援約一成美國銀行",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/csi-core-provider-community-banks-commercial-banking/874508/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/csi-core-provider-community-banks-commercial-banking/874508/",
+     "status": "ok",
+     "chars": 5125
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 11:00:06 -0500",
+   "summary": "CSI執行長表示，併購Qolo與Apiture後已整合進核心系統，協助社區銀行在商業金融對抗大型銀行。",
+   "core_fact": "美國核心銀行系統供應商CSI執行長Nancy Langer在受訪時表示，該公司今年7月併購支付基礎設施業者Qolo、2025年併購數位銀行服務商Apiture，兩者已整合進CSI核心系統，目的是協助社區銀行在商業金融市場對抗區域型與超區域型銀行。CSI客戶規模從新設銀行到資產約200億美元的銀行都有，其NuPoint平台支援約10%的美國銀行；該公司於2022年以16億美元被Centerbridge Partners與Bridgeport Partners私有化後規模已近乎倍增，Qolo是其四年內第四宗併購。",
+   "deep_facts": [
+    "CSI的NuPoint平台支援約10%的美國銀行，客戶規模從新設銀行到資產約200億美元",
+    "CSI於2022年以16億美元遭Centerbridge Partners與Bridgeport Partners私有化，之後規模近乎倍增；Qolo為四年內第四宗併購",
+    "Qolo帶來虛擬帳戶與即時帳本能力，CSI並考慮以收購而非合作補強借貸與詐欺防制"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "InComm Payments and SKUx Tie Digital Offers Directly to Verified Store Purchases",
+   "display_title": "InComm Payments於11月11日宣布與SKUx完成系統整合，推出可驗證單品購買的數位優惠服務，為雙方2月結盟後的擴大合作",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/retail/2026/incomm-payments-and-skux-tie-digital-offers-directly-to-verified-store-purchases/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/retail/2026/incomm-payments-and-skux-tie-digital-offers-directly-to-verified-store-purchases/",
+     "status": "ok",
+     "chars": 2984
+    }
+   ],
+   "date_evidence": "Sun, 15 Nov 2026 22:23:16 +0000",
+   "summary": "InComm Payments與SKUx完成整合，品牌可發放單品層級優惠並驗證實際購買品項。",
+   "core_fact": "預付卡與零售支付業者InComm Payments與SKUx於11月11日發布新聞稿，宣布擴大策略合作並完成InComm零售通路與支付基礎設施和SKUx Verified Commerce平台的整合，讓品牌、零售商與通路夥伴可針對特定商品發放數位優惠，並在兌換時確認實際購買的品項。InComm資深副總裁Mary Llewellyn指出此舉讓品牌更精準投放價值；雙方於今年2月首度結盟，最初鎖定人道援助的限定用途數位支付，可把款項限制到特定商品。",
+   "deep_facts": [
+    "整合的是InComm零售通路與支付基礎設施和SKUx Verified Commerce平台",
+    "雙方於2月首度結盟，最初鎖定人道援助的限定用途數位支付，可把款項限制到特定商品",
+    "InComm資深副總裁Mary Llewellyn與SKUx執行長Bobby Tinsley說明品牌出資、夥伴發送、結帳驗證的流程"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "ClearScore launches free UK rent reporting to all three credit bureaus",
+   "display_title": "ClearScore於11月13日經報導推出免費租金回報服務，可同時把租客房租紀錄回報英國三大徵信機構",
+   "source": "Finextra",
+   "source_tier": "T1",
+   "url": "https://www.finextra.com/pressarticle/111669/clearscore-launches-free-uk-rent-reporting-to-all-three-credit-bureaus",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.financialreporter.co.uk/new-clearscore-service-to-bring-rental-payments-into-credit-reports.html",
+     "status": "ok",
+     "chars": 4114
+    }
+   ],
+   "date_evidence": "Finextra 首頁列示 13 November 2026",
+   "summary": "ClearScore推出免費租金回報，可同時回報Experian、Equifax與TransUnion。",
+   "core_fact": "英國信用評分平台ClearScore宣布推出免費的Rent Reporting服務，使用者可透過App或網站把租金支付紀錄回報Experian、Equifax與TransUnion三大徵信機構。ClearScore委託調查顯示，英國租客一生平均已付出近6萬英鎊房租、19%付出超過10萬英鎊，71%認為房租等於或高於同等住宅的房貸；Equifax英國執行長指出最多四分之一英國成年人信用紀錄有限或無傳統信用足跡，英國租客約900萬人。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Private Banking Technology Company Light Frame Secures $5.1 Million",
+   "display_title": "Light Frame於11月12日宣布完成510萬美元超額認購種子輪募資，由Fortino Ventures領投",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/private-banking-technology-company-light-frame-secures-5-1-million/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/private-banking-technology-company-light-frame-secures-5-1-million/",
+     "status": "ok",
+     "chars": 3792
+    }
+   ],
+   "date_evidence": "Thu, 12 Nov 2026 23:38:31 +0000",
+   "summary": "瑞士財富科技Light Frame完成510萬美元種子輪，由Fortino Ventures領投。",
+   "core_fact": "總部位於瑞士、成立於2024年的財富科技公司Light Frame宣布完成510萬美元種子輪募資，由Fortino Ventures領投，Sidekick Partners、Tenity、Chamaeleon與AltaIR Capital跟投，既有投資人Rogue Venture Partners等亦參與。資金將用於平台研發、擴充導入與交付能力，並擴大在歐洲、中東與非洲的商業營運；該公司提供私人銀行、財富管理與券商銀行使用的核心銀行與投資組合管理系統，已有實際上線客戶。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "CFOs’ Old Controls Face an SEC Armed With AI",
+   "display_title": "美國證券交易委員會（SEC）於11月10日公布2026財年執法成果，全年提出348件執法行動、命令返還金額逾10億美元，並以新設的超級智慧與分析辦公室強化資料驅動調查",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/b2b-payments/2026/cfos-old-controls-face-an-sec-armed-with-ai/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/b2b-payments/2026/cfos-old-controls-face-an-sec-armed-with-ai/",
+     "status": "ok",
+     "chars": 7420
+    }
+   ],
+   "date_evidence": "article:published_time 2026-11-12T23:56:20+00:00",
+   "summary": "SEC公布2026財年348件執法行動，並新設超級智慧與分析辦公室強化資料驅動調查。",
+   "core_fact": "SEC於11月10日公布2026財年執法結果，共提出348件執法行動、命令返還與罰款等金錢救濟逾10億美元，案件數減少但工具更精準。該會本年度新設Office of Super Intelligence and Analytics，把進階異常偵測、文件分析與資金流追蹤導入調查流程，並將分析技術用於金融資金流、區塊鏈活動與調查文件；另成立結合會計與法律專長的Financial Reporting and Accounting Unit，提早在揭露週期中辨識財報問題。PYMNTS引述其調查指出，92%受訪財務長表示確定性只要中度下滑就可能轉為防守。",
+   "deep_facts": [
+    "SEC新設Office of Super Intelligence and Analytics，把異常偵測、文件分析與資金流追蹤導入調查，並分析區塊鏈活動",
+    "SEC另設Financial Reporting and Accounting Unit結合會計與法律專長，提早辨識財報問題",
+    "PYMNTS調查顯示92%財務長表示確定性中度下滑即可能轉為防守，71%大型企業主管認為組織準備度是AI成效主要瓶頸"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Banks Face Agentic AI’s Twin Tests: Customer Authority and Internal Costs",
+   "display_title": "威爾默海爾（WilmerHale）於11月13日經報導發布代理式AI授權分析，指出銀行須區分代理身分驗證與代理權限，麥肯錫同期調查4.6萬名零售客戶中72%願委託AI代理",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-face-agentic-ais-twin-tests-customer-authority-and-internal-costs/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-face-agentic-ais-twin-tests-customer-authority-and-internal-costs/",
+     "status": "ok",
+     "chars": 5133
+    }
+   ],
+   "date_evidence": "article:published_time 2026-11-13T17:09:18+00:00",
+   "summary": "WilmerHale分析銀行需區分AI代理身分與權限；麥肯錫調查顯示72%AI使用者願委託銀行代理。",
+   "core_fact": "美國律師事務所WilmerHale以英國金融行為監理總署（FCA）框架分析指出，依英國支付服務規則，付款授權取決於付款人依約定程序表示同意，強客戶驗證是另一項要求，確認代理與客戶的連結並不代表個別交易已獲授權。PYMNTS同時引述路透報導的麥肯錫全球銀行業年度報告：在調查的4.6萬名零售客戶中，AI使用者有72%願讓銀行代理執行一項金融任務，但自主核准上限約500美元；麥肯錫並警告詞元支出可能輕易達到銀行總人事成本的20%。",
+   "deep_facts": [
+    "依英國支付服務規則，付款授權取決於依約定程序表示同意，強客戶驗證是另一項要求",
+    "麥肯錫調查4.6萬名零售客戶，AI使用者72%願委託代理但自主核准上限約500美元",
+    "麥肯錫警告詞元支出可能達銀行總人事成本20%，部分銀行設AI FinOps團隊控管"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "60% of Small Business AI Users Do More Without Adding Staff",
+   "display_title": "PYMNTS Intelligence於11月13日發布調查，533家美國中小企業中74%使用AI，其中60%表示未增聘人力即可提高產出",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/60percent-small-business-ai-users-do-more-without-adding-staff/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/60percent-small-business-ai-users-do-more-without-adding-staff/",
+     "status": "ok",
+     "chars": 3824
+    }
+   ],
+   "date_evidence": "article:published_time 2026-11-13T09:00:15+00:00",
+   "summary": "PYMNTS調查533家美國中小企業，60%AI使用者未增聘即提高產出。",
+   "core_fact": "PYMNTS Intelligence依據10月發布、調查533家美國中小企業的報告指出，74%的中小企業至少偶爾使用AI；在使用者中，60%表示不必增加人力即可產出更多、72%表示完成工作更快。AI使用者中有13%因AI而省下原本要招募的全職人力，因AI裁員者僅3.3%；營收成長的業者有16%省下招募。另有45%表示AI讓他們能承接過去做不到的工作，最常見的應用為客服，其次是行銷、記帳與銷售。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "憂AI助長網攻及生物武器風險，美國非營利組織控告OpenAI等5家業者",
+   "display_title": "OpenAI等5家前沿AI開發商於11月12日遭美國4家非營利組織聯合提告，被要求法院凍結相關先進模型的開發",
+   "source": "iThome",
+   "source_tier": "T1",
+   "url": "https://www.ithome.com.tw/news/180485",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ithome.com.tw/news/180485",
+     "status": "fail",
+     "chars": 856
+    }
+   ],
+   "date_evidence": "2026-11-13  10:11:16（低信心日期，人工覆核：內文載明周四11/12提告，落在審計窗內）",
+   "summary": "美國4家非營利組織聯合控告OpenAI、Google、Meta、Anthropic等5家業者，要求凍結先進模型開發。",
+   "core_fact": "據iThome報導，美國4家非營利組織於11月12日（周四）聯合提起訴訟，指控OpenAI、Google、Meta、Anthropic及SpaceXSI等5家業者開發的先進AI系統可能失去人類控制，並可能助長網路攻擊與生物武器擴散，要求法院凍結相關模型的開發。此案發生在美國各州與聯邦對AI安全監理積極立法之際，紐約州RAISE法即將於明年1月1日生效，訴訟對象涵蓋目前金融業最常採用的多數大型語言模型供應商。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+   "display_title": "Blockstream於11月13日與法國泰雷茲（Thales）推出機構級數位資產保管系統，把整套多方運算簽章流程置於硬體安全模組內執行",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+     "status": "fail",
+     "chars": 61
+    },
+    {
+     "url": "https://coinedition.com/blockstream-and-thales-launch-institutional-crypto-custody-system-with-offline-signing/",
+     "status": "ok",
+     "chars": 7158
+    }
+   ],
+   "date_evidence": "Fri, 13 Nov 2026 21:49:27 +0000",
+   "summary": "Blockstream與泰雷茲推出把簽章流程置於HSM內的機構保管系統。",
+   "core_fact": "比特幣基礎設施公司Blockstream與法國科技集團泰雷茲推出機構級數位資產保管系統，結合泰雷茲硬體安全模組（HSM）與Blockstream的Secure-MPC技術，宣稱整個簽章協定都在HSM的受保護環境內完成，有別於傳統多方運算方案可能把部分簽章步驟放在專用硬體之外。Blockstream執行長Adam Back以幣安約63億美元遭駭案為例，指出攻擊者入侵員工裝置取得錢包簽章基礎設施存取權，主張機構應把資產移入冷儲存。",
+   "deep_facts": [
+    "Blockstream稱整個簽章協定都在HSM受保護環境內執行，有別於傳統MPC部分步驟在硬體外完成",
+    "Adam Back以幣安約63億美元遭駭、攻擊者經員工裝置取得錢包簽章基礎設施存取為例主張冷儲存",
+    "Back警告AI可協助攻擊者找出複雜MPC實作中的細微錯誤，主張「複雜是安全的敵人」"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+   "display_title": "Kava Lend於11月13日深夜遭駭，約5,520萬枚KAVA（攻擊前市值約376萬美元）被借出盜走，KAVA單日重挫逾40%",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://coincentral.com/a-missing-zero-check-cost-kava-lend-3-8-million-in-one-night",
+     "status": "ok",
+     "chars": 3377
+    }
+   ],
+   "date_evidence": "Sat, 14 Nov 2026 23:07:35 +0000",
+   "summary": "Kava Lend遭駭約376萬美元，KAVA單日跌近40%。",
+   "core_fact": "Kava區塊鏈原生借貸協議Kava Lend於美東時間11月13日晚間11時01分遭攻擊，攻擊者利用已停止鑄造的BUSD穩定幣市場近乎清空的狀態，以小額借款把該市場淨供給壓到極小值，使每筆BUSD存款價值在三分鐘內膨脹約24.3萬倍，再以約12.5億BUSD的虛增抵押品借出KAVA共127次，總計約5,520萬枚、攻擊前價值約376萬美元。約4,920萬枚經LayerZero跨鏈至BNB Chain出售，換得約209萬美元；KAVA價格自約0.068美元跌至0.041美元。",
+   "deep_facts": [
+    "攻擊者把BUSD市場淨供給壓到極小值，使存款價值三分鐘內膨脹約24.3萬倍，再借出KAVA共127次",
+    "約4,920萬枚KAVA經LayerZero跨鏈至BNB Chain，換得3,006.5 BNB與231,557 USDT約209萬美元",
+    "Upbit、Bithumb、Coinone暫停KAVA存提，Upbit列入下架觀察；Kava事發逾七小時後才首度回應"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "display_title": "stUSDT於11月15日宣布結束營運，這個RWA協議距其約23億美元總鎖倉價值高峰約三年",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+     "status": "fail",
+     "chars": 57
+    }
+   ],
+   "date_evidence": "Sun, 15 Nov 2026 06:27:26 +0000",
+   "summary": "RWA協議stUSDT結束營運，團隊稱底層資產仍足額支持。",
+   "core_fact": "據Cointelegraph於11月15日報導，代幣化真實世界資產（RWA）協議stUSDT宣布結束營運，團隊未說明原因，但向持有人保證所有底層資產仍維持足額支持。stUSDT是波場（TRON）生態中以美國公債等低風險資產為底層的穩定收益產品，其總鎖倉價值曾在約三年前達到約23億美元的高峰，目前規模已大幅萎縮，此次結束營運距高峰約三年。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "rss_feeds_ok": 13,
+  "rss_feeds_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus",
+   "Crowdfund Insider"
+  ],
+  "A_site_searches": 10,
+  "B_topic_queries": 5,
+  "C_failed_feed_substitutes": 4,
+  "supplementary_searches": [
+   "finextra bank launches",
+   "generative AI banking",
+   "payments partnership",
+   "BNPL/embedded finance/insurtech",
+   "region: 台灣/香港/日本/新加坡/歐洲/中國 各1次"
+  ]
+ }
+}

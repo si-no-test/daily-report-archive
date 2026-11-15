@@ -1,0 +1,12 @@
+[
+ {"name": "美國證券交易委員會（SEC）", "url": "https://www.sec.gov", "intro": "美國證券市場主管機關，負責證券發行、交易與上市公司揭露之監理與執法。"},
+ {"name": "Blockstream", "url": "https://blockstream.com", "intro": "比特幣基礎設施公司，提供硬體錢包、Liquid側鏈與機構級保管等服務。"},
+ {"name": "泰雷茲（Thales）", "url": "https://www.thalesgroup.com", "intro": "法國科技與國防集團，為全球主要硬體安全模組與數位身分安全供應商之一。"},
+ {"name": "InComm Payments", "url": "https://www.incommpayments.com", "intro": "美國預付卡與零售支付網路業者，串接品牌、零售通路與支付服務。"},
+ {"name": "ClearScore", "url": "https://www.clearscore.com", "intro": "英國免費信用評分與信用產品比價平台。"},
+ {"name": "WilmerHale", "url": "https://www.wilmerhale.com", "intro": "美國大型國際律師事務所，金融監理與科技法律為主要業務之一。"},
+ {"name": "麥肯錫", "url": "https://www.mckinsey.com", "intro": "全球大型管理顧問公司，每年發布全球銀行業年度報告。"},
+ {"name": "OpenAI", "url": "https://openai.com", "intro": "ChatGPT開發商，美國主要前沿AI模型公司。"},
+ {"name": "Anthropic", "url": "https://www.anthropic.com", "intro": "Claude系列大型語言模型開發商，美國主要前沿AI公司。"},
+ {"name": "美國商品期貨交易委員會（CFTC）", "url": "https://www.cftc.gov", "intro": "美國期貨、選擇權與衍生性商品市場主管機關，預測市場亦屬其監理範圍。"}
+]
