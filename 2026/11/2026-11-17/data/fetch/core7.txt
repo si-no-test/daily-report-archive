@@ -1,0 +1,19 @@
+FINAL_URL: https://www.pymnts.com/news/cross-border-payments/2026/swift-and-hong-kong-monetary-authority-test-tokenized-deposits-for-cross-border-transactions/
+STATUS: ok
+CHARS: 3124
+---CONTENT---
+Swift and Hong Kong Monetary Authority Test Tokenized Deposits for Cross-Border Transactions
+The Hong Kong Monetary Authority (HKMA) has strengthened its collaboration with Swift to explore the use of tokenized deposits for cross-border transactions, HKMA said in a Monday (Nov. 16) press release .
+HKMA and Swift have partnered since 2023 to examine interoperability between central bank digital currency (CBDC) systems through Project Ensemble Sandbox. Now, to further this initiative, the two organizations as well as Bank of China (Hong Kong) Limited , Standard Chartered Bank (Hong Kong) Limited and The Hongkong and Shanghai Banking Corporation Limited in Hong Kong will explore interoperability between Swift ledger and the settlement layer of Project Ensemble, according to the release.
+This collaborative effort focuses on developing cross-border payment mechanisms that use tokenized deposits in multiple currencies. The aim is to leverage Swift’s global network to bridge the gap between international and local payment interoperability, per the release.
+HKMA Deputy Chief Executive Howard Lee said in the release that Ensemble aims to advance the tokenization ecosystem and that the strengthened collaboration with Swift further extends the project’s engagement with international financial institutions.
+“This collaboration represents another significant step in exploring how tokenized deposits and interoperable infrastructure can support real-time, always-on and programmable cross-border transactions,” Lee said.
+HKMA launched the pilot phase of Project Ensemble in November 2025, according to a Nov. 2 press release . The organization announced Nov. 2 that Ensemble entered a new chapter to support the interbank settlement of tokenized deposit transactions in tokenized Central Bank Money (CeBM) on a 24/7 basis, according to the release.
+Swift said in a Monday post on LinkedIn that the collaboration of HKMA, Swift and leading financial institutions will advance the integration of traditional and digital finance to enhance cross-border payment efficiency and set new standards in global financial interoperability.
+Swift Chief Business Officer Thierry Chilosi said in the HKMA’s press release that by connecting market infrastructures around the world, Swift enables financial institutions to move and settle transactions in 150 different currencies.
+“As domestic systems evolve to support new forms of digital value, we are exploring how the Swift ledger can connect these emerging platforms across borders — helping financial institutions settle transactions more efficiently and bring the benefits of digital value to clients globally,” Chilosi said. “We look forward to advancing this work with HKMA to build a practical, responsible path towards interoperability across the regulated ecosystem.”
+Customers Report Problems Accessing Online Accounts at Major Banks
+Cloudflare Gives AI Agents a Browser of Their Own
+Google Intros Maps Updates to Help With Holiday Travel
+Alibaba Takes on Anthropic With New Qwen AI Model
+cross-border payments , News , PYMNTS News , Swift , tokenization , What's Hot

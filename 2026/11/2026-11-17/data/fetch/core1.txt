@@ -1,0 +1,22 @@
+FINAL_URL: https://www.pymnts.com/news/banking/2026/starling-founder-launches-agentic-ai-focused-bank-lockwood/
+STATUS: ok
+CHARS: 2823
+---CONTENT---
+Starling Founder Launches Agentic AI-Focused Bank Lockwood
+The founder of British neobank Starling is reportedly embarking on an artificial intelligence (AI)-focused banking venture.
+Anne Boden is using some of the proceeds from selling her shares in her former company to help launch her new startup Lockwood , The Times reported Sunday (Nov. 15).
+“I’m building a bank that’s going to be built by agents, to serve customers that want to use agents, and then be defended by agents,” Boden said.
+Agents are so crucial to the venture, the report added, that Boden even asked them to help her name the new company.
+“We set up a team of agents to come up with the best name and they all negotiated with each other … and we came up with a shortlist,” she said. The agents chose the name because “it is easy to say, easy to spell, it has ‘lock’, which is safe, it inspires safety.”
+The report noted that safety is a critical part of the debate as the U.K.’s big banks are refusing to grant AI agents access to customer accounts out of concerns that they might go rogue and make unauthorized transactions.
+Those concerns extend beyond Great Britain. A recent Federal Reserve Bank of Dallas survey found that 11.4% of banks had taken measures to restrict customers’ AI agent activity on online banking platforms. Another 22.9% were planning to introduce restrictions in the next six months.
+“The findings suggest that banks are still developing policies for a technology that could change how customers interact with financial services,” PYMNTS wrote. “More than a quarter of respondents, 27.1%, said they did not know whether their institution or service provider had restricted AI-agent activity. Meanwhile, 38.6% said no restrictions had been implemented and were not planned.”
+Lockwood will be developed specifically to work with agents. Boden cited Muse, the AI shopping assistant developed by Meta , which is set to debut in the U.K. soon.
+“Would you want to put your main bank account into [Muse]? I wouldn’t,” she said.
+Boden stressed that Lockwood will not be competing with the existing banks in many areas. It will offer a “traditional current account,” but will not be a lender or offer savings products. Though it will not charge for its services, Lockwood does aim to make a profit on the interest it will earn on deposits, the report added.
+For all PYMNTS AI and digital transformation coverage, subscribe to the daily AI and Digital Transformation Newsletters .
+Customers Report Problems Accessing Online Accounts at Chase, Bank of America and Wells Fargo
+Cloudflare Gives AI Agents a Browser of Their Own
+Google Intros Maps Updates to Help With Holiday Travel
+Alibaba Takes on Anthropic With New Qwen AI Model
+Agentic AI , AI , AI Agents , banking , Banks , digital transformation , News , PYMNTS News , What's Hot

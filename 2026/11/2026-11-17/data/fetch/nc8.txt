@@ -1,0 +1,4 @@
+FINAL_URL: https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

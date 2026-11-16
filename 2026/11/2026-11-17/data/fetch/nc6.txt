@@ -1,0 +1,4 @@
+FINAL_URL: https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 429: Too Many Requests

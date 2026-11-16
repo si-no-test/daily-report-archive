@@ -1,0 +1,14 @@
+[
+ {"name":"Nu Holdings","url":"https://nu.com","intro":"拉丁美洲最大的數位銀行Nubank母公司，在巴西、墨西哥與哥倫比亞經營純數位金融服務。"},
+ {"name":"Feedzai","url":"https://www.feedzai.com","intro":"以AI為核心的反詐騙與金融犯罪防制平台供應商，服務全球銀行與支付業者。"},
+ {"name":"OpenAI","url":"https://openai.com","intro":"ChatGPT開發商，美國主要前沿AI模型研發公司。"},
+ {"name":"Anthropic","url":"https://www.anthropic.com","intro":"Claude系列AI模型開發商，美國主要前沿AI研發公司。"},
+ {"name":"數位發展部","url":"https://moda.gov.tw","intro":"台灣主管數位產業、資通安全與數位治理的中央部會。"},
+ {"name":"輝達（Nvidia）","url":"https://www.nvidia.com","intro":"全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"},
+ {"name":"香港金融管理局（HKMA）","url":"https://www.hkma.gov.hk","intro":"香港的中央銀行機構，負責貨幣穩定、銀行監管與金融基建。"},
+ {"name":"Swift","url":"https://www.swift.com","intro":"全球銀行間金融電文與跨境支付網路的營運組織。"},
+ {"name":"Zelle","url":"https://www.zellepay.com","intro":"美國由多家大型銀行共同持有的即時轉帳網路，由Early Warning營運。"},
+ {"name":"星展銀行（DBS）","url":"https://www.dbs.com","intro":"新加坡最大銀行，積極發展代幣化存款與數位資產服務。"},
+ {"name":"Ameris Bancorp","url":"https://www.amerisbank.com","intro":"總部位於美國亞特蘭大的區域銀行控股公司，業務遍及美國東南部。"},
+ {"name":"國際金融公司（IFC）","url":"https://www.ifc.org","intro":"世界銀行集團旗下專責民間部門投融資的國際開發金融機構。"}
+]

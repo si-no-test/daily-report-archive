@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments
+STATUS: fail
+CHARS: 81
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump

@@ -1,0 +1,4 @@
+FINAL_URL: https://cryptobriefing.com/zelle-solana-zelleusd-stablecoin-international-payments/
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

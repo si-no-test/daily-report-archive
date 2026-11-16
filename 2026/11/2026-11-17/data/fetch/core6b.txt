@@ -1,0 +1,7 @@
+FINAL_URL: https://www.disruptionbanking.com/2026/11/16/dbs-and-jpmorgan-link-tokenized-deposit-networks-for-24-7-dollar-transfers/
+STATUS: fail
+CHARS: 191
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Banking Why Did the Marshall Islands Issue Its Sovereign Debt as USDM1?
+In June 2025 the Luxembourg State Treasury sold €50 million of digital treasury certificates on HSBC’s Orion platform.…
