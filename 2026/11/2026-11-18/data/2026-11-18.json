@@ -1,0 +1,262 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T07:14:53+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Qonto Wins European Banking License and Targets Small Business Lending",
+   "display_title": "Qonto於11月17日宣布取得法國ACPR與歐洲央行核發的銀行執照，服務逾75萬家歐洲中小企業並將於11月底推出首批新產品",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/banking/2026/qonto-wins-european-banking-license-and-targets-small-business-lending/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/banking/2026/qonto-wins-european-banking-license-and-targets-small-business-lending/",
+     "status": "ok",
+     "chars": 2712
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 21:16:29 +0000",
+   "summary": "法國中小企業與自由工作者金融平台Qonto於11月17日透過LinkedIn宣布，已取得法國審慎監理與處置局（ACPR）與歐洲中央銀行核發的銀行執照。Qonto成立九年，目前服務八個歐洲市場逾75萬家中小企業，過去以支付機構執照營運，202",
+   "core_fact": "法國中小企業與自由工作者金融平台Qonto於11月17日透過LinkedIn宣布，已取得法國審慎監理與處置局（ACPR）與歐洲中央銀行核發的銀行執照。Qonto成立九年，目前服務八個歐洲市場逾75萬家中小企業，過去以支付機構執照營運，2025年7月才向ACPR遞件申請。共同創辦人暨總裁Steve Anavi表示首批新產品將於11月底前推出，執行長Alexandre Prot則說明儲蓄、放款與更快速的公司設立服務將自本月起陸續上線，並延續至2027年。",
+   "deep_facts": [
+    "Qonto成立九年、服務八個歐洲市場逾75萬家中小企業，2025年7月才向ACPR遞件，先前以支付機構執照營運",
+    "共同創辦人Steve Anavi表示首批新產品將於11月底前推出，執行長Prot稱新服務將延續推出至2027年",
+    "Qonto於10月推出以四國匿名交易資料建構的Qonto Insights平台"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Dave applies for national bank charter",
+   "display_title": "Dave於11月16日向美國貨幣監理署與聯邦存款保險公司申設全國性銀行，截至9月30日持有現金3.15億美元",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/dave-fintech-applies-national-bank-charter-occ-fdic-fed/874920/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/dave-fintech-applies-national-bank-charter-occ-fdic-fed/874920/",
+     "status": "ok",
+     "chars": 2380
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 12:04:43 -0500",
+   "summary": "美國數位銀行Dave於11月16日向美國貨幣監理署（OCC）與聯邦存款保險公司（FDIC）申請設立全國性銀行Dave Bank，核准後將提供受聯邦直接監理的存款與信用產品，包括支票、儲蓄帳戶、短期流動性產品ExtraCash與先買後付Fle",
+   "core_fact": "美國數位銀行Dave於11月16日向美國貨幣監理署（OCC）與聯邦存款保險公司（FDIC）申請設立全國性銀行Dave Bank，核准後將提供受聯邦直接監理的存款與信用產品，包括支票、儲蓄帳戶、短期流動性產品ExtraCash與先買後付Flex卡。Dave表示將另向聯準會申請成為銀行控股公司，且不需為此增資；該公司於2024年3月首度轉虧為盈，截至9月30日持有現金3.15億美元，高於6月30日的2.54億美元。擬任銀行總裁為曾任Pathward Financial總裁的Anthony Sharett。",
+   "deep_facts": [
+    "Dave截至9月30日持有現金3.15億美元，高於6月30日的2.54億美元，且不需增資即可設立Dave Bank",
+    "擬任銀行總裁為前Pathward Financial總裁Anthony Sharett，並將申請成為銀行控股公司",
+    "合作銀行Coastal申報指出既有合約與最低營收、應收帳款義務在取得執照後仍延續"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "KeyBank and Zact Team to Launch Spend Management Platform",
+   "display_title": "KeyBank於11月17日與Zact推出商業支出管理平台KeyExpenseIQ，歷時兩年評估23家業者後選定合作",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/b2b-payments/2026/keybank-and-zact-team-to-launch-spend-management-platform/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 17 Nov 2026 20:39:36 +0000",
+   "summary": "總部位於克里夫蘭的美國區域銀行KeyBank於11月17日宣布與支出管理公司Zact合作，推出商業支出管理平台KeyExpenseIQ，將商務卡管理與費用控管整合於單一介面。據Banking Dive報導，KeyBank花了兩年時間尋找合作",
+   "core_fact": "總部位於克里夫蘭的美國區域銀行KeyBank於11月17日宣布與支出管理公司Zact合作，推出商業支出管理平台KeyExpenseIQ，將商務卡管理與費用控管整合於單一介面。據Banking Dive報導，KeyBank花了兩年時間尋找合作夥伴，共評估23家公司後才選定支付與費用管理平台Zact，目的在於抵禦金融科技業者在企業支出管理領域的競爭，強化對中型企業與商業客戶的服務黏著度。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Splitit Launches BNPL Partnership With FIS",
+   "display_title": "Splitit於11月17日宣布與FIS合作，讓發卡機構直接在既有信用卡額度上提供分期付款服務",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/bnpl/2026/splitit-launches-bnpl-partnership-with-fis/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 17 Nov 2026 21:01:56 +0000",
+   "summary": "分期付款服務商Splitit於11月17日透過新聞稿宣布與金融科技公司FIS合作，將Splitit平台整合進FIS的發卡處理系統，讓使用FIS系統的發卡機構能在持卡人既有的信用卡額度上直接提供先買後付分期功能。此合作屬於Splitit「以卡",
+   "core_fact": "分期付款服務商Splitit於11月17日透過新聞稿宣布與金融科技公司FIS合作，將Splitit平台整合進FIS的發卡處理系統，讓使用FIS系統的發卡機構能在持卡人既有的信用卡額度上直接提供先買後付分期功能。此合作屬於Splitit「以卡為基礎」的分期模式延伸，消費者不需另外申請新的信用帳戶，即可在原有卡片上分期，發卡銀行則保有客戶關係與授信額度管理。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "PNC Bank Lets Customers Get Paid Two Days Early",
+   "display_title": "PNC銀行（PNC Bank）於11月17日推出Early Pay功能，合格客戶的薪資轉帳最多可提前兩天入帳",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/back-office/payroll/2026/pnc-bank-lets-customers-get-paid-two-days-early/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 17 Nov 2026 20:58:21 +0000",
+   "summary": "美國PNC銀行於11月17日透過新聞稿宣布推出Early Pay功能，讓符合資格的客戶最多可提前兩天取得合格的直接存款（薪資轉帳）款項。這項功能鎖定以薪資轉帳為主要往來的零售客戶，目的在提升活期存款帳戶的使用黏著度，並讓客戶在發薪週期中更早",
+   "core_fact": "美國PNC銀行於11月17日透過新聞稿宣布推出Early Pay功能，讓符合資格的客戶最多可提前兩天取得合格的直接存款（薪資轉帳）款項。這項功能鎖定以薪資轉帳為主要往來的零售客戶，目的在提升活期存款帳戶的使用黏著度，並讓客戶在發薪週期中更早取得資金，減少因資金缺口而產生的透支或短期借貸需求。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "JPMorgan Builds One AI Model to Catch 85% More Fraud",
+   "display_title": "摩根大通（JPMorgan Chase）於11月17日經PYMNTS報導以單一大型支付模型處理詐欺偵測與授權預測，卡片詐欺偵測提升最高85.5%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/jpmorgan-builds-one-ai-model-to-catch-85-more-fraud/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/jpmorgan-builds-one-ai-model-to-catch-85-more-fraud/",
+     "status": "ok",
+     "chars": 5200
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 20:54:59 +0000",
+   "summary": "據PYMNTS於11月17日報導，摩根大通研究團隊於11月11日發表論文，揭露其「大型支付模型」（Large Payments Model, LPM）以最多4,000億個詞元的卡片、ACH與電匯交易資料訓練，同時處理詐欺偵測、授權結果預測與",
+   "core_fact": "據PYMNTS於11月17日報導，摩根大通研究團隊於11月11日發表論文，揭露其「大型支付模型」（Large Payments Model, LPM）以最多4,000億個詞元的卡片、ACH與電匯交易資料訓練，同時處理詐欺偵測、授權結果預測與付款重送。該模型已投入生產，每日處理數百萬筆交易，99%請求於60毫秒內完成，每筆評分成本低於0.0001美元；納入六個月交易歷史後，卡片詐欺偵測較專用模型提升85.5%，ACH詐欺偵測提升27.4%、以金額計多抓出63.5%。",
+   "deep_facts": [
+    "LPM以最多4,000億詞元的卡片、ACH與電匯交易資料訓練，已上線每日處理數百萬筆交易",
+    "99%請求於60毫秒內完成，每筆評分成本低於0.0001美元",
+    "ACH詐欺多抓27.4%、以金額計多抓63.5%，但電匯僅多抓5.6%，研究人員歸因於電匯訓練資料占比低",
+    "PYMNTS調查顯示71%金融機構計畫自建詐欺系統，前一年為44%"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+   "display_title": "聯準會理事巴爾（Michael Barr）於11月16日在米蘭演說警告AI代理可能在壓力期間加速存款外流，並揭露大型銀行已發現AI代理試圖操作客戶帳戶",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+     "status": "ok",
+     "chars": 30778
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 10:48:12 +0000",
+   "summary": "聯準會理事巴爾於11月16日在義大利米蘭舉行的第七屆ACM金融人工智慧國際會議發表〈人工智慧對金融穩定的潛在影響〉演說，並於11月17日經CoinDesk報導。他引述聯準會最新金融穩定報告指出，七大AI企業的資產負債表內債務預計年底前超過8",
+   "core_fact": "聯準會理事巴爾於11月16日在義大利米蘭舉行的第七屆ACM金融人工智慧國際會議發表〈人工智慧對金融穩定的潛在影響〉演說，並於11月17日經CoinDesk報導。他引述聯準會最新金融穩定報告指出，七大AI企業的資產負債表內債務預計年底前超過8,000億美元，表外的長期合約與擔保等潛在義務名目價值已逾3兆美元；他並指出大型銀行已發現AI代理試圖在零售客戶帳戶內執行操作，而銀行無法驗證其真實性與客戶同意。",
+   "deep_facts": [
+    "聯準會金融穩定報告指出七大AI企業表內債務預計年底前超過8,000億美元",
+    "AI相關表外長期合約、租賃與擔保等潛在義務名目價值已逾3兆美元",
+    "巴爾揭露大型銀行已發現AI代理試圖在零售客戶帳戶執行操作，銀行無法驗證真實性與客戶同意"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "display_title": "Model ML於11月17日宣布完成2.5億美元募資，估值達15億美元，以AI代理自動更新投資銀行財務模型與簡報",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Tue, 17 Nov 2026 19:32:11 +0000",
+   "summary": "為銀行、顧問公司與資產管理業者打造AI工具的新創Model ML於11月17日宣布完成2.5億美元募資，公司估值達15億美元。據TechCrunch報導，該公司宣稱其AI代理能理解銀行家與顧問正在處理交易的完整脈絡，當影響交易的新發展出現時",
+   "core_fact": "為銀行、顧問公司與資產管理業者打造AI工具的新創Model ML於11月17日宣布完成2.5億美元募資，公司估值達15億美元。據TechCrunch報導，該公司宣稱其AI代理能理解銀行家與顧問正在處理交易的完整脈絡，當影響交易的新發展出現時，可自動更新財務模型與簡報內容，主要鎖定投資銀行初階人員耗時的資料整理、建模與簡報製作等工作。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+   "display_title": "聯準會理事華勒（Christopher Waller）於11月17日在清算所年會主張央行貨幣須留在代幣化市場的結算基礎，並提出三大待解問題",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+     "status": "ok",
+     "chars": 20241
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 17:00:05 +0000",
+   "summary": "聯準會理事華勒於11月17日在紐約舉行的清算所（The Clearing House）2026年年會發表〈支付與代幣化市場交會的考量〉演說。他指出股票、債券到商品都已被代幣化，市場同時出現穩定幣、代幣化存款與代幣化貨幣市場基金等結算資產；清",
+   "core_fact": "聯準會理事華勒於11月17日在紐約舉行的清算所（The Clearing House）2026年年會發表〈支付與代幣化市場交會的考量〉演說。他指出股票、債券到商品都已被代幣化，市場同時出現穩定幣、代幣化存款與代幣化貨幣市場基金等結算資產；清算所正建置代幣化存款的清算網絡。他強調央行貨幣不必出現在每筆交易，但其存在於體系基礎「不可或缺」，並引用幣安近期史上最大駭客事件，質疑智慧合約詐欺、私鑰遺失、錯誤轉帳與「殭屍鏈」上受困資產的責任歸屬。",
+   "deep_facts": [
+    "華勒演說於清算所2026年年會發表，並指出清算所正建置代幣化存款清算網絡",
+    "華勒稱市場參與者提醒原子結算並非唯一模式，淨額與批次結算在節省流動性上仍有價值",
+    "華勒點名殭屍鏈上受困資產與私鑰遺失、錯誤轉帳的責任歸屬，並引用幣安駭客事件"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+   "display_title": "美國參議院四位民主黨參議員於11月17日經Cointelegraph報導致函證交會，追問代幣化股票流出受監理平台後的洗錢防制與凍結權責",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+     "status": "fail",
+     "chars": 67
+    },
+    {
+     "url": "https://www.banking.senate.gov/newsroom/minority",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 11:36:26 +0000",
+   "summary": "據Cointelegraph於11月17日報導，美國四位民主黨參議員致函美國證券交易委員會（SEC），質詢代幣化股票若被轉移到受監理平台以外的錢包時，應由誰負責洗錢防制，以及證交會是否有能力凍結或追回這些代幣。此信函聚焦代幣化股票在公鏈上自",
+   "core_fact": "據Cointelegraph於11月17日報導，美國四位民主黨參議員致函美國證券交易委員會（SEC），質詢代幣化股票若被轉移到受監理平台以外的錢包時，應由誰負責洗錢防制，以及證交會是否有能力凍結或追回這些代幣。此信函聚焦代幣化股票在公鏈上自由流通後，傳統證券監理的客戶身分確認與交易監控責任如何延續的問題。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+   "display_title": "Revolut董事長Martin Gilbert於11月17日表示將推出四檔以區塊鏈為基礎的私募市場基金，以因應私募市場流動性緊縮",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets",
+     "status": "fail",
+     "chars": 65
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 12:24:20 +0000",
+   "summary": "據Cointelegraph於11月17日報導，Revolut董事長Martin Gilbert表示，Revolut計畫推出四檔以區塊鏈為基礎的私募市場基金。他指出私募市場正面臨流動性緊縮，而區塊鏈技術有助於為私募市場帶來更多流動性，這四檔",
+   "core_fact": "據Cointelegraph於11月17日報導，Revolut董事長Martin Gilbert表示，Revolut計畫推出四檔以區塊鏈為基礎的私募市場基金。他指出私募市場正面臨流動性緊縮，而區塊鏈技術有助於為私募市場帶來更多流動性，這四檔基金將以代幣化形式發行，讓投資人在私募資產的申購、贖回與移轉上具備比傳統封閉式基金更高的彈性。",
+   "deep_facts": []
+  }
+ ],
+ "searches": {
+  "rss_feeds": 17,
+  "A_site_queries": 10,
+  "B_topic_queries": 5,
+  "C_rss_fallback": 4,
+  "supplementary_region_queries": 7,
+  "alt_fetch_queries": 5
+ }
+}

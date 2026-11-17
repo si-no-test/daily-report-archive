@@ -1,0 +1,8 @@
+[
+ {"action":"skip"},
+ {"action":"match","topic_id":"us-de-novo-bank-formation-wave","headline":"Dave於11月16日向OCC與FDIC申設全國性銀行Dave Bank","one_line_update":"數位銀行Dave於11月16日向OCC與FDIC申請設立全國性銀行，將以自有受保存款支撐ExtraCash與先買後付Flex卡，並將申請成為銀行控股公司且不需增資，金融科技申設銀行執照潮再添一例。","source_title":"Dave applies for national bank charter","source_url":"https://www.bankingdive.com/news/dave-fintech-applies-national-bank-charter-occ-fdic-fed/874920/"},
+ {"action":"skip"},
+ {"action":"match","topic_id":"bank-ai-agent-card-access-policy","headline":"聯準會理事巴爾警告AI代理恐加速存款外流並要求嚴格授權","one_line_update":"聯準會理事巴爾11月16日演說揭露大型銀行已發現AI代理試圖操作零售客戶帳戶而無法驗證同意，主張以嚴格身分驗證、逐項明確同意與限制代理權限作為護欄，並警告AI代理可能在壓力期間加速存款外流。","source_title":"Some Potential Financial Stability Implications of Artificial Intelligence","source_url":"https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm"},
+ {"action":"match","topic_id":"tokenized-deposits-vs-stablecoins-debate","headline":"聯準會理事華勒主張多元代幣化貨幣並存、央行貨幣居結算基礎","one_line_update":"聯準會理事華勒11月17日於清算所年會指出穩定幣與代幣化存款在發行模式、監理與連結性各有取捨，適用不同場景，但央行貨幣須留在體系基礎，並點名私鑰遺失與殭屍鏈資產責任歸屬待解。","source_title":"Considerations at the Intersection of Payments and Tokenized Markets","source_url":"https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm"},
+ {"action":"skip"}
+]

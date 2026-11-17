@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-18",
+  "archived_at": "2026-11-17T23:15:15Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "29d55037e3fa2b27ca6314a0b4bf4a65d6f55aea",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 22,
+  "total_bytes": 785095,
+  "files": [
+    {
+      "path": "data/2026-11-18-candidates.txt",
+      "bytes": 57774,
+      "sha256": "329844cf4ed8d5bcee4df1911373c39241ffc6b6419162a008b4ebac16e0772f"
+    },
+    {
+      "path": "data/2026-11-18-glossary.json",
+      "bytes": 1953,
+      "sha256": "cfe86a81ae269e98af88dce5151e91277c6a753730b49ae98ac2af326173d24a"
+    },
+    {
+      "path": "data/2026-11-18-manifest.txt",
+      "bytes": 3460,
+      "sha256": "15af86f60f6c31cb3261f8d02932ecb14f82304891c77b009a5ceaca75054271"
+    },
+    {
+      "path": "data/2026-11-18-orgs.json",
+      "bytes": 1664,
+      "sha256": "a2ce5aa917192ce84a27078a2a790aba519ed375684864b94778b9b1c57c7317"
+    },
+    {
+      "path": "data/2026-11-18-topic-cases.json",
+      "bytes": 1810,
+      "sha256": "cf9ed0d3322d80f021a141433a185b3f1d4e145ecfbbc213a79b42b15e8d5596"
+    },
+    {
+      "path": "data/2026-11-18-topic-decisions.json",
+      "bytes": 1868,
+      "sha256": "08e20338663fed09e946bafe3e3bc13dfca198dccded50a16fec5057903c0a24"
+    },
+    {
+      "path": "data/2026-11-18.json",
+      "bytes": 19223,
+      "sha256": "e385cde15499936ac5aa781484383e347053af99ea188c267276357034ed51ac"
+    },
+    {
+      "path": "outbox/2026-11-18-archive.html",
+      "bytes": 98312,
+      "sha256": "34ab83e6eb1afdad3649fab0d8c2ec9011d3a7a91ca0a2a8fad03ebbb95c880d"
+    },
+    {
+      "path": "outbox/2026-11-18-email.html",
+      "bytes": 11493,
+      "sha256": "a805e60f11a9b30fba60fcfaa1a78d2f08233a8a0e9c3caa5ca7823d193c45e0"
+    },
+    {
+      "path": "published/2026-11-18.html",
+      "bytes": 555,
+      "sha256": "a090aeae4068dee30e0687e14b3b70dda881d9aba9aac5c65bd6cdcb1108a852"
+    },
+    {
+      "path": "published/2026-11-18/ai.html",
+      "bytes": 36596,
+      "sha256": "87995cec9a795dc32493d05b74a016f0d385c8e5d324dd3f2e461cf6915eada5"
+    },
+    {
+      "path": "published/2026-11-18/blockchain.html",
+      "bytes": 42717,
+      "sha256": "fea56d37ca2c86cc1ea497e33040c119e36aef3b06dc59005238c21a9c165475"
+    },
+    {
+      "path": "published/2026-11-18/index.html",
+      "bytes": 24052,
+      "sha256": "644097ed016de265afbe621a6bc9c744e04355fc679082e89cbd704fdc24bf71"
+    },
+    {
+      "path": "published/2026-11-18/innovation.html",
+      "bytes": 53535,
+      "sha256": "ad29104a510a8cd41922a9b05cb9fdefd8784700d0672597e0d28d4c9c253235"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 376022,
+      "sha256": "41d7211c8975eeccada300faea5fc0aab40d03f94c55fbd337e19b82e63181c5"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "31a2a87c7cc623b07bb6833ac3906bd7c8f1aa54629d2e049389895974cdf9fc"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "a090aeae4068dee30e0687e14b3b70dda881d9aba9aac5c65bd6cdcb1108a852"
+    },
+    {
+      "path": "published/topics/bank-ai-agent-card-access-policy.html",
+      "bytes": 3462,
+      "sha256": "37d9d2cd917908abf24a8e529bc3edeb53f80be115461cd211546daceabd0acb"
+    },
+    {
+      "path": "published/topics/tokenized-deposits-vs-stablecoins-debate.html",
+      "bytes": 8537,
+      "sha256": "0e7688e445d74d5927d58cb5359279e87d219084be083bd08b8a8f63fb88e177"
+    },
+    {
+      "path": "published/topics/us-de-novo-bank-formation-wave.html",
+      "bytes": 4292,
+      "sha256": "68a63b9b11eaa33ad99a6bcce5be7453e2f0921812da2485ce64527e6ec51051"
+    },
+    {
+      "path": "source/2026-11-18-report.txt",
+      "bytes": 33435,
+      "sha256": "809eac6b080a8bc43334ffae0a5a97b7ed54e416ef376412ae3d427e0df04601"
+    },
+    {
+      "path": "source/2026-11-18-summary.txt",
+      "bytes": 2988,
+      "sha256": "c5157913a26121c5e8625b88c3bfd091ebeaf5b92c4da478934b10da632017b7"
+    }
+  ]
+}
