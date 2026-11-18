@@ -1,0 +1,25 @@
+FINAL_URL: https://www.bankingdive.com/news/custodia-supreme-court-deny-petition-fed-master-account-access-waller/875102/
+STATUS: ok
+CHARS: 4558
+---CONTENT---
+Supreme Court spurns Custodia’s master-account fight
+The high court denied the Wyoming digital lender’s petition to access Federal Reserve rails, leaving intact a barrier to entry in the payment system.
+The Supreme Court on Monday declined to hear a petition from Custodia Bank, the Wyoming digital lender that, for years, has argued for access to a Federal Reserve master account.
+Such access would have allowed Custodia to settle transactions, hold reserves and send payments directly through the Fed’s system without an intermediary bank.
+Custodia sued the Fed in June 2022, noting that it had been waiting 19 months for its master account application to be processed — even though central bank materials indicated the process typically takes “5-7 business days.”
+The Wyoming lender’s rancor was further inflamed when the Fed approved BNY — in short order — to take custody of clients’ crypto assets. The Fed disputed Custodia’s allegations that the central bank showed favor toward BNY.
+The Fed and its Kansas City outpost then denied Custodia’s application in January 2023, arguing the digital lender’s business model relied too heavily on volatile crypto markets and lacked sufficient controls to manage the risk of intrusion by illicit finance. The Fed also cited Custodia’s limited experience in traditional risk management and the potential systemic implications of granting direct access to a crypto-centered institution.
+Custodia petitioned the Supreme Court in July to review a ruling by the 10th Circuit Court of Appeals reinforcing that the Fed — and its regional banks — have the discretion to grant or deny access to master accounts.
+The 10th Circuit ruling came despite a “ strong dissent ” — in Custodia’s words — from a judge who argued the ruling “endorses a reading of federal law that allows unappointed bank officials to exercise significant yet unreviewable executive authority.”
+“By claiming unreviewable discretion over access to the nation’s financial system, the Fed has gone too far,” Judge Timothy Tymkovich wrote in October 2025.
+Since then, however, the Fed has unveiled “skinny” master accounts , which offer tailored functionality for various tiers of institutions. Crypto lender Kraken received the first skinny master account in March.
+Fed Gov. Christopher Waller, speaking Tuesday at The Clearing House’s annual conference, said the advent of skinny master accounts may have “undermined” Custodia’s fight to gain full access.
+“It wasn’t what I was trying to do, but it ended up at the end of the day having an impact on how the court looked at the decision,” Waller said, according to American Banker . “The benefit of the skinny account was that the Solicitor General defending our right to control master account access used the skinny account as an example that the Fed was, in fact, creating innovative solutions to allow new entrants and competition into the system.”
+Custodia has not issued a press release regarding the Supreme Court development. Nor has the Wyoming lender’s typically vocal CEO, Caitlin Long, commented on the matter.
+The Supreme Court’s refusal to hear Custodia’s case — despite a supporting brief from a sitting senator and a former one — means lower court rulings stand.
+Custodia, at this point, could opt to apply for a skinny master account. Or it could see if another lender succeeds in its fight against a Fed regional bank.
+Idaho-based PayServices is suing the San Francisco Fed for master account access. That case, in which a district judge ruled in favor of the regulator, is being appealed in the 9th Circuit.
+The Bank Policy Institute , for one, applauded the Supreme Court’s handling of Custodia’s petition.
+“Access to a Federal Reserve master account is a privilege, not a right, and Reserve Bank discretion to deny access to those who fail to meet safety, soundness and security standards keeps our banking system safe,” Paige Pidano Paridon, BPI’s executive vice president and co-head of regulatory affairs, said Monday in a statement.
+However, Julie Hill, dean of the University of Wyoming’s College of Law, said letting Fed discretion stand would leave the master account process vulnerable to political influence.
+“It entrenches the idea that the Fed … can do what it wants with master accounts,” Hill told American Banker . “Under the current Fed, which seems more amenable to nontraditional bank charters, that might mean more applications are granted. At the same time, this also might mean swings in master account policies and priorities under different administrations.”

@@ -1,0 +1,15 @@
+[
+ {"name":"Payhawk","url":"https://payhawk.com","intro":"總部源自保加利亞的企業支出管理平台，整合企業卡、費用、應付帳款與採購。"},
+ {"name":"OneMain","url":"https://www.onemainfinancial.com","intro":"美國大型次級分期貸款業者，提供個人信貸、車貸與信用卡。"},
+ {"name":"Klarna","url":"https://www.klarna.com","intro":"瑞典起家的先買後付與消費信貸平台，活躍用戶逾一億。"},
+ {"name":"摩根大通","url":"https://www.jpmorganchase.com","intro":"美國資產規模最大的銀行集團，交易銀行與支付業務居全球領先。"},
+ {"name":"Veritran","url":"https://www.veritran.com","intro":"阿根廷數位銀行低程式碼平台供應商，服務拉丁美洲與美國金融機構。"},
+ {"name":"花旗銀行","url":"https://www.citigroup.com","intro":"美國大型跨國銀行集團，具全球交易銀行與跨境支付網絡。"},
+ {"name":"香港金融管理局","url":"https://www.hkma.gov.hk","intro":"香港的中央銀行機構，負責貨幣穩定、銀行監理與穩定幣發行人發牌。"},
+ {"name":"麥肯錫","url":"https://www.mckinsey.com","intro":"全球管理顧問公司，定期發布金融業與AI研究報告。"},
+ {"name":"世界銀行集團","url":"https://www.worldbank.org","intro":"為開發中國家提供融資與技術援助的多邊開發金融機構。"},
+ {"name":"Circle","url":"https://www.circle.com","intro":"美元穩定幣USDC的發行商，美國上市的支付與數位貨幣公司。"},
+ {"name":"星展銀行","url":"https://www.dbs.com","intro":"新加坡最大銀行集團，積極布局代幣化與數位資產服務。"},
+ {"name":"威士","url":"https://www.visa.com","intro":"全球最大卡組織之一，經營VisaNet與Visa Direct即時撥款網路。"},
+ {"name":"Apex Group","url":"https://www.apexgroup.com","intro":"全球基金行政與資產服務商，旗下Tokeny提供代幣化技術。"}
+]

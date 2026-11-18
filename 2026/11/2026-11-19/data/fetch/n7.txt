@@ -1,0 +1,11 @@
+FINAL_URL: https://www.ledgerinsights.com/ocree-canadian-securities-exchange-apex-launch-tokenized-real-estate-pilot/
+STATUS: fail
+CHARS: 1341
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Ocree Corporation has partnered with the Canadian Securities Exchange (CSE), Apex Group and Tetra Digital Group to pilot the distribution of tokenized private real estate securities in what the partners call Project Bedrock.
+The pilot is designed to test whether Canada’s existing exchange, dealer and custody systems can support tokenized private market investments without requiring participants to adopt new platforms. It pairs tokenization and stablecoin settlement with the CSE’s established trading infrastructure. The next phase will add secondary market trading of tokenized private securities through the exchange.
+Apex Group is providing tokenization technology through its subsidiary Tokeny . The firm has become one of the most active service providers in private fund tokenization, with recent collaborations including the London Stock Exchange Group’s Digital Market Infrastructure , Goldman Sachs’ GS DAP platform and Allfunds Blockchain . Apex services more than $3.5 trillion in assets.
+Want the full story? Pro subscribers get complete articles, exclusive industry analysis, and early access to legislative updates that keep you ahead of the competition. Join the professionals who are choosing deeper insights over surface level news.
+Image Copyright: DenysKuvaiev, Deposit Photos
+Facebook X Reddit Email LinkedIn WhatsApp

@@ -1,0 +1,312 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T07:14:35.187512+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Payhawk Raises $280 Million, Reaches $2 Billion Valuation",
+   "display_title": "Payhawk於11月18日宣布完成2.8億美元C輪募資，估值達20億美元",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/payhawk-raises-280-million-reaches-2-billion-valuation/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/payhawk-raises-280-million-reaches-2-billion-valuation/",
+     "status": "ok",
+     "chars": 3818
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 22:35:54 +0000",
+   "summary": "Payhawk完成2.8億美元C輪募資，估值20億美元，由高盛另類投資成長股權部門領投。",
+   "core_fact": "保加利亞索菲亞起家的企業支出管理平台Payhawk於11月18日宣布完成2.8億美元C輪募資，估值達20億美元、累計募資5.15億美元，本輪尚待監理核准。領投者為高盛另類投資（Goldman Sachs Alternatives）成長股權部門，QED、Greenoaks、Lightspeed等既有股東全數跟投。Payhawk目前在33個國家營運、設有12個辦公室，整合企業卡、費用管理、應付帳款、採購與差旅。",
+   "deep_facts": [
+    "累計募資達5.15億美元，本輪尚待監理核准",
+    "以訂閱收入為主而非刷卡交換費，客戶可保留既有企業卡",
+    "在33國營運、設12個辦公室，資金將用於打造結合AI代理、支付基礎設施與企業權限控管的財務作業系統",
+    "Ramp上月以600億美元估值募得18.5億美元、Clara上週募得1.05億美元"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "OneMain gets FDIC green light for ILC charter",
+   "display_title": "OneMain Financial（OneMain）於11月17日取得美國聯邦存款保險公司核准設立工業銀行，開業資本須至少3.41億美元",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/onemain-fdic-approves-ilc-charter-subprime-lender-cfpb-13-ag-lawsuit-ncrc/875075/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/onemain-fdic-approves-ilc-charter-subprime-lender-cfpb-13-ag-lawsuit-ncrc/875075/",
+     "status": "ok",
+     "chars": 4631
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 12:28:08 -0500",
+   "summary": "FDIC核准次級分期貸款業者OneMain的ILC執照申請，儘管其面臨CFPB命令與13州檢察長訴訟。",
+   "core_fact": "美國聯邦存款保險公司（FDIC）於11月17日核准次級分期貸款業者OneMain的工業貸款公司（ILC）執照申請，條件包括開業時資本至少3.41億美元、槓桿比率維持15%以上，並須擬定社區再投資法（CRA）策略計畫。猶他州金融機構廳也已核准，OneMain預計約一年內開設銀行子公司，業務聚焦個人信貸、車貸與信用卡，申請案自2025年3月提出。",
+   "deep_facts": [
+    "開業資本須至少3.41億美元、槓桿比率至少15%",
+    "猶他州金融機構廳已核准，預計約一年內開業",
+    "信用卡將以經紀存款支應，零售儲蓄存款僅占名目金額",
+    "2023年曾遭CFPB裁罰2,000萬美元，FDIC警告違反命令將採進一步行動"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Klarna launches AI ‘concierge’",
+   "display_title": "Klarna於11月17日推出AI個人禮賓助理，長期分期貸款美國交易量一年翻倍至125億美元",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+     "status": "ok",
+     "chars": 3873
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 10:45:00 -0500",
+   "summary": "Klarna推出AI個人助理切入代理商務，並擴大長期分期貸款。",
+   "core_fact": "Klarna於11月17日財報會議宣布推出AI個人禮賓助理，以候補名單邀請制上線，可代用戶訂位、草擬郵件與購物，透過簡訊、WhatsApp與iMessage互動，但付款仍須真人授權。同日公布第三季營收年增12%至10億美元、淨損6,500萬美元，活躍用戶1.22億。其美國長期「fair financing」分期交易量一年內翻倍至125億美元，可用商家增至28.3萬家。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "JPMorgan updates AR platform to help free up working capital",
+   "display_title": "摩根大通（JPMorgan Chase）於11月推出應收帳款平台的企業AR檔比對功能，服務約9,000家企業客戶",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/jpmorgan-updates-accounts-receivable-platform-working-capital-michelle-conklin/874918/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/jpmorgan-updates-accounts-receivable-platform-working-capital-michelle-conklin/874918/",
+     "status": "ok",
+     "chars": 3438
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 11:56:00 -0500",
+   "summary": "摩根大通現代化應收帳款平台，新增以企業AR檔比對收款的功能。",
+   "core_fact": "摩根大通支付部門應收帳款與公部門業務主管Michelle Conklin於11月17日經Banking Dive報導表示，該行應收帳款平台目前服務約9,000家企業客戶，並於本月推出第三種對帳方式：企業可上傳列有預期收款的Excel應收帳款檔，由銀行在款項入帳時直接比對並套用，取代過去只比對款項與附帶發票或ACH附加欄位的做法。該服務開放給以摩根大通為存款行的客戶，另收取未揭露的費用。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Veritran Acquires PrismaCampaigns to Expand US Presence",
+   "display_title": "Veritran於11月17日宣布收購行銷自動化業者PrismaCampaigns，取得逾85家金融機構客戶",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/veritran-acquires-prismacampaigns-to-expand-us-presence/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/veritran-acquires-prismacampaigns-to-expand-us-presence/",
+     "status": "ok",
+     "chars": 2973
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 19:04:53 +0000",
+   "summary": "Veritran收購金融業行銷自動化業者PrismaCampaigns以擴大美國市場。",
+   "core_fact": "總部位於阿根廷布宜諾斯艾利斯的數位銀行低程式碼平台Veritran於11月17日宣布收購美國佛州的PrismaCampaigns，交易金額未揭露。PrismaCampaigns成立於2017年，服務逾85家銀行與信用合作社、支援逾620萬個客戶關係，其中逾60家銀行客戶位於美國，並維持雙位數年成長；收購後維持原經營團隊，並為Veritran帶進美國、智利、哥倫比亞等市場客戶。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "display_title": "花旗銀行（Citibank）於11月18日經TechCrunch報導修改線上使用者協議，客戶授權第三方AI代理所生交易與遭駭損失須自負",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+     "status": "ok",
+     "chars": 4657
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 17:32:10 +0000",
+   "summary": "花旗成為最新限制個人理財AI代理的大型金融機構。",
+   "core_fact": "美國第三大商業銀行花旗於11月中旬更新線上使用者協議，明定客戶若把網銀憑證交給或授權第三方AI工具存取帳戶，代理所做的交易由客戶負責；若AI工具外洩憑證或遭駭，駭客動用帳戶的損失同樣由客戶承擔。摩根大通與美國銀行已於10月採取類似政策，第八大銀行PNC於11月18日跟進修約，Citizens本週也以電子郵件通知客戶。",
+   "deep_facts": [
+    "花旗條款明定AI工具外洩憑證或遭駭時，駭客動用帳戶的損失由客戶承擔",
+    "PNC於報導當日修約、Citizens以電子郵件通知客戶，摩根大通與美國銀行上月已採類似政策",
+    "使用花旗自家提供的AI代理不增加客戶責任",
+    "Anthropic本月推出的個人理財工具定位唯讀、無法動用資金"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
+   "display_title": "香港金融管理局（HKMA）於11月18日表示正研究以代理式AI偵測與加密資產相關的金融犯罪",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 08:43:02 +0000",
+   "summary": "香港金管局執行董事Raymond Chan表示AI可同時分析鏈上轉帳與鏈下客戶交易以標記異常。",
+   "core_fact": "香港金融管理局執行董事Raymond Chan於11月18日表示，金管局正探索以代理式AI協助偵測與加密資產相關的金融犯罪，AI可同時分析鏈上轉帳與銀行端的鏈下客戶交易以標記異常。CoinDesk同日報導，香港正推動銀行運用AI在資金消失前攔截加密犯罪，業界專家則提醒相關技術須在偵測可疑轉帳時避免誤凍客戶資金。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Data silos threaten banks’ competitive edge in AI",
+   "display_title": "麥肯錫（McKinsey）於11月18日經Banking Dive報導指出近四分之三以AI處理銀行事務的消費者選用通用AI助理，約為使用銀行聊天機器人者的兩倍",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/banks-running-out-time-benefit-ai-mckinsey-chatgpt-claude-gemini/874934/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/banks-running-out-time-benefit-ai-mckinsey-chatgpt-claude-gemini/874934/",
+     "status": "ok",
+     "chars": 3006
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 06:11:00 -0500",
+   "summary": "麥肯錫報告指近四分之三以AI處理銀行事務的消費者選用ChatGPT、Claude或Gemini。",
+   "core_fact": "Banking Dive於11月18日報導麥肯錫上週發布的研究，近四分之三以AI處理銀行事務的消費者使用OpenAI的ChatGPT、Anthropic的Claude或Google的Gemini，約為使用銀行自家聊天機器人人數的兩倍；近半數銀行主管把資料準備度列為AI的首要障礙。Iron Mountain另一份報告指出，84%的IT主管表示專業人員把時間花在人工整理資料，而非擴大部署AI代理。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+   "display_title": "世界銀行集團（World Bank Group）於11月17日宣布攜花旗與Circle測試以USDC穩定幣撥付開發資金",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.pymnts.com/blockchain/2026/world-bank-taps-circle-and-citi-to-expand-stablecoin-use/",
+     "status": "ok",
+     "chars": 3074
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 04:21:02 +0000",
+   "summary": "世界銀行集團攜花旗與Circle測試以穩定幣撥付資金，初期聚焦中介式、可互通模式。",
+   "core_fact": "世界銀行集團於11月17日宣布與花旗及Circle合作，探索以受監理的美元穩定幣與區塊鏈支付軌道，搭配或強化既有以代理行架構為基礎的資金撥付機制；初期聚焦「中介式、可互通」的穩定幣支付模式，由花旗提供既有銀行連線、Circle負責以USDC鑄造與結算。世界銀行集團總裁彭安杰（Ajay Banga）表示，資金更快更便宜，代表診所能準時蓋好、農民能在收成季結束前收到款項。",
+   "deep_facts": [
+    "花旗提供既有銀行連線、Circle以USDC鑄造與結算",
+    "世界銀行集團總裁彭安杰稱資金更快更便宜可讓診所準時完工、農民及時收款",
+    "延續IFC 9月推出的7億美元擔保數位支付普及計畫，萬事達卡出資5億美元、威士2億美元"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
+   "display_title": "星展銀行（DBS）於11月18日宣布讓亞洲合格機構客戶全天候直接鑄造與贖回USDC",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 09:28:50 +0000",
+   "summary": "星展與Circle擴大機構取得USDC管道，提供直接鑄造、贖回與全天候美元結算。",
+   "core_fact": "星展銀行於11月18日宣布與Circle合作，讓亞洲合格機構客戶可直接透過星展鑄造與贖回USDC，並提供全天候美元結算，擴大機構取得USDC的管道並強化亞洲穩定幣基礎設施。CoinDesk同日指出，這項合作發生在亞洲多家銀行正自建區塊鏈數位支付系統的時點，穩定幣與銀行體系的代幣化支付網路形成競合。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
+   "display_title": "威士（Visa）於11月18日宣布將Visa Direct穩定幣預存資金機制擴展至亞太地區跨境撥款",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Wed, 18 Nov 2026 16:30:41 +0000",
+   "summary": "威士計畫讓亞太合格Visa Direct客戶以穩定幣支付跨境撥款預存資金。",
+   "core_fact": "威士於11月18日宣布，將讓亞太地區符合資格的Visa Direct客戶以穩定幣支付跨境撥款的預存資金，把原本在其他市場推行的穩定幣預存機制擴展到亞太。Visa Direct是威士的即時推播付款服務，常用於跨境匯款、平台向商戶或零工撥款等場景，此次調整讓撥款業者在亞太市場多一種資金調度選項。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Ocree, Canadian Securities Exchange, Apex launch tokenized real estate pilot",
+   "display_title": "Ocree於11月17日聯同加拿大證券交易所與Apex Group啟動代幣化私募不動產證券試點",
+   "source": "Ledger Insights",
+   "source_tier": "T2",
+   "url": "https://www.ledgerinsights.com/ocree-canadian-securities-exchange-apex-launch-tokenized-real-estate-pilot/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ledgerinsights.com/ocree-canadian-securities-exchange-apex-launch-tokenized-real-estate-pilot/",
+     "status": "fail",
+     "chars": 1341
+    }
+   ],
+   "date_evidence": "Tue, 17 Nov 2026 18:52:34 +0000",
+   "summary": "Ocree與CSE、Apex Group及Tetra Digital試辦代幣化私募不動產證券分銷Project Bedrock。",
+   "core_fact": "Ocree Corporation於11月17日宣布與加拿大證券交易所（CSE）、Apex Group及Tetra Digital Group合作，啟動名為Project Bedrock的代幣化私募不動產證券分銷試點，結合代幣化與穩定幣結算，下一階段將在交易所加入代幣化私募證券的次級市場交易。Apex Group透過子公司Tokeny提供代幣化技術，其服務的資產規模逾3.5兆美元。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "rss_feeds_ok": 13,
+  "rss_feeds_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus",
+   "Crowdfund Insider"
+  ],
+  "required_A": 10,
+  "required_B": 5,
+  "required_C": 4,
+  "regional_supplementary": 7,
+  "supplementary_keyword": 0,
+  "notes": "[A][B][C] 19 條必做搜尋皆執行，均無審計窗內合格條目；各地監管補搜7地區各1次。"
+ }
+}

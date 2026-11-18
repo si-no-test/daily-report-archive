@@ -1,0 +1,8 @@
+[
+ {"action":"skip"},
+ {"action":"create","topic_id":"onemain-ilc-bank-charter","title":"OneMain申設猶他州工業銀行（ILC）進程","theme":"innovation","keywords":["OneMain","工業銀行","ILC","FDIC","猶他州","次級信貸"],"headline":"OneMain於11月17日取得FDIC核准設立工業銀行","one_line_update":"FDIC與猶他州金融機構廳核准OneMain的ILC申請，開業資本須至少3.41億美元、槓桿比率不低於15%，須遵循CFPB命令並提交社區再投資策略計畫，預計約一年內開業。","source_title":"OneMain gets FDIC green light for ILC charter","source_url":"https://www.bankingdive.com/news/onemain-fdic-approves-ilc-charter-subprime-lender-cfpb-13-ag-lawsuit-ncrc/875075/"},
+ {"action":"match","topic_id":"bank-ai-agent-card-access-policy","headline":"花旗銀行於11月18日修改條款，客戶授權第三方AI代理所生交易與遭駭損失須自負","one_line_update":"繼摩根大通與美國銀行10月採類似政策，花旗、PNC與Citizens本週更新條款，明定客戶授權第三方AI代理所生交易，甚至代理工具外洩憑證遭駭的損失均由客戶承擔，但使用花旗自家AI代理不增加客戶責任。","source_title":"More banks say customers using AI agents are on their own — even if they get hacked","source_url":"https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"skip"}
+]

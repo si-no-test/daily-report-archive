@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-19",
+  "archived_at": "2026-11-18T23:15:15Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "d0d1bde8d77d45c93c9f560361ec6d2578e5e64a",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 40,
+  "total_bytes": 916675,
+  "files": [
+    {
+      "path": "data/2026-11-19-candidates.txt",
+      "bytes": 58133,
+      "sha256": "df0bcdea197c7e25fb4994e568f7e4385b1fa27ea61728200b609649d5e2bf9e"
+    },
+    {
+      "path": "data/2026-11-19-glossary.json",
+      "bytes": 2334,
+      "sha256": "2bd0357115c7a66cb941443a846edb862adc91f8446c654588cd6bc1aef60ca9"
+    },
+    {
+      "path": "data/2026-11-19-manifest.txt",
+      "bytes": 3460,
+      "sha256": "572ff6af7adb8d38e600980103b199151d3cb74f4260286b8f52d3858404ac77"
+    },
+    {
+      "path": "data/2026-11-19-orgs.json",
+      "bytes": 1950,
+      "sha256": "22ae39afcae644570c9b3c446cee11059adc3a86c55f2ee1062be2c76627ae80"
+    },
+    {
+      "path": "data/2026-11-19-topic-cases.json",
+      "bytes": 2029,
+      "sha256": "96bcced0452cec2222a52c63528a59ff9d0d5559a4bbf73b31aff83244318112"
+    },
+    {
+      "path": "data/2026-11-19-topic-decisions.json",
+      "bytes": 1501,
+      "sha256": "28422ffb8a876708a6a58115f54d85195b40aa89eb58897860a37d85ad3c1e8c"
+    },
+    {
+      "path": "data/2026-11-19.json",
+      "bytes": 18071,
+      "sha256": "bf0056325e3e883a779103150cf69f1b5e50fa71eba6acf72e6477000005eede"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 58363,
+      "sha256": "cbd002c3d2dca81a0424a42369965746dd38c6fdecb71b526b2a821816f06212"
+    },
+    {
+      "path": "data/fetch/c1.txt",
+      "bytes": 3966,
+      "sha256": "b075424cbf86342de390f6bf39d8a6b252a1220ef71d31f178096427ab69f4d7"
+    },
+    {
+      "path": "data/fetch/c2.txt",
+      "bytes": 4889,
+      "sha256": "97a4b6902a450141f6b294932f7b3f07538d901e045e617ddbb54611c86e0618"
+    },
+    {
+      "path": "data/fetch/c3.txt",
+      "bytes": 168,
+      "sha256": "d5a7d797c8ae1b1d01c007b263e37081bb5195fb77d2dd3fcf2cbf2fd0b69bab"
+    },
+    {
+      "path": "data/fetch/c3b.txt",
+      "bytes": 207,
+      "sha256": "7e544d6816c5318b0d91cf17e4595b11c93ad2da1e5d623fad4b422c12ec05b2"
+    },
+    {
+      "path": "data/fetch/c4.txt",
+      "bytes": 4872,
+      "sha256": "bfcb0653c261e67567aa9f2c92703cfa6a5dbfdf626c0d5d2e83ff8c37c31cb3"
+    },
+    {
+      "path": "data/fetch/c5.txt",
+      "bytes": 180,
+      "sha256": "a3c128d17124966c59acab22c08b315e65093ee74f87f44786b96e617f556f34"
+    },
+    {
+      "path": "data/fetch/c5b.txt",
+      "bytes": 3260,
+      "sha256": "7983b0f3382cb8da26ad2fe887f8d82792d57527d5b7e39321e8017f7fed418d"
+    },
+    {
+      "path": "data/fetch/c6.txt",
+      "bytes": 153,
+      "sha256": "e23e6686d6a13698eaca406c4529177e83fb8eb1f4b67980208b9c1308864f67"
+    },
+    {
+      "path": "data/fetch/c6b.txt",
+      "bytes": 206,
+      "sha256": "2435cf40aaa2befd84b88ac076df9cb9398148dc04f36a764fa5c053ac7c0a4f"
+    },
+    {
+      "path": "data/fetch/n1.txt",
+      "bytes": 4047,
+      "sha256": "2c103d4023d83439456ca8fbb99c2f1140d1f485c697c545f7bcd4da8bef0f1a"
+    },
+    {
+      "path": "data/fetch/n2.txt",
+      "bytes": 3659,
+      "sha256": "84ccc194f5f8d0f76e657c7f252c18721f4d0bd626b16e5bc589049a1fbb4ee8"
+    },
+    {
+      "path": "data/fetch/n3.txt",
+      "bytes": 3121,
+      "sha256": "6c36ae30c65389f276f62b63806ef2d9989568c31ba1876f6d990669f560709c"
+    },
+    {
+      "path": "data/fetch/n4.txt",
+      "bytes": 3206,
+      "sha256": "82f8650544bcac4acbdb8bf9b65bd7514c0e46e1853e56008020b0f0aac0496b"
+    },
+    {
+      "path": "data/fetch/n5.txt",
+      "bytes": 207,
+      "sha256": "faafa666f9e66f2db14741e43469d252b6010f3bf603fbe3fcf85bed9e45ac34"
+    },
+    {
+      "path": "data/fetch/n6.txt",
+      "bytes": 4824,
+      "sha256": "d6c97d583e0809d6e2280458cc522994c78ba10bd14c663888476568e2588797"
+    },
+    {
+      "path": "data/fetch/n7.txt",
+      "bytes": 1572,
+      "sha256": "30d0694b63602bf5e77ec8513856b8845b4a25199c642d063c4e96694e30425f"
+    },
+    {
+      "path": "data/recent.txt",
+      "bytes": 22644,
+      "sha256": "358f35fe3da186c07c45acb9e3878ad2edb85cb58fe8fa7f7dc10e62be26f73f"
+    },
+    {
+      "path": "data/selfcheck.log",
+      "bytes": 3517,
+      "sha256": "715f93fc9ebbbe2101c997999408de42296a86d5de5a236e9e3d9d6b8c8fb739"
+    },
+    {
+      "path": "outbox/2026-11-19-archive.html",
+      "bytes": 102003,
+      "sha256": "638ccf3507e8a8d8d2b7b9f4e108013173c10b5e34891507961565fcfbcd7f4c"
+    },
+    {
+      "path": "outbox/2026-11-19-email.html",
+      "bytes": 11585,
+      "sha256": "76b7f8ec0ad08c35ee229e2819ec362c636a2d08acef7607f6d75379e3cc6bee"
+    },
+    {
+      "path": "published/2026-11-19.html",
+      "bytes": 555,
+      "sha256": "a6c13dbae8d6c9dc38ffae20eadf61a58615f042f47086afb0b3b7835711a1c5"
+    },
+    {
+      "path": "published/2026-11-19/ai.html",
+      "bytes": 38877,
+      "sha256": "45bb2b3facd00be2630e3948e3f68b537e6d6a5adfa290f8ef53d413490105df"
+    },
+    {
+      "path": "published/2026-11-19/blockchain.html",
+      "bytes": 48678,
+      "sha256": "8ec5ed40643f44d73b39595a394ee377f88ba501b7c69af679de0424a22e5704"
+    },
+    {
+      "path": "published/2026-11-19/index.html",
+      "bytes": 23941,
+      "sha256": "f2d220c4252ecd36f41333017f91323cd7ce6e4960510d76e0cbad34d00c3eca"
+    },
+    {
+      "path": "published/2026-11-19/innovation.html",
+      "bytes": 54111,
+      "sha256": "a0970e25914c2ce88cac9d0ddb3132f17dbe3248319721e199032d2b90fdbd22"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 380788,
+      "sha256": "a7cf68c14a2018f2bdec1e73d9c453d6ee92b92621ebcf5d5f533b7744a595c0"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "2057f3540842084f51e6aa21ee4b572f46d1ccbbb74c294e529d7478b4181b7e"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "a6c13dbae8d6c9dc38ffae20eadf61a58615f042f47086afb0b3b7835711a1c5"
+    },
+    {
+      "path": "published/topics/bank-ai-agent-card-access-policy.html",
+      "bytes": 4462,
+      "sha256": "6ce6fc485588aac8975cdaf58cc2daed5b677d59b514d175d5e437179ca13c14"
+    },
+    {
+      "path": "published/topics/onemain-ilc-bank-charter.html",
+      "bytes": 1532,
+      "sha256": "5ec2680ee056a3d32d45dd34062081e822883e16f2c265421243db1c7ef307d0"
+    },
+    {
+      "path": "source/2026-11-19-report.txt",
+      "bytes": 35318,
+      "sha256": "caf813b4cc1f404165ff2b72f5af17a2c321850e41933c68461f8f388f22bacf"
+    },
+    {
+      "path": "source/2026-11-19-summary.txt",
+      "bytes": 2939,
+      "sha256": "74f1873e39d51cb54bfd454515233dce4cdfb0b964bc1f8f262e4179eaba41a9"
+    }
+  ]
+}

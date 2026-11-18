@@ -1,0 +1,25 @@
+FINAL_URL: https://www.bankingdive.com/news/onemain-fdic-approves-ilc-charter-subprime-lender-cfpb-13-ag-lawsuit-ncrc/875075/
+STATUS: ok
+CHARS: 4631
+---CONTENT---
+OneMain gets FDIC green light for ILC charter
+The subprime installment lender’s approval comes despite a CFPB order, a lawsuit from 13 attorneys general and pushback from trade groups and community advocates.
+The Federal Deposit Insurance Corp. has approved subprime installment lender OneMain’s application for an industrial loan company charter, the agency said Tuesday .
+Among the conditions the FDIC has set, the burgeoning industrial bank must have $341 million or more in capital when it launches and must maintain a leverage ratio of at least 15%.
+The Utah Department of Financial Institutions has also given the application a green light, OneMain said in a press release Tuesday, adding that the company aims to open its bank subsidiary “in approximately one year.”
+Doug Shulman, OneMain’s chair and CEO, said the approvals mark “an important new chapter” that “reflect[s] the strength of the institution we have built and the trust we have earned over decades of serving our customers.”
+“For generations, OneMain has focused on understanding our customers’ needs and helping them access responsible financial solutions,” Shulman said in a statement . “OneMain Bank will further strengthen our financial foundation, enhance the resilience of our business, and position us to serve more customers for generations to come.”
+The FDIC has seen an uptick in ILC charter applications during President Donald Trump’s second term. FDIC Chair Travis Hill , in early 2025, highlighted ILCs as a way to “reestablish … a meaningful pipeline of new entrants into the banking sector.”
+Indeed, OneMain applied for its ILC charter in March 2025 – but has seen pushback nearly from the start.
+The National Community Reinvestment Coalition, for one, expressed concern, as early as June of that year, that “granting deposit insurance to OneMain would create a dangerous mix of commerce and banking.”
+“The FDIC should be especially skeptical of industrial loan company charters in the high-risk consumer finance sector,” the NCRC said in a June 2025 comment letter to Hill and Shulman. “An ILC charter would allow OneMain to fund its lending operations with lower-cost, insured deposits instead of more expensive commercial funding or equity, significantly altering its risk profile.”
+OneMain, in its press release Tuesday, cited personal loans, auto finance and credit cards as areas where the bank will focus its efforts. Some of the personal loans will be unsecured, and the credit cards will be funded by brokered deposits, the FDIC noted. Additionally, OneMain Bank will feature “a nominal amount of retail savings deposits,” the agency said.
+But some of OneMain’s practices have run afoul of regulators in the past. The Consumer Financial Protection Bureau in 2023 ordered the company to pay $20 million to settle allegations it deceived customers into purchasing add-on products to receive loans.
+Nearly three years later, 13 state attorneys general sued OneMain on similar grounds, alleging the company misled subprime customers into adding credit insurance products and other high-interest offerings to their loans when borrowers did not know the cost impact.
+The NCRC, in its letter, said OneMain’s “pattern of conduct … makes it unfit for an ILC charter,” citing a “troubling pattern of consumer harm rooted in fundamental compliance failures.”
+“Nonprime lending is particularly sensitive to economic downturns, as borrowers in this segment are more likely to default during periods of financial stress,” the organization said. “These dynamics create systemic vulnerabilities and raise fundamental questions about the safety and soundness of granting a bank charter to such a business model.”
+The FDIC on Tuesday warned OneMain that its bank must comply with the CFPB order if it offers to finance optional add-on products or risk “further action.”
+The NCRC also took issue over OneMain’s responsibility for community reinvestment, warning of a “mismatch” if the bank were only required to concentrate CRA efforts in Utah despite lending nationwide.
+The FDIC, to that point, will require OneMain to “finalize and implement a Community Reinvestment Act Strategic Plan that is appropriate for its business strategy,” the regulator said Tuesday.
+Historically, some lawmakers and bank trade groups have urged regulators to take caution at issuing ILC charters, arguing the license lets companies bypass oversight by the Federal Reserve.
+That setup “leav[es] a dangerous gap in safety and soundness oversight and introducing unnecessary systemic risk into the banking system,” the Independent Community Bankers of America argued in May .

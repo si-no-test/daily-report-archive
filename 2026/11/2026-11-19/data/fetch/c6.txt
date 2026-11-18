@@ -1,0 +1,4 @@
+FINAL_URL: https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

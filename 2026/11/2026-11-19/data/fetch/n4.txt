@@ -1,0 +1,18 @@
+FINAL_URL: https://www.bankingdive.com/news/banks-running-out-time-benefit-ai-mckinsey-chatgpt-claude-gemini/874934/
+STATUS: ok
+CHARS: 3006
+---CONTENT---
+Data silos threaten banks’ competitive edge in AI
+Nearly three in four consumers using AI for banking tasks opt for ChatGPT, Claude or Gemini — almost double those using a bank’s chatbot, a McKinsey report found.
+Artificial intelligence is disrupting banks’ business models, prompting a race to reap the benefits before the window of opportunity closes, according to a McKinsey & Co. report published last week .
+Nearly three in four consumers using AI for banking turn to OpenAI’s ChatGPT, Anthropic’s Claude or Google’s Gemini for banking tasks, almost double the amount who use a bank’s chatbot, the report found. The trend highlights a quickly fading grace period, as consumers across demographics embrace AI faster than previous technology waves, according to McKinsey.
+As banks pour investment dollars into AI efforts, “speed could determine how much value the bank keeps, and unlike in past technology cycles, a late start may not offer chances to catch up, depending on how the profits get reinvested,” the report said.
+As banks seek to strike a balance between accelerating AI use and maintaining operations and security, they’re also contending with digital technology challenges.
+Thousands of customers from JPMorgan Chase, among other firms, reported issues accessing their online accounts Monday .
+While navigating traditional technology challenges, data readiness continues to be an issue for chief information officers on their AI journeys.
+Nearly half o f banking executives ranked data readiness as their top AI obstacle, McKinsey found. To see better results with AI projects over time, banks need to build institutional intelligence – starting with data that agents can consume at scale, according to McKinsey.
+Banks also need to build context, which McKinsey described as a map of customer accounts with permissions set in place, and implement an encoded judgment call policy agents can reuse.
+“The customer wants a capable deputy that asks for permission, and the bank that gets the permission model right may win the mandate to move the customer’s money,” the report said.
+Still, high-value AI deployments remain stuck in pilot purgatory, largely due to meaningful business data also being trapped inside siloed legacy systems, according to a report from information management compan y Iron Mountain. Instead of spending time scaling agents, skilled IT and data science personnel are burning hours wrangling data manually to support projects, according to 84% of IT leaders.
+In a move to improve analyst access to data, Northern Trust worked with Microsoft Frontier Company’s forward-deployed engineering team to launch an AI-powered onboarding agent. The agent cut data preparation time b y 83%, from 2½ weeks to three days.
+“Accelerating our strategic execution and the transformation of the company is AI,” Northern Trust CEO Michael O’Grady said during the bank’s third-quarter earnings call in October. “Our focus has been on converting widespread adoption into business value.”

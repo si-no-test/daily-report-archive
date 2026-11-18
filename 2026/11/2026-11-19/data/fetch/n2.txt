@@ -1,0 +1,19 @@
+FINAL_URL: https://www.bankingdive.com/news/jpmorgan-updates-accounts-receivable-platform-working-capital-michelle-conklin/874918/
+STATUS: ok
+CHARS: 3438
+---CONTENT---
+JPMorgan updates AR platform to help free up working capital
+The bank, which has been in the receivables business for decades, has recently taken steps to modernize its platform, JPMorgan’s Michelle Conklin said.
+CFOs often don’t give their accounts receivable departments the attention they deserve, according to JPMorgan’s Michelle Conklin.
+In recent years, the headcount of AR teams that reconcile company payments has shrunk as automation has taken over many manual tasks, even as a rising variety of payment types is making the process more complex, said Conklin, head of J.P. Morgan’s Payments unit’s receivables and public sector business.
+On top of that, AR has historically been viewed as a back-office process and companies are not always investing in modernizing their systems. As a result, working capital that isn’t efficiently reconciled gets “stuck” rather than deployed to a company’s benefit, she said.
+“Unless the accounts receivable team is able to identify who pays for what ... your working capital gets trapped because of reconciliation challenges,” Conklin said in a recent interview. “That’s really where that friction begins.”
+Helping businesses modernize and speed up the AR process is big business for the New York City-based banking giant. Currently, about 9,000 of its banking clients are served by its receivables platform, which enables businesses to reconcile payments received, Conklin said.
+The bank has been in the receivables business for decades, a spokesperson said, but it has recently taken steps to modernize the system.
+For example, last year JPMorgan deployed AI-powered robots to secure sites managed by the bank that process check payments sent to businesses. With the tool, checks are deposited after robots open envelopes containing checks, remove staples and digitize the documents such as payment stubs and invoices that come with the payments.
+JPMorgan this month took another step to update its receivables offering by launching a third means of matching or reconciling payments with what the money the company had expected to get.
+Previously, the bank’s clients effectively matched two different pieces of data: The payments itself in whatever forms they arrive at the organization, and the information that arrives with them, Conklin said. That could be an invoice, or, in the case of an ACH payment, any information that comes in the addendum fields, she said.
+Now the platform is able to reconcile payments received with a business’s own AR file, she said. “That was always the missing piece,” Conklin said.
+Adding the AR file is simple, she said. Companies can upload a Microsoft Excel file with all the data on the payments they should receive, which then enables JPMorgan to make sure that the payments are as expected and applied properly.
+“The client obviously sits on their own open accounts receivable system,” Conklin said. “We don’t have access into that. What we’re saying is if you load the information then we will do the matching for you so that when the payment comes in you have that information as opposed to us sending the clients the payment information with the invoice info we capture and then the client having to go into their own AR system and saying, ‘Yep, received it, yep received.’ We do that for them.”
+Conklin said the service is available to any clients who have JPMorgan as a depositing bank, although there is a fee that the bank declined to disclose.

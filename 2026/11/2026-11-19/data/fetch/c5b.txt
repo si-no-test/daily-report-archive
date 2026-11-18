@@ -1,0 +1,20 @@
+FINAL_URL: https://www.pymnts.com/blockchain/2026/world-bank-taps-circle-and-citi-to-expand-stablecoin-use/
+STATUS: ok
+CHARS: 3074
+---CONTENT---
+World Bank Taps Circle and Citi to Expand Stablecoin Use
+World Bank Group wants to test the potential of regulated stablecoin infrastructure in improving payments and settlements for its clients.
+“This initiative is about exploring ways to make the financial plumbing of development work better for the people who need it most,” Ajay Banga , World Bank Group president, said in a news release Tuesday (Nov. 17). “Enabling money to move faster and at lower cost means real development impact—a health clinic gets built on time, a farmer gets paid before the harvest season ends.”
+The release noted that development finance institutions are facing more strain on their resources even as their challenges grow in complexity. Modest efficiency gains, achieved at scale, could potentially redirect major resources to development impact.
+With that in mind, the World Bank is teaming with Citi and Circle to explore how U.S. dollar-denominated regulated stablecoins and associated blockchain-based payment rails could work in tandem with or enhance existing World Bank Group funds disbursement arrangements based on correspondent banking architecture.
+“Central to this initiative will be Citi’s existing connections to established banking rails and Circle’s stablecoin payments infrastructure to mint and settle funds in USDC,” the announcement said.
+The news follows an project launched in September by the International Finance Corporation (IFC)—a member of the World Bank Group that concentrates on the private sector—to promote digital payment access for consumers and small businesses.
+“In some of these markets, financial institutions are constrained by financial requirements that can limit their ability to participate in global payment ecosystems, leaving millions of people and local merchants reliant on cash and cut off from the convenience, safety, and efficiency digital payments can provide,” IFC said in a news release.
+The new initiative is aimed at closing this gap with $700 million in guaranteed funding to cover part of the credit settlement risk, permitting more institutions to offer digital payment services to more customers. Mastercard said it would provide $500 million toward that goal, with Visa agreeing to contribute $200 million.
+Meanwhile, research by PYMNTS Intelligence from the July study “From Asset to Everyday Money: Making Digital Currencies Spendable” found that although consumers show growing interest in using stablecoins for purchases, acceptance, trust and uneven payment experiences continue to limit their choices.
+“The report pointed to a practical way forward ,” PYMNTS wrote. “Linked cards, instant conversion and modern issuer-processing systems can connect digital assets to the payment tools consumers and merchants already use.”
+Wonder Debuts Build-Your-Own-Restaurant Platform
+Chase, Microsoft and FAA Meltdowns Hand AI Its Big Moment
+World Bank Taps Circle and Citi to Expand Stablecoin Use
+Microsoft’s $500 Million ByteDance Deal Dismays OpenAI
+Circle , Citi , digital assets , News , PYMNTS News , stablecoins , What's Hot
