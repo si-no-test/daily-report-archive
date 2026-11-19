@@ -1,0 +1,13 @@
+[
+ {"name":"N26","url":"https://n26.com","intro":"總部位於德國柏林的純網路銀行，服務多個歐洲市場的個人與企業客戶。"},
+ {"name":"PNC銀行","url":"https://www.pnc.com","intro":"總部位於匹茲堡的美國大型商業銀行，以零售與企業金融業務為主。"},
+ {"name":"谷歌","url":"https://www.google.com","intro":"全球主要搜尋與雲端科技公司，旗下有Google錢包與Gemini AI模型。"},
+ {"name":"第五三銀行","url":"https://www.53.com","intro":"總部位於美國俄亥俄州辛辛那提的區域銀行，旗下有Jeanie數位助理。"},
+ {"name":"美國清算所","url":"https://www.theclearinghouse.org","intro":"由美國大型銀行共同持有的支付清算機構與銀行業政策組織，營運RTP即時支付網路。"},
+ {"name":"Plaid","url":"https://plaid.com","intro":"美國金融資料串接平台，協助應用程式在客戶授權下連結銀行帳戶。"},
+ {"name":"Sierra","url":"https://sierra.ai","intro":"由Bret Taylor共同創辦的企業AI客服代理新創公司。"},
+ {"name":"MoonPay","url":"https://www.moonpay.com","intro":"提供加密資產買賣、支付與穩定幣服務的金融科技業者。"},
+ {"name":"新加坡金融管理局","url":"https://www.mas.gov.sg","intro":"新加坡的中央銀行暨金融監理機關。"},
+ {"name":"美國貨幣監理署","url":"https://www.occ.gov","intro":"美國財政部轄下負責核發與監理全國性銀行執照的聯邦機關。"},
+ {"name":"Revolut","url":"https://www.revolut.com","intro":"總部位於英國的數位銀行與金融科技平台，提供跨國帳戶與支付服務。"}
+]

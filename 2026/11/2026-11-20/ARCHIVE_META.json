@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-20",
+  "archived_at": "2026-11-19T23:16:20Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "513f2c9b053bcc6fa96bc5aa73c267f4c5ba3e0b",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 22,
+  "total_bytes": 804117,
+  "files": [
+    {
+      "path": "data/2026-11-20-candidates.txt",
+      "bytes": 57201,
+      "sha256": "afa563d7c0da1b9389cb17f954f42a9b9c9614aaabab1c4fead6e202537aa5bf"
+    },
+    {
+      "path": "data/2026-11-20-glossary.json",
+      "bytes": 2033,
+      "sha256": "74cc5f0549acfba4b9f9bae1252627dc50867c3cc8e4e5f93887095535242106"
+    },
+    {
+      "path": "data/2026-11-20-manifest.txt",
+      "bytes": 3460,
+      "sha256": "ef330edcdcf863081165ef8a13e0170c7ca8dd385ec7ed7c50e3a5665ed0e056"
+    },
+    {
+      "path": "data/2026-11-20-orgs.json",
+      "bytes": 1644,
+      "sha256": "a47df31841f4e812a8cdf089fbf32c9a136f3c71b8b0a4a220daf2a092f10005"
+    },
+    {
+      "path": "data/2026-11-20-topic-cases.json",
+      "bytes": 2777,
+      "sha256": "e7a33538d237dfb4ccc4517b1ebf0515d84f1d0102b91dd8d4b63ec639a59c21"
+    },
+    {
+      "path": "data/2026-11-20-topic-decisions.json",
+      "bytes": 1999,
+      "sha256": "6714a7616a5672a8f037b052a6a2a31970052cbcbf45feeb5f007f53e6ce0b99"
+    },
+    {
+      "path": "data/2026-11-20.json",
+      "bytes": 18875,
+      "sha256": "b9ad5a3ac95d7d95e678a0bf5b9b45fc656a61675aa0c5e9d34606999f24024a"
+    },
+    {
+      "path": "outbox/2026-11-20-archive.html",
+      "bytes": 101933,
+      "sha256": "e7a52540373cf426d4033fdb1954f225a61fe5a599977beeb1dd630eeda20a7f"
+    },
+    {
+      "path": "outbox/2026-11-20-email.html",
+      "bytes": 11827,
+      "sha256": "9cbc10ad504823753e1016cd1829987902e7f43d02c6f59dcd0d69c32a6e7862"
+    },
+    {
+      "path": "published/2026-11-20.html",
+      "bytes": 555,
+      "sha256": "21ea454e607d2d802b615b5f88c3471fc8c0a117526175af802078908659b7be"
+    },
+    {
+      "path": "published/2026-11-20/ai.html",
+      "bytes": 36651,
+      "sha256": "6e35fbf9d206c27ad2a97fae6a9c0c12c2410caa43c5719e5022d189677a9c04"
+    },
+    {
+      "path": "published/2026-11-20/blockchain.html",
+      "bytes": 49973,
+      "sha256": "f3d7214f6fe2539aee4c9e64c273cd8a856bac64f51d68720fa5237b17186203"
+    },
+    {
+      "path": "published/2026-11-20/index.html",
+      "bytes": 23017,
+      "sha256": "2b87b91f490c9271a281c1bb5dec675dc949bf5c8f3ebfe60aa536e4519b174a"
+    },
+    {
+      "path": "published/2026-11-20/innovation.html",
+      "bytes": 53094,
+      "sha256": "da94fce5d094dd7a4e38e1febcf5bf77714de3335d091c50350d426b2e3a0ca9"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 385050,
+      "sha256": "63a17d0ee22615bb1a73f65c4f943ae620122107f394db196f06f7c04d01083e"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "3496ebdfc44ce73bd9508594e643849bcdb10ce4b2424f793ab9021e16cf4c1c"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "21ea454e607d2d802b615b5f88c3471fc8c0a117526175af802078908659b7be"
+    },
+    {
+      "path": "published/topics/bank-ai-agent-card-access-policy.html",
+      "bytes": 5449,
+      "sha256": "a176fabaca92a238ad500950f8cd33e48fb6748e4dcbbccd78a960a2f3039b6e"
+    },
+    {
+      "path": "published/topics/us-de-novo-bank-formation-wave.html",
+      "bytes": 5163,
+      "sha256": "2d3aef821b53071edfbeba49a79fe3a9908719fa46e5cfef33031c60fbb1a6b8"
+    },
+    {
+      "path": "published/topics/us-fintech-fed-payment-rail-access.html",
+      "bytes": 2500,
+      "sha256": "e128bb875c2337da493e8b0c41fb2ffd74c7401580f5bd7efe38ed8333577607"
+    },
+    {
+      "path": "source/2026-11-20-report.txt",
+      "bytes": 36392,
+      "sha256": "bc6a998609452d05622d1be060a510f543eafe1a90acdad151ac310fcd123bcf"
+    },
+    {
+      "path": "source/2026-11-20-summary.txt",
+      "bytes": 3177,
+      "sha256": "1b3a3a58ee565ee81fcbbe8bf29b22cf2823e2d41675c3a6763c9e2f8a9beab5"
+    }
+  ]
+}

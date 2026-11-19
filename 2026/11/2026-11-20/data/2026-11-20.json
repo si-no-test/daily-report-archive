@@ -1,0 +1,297 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T07:15:58+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "N26 Pursues Higher-Value Customer with New Premium Account",
+   "display_title": "N26於11月19日在德國推出第五層頂級帳戶Aura，月費55歐元、較Metal方案貴逾三倍",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/n26-pursues-higher-value-customer-with-new-premium-account/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/n26-pursues-higher-value-customer-with-new-premium-account/",
+     "status": "ok",
+     "chars": 3774
+    }
+   ],
+   "date_evidence": "2026-11-20（RSS pubDate，Finovate）",
+   "summary": "N26在德國推出月費55歐元頂級帳戶Aura，對標Revolut Ultra，綑綁貴賓室、投資與訂閱權益。",
+   "core_fact": "德國純網銀N26於11月19日推出頂級個人帳戶Aura，月費55歐元，是Metal方案16.90歐元的三倍以上，首波僅開放德國合格個人與企業客戶。Aura提供無限次機場貴賓室、較高儲蓄利率、現金回饋、每月最多15筆免費交易，並綑綁Amazon Prime、Google AI Pro、NordVPN等訂閱，卡片改為陶瓷鏡面卡。N26服務24個歐洲市場逾560萬名營收相關客戶，2025年營收5.016億歐元、淨利160萬歐元，為首個全年獲利年度。",
+   "deep_facts": [
+    "Aura月費55歐元，為Metal方案16.90歐元三倍以上，較Revolut Ultra德國新戶月費65歐元便宜10歐元",
+    "Aura綑綁Amazon Prime、Google AI Pro、NordVPN等訂閱，每月最多15筆免費交易，首波僅開放德國",
+    "N26服務24個歐洲市場逾560萬名營收相關客戶，2025年營收5.016億歐元、淨利160萬歐元為首個全年獲利"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "PNC bets on hospitality to counter AI disruption",
+   "display_title": "PNC銀行（PNC Bank）於11月19日經Banking Dive報導以飯店業式款待強化分行，2031年前規劃新增約370家分行",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/pnc-branches-hospitality-ai-disruption-banking/875202/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/pnc-branches-hospitality-ai-disruption-banking/875202/",
+     "status": "ok",
+     "chars": 4856
+    }
+   ],
+   "date_evidence": "2026-11-20（RSS pubDate，Banking Dive）",
+   "summary": "PNC分行主管表示款待式服務在AI時代更有價值，PNC擴大分行擴點計畫。",
+   "core_fact": "資產6,278億美元的PNC銀行分行通路主管Jeff Martinez於11月19日經Banking Dive報導表示，銀行近年從飯店業招募分行人員並投入款待訓練，預期這項投資一年後價值將放大十倍。PNC現有約2,400家分行，本月再把東南部擴點計畫增加約53個據點，總擴點目標提高到2031年前約370家新分行，並以擴點市場約7%分行占有率為目標；邁阿密由2019年的1家分行擴至2028年底預計50家。",
+   "deep_facts": [
+    "PNC現有約2,400家分行，擴點目標提高至2031年前約370家新分行，擴點市場目標分行占有率約7%",
+    "邁阿密由2019年1家分行擴至2028年底預計50家",
+    "本月新增東南部約53個據點，執行長Demchak稱僅四五家業者意識到這場競賽"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Google wallet returns to Apple",
+   "display_title": "谷歌（Google）於11月17日推出iOS版Google錢包，睽違13年重返蘋果生態系並定位為AI代理購物管理中樞",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-19（RSS pubDate，Payments Dive）",
+   "summary": "Google錢包推出iOS版，定位為AI代理購物管理中樞，暫不支援感應付款。",
+   "core_fact": "谷歌於11月17日透過官方部落格宣布推出iPhone等iOS裝置可用的Google錢包App，距原版iOS錢包2013年推出、約五年後下架已相隔13年。消費支付副總裁P.J. Linarducci表示，錢包將成為管理谷歌各服務AI代理購物的安全中樞，讓蘋果用戶掌控代理消費；但目前不支援在蘋果裝置上感應付款。分析師指出此舉與Meta個人代理Muse整合Stripe Link錢包、OpenAI上週推出ChatGPT錢包屬同一波代理商務布局。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "M&T aims to ‘dial up’ credit card rewards",
+   "display_title": "M&T銀行（M&T Bank）於11月19日經Payments Dive報導加碼信用卡雜貨與加油回饋，信用卡承諾額度約68億美元",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-20（RSS pubDate，Payments Dive）",
+   "summary": "M&T提高信用卡雜貨與加油回饋，以簡單權益守住主往來客戶。",
+   "core_fact": "資產2,189億美元的美國區域銀行M&T於本月調整旗下一張信用卡的回饋結構，提高雜貨與加油消費回饋，並維持彈性兌換與免年費。零售銀行主管Chris Nichols於11月19日經Payments Dive報導表示，客戶回饋希望權益簡單易懂、貼近日常消費。M&T信用卡承諾額度約68億美元，第三季卡片收入9,000萬美元，與去年同期持平；該行自2010年把信用卡業務收回自營，目前四張卡只向既有客戶推廣。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Florida credit union to buy in-state bank",
+   "display_title": "戴德郡聯邦信用合作社（Dade County Federal Credit Union）於11月17日宣布以全現金收購資產3.3275億美元的Evermore Bank，今年第10宗信合社併銀行案",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/florida-credit-union-dcfcu-to-buy-evermore-bank-palm-beach-lauderdale/875072/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-19（RSS pubDate，Banking Dive）",
+   "summary": "戴德郡聯邦信用合作社全現金收購Evermore Bank，為今年第10宗信合社併銀行案。",
+   "core_fact": "總部位於佛州Sweetwater的戴德郡聯邦信用合作社於11月17日宣布收購勞德岱堡的Evermore Bank，採全現金交易但未揭露金額。收購資產3.3275億美元的Evermore後，該信合社資產將增至約18.7億美元，並取得在棕櫚灘郡的首個實體據點。這是2026年第10宗信用合作社收購銀行案，較2024年創紀錄的22宗與2025年的16宗明顯放緩；交易已獲雙方董事會一致通過，尚待股東與主管機關核准。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Fifth Third Bank’s approach to retooling Jeanie into an intent-driven assistant",
+   "display_title": "第五三銀行（Fifth Third Bank）於11月19日經Tearsheet報導自建改造聊天助理Jeanie，自助完成率由3%提升至42%",
+   "source": "Tearsheet",
+   "source_tier": "T2",
+   "url": "https://tearsheet.co/podcasts/fifth-third-banks-approach-to-retooling-jeanie-into-an-intent-driven-assistant/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://tearsheet.co/podcasts/fifth-third-banks-approach-to-retooling-jeanie-into-an-intent-driven-assistant/",
+     "status": "ok",
+     "chars": 7505
+    }
+   ],
+   "date_evidence": "2026-11-19（RSS pubDate，Tearsheet；內文 November 19, 2026）",
+   "summary": "第五三銀行自建Jeanie助理，自助完成率與意圖辨識率大幅提升。",
+   "core_fact": "美國第五三銀行資訊長Jude Schramm於11月19日經Tearsheet報導說明，該行把疫情期間在第三方平台上推出的聊天助理Jeanie改為自行開發，自助完成率由3%提升至42%，意圖辨識率由約20%提升至87%。該行App有逾200項功能，新版Jeanie可直接理解「我要用Zelle轉帳」或「我要轉錢給叔叔」等口語並導向正確功能；2025年底起才在建立政策與控管後導入生成式AI，旗下NewLine支付業務去年處理金額約14兆美元。",
+   "deep_facts": [
+    "Jeanie不得自行移動資金，連查詢餘額都需客戶再確認，並以專利Sentinel技術監控客戶、裝置與助理連線",
+    "2025年底才在建立AI政策與控管後導入生成式AI，轉真人時保留對話脈絡免重複驗證",
+    "資訊長預估九成AI供應商五年後不復存在，三到五年內日常銀行業務將由Jeanie處理",
+    "NewLine支付業務去年處理約14兆美元"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Panel Weighs Who Pays When AI Agents Exceed Consumers’ Instructions",
+   "display_title": "美國清算所（The Clearing House）於11月18日年會邀集PNC、Plaid與紐約州檢察總長辦公室辯論AI代理越權購物的損失歸屬",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/panel-weighs-who-pays-when-ai-agents-exceed-consumers-instructions/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/panel-weighs-who-pays-when-ai-agents-exceed-consumers-instructions/",
+     "status": "ok",
+     "chars": 5610
+    }
+   ],
+   "date_evidence": "2026-11-20（RSS pubDate，PYMNTS）",
+   "summary": "清算所年會辯論AI代理越權購物的損失歸屬與消保法適用。",
+   "core_fact": "美國清算所於11月18日年會舉辦專題座談，由Alston & Bird合夥人Duncan Douglass主持，PNC法務、消費者銀行協會、紐約州檢察總長辦公室、Plaid與全國消費者法律中心代表與談。紐約州執法律師Chris Filburn主張代理越權時損失應由最能預防損害的AI供應商承擔；Plaid的Jelena McWilliams則主張以可信介面授權並用既有詐欺偵測系統攔截異常交易。Douglass引用Visa本月購物基準測試，AI模型在42.8%的模擬中失敗。",
+   "deep_facts": [
+    "紐約州檢察總長辦公室執法律師主張損失應由最能預防損害的AI供應商承擔",
+    "Visa本月購物基準測試中AI模型42.8%模擬失敗",
+    "信用卡適用公平信用帳單法帳單錯誤程序，簽帳卡與ACH適用E號規則，現行法未明確涵蓋代理偏離指令"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "AI Customer Support Startup Sierra Eyes $30 Billion Valuation",
+   "display_title": "Sierra於11月18日經報導洽談以約300億美元估值募資約15億美元，年化營收已逾4億美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/startups/2026/ai-customer-support-startup-sierra-eyes-30-billion-valuation/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-20（RSS pubDate，PYMNTS）",
+   "summary": "AI客服新創Sierra傳以約300億美元估值募資，年化營收逾4億美元。",
+   "core_fact": "據The Information於11月18日引述知情人士報導，由前Salesforce共同執行長、OpenAI董事長Bret Taylor創辦的AI客服新創Sierra正洽談新一輪募資，估值約300億美元，幾乎是5月上一輪估值的兩倍，募資規模約15億美元。Sierra上月表示年化營收已突破4億美元，較五個月前翻倍；競爭對手Decagon第二季末年化營收約1億美元，預估年底達1.75億至2億美元，同樣洽談募資數億美元。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "MoonPay Joins Wave of Crypto Firms Seeking Banking Licenses",
+   "display_title": "MoonPay於11月17日向美國貨幣監理署申設MoonPay National Trust Bank，擴大託管與穩定幣服務",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cryptocurrency/2026/moonpay-joins-wave-of-crypto-firms-seeking-banking-licenses/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cryptocurrency/2026/moonpay-joins-wave-of-crypto-firms-seeking-banking-licenses/",
+     "status": "ok",
+     "chars": 3009
+    }
+   ],
+   "date_evidence": "2026-11-20（RSS pubDate，PYMNTS）",
+   "summary": "MoonPay向OCC申設全國性信託銀行以擴大託管與穩定幣服務。",
+   "core_fact": "加密支付業者MoonPay於11月17日向美國貨幣監理署（OCC）遞件申設MoonPay National Trust Bank，用以擴大託管業務與穩定幣服務，彭博於11月19日披露此事。全國性信託銀行可辦理託管與資產管理，但不吸收存款、不承作放款。OCC曾於8月表示過去18個月收到40件新設銀行執照申請，而2011至2024年間合計僅48件；Coinbase近期已獲OCC核准成為全國性銀行，Circle稍早亦取得核准。",
+   "deep_facts": [
+    "申設行名為MoonPay National Trust Bank，於11月17日遞件、彭博11月19日披露",
+    "OCC過去18個月收到40件新設執照申請，2011至2024年合計僅48件",
+    "ICBA上月控告OCC，稱信託執照被當作加密業者進入銀行體系的側門"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Supreme Court spurns Custodia’s master-account fight",
+   "display_title": "卡斯托迪亞銀行（Custodia Bank）於11月16日遭美國最高法院拒絕受理聯準會主帳戶上訴，爭訟逾四年後低級法院判決確定",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/custodia-supreme-court-deny-petition-fed-master-account-access-waller/875102/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/custodia-supreme-court-deny-petition-fed-master-account-access-waller/875102/",
+     "status": "ok",
+     "chars": 4558
+    }
+   ],
+   "date_evidence": "2026-11-19（RSS pubDate，Banking Dive）",
+   "summary": "最高法院拒絕受理Custodia上訴，聯準會主帳戶裁量權判決確定。",
+   "core_fact": "美國最高法院於11月16日拒絕受理懷俄明州數位銀行卡斯托迪亞銀行的上訴，第十巡迴上訴法院認定聯準會及各地區聯邦準備銀行有權裁量是否核發主帳戶的判決因此確定。卡斯托迪亞於2022年6月起訴聯準會，當時其申請已等待19個月，而聯準會資料顯示一般流程僅需5至7個營業日；堪薩斯城聯邦準備銀行於2023年1月駁回申請，理由是其業務過度依賴波動劇烈的加密市場且不法金融風險控管不足。",
+   "deep_facts": [
+    "Custodia起訴時申請已等待19個月，聯準會資料稱一般流程5至7個營業日",
+    "Kraken於3月取得首張精簡主帳戶，Waller坦言精簡帳戶影響法院判斷",
+    "PayServices另案在第九巡迴上訴法院審理，BPI稱主帳戶是特權而非權利"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+   "display_title": "新加坡金融管理局（MAS）於11月19日發行7,750萬美元代幣化票據，並以批發型央行數位貨幣完成結算",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
+     "status": "fail",
+     "chars": 65
+    }
+   ],
+   "date_evidence": "Thu, 19 Nov 2026 10:39:36 +0000",
+   "summary": "MAS在新加坡元測試網路原生發行7,750萬美元代幣化票據，以批發型CBDC結算，2027年擴大網路並測試擔保品用途。",
+   "core_fact": "新加坡金融管理局於11月19日宣布，在其新加坡元測試網路上原生發行約7,750萬美元的代幣化票據，並以批發型央行數位貨幣完成交割。金管局表示，2027年將擴大這個數位結算網路，並測試代幣化資產更廣泛作為擔保品的應用。CoinDesk、The Block與Cointelegraph均於同日報導此事，顯示市場將其視為央行級代幣化發行的重要里程碑。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+   "display_title": "Sky於11月19日旗下USDS穩定幣因不法金流報告流出15億美元準備，規模縮水35%",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Thu, 19 Nov 2026 19:53:42 +0000",
+   "summary": "USDS在不法金流報告後流出約15億美元準備、規模縮水35%，仍維持掛鉤。",
+   "core_fact": "去中心化協議Sky旗下穩定幣USDS於11月19日規模縮水35%，約15億美元自準備資產流出，起因是一份區塊鏈調查報告追蹤到約5.18億美元與不法活動相關的資金，包括2025年Bybit遭駭案，曾流經支撐DAI與USDS的關鍵準備資產。報告指北韓駭客曾利用Sky的穩定幣系統，使數十億美元資產面臨凍結風險；一名與Poloniex相關的大額持有人隨後撤出Sky大部分USDC流動性，但USDS仍維持1美元掛鉤。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "fixed_rss_feeds": 17,
+  "rss_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus",
+   "Crowdfund Insider"
+  ],
+  "required_searches": {
+   "A": 10,
+   "B": 5,
+   "C": 4
+  },
+  "supplementary_region_searches": [
+   "台灣",
+   "歐洲",
+   "日本",
+   "韓國",
+   "中國"
+  ],
+  "section_backfill_searches": 0,
+  "notes": "[A][B][C] 19 條皆已執行，搜尋結果無審計窗內可用新條目；Ant International 候選因原文 403 且替代來源經查為 10/21 舊事件，改不採用"
+ }
+}

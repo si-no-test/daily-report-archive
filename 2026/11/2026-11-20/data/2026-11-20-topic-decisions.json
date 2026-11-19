@@ -1,0 +1,8 @@
+[
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"match","topic_id":"bank-ai-agent-card-access-policy","headline":"美國清算所於11月18日年會辯論AI代理越權購物的損失歸屬","one_line_update":"清算所年會上紐約州檢察總長辦公室主張代理越權損失應由AI供應商承擔，Plaid主張以可信介面授權加詐欺偵測攔截，PNC傾向以限額API取代帳密登入；Visa測試顯示AI模型42.8%模擬購物失敗，爭議責任規則仍待CFPB與法院釐清。","source_title":"Panel Weighs Who Pays When AI Agents Exceed Consumers’ Instructions","source_url":"https://www.pymnts.com/news/artificial-intelligence/2026/panel-weighs-who-pays-when-ai-agents-exceed-consumers-instructions/"},
+ {"action":"match","topic_id":"us-de-novo-bank-formation-wave","headline":"MoonPay於11月17日向OCC申設全國性信託銀行","one_line_update":"加密支付業者MoonPay申設不收存款、不放款的MoonPay National Trust Bank以擴大託管與穩定幣服務，延續Coinbase、Circle獲核准後的加密業者執照潮；ICBA上月已就信託執照範圍控告OCC。","source_title":"MoonPay Joins Wave of Crypto Firms Seeking Banking Licenses","source_url":"https://www.pymnts.com/cryptocurrency/2026/moonpay-joins-wave-of-crypto-firms-seeking-banking-licenses/"},
+ {"action":"match","topic_id":"us-fintech-fed-payment-rail-access","headline":"最高法院於11月16日拒絕受理Custodia主帳戶上訴","one_line_update":"最高法院拒絕受理卡斯托迪亞銀行上訴，聯準會核發主帳戶的裁量權判決確定；Waller坦言精簡主帳戶（Kraken於3月首獲）影響法院判斷，非傳統業者接取聯準會軌道改以精簡帳戶為主要路徑，PayServices另案仍在第九巡迴法院審理。","source_title":"Supreme Court spurns Custodia’s master-account fight","source_url":"https://www.bankingdive.com/news/custodia-supreme-court-deny-petition-fed-master-account-access-waller/875102/"}
+]
