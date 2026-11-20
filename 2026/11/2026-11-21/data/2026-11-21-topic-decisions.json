@@ -1,0 +1,55 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "corpay-tpg-bill-take-private",
+  "title": "TPG與Corpay私有化Bill及後續整併進程",
+  "theme": "innovation",
+  "keywords": [
+   "Bill",
+   "Corpay",
+   "TPG",
+   "私有化",
+   "企業支付",
+   "AvidXchange"
+  ],
+  "headline": "TPG與Corpay宣布以約60億美元私有化Bill",
+  "one_line_update": "11月19日TPG與Corpay宣布以每股63.25美元、約60億美元現金私有化Bill，Corpay出資11億美元取得33%股權並握有2030年前全數收購選擇權，預計明年上半年完成交易。",
+  "source_title": "Bill sells for $6B to TPG, Corpay",
+  "source_url": "https://www.paymentsdive.com/news/bill-sells-for-6b-to-tpg-corpay/875331/"
+ },
+ {
+  "action": "match",
+  "topic_id": "anthropic-ipo-path",
+  "headline": "Anthropic於那斯達克掛牌，首日溢價約33%、市值逾2兆美元",
+  "one_line_update": "11月19日Anthropic以每股83美元承銷價掛牌那斯達克，開盤111.50美元、溢價約33%，募資逾800億美元，預計握有約2,200億美元現金。",
+  "source_title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+  "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "mas-project-bloom-tokenized-money",
+  "title": "新加坡Project BLOOM代幣化貨幣與資金調度應用推進",
+  "theme": "blockchain",
+  "keywords": [
+   "Project BLOOM",
+   "新加坡金融管理局",
+   "代幣化存款",
+   "代幣化貨幣市場基金",
+   "螞蟻國際",
+   "星展銀行"
+  ],
+  "headline": "螞蟻國際、星展與富蘭克林坦伯頓完成代幣化存款與基金自動切換試點",
+  "one_line_update": "11月19日螞蟻國際推出Whale Orchestration Protocol，在Project BLOOM框架下與星展銀行、富蘭克林坦伯頓完成代幣化存款與代幣化貨幣基金自動切換試點，不需第三方帳本或跨鏈橋。",
+  "source_title": "Ant International, DBS, Franklin Templeton automate tokenized deposit to MMF switching",
+  "source_url": "https://www.ledgerinsights.com/ant-international-dbs-franklin-templeton-automate-tokenized-deposit-to-mmf-switching/"
+ },
+ {
+  "action": "skip"
+ }
+]

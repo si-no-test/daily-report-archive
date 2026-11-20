@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-21",
+  "archived_at": "2026-11-20T23:15:44Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "5855699bf6d29190c950da121062f34eff1113c8",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 22,
+  "total_bytes": 799551,
+  "files": [
+    {
+      "path": "data/2026-11-21-candidates.txt",
+      "bytes": 59466,
+      "sha256": "105a825c38bc4dcdd4044b2c39b41c45232f118e45d4ca382f4901ba13663c5a"
+    },
+    {
+      "path": "data/2026-11-21-glossary.json",
+      "bytes": 2465,
+      "sha256": "74d29a5a4aa26a6059302b7122a25947d3c85f3e2bc8cdf5db2d1a5bda9a9e0b"
+    },
+    {
+      "path": "data/2026-11-21-manifest.txt",
+      "bytes": 3460,
+      "sha256": "03cb91d1f27dc8f1cc1be102423cef239720b2442e12fa3458804233c90cb717"
+    },
+    {
+      "path": "data/2026-11-21-orgs.json",
+      "bytes": 1510,
+      "sha256": "132c68b39b2ae252c73dbfe146ddbf03ea5620960aae7b68d4768a6fe899c130"
+    },
+    {
+      "path": "data/2026-11-21-topic-cases.json",
+      "bytes": 2024,
+      "sha256": "ac05a1ee5b5f943ba3bbeffef447ad92fe61fe531d250c4c95052a0cb767bca6"
+    },
+    {
+      "path": "data/2026-11-21-topic-decisions.json",
+      "bytes": 2280,
+      "sha256": "97df08da186f7ff0d69a29c8f103750be0b34d4bb2686f037a9dece259a1280d"
+    },
+    {
+      "path": "data/2026-11-21.json",
+      "bytes": 18573,
+      "sha256": "e48aca337be1da86c8379c2fba5dea51e13f04146c167ebbe7e28a924d26d028"
+    },
+    {
+      "path": "outbox/2026-11-21-archive.html",
+      "bytes": 98283,
+      "sha256": "bb6237ba8b53d299e829f7cb70a2db05509486c5c6a07b95de1911b861822667"
+    },
+    {
+      "path": "outbox/2026-11-21-email.html",
+      "bytes": 11751,
+      "sha256": "267dfb9fc937e8d83efef0fdd309f9da8ffab364e6a678f939b9a904e0083dda"
+    },
+    {
+      "path": "published/2026-11-21.html",
+      "bytes": 555,
+      "sha256": "57ebd775927b9328f9afe3284c4cced92111b7ab6ce48eea032ba3ce1e7bb476"
+    },
+    {
+      "path": "published/2026-11-21/ai.html",
+      "bytes": 36589,
+      "sha256": "18a8225006ce62744cec8ef223aa2f7d62b71a213671e87d630a55d8c5a3f490"
+    },
+    {
+      "path": "published/2026-11-21/blockchain.html",
+      "bytes": 44314,
+      "sha256": "30bab21101a23dc88ede0cc27097bf1224877db295db8a1dc97f30c56808f211"
+    },
+    {
+      "path": "published/2026-11-21/index.html",
+      "bytes": 23830,
+      "sha256": "345995d9ae1d2f4150b678f51c3279f1d55e0ff3b99090e8f1ea9cc13db49f9f"
+    },
+    {
+      "path": "published/2026-11-21/innovation.html",
+      "bytes": 54949,
+      "sha256": "fd20b639a7cd969170f9a3346a8a3c7f248562268080872b7e3cc9a0aa94ae4c"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 388598,
+      "sha256": "56974d0a3036b1f40650b7102e77d18171f69fff4768d31680cb69e2ad890b46"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "a427a1560f3b9fe1c7a93a69a9f6d99aefb323c8bbc00e6a68c8cb567e031b3f"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "57ebd775927b9328f9afe3284c4cced92111b7ab6ce48eea032ba3ce1e7bb476"
+    },
+    {
+      "path": "published/topics/anthropic-ipo-path.html",
+      "bytes": 8663,
+      "sha256": "1af418e3db463381a8846acd3f8a767526772934b10b02ebf3bacc9481751e4d"
+    },
+    {
+      "path": "published/topics/corpay-tpg-bill-take-private.html",
+      "bytes": 1463,
+      "sha256": "729611ebd0f4a390795f64dcf34041f0450008e16ff4a8a8e5ab5c115977c18c"
+    },
+    {
+      "path": "published/topics/mas-project-bloom-tokenized-money.html",
+      "bytes": 1661,
+      "sha256": "599a39111fa9273b7b75e2425e915c49353e7b9017e44d633311d9abcd4a636c"
+    },
+    {
+      "path": "source/2026-11-21-report.txt",
+      "bytes": 34524,
+      "sha256": "29db67d253f4519dba1ae00f0da191bb29c08e4a5bd23ce68d6a492546966207"
+    },
+    {
+      "path": "source/2026-11-21-summary.txt",
+      "bytes": 3246,
+      "sha256": "b019ede040f479b08e0eb5e203ee6f6df50b744c14895e3132e380a218cbece4"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+ {
+  "name": "OakNorth",
+  "url": "https://www.oaknorth.com",
+  "intro": "英國數位銀行，專攻中型企業授信，近日取得美國全國性銀行執照。"
+ },
+ {
+  "name": "Corpay",
+  "url": "https://www.corpay.com",
+  "intro": "美國企業支付與支出管理業者，提供企業付款、跨境匯款與燃料卡等服務。"
+ },
+ {
+  "name": "TPG",
+  "url": "https://www.tpg.com",
+  "intro": "美國大型私募股權與另類資產管理公司。"
+ },
+ {
+  "name": "東京海上控股",
+  "url": "https://www.tokiomarinehd.com",
+  "intro": "日本最大產險集團之一，旗下經營產險、壽險與海外保險業務。"
+ },
+ {
+  "name": "損保控股",
+  "url": "https://www.sompo-hd.com",
+  "intro": "日本大型產險集團，旗下包含損保日本等保險公司。"
+ },
+ {
+  "name": "Dataiku",
+  "url": "https://www.dataiku.com",
+  "intro": "企業AI與資料分析平台業者，協助企業建置與管理AI代理。"
+ },
+ {
+  "name": "Fairmint",
+  "url": "https://www.fairmint.com",
+  "intro": "協助企業在區塊鏈上發行與管理股票的業者，旗下有註冊過戶代理機構。"
+ },
+ {
+  "name": "Point72",
+  "url": "https://www.point72.com",
+  "intro": "由Steve Cohen創立的美國大型避險基金與資產管理公司。"
+ },
+ {
+  "name": "Klarna",
+  "url": "https://www.klarna.com",
+  "intro": "瑞典先買後付與支付業者。"
+ },
+ {
+  "name": "Adyen",
+  "url": "https://www.adyen.com",
+  "intro": "荷蘭跨國支付與收單平台業者。"
+ }
+]

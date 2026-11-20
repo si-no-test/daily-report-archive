@@ -1,0 +1,298 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T07:15:23.116723+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "OakNorth gets Fed, OCC nod for US license",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/oaknorth-fed-occ-approve-charter-application-michigan-bank-acquisition-digital-uk/875357/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/oaknorth-fed-occ-approve-charter-application-michigan-bank-acquisition-digital-uk/875357/",
+     "status": "ok",
+     "chars": 3022
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 12:21:54 -0500",
+   "summary": "英國數位銀行OakNorth獲聯準會與OCC核准收購Community Unity Bank，成為首家取得美國全國性銀行執照的外國數位銀行；審查歷時20個月。",
+   "deep_facts": [
+    "收購標的為密西根州Community Unity Bank，OakNorth同時成為美國銀行控股公司",
+    "OakNorth自2023年進入美國後已對美國企業放款約35億美元，主攻年營收500萬至1億美元的中型企業",
+    "美國約占OakNorth新增放款量的40%，取得執照後可直接吸收存款與放款而不再依賴合作銀行"
+   ],
+   "display_title": "OakNorth於11月20日宣布獲美國聯準會與貨幣監理署核准收購Community Unity Bank，成為首家取得美國全國性銀行執照的外國數位銀行，審查歷時20個月",
+   "core_fact": "倫敦數位銀行OakNorth於11月20日宣布，美國聯準會與貨幣監理署已核准其收購密西根州Community Unity Bank，使其成為首家取得美國全國性銀行執照的外國數位銀行，並成為美國銀行控股公司；這項申請歷時20個月才獲准。OakNorth自2023年進入美國後已對美國企業放款約35億美元，美國目前約占其新增放款量的40%，主攻年營收500萬至1億美元、多由創業者經營的中型企業，以商業不動產與工商貸款為主。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Bill sells for $6B to TPG, Corpay",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/bill-sells-for-6b-to-tpg-corpay/875331/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/bill-sells-for-6b-to-tpg-corpay/875331/",
+     "status": "ok",
+     "chars": 4453
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 10:54:00 -0500",
+   "summary": "TPG與Corpay以約60億美元現金私有化Bill，推動企業付款與應收帳款軟體整併。",
+   "deep_facts": [
+    "Corpay出資11億美元取得33%股權，並握有2030年前收購全數股權的選擇權",
+    "交易複製兩家去年以22億美元收購AvidXchange的模式，當時Corpay以5.5億美元取得34%股權",
+    "每股63.25美元較60日均價溢價31%，預計明年上半年完成；Starboard與Lacerte合計約11.1%持股已同意支持"
+   ],
+   "display_title": "TPG與Corpay於11月19日宣布以約60億美元現金收購中小企業帳款軟體商Bill並將其下市，每股收購價63.25美元",
+   "core_fact": "私募基金TPG與美國企業支付業者Corpay於11月19日宣布，以約60億美元全現金將Bill Holdings私有化，每股63.25美元，較11月16日前60日均價溢價31%；TPG取得多數股權，Corpay出資11億美元取得33%股權，並握有在2030年前收購全數股權的選擇權。交易預計於明年上半年完成，最大股東Starboard Value與創辦人兼執行長Lacerte合計持股約11.1%，已同意投票支持。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Adyen Taps Klarna to Enable Agentic Commerce Payment Options Beyond Cards",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/adyen-taps-klarna-to-enable-agentic-commerce-payment-options-beyond-cards/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/commerce/ecommerce/2026/adyen-taps-klarna-to-enable-agentic-commerce-payment-options-beyond-cards/",
+     "status": "ok",
+     "chars": 2724
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 20:11:08 +0000",
+   "summary": "Klarna成為Adyen Agentic代理式商務套件首個卡片以外的支付選項，商家無需額外整合即可開通。",
+   "deep_facts": [],
+   "display_title": "Adyen於11月20日宣布將Klarna納入代理式商務套件Adyen Agentic，成為該套件首個卡片以外的支付選項",
+   "core_fact": "荷蘭支付業者Adyen與瑞典先買後付業者Klarna於11月20日宣布，Klarna成為Adyen Agentic代理式商務套件中第一個卡片以外的支付方式；已透過Adyen提供Klarna的商家無需額外整合即可開通。消費者由AI代理代為結帳時，可看到商家原有的一次付清、免息分期或融資等選項，並須自行審閱確認後才完成交易。這也是Klarna於今年公開的開放支付處理規格首度由合作夥伴正式上線，Adyen Agentic則是Adyen在6月推出的套件。"
+  },
+  {
+   "theme": "innovation",
+   "title": "6 highlights of the OCC’s plan for AI, charters and community banks",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/occ-gould-ai-charter-risk-community-bank-supervision-stablecoin-debanking/875207/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/occ-gould-ai-charter-risk-community-bank-supervision-stablecoin-debanking/875207/",
+     "status": "ok",
+     "chars": 4653
+    }
+   ],
+   "date_evidence": "Thu, 19 Nov 2026 12:21:10 -0500",
+   "summary": "OCC署長Gould宣示持續開放新執照、分級監理並以既有框架監理AI。",
+   "deep_facts": [],
+   "display_title": "美國貨幣監理署（OCC）於11月18日由署長Gould宣示持續開放新銀行執照並以既有風險框架監理AI，兩年內已核准28件執照申請",
+   "core_fact": "美國貨幣監理署署長Jonathan Gould於11月18日在華府Exchequer Club演說中表示，該署過去兩年已核准28件銀行執照申請，另有數十件在審查中，2025年收到的申請件數相當於前四年總和。他宣示將聚焦重大財務風險的分級監理、避免法規負擔阻礙經濟成長並擁抱創新；在AI方面，OCC不會把AI列為獨立風險類別，而視為既有業務作業的一部分。他也提到，2008年金融危機後近半數社區銀行已關閉。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Japan’s Top Insurers See Cyber Claims More Than Double Amid AI Hacking Surge",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/2026/japans-top-insurers-see-cyber-claims-more-than-double-amid-ai-hacking-surge/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/2026/japans-top-insurers-see-cyber-claims-more-than-double-amid-ai-hacking-surge/",
+     "status": "ok",
+     "chars": 2695
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 19:17:23 +0000",
+   "summary": "東京海上與損保10月網路險理賠通知量倍增，主因AI驅動的駭客攻擊。",
+   "deep_facts": [],
+   "display_title": "東京海上控股（Tokio Marine Holdings）與損保控股（Sompo Holdings）於11月19日表示10月網路保險理賠通知量較平常增加2.5至3倍，AI驅動的駭客攻擊是主因",
+   "core_fact": "日本兩大產險集團於11月19日法說會揭露，東京海上控股10月收到的網路保險理賠通知量為平常的三倍，損保控股10月理賠件數則為截至9月30日前12個月平均的2.5倍；損保同時表示，詢問加保或提高保額的件數成長三倍。日本今年網路資安事件已逾500件，高於2025年全年的473件，相較之下美國保險業2025年網路險理賠年增20%。"
+  },
+  {
+   "theme": "ai",
+   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+     "status": "ok",
+     "chars": 2301
+    },
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/barclays-citadel-bny-put-anthropic-claude-work/",
+     "status": "ok",
+     "chars": 5788
+    }
+   ],
+   "date_evidence": "Thu, 19 Nov 2026 16:59:23 +0000",
+   "summary": "Anthropic以每股83美元掛牌那斯達克，首日溢價約33%，募資逾800億美元。",
+   "deep_facts": [
+    "承銷價83美元高於原預估70至78美元區間，開盤交易價達111.50美元",
+    "以開盤價計市值逾2兆美元，僅次於蘋果、亞馬遜、Alphabet、輝達與微軟；預計握有約2,200億美元現金",
+    "公開說明書顯示年貢獻營收10萬美元以上客戶逾11,900家、逾100萬美元者逾1,900家，前十大財星500大銀行皆為客戶"
+   ],
+   "display_title": "Anthropic於11月19日在那斯達克掛牌，首日開盤價111.50美元、較承銷價83美元溢價約33%，市值突破2兆美元",
+   "core_fact": "Anthropic於11月19日在那斯達克掛牌，承銷價定為每股83美元，高於原先70至78美元的預估區間，開盤後交易價達111.50美元、溢價約33%，以開盤價計市值逾2兆美元，僅次於蘋果、亞馬遜、Alphabet、輝達與微軟。這次發行募得逾800億美元，加上既有募資與同步私募，公司預計握有約2,200億美元現金。公開說明書顯示，截至9月30日的12個月內，年貢獻營收10萬美元以上的客戶逾11,900家，前十大財星500大銀行皆為其客戶。"
+  },
+  {
+   "theme": "ai",
+   "title": "AI Vendors Ditch Seat Licenses for Per-Agent Pricing",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-vendors-ditch-seat-licenses-per-agent-pricing/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-vendors-ditch-seat-licenses-per-agent-pricing/",
+     "status": "ok",
+     "chars": 4992
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 20:45:47 +0000",
+   "summary": "WhiteMatter、Nestack與Dataiku改按AI代理數量計價。",
+   "deep_facts": [
+    "Nestack分三級定價：只讀取199美元、可執行或寫入299美元、受監理或關鍵任務499美元並附30分鐘重大事件回應",
+    "WhiteMatter過去六個月營收成長五倍，完成由Blumberg Capital領投的2,000萬美元A輪",
+    "微軟Agent 365自5月推出已登記逾5,000萬個代理；PYMNTS調查89%企業使用代理式AI、78%只願讓代理讀取資料"
+   ],
+   "display_title": "WhiteMatter、Nestack與Dataiku於11月20日經PYMNTS報導改以AI代理數量計價，Nestack每個代理月費199至499美元",
+   "core_fact": "PYMNTS於11月20日報導，多家AI供應商開始按企業管理或監控的AI代理數量收費。Nestack公開定價：只讀取資料的代理每月199美元、可執行或寫入的代理299美元、用於受監理或關鍵任務的代理499美元，並附專責營運人員與30分鐘內回應重大事件；WhiteMatter目前管理約225萬個AI代理，預估年底逾550萬個，過去六個月營收成長五倍；Dataiku則採年費加上按代理計算的監控費。"
+  },
+  {
+   "theme": "ai",
+   "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 14:54:30 +0000",
+   "summary": "前Point72市場情報主管McKeown表示AI可望讓另類數據成為新資產類別。",
+   "deep_facts": [],
+   "display_title": "Carbon Arc執行長、前Point72市場情報主管McKeown於11月20日表示AI可望讓另類數據成為新資產類別，其平台已彙整約600個資料集",
+   "core_fact": "曾在避險基金Point72主持市場情報研究逾八年的Kirk McKeown，現任另類數據公司Carbon Arc執行長，他於11月20日接受CoinDesk訪問時表示，AI將重塑華爾街的數據市場。Carbon Arc彙整信用卡消費、零售銷售與醫療理賠等交易資料，平台約有600個資料集，客戶以AI代理查詢企業表現並按實際使用量付費，提供資料的企業則可分得營收。他在Point72時期每年在另類數據上花費數百萬美元。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "Ant International, DBS, Franklin Templeton automate tokenized deposit to MMF switching",
+   "source": "Ledger Insights",
+   "source_tier": "T2",
+   "url": "https://www.ledgerinsights.com/ant-international-dbs-franklin-templeton-automate-tokenized-deposit-to-mmf-switching/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ledgerinsights.com/ant-international-dbs-franklin-templeton-automate-tokenized-deposit-to-mmf-switching/",
+     "status": "ok",
+     "chars": 1515
+    }
+   ],
+   "date_evidence": "Thu, 19 Nov 2026 17:51:50 +0000",
+   "summary": "螞蟻國際推出Whale Orchestration Protocol，與星展、富蘭克林坦伯頓完成代幣化存款與代幣化貨幣基金自動切換試點。",
+   "deep_facts": [
+    "Whale平台已串接逾20家銀行，其中至少10家提供代幣化存款方案",
+    "已把資金配置到Amundi、華夏基金與富蘭克林坦伯頓的代幣化貨幣基金，與貝萊德合作進行中",
+    "協定不使用第三方帳本或跨鏈橋：先對DBS Token Services中的資金設定留置，基金代幣鑄造後才解除並撥付"
+   ],
+   "display_title": "螞蟻國際（Ant International）於11月19日宣布推出Whale Orchestration Protocol，與星展銀行及富蘭克林坦伯頓完成代幣化存款與代幣化貨幣市場基金自動切換試點",
+   "core_fact": "螞蟻國際於11月19日宣布推出Whale Orchestration Protocol，在新加坡金融管理局的Project BLOOM框架下，與星展銀行及富蘭克林坦伯頓合作，自動在代幣化存款與代幣化貨幣市場基金之間切換資金，並已完成試點交易。螞蟻的Whale資金管理平台已串接逾20家銀行，其中至少10家提供代幣化存款方案，近期開始把資金配置到Amundi、華夏基金與富蘭克林坦伯頓的代幣化貨幣基金，與貝萊德的合作也在進行中。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules",
+     "status": "fail",
+     "chars": 69
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 13:11:49 +0000",
+   "summary": "拉加德呼籲歐盟訂定代幣化資產共同規則，歐盟新區塊鏈結算系統已處理10億歐元數位債券交易。",
+   "deep_facts": [],
+   "display_title": "歐洲央行（ECB）總裁拉加德於11月20日警告歐洲恐失去代幣化資產市場主導權，歐盟新區塊鏈結算系統已處理一筆10億歐元數位債券交易",
+   "core_fact": "歐洲央行總裁拉加德於11月20日呼籲歐盟為代幣化資產訂定共同規則，警告歐洲恐失去日益成長的代幣化資產市場的主導權。她指出，歐洲的代幣化證券市場可能分裂成彼此無法互相結算交易的平台；同一時間，歐盟新上線的區塊鏈結算系統已處理一筆10億歐元（約11億美元）的數位債券交易，顯示市場規模正在擴大。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 22:05:31 +0000",
+   "summary": "Fairmint依SEC五年期創新豁免籌設代幣化股票交易場所，首發Canton Network。",
+   "deep_facts": [],
+   "display_title": "Fairmint於11月20日宣布依美國證交會五年期「創新豁免」籌設代幣化股票交易場所，首發支援Canton Network、其後擴及以太坊",
+   "core_fact": "協助企業在區塊鏈上發行與管理股票的Fairmint於11月20日宣布，將由全資子公司Fairmint TSV依美國證交會為期五年的「創新豁免」營運代幣化股票交易場所，初期支援Canton Network、接著擴及以太坊，且只交易經發行公司授權代幣化的股票。旗下向證交會註冊的過戶代理機構Fairmint TA負責驗證持有人並維護鏈上股東名冊，Tradecraft將擔任首家自動造市商；目前尚未開始交易，上線日期與首批股票未公布。"
+  }
+ ],
+ "run_notes": {
+  "since": "2026-11-20",
+  "feeds_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus"
+  ],
+  "required_searches": {
+   "A": 10,
+   "B": 5,
+   "C": 3,
+   "in_window_hits": 0
+  },
+  "regional_searches": [
+   "台灣",
+   "日本",
+   "韓國",
+   "中國"
+  ],
+  "regional_no_result": [
+   "日本",
+   "韓國",
+   "中國",
+   "台灣"
+  ]
+ }
+}
