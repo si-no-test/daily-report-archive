@@ -1,0 +1,50 @@
+[
+ {
+  "action": "skip"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "microsoft-ai-transparency-initiative",
+  "title": "微軟AI透明度倡議與AI代理開放標準制定進程",
+  "theme": "ai",
+  "keywords": [
+   "AI透明度倡議",
+   "微軟",
+   "Microsoft",
+   "AI代理",
+   "NIST",
+   "開放標準"
+  ],
+  "headline": "微軟（Microsoft）於11月17日在Ignite大會宣布推出「AI透明度倡議」，攜手逾40家機構制定跨模型開放標準",
+  "one_line_update": "微軟於Ignite宣布AI透明度倡議，擴大參與NIST代理標準倡議，並與萬事達卡、畢馬威等逾40家機構制定跨模型的AI代理問責與獨立驗證開放標準。",
+  "source_title": "Microsoft 聯同跨行業機構推出 AI 透明度倡議，加強企業對 AI 模型及代理的信任",
+  "source_url": "https://infosecu.technews.tw/2026/11/21/microsoft-launches-ai-transparency-initiative/"
+ },
+ {
+  "action": "skip"
+ },
+ {
+  "action": "create",
+  "topic_id": "ecb-appia-tokenised-ecosystem",
+  "title": "歐洲央行Appia代幣化金融生態系藍圖與聯合實驗進程",
+  "theme": "blockchain",
+  "keywords": [
+   "Appia",
+   "歐洲央行",
+   "ECB",
+   "代幣化存款",
+   "代幣化證券",
+   "央行貨幣"
+  ],
+  "headline": "歐洲央行（ECB）於11月20日邀請市場參與者組成聯合倡議加入Appia代幣化實驗，首批申請截止日為12月11日",
+  "one_line_update": "歐洲央行邀市場以聯合倡議形式加入Appia三大設計流（代幣化存款、代幣化證券、共享網路治理）實驗，首批申請12月11日截止、其後滾動審查。",
+  "source_title": "Eurosystem invites market participants to join Appia analytical and practical work",
+  "source_url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261120.en.html"
+ },
+ {
+  "action": "skip"
+ }
+]

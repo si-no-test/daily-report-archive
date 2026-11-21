@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **PayPo**於11月20日傳延攬花旗與摩根大通籌備華沙IPO，募資規模上看數億美元",
+  "summary": "波蘭BNPL業者PayPo延攬花旗、摩根大通籌備華沙IPO，用戶約250萬人。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **貝寶（PayPal）**於11月20日宣布財務長兼營運長Jamie Miller將於2月1日卸任，並重組高層新設AI業務轉型執行副總裁",
+  "summary": "PayPal財務長卸任、重組高層並新設AI轉型主管，主打消費金融。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **微軟（Microsoft）**於11月17日在Ignite大會宣布推出「AI透明度倡議」，攜手逾40家機構制定跨模型開放標準",
+  "summary": "微軟推出AI透明度倡議，與逾40家機構制定跨模型AI代理開放標準。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Anthropic**研究員Levent Alpöge於11月20日宣稱藉Claude找出黎曼猜想的Lean可編譯證明，已獲多位數學家確認可成功編譯",
+  "summary": "Anthropic研究員藉Claude提出黎曼猜想Lean可編譯證明。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **歐洲央行（ECB）**於11月20日邀請市場參與者組成聯合倡議加入Appia代幣化實驗，首批申請截止日為12月11日",
+  "summary": "歐洲央行邀市場組聯合倡議加入Appia代幣化存款與證券實驗，12月11日截止。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **瑞銀（UBS）**於11月19日經Chainlink宣布以Chainlink Runtime Environment完成以太坊代幣化結構型票據生命週期作業，鎖定逾2兆美元市場",
+  "summary": "瑞銀以Chainlink系統在以太坊完成代幣化結構型票據生命週期作業。",
+  "theme": "blockchain"
+ }
+]

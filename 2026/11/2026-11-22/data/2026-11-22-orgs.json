@@ -1,0 +1,77 @@
+[
+ {
+  "name": "PayPo",
+  "url": "https://paypo.pl",
+  "intro": "波蘭先買後付業者，提供線上購物延後付款與分期服務，用戶約250萬人。"
+ },
+ {
+  "name": "貝寶",
+  "url": "https://www.paypal.com",
+  "intro": "美國數位支付平台PayPal，旗下有Venmo與消費金融、支付處理等業務。"
+ },
+ {
+  "name": "陸金所控股",
+  "url": "https://www.lufaxholding.com",
+  "intro": "中國平安旗下金融服務平台Lufax，提供個人與小微企業貸款服務，並持有香港平安數字銀行。"
+ },
+ {
+  "name": "Worldline",
+  "url": "https://worldline.com",
+  "intro": "法國電子支付集團，主要提供商戶收單與支付處理服務。"
+ },
+ {
+  "name": "微軟",
+  "url": "https://www.microsoft.com",
+  "intro": "美國科技公司Microsoft，提供Azure雲端、Copilot與企業AI平台。"
+ },
+ {
+  "name": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "intro": "美國AI公司，開發Claude系列大型語言模型。"
+ },
+ {
+  "name": "世界大型企業聯合會",
+  "url": "https://www.conference-board.org",
+  "intro": "美國非營利商業研究組織The Conference Board，發布經濟指標與企業治理研究。"
+ },
+ {
+  "name": "歐洲央行",
+  "url": "https://www.ecb.europa.eu",
+  "intro": "歐元區中央銀行ECB，負責歐元區貨幣政策與支付結算基礎設施。"
+ },
+ {
+  "name": "瑞銀",
+  "url": "https://www.ubs.com",
+  "intro": "瑞士最大銀行UBS，全球主要財富管理與投資銀行集團。"
+ },
+ {
+  "name": "Chainlink",
+  "url": "https://chain.link",
+  "intro": "區塊鏈預言機網路，提供鏈外資料與跨鏈互通服務。"
+ },
+ {
+  "name": "香港證券及期貨事務監察委員會",
+  "url": "https://www.sfc.hk",
+  "intro": "香港證券與期貨市場監管機關SFC，負責虛擬資產交易平台等發牌監理。"
+ },
+ {
+  "name": "摩根大通",
+  "url": "https://www.jpmorganchase.com",
+  "intro": "美國資產規模最大的銀行集團JPMorgan Chase。"
+ },
+ {
+  "name": "萬事達卡",
+  "url": "https://www.mastercard.com",
+  "intro": "全球主要支付卡組織Mastercard。"
+ },
+ {
+  "name": "Klarna",
+  "url": "https://www.klarna.com",
+  "intro": "瑞典先買後付與支付業者。"
+ },
+ {
+  "name": "Nexi",
+  "url": "https://www.nexigroup.com",
+  "intro": "義大利支付服務集團，提供收單、發卡與支付處理服務。"
+ }
+]

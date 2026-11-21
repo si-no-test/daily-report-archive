@@ -1,0 +1,327 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T07:15:45+08:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "PayPo Taps Citigroup and JPMorgan for Possible Warsaw IPO",
+   "display_title": "PayPo於11月20日傳延攬花旗與摩根大通籌備華沙IPO，募資規模上看數億美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
+     "status": "ok",
+     "chars": 2549
+    }
+   ],
+   "date_evidence": "Sat, 21 Nov 2026（PYMNTS RSS pubDate，2026-11-21）",
+   "summary": "Bloomberg reported Friday (Nov. 20) that Polish BNPL firm PayPo is preparing a potential Warsaw IPO with Citigroup, JPMorgan and Ipopema Securities.",
+   "core_fact": "據PYMNTS引述彭博11月20日報導，波蘭先買後付（BNPL）業者PayPo正與花旗、摩根大通及波蘭本土投資銀行Ipopema Securities合作，籌備最快明年在華沙證券交易所首次公開發行，募資規模可能達數億美元，規模與時程仍可能調整、承銷團也可能擴編。PayPo近年快速成長，2022年已擴展至羅馬尼亞，目前用戶約250萬人，主要競爭對手包括電商平台Allegro的支付產品、Klarna以及波蘭國民支付系統Blik。",
+   "deep_facts": [
+    "PayPo目前用戶約250萬人，並已於2022年擴展至羅馬尼亞",
+    "承銷團除花旗與摩根大通外還包括波蘭本土投資銀行Ipopema Securities，規模與時程仍可能調整",
+    "主要競爭對手為Allegro的支付產品、Klarna與波蘭國民支付系統Blik"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "PayPal CEO remakes team",
+   "display_title": "貝寶（PayPal）於11月20日宣布財務長兼營運長Jamie Miller將於2月1日卸任，並重組高層新設AI業務轉型執行副總裁",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/paypal-ceo-remakes-team/875344/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.paymentsdive.com/news/paypal-ceo-remakes-team/875344/",
+     "status": "ok",
+     "chars": 4768
+    }
+   ],
+   "date_evidence": "2026-11-21（Payments Dive RSS pubDate）",
+   "summary": "PayPal's CFO and COO Jamie Miller will leave as CEO Enrique Lores installs a new set of top managers.",
+   "core_fact": "Payments Dive報導，PayPal於11月20日宣布財務長兼營運長Jamie Miller將於2月1日離任，由會計與支付軟體商Xero財務長Claire Bramley接任財務長；風控長Aaron Webster同步離職，由信用與詐欺風險資深副總裁Ratinder Bedi暫代。PayPal另延攬美國運通的Kartik Mani出任消費金融與Venmo總裁，並自顧問公司Brightstar.AI延攬Juan Rio出任AI業務轉型與營運執行副總裁，前高盛風控長Brian J. Lee則加入董事會。PayPal三年內已歷經三任執行長。",
+   "deep_facts": [
+    "Xero財務長Claire Bramley將接任PayPal財務長，Miller留任至2月1日",
+    "前美國運通高層Kartik Mani出任消費金融與Venmo總裁，Juan Rio自Brightstar.AI加入出任AI業務轉型與營運執行副總裁",
+    "風控長Aaron Webster離職，前高盛風控長Brian J. Lee加入董事會；PayPal三年內歷經三任執行長"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Lufax Injects $64m Into Ping An Digital Bank to Support Expansion",
+   "display_title": "陸金所控股（Lufax）於11月21日經報導再注資5億港元予平安數字銀行，約合6,410萬美元",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/324120-lufax-injects-64m-into-ping-an-digital-bank-to-support-expansion/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/324120-lufax-injects-64m-into-ping-an-digital-bank-to-support-expansion/",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sat, 21 Nov 2026 19:03:44 +0000",
+   "summary": "Lufax Holding injected an additional HK$500 million (about $64.1 million) into Ping An Digital Bank (International).",
+   "core_fact": "Crowdfund Insider於11月21日報導，陸金所控股（Lufax Holding）依公告再向旗下平安數字銀行（Ping An Digital Bank (International)）注資5億港元，約合6,410萬美元，平安方面表示此舉將強化該行資本實力以支持業務擴張。這是陸金所繼先前注資後，對這家香港虛擬銀行的又一輪資本挹注，顯示母公司持續以股東資金支撐其零售與中小企業金融業務成長。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Southeast Asia Payments Funding More Than Doubles to $1.6bn in 2026",
+   "display_title": "東南亞支付產業於2026年前11個月合計募得16億美元股權資金，已超過去年全年的兩倍",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/324122-southeast-asia-payments-funding-more-than-doubles-to-1-6bn-in-2026/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/324122-southeast-asia-payments-funding-more-than-doubles-to-1-6bn-in-2026/",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sat, 21 Nov 2026 20:22:32 +0000",
+   "summary": "Southeast Asia's payments sector raised $1.6 billion in equity funding in the first 11 months of 2026, more than double last year's total.",
+   "core_fact": "Crowdfund Insider於11月22日報導，東南亞支付產業2026年前11個月共募得16億美元股權資金，金額已超過2025年全年的兩倍，其中兩筆大型交易占了相當比重。這代表區域支付市場的資金規模在一年內明顯放大，但資金並非平均分散，而是集中流向少數規模較大的業者，反映投資人偏好已具跨國版圖與交易量的支付平台。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Worldline Shares Plunge After Report on Cash Advances and Delayed Supplier Payments",
+   "display_title": "Worldline於11月20日遭《金融時報》調查揭露長期以現金預支與延後支付供應商款項等作法調節帳面，股價應聲重挫",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/324040-worldline-shares-plunge-after-report-on-cash-advances-and-delayed-supplier-payments/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/324040-worldline-shares-plunge-after-report-on-cash-advances-and-delayed-supplier-payments/",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sat, 21 Nov 2026 20:17:56 +0000",
+   "summary": "Worldline shares dropped sharply on Friday after an FT investigation detailed longstanding internal practices.",
+   "core_fact": "Crowdfund Insider報導，法國電子支付集團Worldline的股價於11月20日（週五）大幅下跌，起因是《金融時報》的調查報導詳述該公司長期存在的內部作法，包括現金預支與延後支付供應商款項，這些作法似乎在特定時點暫時改善了帳面表現。報導於11月21日刊出後，市場對這家歐洲主要收單與支付處理業者的財務透明度產生疑慮。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Microsoft 聯同跨行業機構推出 AI 透明度倡議，加強企業對 AI 模型及代理的信任",
+   "display_title": "微軟（Microsoft）於11月17日在Ignite大會宣布推出「AI透明度倡議」，攜手逾40家機構制定跨模型開放標準",
+   "source": "TechNews",
+   "source_tier": "T2",
+   "url": "https://infosecu.technews.tw/2026/11/21/microsoft-launches-ai-transparency-initiative/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://infosecu.technews.tw/2026/11/21/microsoft-launches-ai-transparency-initiative/",
+     "status": "ok",
+     "chars": 2422
+    }
+   ],
+   "date_evidence": "2026-11-21（TechNews RSS pubDate）",
+   "summary": "Microsoft launched an AI Transparency Initiative with cross-industry partners to build open standards for AI model and agent accountability.",
+   "core_fact": "據TechNews 11月21日轉載的新聞稿，微軟董事長兼執行長Satya Nadella於11月17日Microsoft Ignite大會宣布推出「AI透明度倡議」，原則是AI自主程度越高、透明度就必須越高。倡議分三部分：擴大參與美國國家標準與技術研究院（NIST）的代理標準倡議並制定開放標準；與Accenture、Adobe、畢馬威（KPMG）、萬事達卡（Mastercard）及Volvo Cars等逾40家機構合作制定可獨立驗證的問責標準；並把成果整合進Microsoft Foundry與Microsoft Copilot，讓客戶在自有資安與合規工具中取用相關證據。",
+   "deep_facts": [
+    "倡議擴大參與NIST代理標準倡議，並與Accenture、Adobe、KPMG、Mastercard、Volvo Cars等逾40家機構共同制定開放標準",
+    "成果將整合進Microsoft Foundry與Microsoft Copilot，證據可匯入客戶自有資安與合規工具",
+    "提出看清、驗證、管控三原則，適用封閉式與開放權重模型，換模型不影響治理"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+   "display_title": "Anthropic研究員Levent Alpöge於11月20日宣稱藉Claude找出黎曼猜想的Lean可編譯證明，已獲多位數學家確認可成功編譯",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+     "status": "ok",
+     "chars": 5344
+    }
+   ],
+   "date_evidence": "2026-11-21（TechCrunch RSS pubDate）",
+   "summary": "An Anthropic mathematician claims a Lean-compilable solution to the Riemann hypothesis found with Claude; a human also posted a proof.",
+   "core_fact": "TechCrunch於11月20日報導，Anthropic數學家Levent Alpöge發表文章，宣稱在Claude協助下找到可用Lean程式語言編譯的黎曼猜想證明，這個1859年提出、屬千禧年大獎難題之一的猜想已懸宕167年。Alpöge上週日晚間曾傳訊給執行長Dario Amodei詢問如何對外公布；包括MIT數學家Andrew Sutherland在內的多位參與者已確認證明可成功編譯。同時，史丹佛博士後研究員Alessandro Masullo也公布歷時12年、完全由人類完成的廣義黎曼猜想證明草稿。",
+   "deep_facts": [
+    "Alpöge上週日晚間傳訊給Anthropic執行長Dario Amodei詢問如何公布結果",
+    "MIT數學家Andrew Sutherland等人已確認該Lean證明可成功編譯",
+    "史丹佛博士後Alessandro Masullo同步公布歷時12年、完全由人類完成的廣義黎曼猜想證明草稿"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "The Conference Board Says CEOs Should Be Prepared to Defend Algorithmic Pricing",
+   "display_title": "世界大型企業聯合會（The Conference Board）於11月19日發布政策背景報告，建議執行長預備好為演算法定價公開辯護",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/retail/2026/the-conference-board-says-ceos-should-be-prepared-to-defend-algorithmic-pricing/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/retail/2026/the-conference-board-says-ceos-should-be-prepared-to-defend-algorithmic-pricing/",
+     "status": "ok",
+     "chars": 2979
+    }
+   ],
+   "date_evidence": "2026-11-21（PYMNTS RSS pubDate）",
+   "summary": "Companies using algorithmic pricing should be ready to explain their rationale, according to a Conference Board policy backgrounder.",
+   "core_fact": "PYMNTS於11月21日報導，世界大型企業聯合會（The Conference Board）旗下執行長中心於11月19日發布政策背景報告，建議使用演算法定價的企業應先設想該作法若被公開揭露會如何被看待，並準備好以淺白方式解釋定價理由。報告指出，法律合規並不能消除聲譽風險，消費者對「因需求上升而漲價」與「因瀏覽紀錄或所在地不同而被收取不同價格」的反應截然不同。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "display_title": "Block旗下Spiral於11月20日以AI代理掃描工具Loupe揪出比特幣節點漏洞，重複單一ID約5萬次即可拖垮節點",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sat, 21 Nov 2026 06:16:42 +0000",
+   "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source AI-agent scanner from Block's Spiral.",
+   "core_fact": "CoinDesk於11月21日報導，比特幣核心軟體Bitcoin Core於11月20日（週五）釋出修補程式，修正一個由Loupe標記出的漏洞；Loupe是Block旗下Spiral團隊開發、以AI代理檢查比特幣程式碼的開源掃描工具。依報導標題描述，攻擊者只要重複送出同一個識別碼約5萬次，就可能讓比特幣節點停擺，此漏洞在被惡意利用前即已由開發者修補完成。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Eurosystem invites market participants to join Appia analytical and practical work",
+   "display_title": "歐洲央行（ECB）於11月20日邀請市場參與者組成聯合倡議加入Appia代幣化實驗，首批申請截止日為12月11日",
+   "source": "European Central Bank",
+   "source_tier": "T1",
+   "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261120.en.html",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia",
+     "status": "fail",
+     "chars": 69
+    },
+    {
+     "url": "https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews261120.en.html",
+     "status": "ok",
+     "chars": 2578
+    }
+   ],
+   "date_evidence": "2026-11-21（Cointelegraph RSS pubDate）；ECB新聞稿日期2026-11-20",
+   "summary": "ECB seeks industry partners for tokenized deposits and securities experiments under its Appia initiative.",
+   "core_fact": "歐洲央行11月20日發布消息，邀請市場參與者加入其Appia倡議的分析與實務工作。依公眾諮詢回饋，Appia確立三大「設計流」：一是代幣化存款及相關支付，二是代幣化證券，三是共享網路治理。市場參與者不得個別申請，必須以由多家獨立法人組成的「聯合倡議」身分報名，可選擇一項或多項設計流；首批實驗申請須於12月11日中歐時間中午12時前提交，之後的申請將滾動審查。",
+   "deep_facts": [
+    "必須以多家獨立法人組成的聯合倡議申請，不接受個別申請",
+    "首批實驗申請截止為12月11日中歐時間中午12時，其後滾動審查",
+    "評選依相關性、專業、實務經驗、技術成熟度、具體產出與資源投入，並考量地理與利害關係人多元性"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Chainlink and UBS Introduce Onchain Structured Note Lifecycle Management on Ethereum",
+   "display_title": "瑞銀（UBS）於11月19日經Chainlink宣布以Chainlink Runtime Environment完成以太坊代幣化結構型票據生命週期作業，鎖定逾2兆美元市場",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/324056-chainlink-and-ubs-introduce-onchain-structured-note-lifecycle-management-on-ethereum/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/324056-chainlink-and-ubs-introduce-onchain-structured-note-lifecycle-management-on-ethereum/",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://coinmarketcap.com/academy/article/chainlink-ubs-tokenized-structured-notes",
+     "status": "ok",
+     "chars": 3670
+    }
+   ],
+   "date_evidence": "2026-11-21（Crowdfund Insider RSS pubDate）",
+   "summary": "Chainlink and UBS introduce onchain structured note lifecycle management on Ethereum.",
+   "core_fact": "據CoinMarketCap報導，預言機網路Chainlink於11月19日（週四）宣布，瑞銀已使用其建置的系統，在以太坊上執行一檔代幣化結構型票據的關鍵生命週期作業。該系統運行於Chainlink Runtime Environment，串接瑞銀既有系統，自動化發行與生命週期管理，初始部署可即時呈現代幣餘額、配息權利、觸及界限距離與商品狀態。Chainlink引述業界估計，全球結構型商品市場未平倉名目本金逾2兆美元，即使2%的結算失敗率也會讓業者每年損失高達30億美元。",
+   "deep_facts": [
+    "初始部署可即時呈現代幣餘額、配息權利、觸及界限距離與商品狀態",
+    "Chainlink引述估計2%結算失敗率每年讓業者損失高達30億美元",
+    "結算自動化仍待與瑞銀數位貨幣產品整合，瑞銀未評論也未揭露票據規模"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+   "display_title": "香港證券及期貨事務監察委員會（SFC）於11月21日經報導表示，涵蓋虛擬資產託管與顧問的發牌條例草案將於12月2日在立法會首讀",
+   "source": "Cointelegraph",
+   "source_tier": "T2",
+   "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill",
+     "status": "fail",
+     "chars": 69
+    }
+   ],
+   "date_evidence": "Sat, 21 Nov 2026 05:40:35 +0000",
+   "summary": "Hong Kong's securities regulator says the bill would strengthen investor protections, set for first reading on Dec. 2.",
+   "core_fact": "Cointelegraph於11月21日報導，香港推動把加密資產託管機構與顧問業者納入發牌規範，香港證券監管機構表示，相關提案將強化投資者保障，條例草案預定於12月2日在立法會進行首讀。這意味著香港在既有虛擬資產交易平台與穩定幣發行人監理之外，將進一步把託管與顧問等周邊服務納入正式牌照制度，完成加密資產產業鏈的監理拼圖。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+   "display_title": "摩根大通（JPMorgan Chase）於11月20日指出比特幣跌價使其與8.6萬美元估計生產成本落差擴大，次日比特幣跌破5.7萬美元創兩年新低",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 20 Nov 2026 18:17:39 +0000",
+   "summary": "Bitcoin's price drop widened the gap to JPMorgan's estimated $86,000 production cost; BTC fell below $57,000 on Saturday.",
+   "core_fact": "The Block於11月20日報導，摩根大通分析指出，比特幣近期跌價已擴大其市價與摩根大通估計約8.6萬美元生產成本之間的差距，對礦工形成壓力。CoinDesk隨後報導，比特幣賣壓在11月21日（週六）加深，價格跌破5.7萬美元、創兩年新低，同期加密市場約18億美元的槓桿部位遭強制平倉，其中多數為押注價格上漲的多單，比特幣其後反彈至6萬美元以上。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "collect_feeds": "17 RSS（14 成功、3 失敗：Finextra/Fintech Futures/Fintech Nexus）",
+  "A_site_searches": 10,
+  "B_topic_queries": 5,
+  "C_rss_fallback_searches": 3,
+  "region_searches": 4,
+  "supplementary_searches": 0,
+  "notes": "[A][B]搜尋多數僅回傳審計窗外舊文，經日期審計後無新增採用條目；專題查詢 Open USD 與量子威脅當日無合格條目。"
+ }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-22",
+  "archived_at": "2026-11-21T23:16:06Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "3e9eaba58cb8fe3533032377a89742f51bee3f5b",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 21,
+  "total_bytes": 806265,
+  "files": [
+    {
+      "path": "data/2026-11-22-candidates.txt",
+      "bytes": 36482,
+      "sha256": "848c4ed0de5cf9636639cea2baf29e8ad54d8577d0e1316930652d13e33f3192"
+    },
+    {
+      "path": "data/2026-11-22-glossary.json",
+      "bytes": 2814,
+      "sha256": "efcbd9a03e24b9ecff83e7812d8af8482c5acc990b4bc4770e3e0c8f4737d8a6"
+    },
+    {
+      "path": "data/2026-11-22-manifest.txt",
+      "bytes": 3460,
+      "sha256": "9c2724cc2975fb904aeaaee9e1efce4056a67502b4ab48fa955af4219b028f4e"
+    },
+    {
+      "path": "data/2026-11-22-orgs.json",
+      "bytes": 2391,
+      "sha256": "1a3646cbc046971587a8937d67d6519ee8966beae9fc5b265771a02c297ed7fd"
+    },
+    {
+      "path": "data/2026-11-22-topic-cases.json",
+      "bytes": 1727,
+      "sha256": "8913808eb05f17b83b66ebf9e35553a897617e100c1c771889d11c4e44e557a3"
+    },
+    {
+      "path": "data/2026-11-22-topic-decisions.json",
+      "bytes": 1862,
+      "sha256": "f7f481dae0a8c135343d3dc23494d048fe5407cd5ef81bc6beb07fb5b8cc7b89"
+    },
+    {
+      "path": "data/2026-11-22.json",
+      "bytes": 21464,
+      "sha256": "be02a712aa153b8a6dee4ad229c1d8a8e673835ed155a52db4da34ce42967918"
+    },
+    {
+      "path": "outbox/2026-11-22-archive.html",
+      "bytes": 110010,
+      "sha256": "2f0e73d90bf6b78acae8aea32e5f74879db2b76e25838234cc1257504ef66277"
+    },
+    {
+      "path": "outbox/2026-11-22-email.html",
+      "bytes": 11564,
+      "sha256": "69be718d765cf9d32eb8857d6622d617047ac843695b31a1772d8d39e8711a4d"
+    },
+    {
+      "path": "published/2026-11-22.html",
+      "bytes": 555,
+      "sha256": "d4ca35167bf32ea2d2e16b25468f163622754a6f66c30cc1c7d36e07fa1d9f47"
+    },
+    {
+      "path": "published/2026-11-22/ai.html",
+      "bytes": 43419,
+      "sha256": "0f29150a9de73ef25ef610adbbf7044ec5a80de70bcb35928cad89bb0ebdb541"
+    },
+    {
+      "path": "published/2026-11-22/blockchain.html",
+      "bytes": 48749,
+      "sha256": "fe6881e8344b9bd001c66ce3eb07281111b912de8bcdb86d772ebcd972b945b0"
+    },
+    {
+      "path": "published/2026-11-22/index.html",
+      "bytes": 26328,
+      "sha256": "9fcef10866fea2871fad8455df0a093a5404485f1adb28cf195cf23d6cc67773"
+    },
+    {
+      "path": "published/2026-11-22/innovation.html",
+      "bytes": 54152,
+      "sha256": "6d5f6a5610067e4d4854eff4b027ad308ce876025a15aa918e4826ff45ceed0e"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 393475,
+      "sha256": "d884dd7fb66879887882fe6f5be5c9cab3978697cc2f40ded7632d01ae5952e4"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "d7dc6e72168a112b4d239e33e90cf9d735ac8daffe572d1eb991c69d4a093e11"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "d4ca35167bf32ea2d2e16b25468f163622754a6f66c30cc1c7d36e07fa1d9f47"
+    },
+    {
+      "path": "published/topics/ecb-appia-tokenised-ecosystem.html",
+      "bytes": 1629,
+      "sha256": "29e0c8b858f913434dc0158e126451ed9d93ae83f890d92f43fd50f137580674"
+    },
+    {
+      "path": "published/topics/microsoft-ai-transparency-initiative.html",
+      "bytes": 1638,
+      "sha256": "dbb977feecdf83513700f82b9a77fb78aff070a859eade76c9eb4931379b989f"
+    },
+    {
+      "path": "source/2026-11-22-report.txt",
+      "bytes": 40140,
+      "sha256": "8783f58cf812fc04c114b0c6fec0560201a955563d88ff02c8b25165ac24d368"
+    },
+    {
+      "path": "source/2026-11-22-summary.txt",
+      "bytes": 3059,
+      "sha256": "31f7f3a37eb0ade782cacf499d562f9db483da22ae857e0b3218be2b474c0eaf"
+    }
+  ]
+}
