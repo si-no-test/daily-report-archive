@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-23",
+  "archived_at": "2026-11-22T23:17:18Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "43cfcd8be84fda7a8895eadb32c123f458340758",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 48,
+  "total_bytes": 935610,
+  "files": [
+    {
+      "path": "data/2026-11-23-candidates.txt",
+      "bytes": 62519,
+      "sha256": "10cb811d7610d2a15f90d0b0a652876708e80c0bd24df49094e8b6c8de311b92"
+    },
+    {
+      "path": "data/2026-11-23-glossary.json",
+      "bytes": 2477,
+      "sha256": "bd552a641267b13b34eeae80354923bce51040b4d59237eb67182f6a0b381e10"
+    },
+    {
+      "path": "data/2026-11-23-manifest.txt",
+      "bytes": 3460,
+      "sha256": "b887e9c94532da73ed740ce83cde9469ebd085f71ad324d3b6e949a69fb99946"
+    },
+    {
+      "path": "data/2026-11-23-orgs.json",
+      "bytes": 1197,
+      "sha256": "45982c695426dc56396d57af777f5014846a62c411dbe20e12ffbd52d00ddd97"
+    },
+    {
+      "path": "data/2026-11-23-topic-cases.json",
+      "bytes": 1896,
+      "sha256": "5004eeb123f0f23c5d9d69aa362edb74344cb305c0c33268392d6cf77f6bfcbe"
+    },
+    {
+      "path": "data/2026-11-23-topic-decisions.json",
+      "bytes": 2017,
+      "sha256": "e824a6a21769dd66b290ad9d1032e6b380b229f6994a56b6226458933eb49356"
+    },
+    {
+      "path": "data/2026-11-23.json",
+      "bytes": 18831,
+      "sha256": "7595b96cc812ee40dd3788d209ec03ae16061fbe6f5becd7c58bf864fcea8400"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 62749,
+      "sha256": "4f7bbe77e935c69d3b25ba7de35d1b8473b7845af26b6a04d841cf3066c9441c"
+    },
+    {
+      "path": "data/fetch/1.txt",
+      "bytes": 2812,
+      "sha256": "a14f071145ce53e5b900c2f33a19910303469817ae449c4d1eeb3005a33d55ff"
+    },
+    {
+      "path": "data/fetch/10.txt",
+      "bytes": 211,
+      "sha256": "89e3b8ecc045b00c644b78fba24f2b3e3b5f27cc45185933157c4fa62de1fb23"
+    },
+    {
+      "path": "data/fetch/11.txt",
+      "bytes": 228,
+      "sha256": "b934286d479e6311c6ffdaa9c77efa2da68044ad79abd2b1eebe43630ba60e5c"
+    },
+    {
+      "path": "data/fetch/12.txt",
+      "bytes": 214,
+      "sha256": "e97b97ef8f50baabb3eab1b6ec135fc7be086b48a8ceefb9147932df6325bd85"
+    },
+    {
+      "path": "data/fetch/2.txt",
+      "bytes": 3115,
+      "sha256": "b901950ff2aea98300db32aa9e9fbb1b3c786c6d61af7bbaf021961a39a891e0"
+    },
+    {
+      "path": "data/fetch/21.txt",
+      "bytes": 199,
+      "sha256": "28d14d919d1eb688d2f21b36c7d2740c498306c08a966d4975833342090f6731"
+    },
+    {
+      "path": "data/fetch/22.txt",
+      "bytes": 3748,
+      "sha256": "5fec55fcb67d371f327b9615b0be06c1d428794026f140ee5672c3529b22710f"
+    },
+    {
+      "path": "data/fetch/23.txt",
+      "bytes": 199,
+      "sha256": "5f250421e04272ea818518c9c022ad2eeb871b6928d5a0bd75668ccb78a16d1d"
+    },
+    {
+      "path": "data/fetch/24.txt",
+      "bytes": 214,
+      "sha256": "e97b97ef8f50baabb3eab1b6ec135fc7be086b48a8ceefb9147932df6325bd85"
+    },
+    {
+      "path": "data/fetch/3.txt",
+      "bytes": 3611,
+      "sha256": "7771b4ad286fa14fde657f3cfa40ff424294081e5a04485070f2cd857477126a"
+    },
+    {
+      "path": "data/fetch/31.txt",
+      "bytes": 257,
+      "sha256": "84b1c9d87ba02fb3bd72959201f2d21b6e7eadccaccbb555f057166f6e80c11e"
+    },
+    {
+      "path": "data/fetch/32.txt",
+      "bytes": 274,
+      "sha256": "34f50800df33d1a4f7b59eeb52c59e3bd2af6df702a76bff9d0b695d0a7c4098"
+    },
+    {
+      "path": "data/fetch/33.txt",
+      "bytes": 1549,
+      "sha256": "54241cb921897a468cda02f21af269a08b6301b80fc15fca13d285578fb5aa39"
+    },
+    {
+      "path": "data/fetch/4.txt",
+      "bytes": 252,
+      "sha256": "dc96cba2776ecab0db5718dc4d136999be9f15ef63ec699e02a17bb7ab76048a"
+    },
+    {
+      "path": "data/fetch/41.txt",
+      "bytes": 2481,
+      "sha256": "43aa1974c97c261e51917c5890ac486bd83352f05fc594ceeec05bb2ec135f31"
+    },
+    {
+      "path": "data/fetch/42.txt",
+      "bytes": 2309,
+      "sha256": "ce147152c5b07c78a6a55773bee8409df2140d884add525382335730380f6410"
+    },
+    {
+      "path": "data/fetch/43.txt",
+      "bytes": 1947,
+      "sha256": "2ed7f4ce0762a1c62ea0579d132cdcca18467346d298797f5912440ac294be00"
+    },
+    {
+      "path": "data/fetch/44.txt",
+      "bytes": 7891,
+      "sha256": "dd2e5ecbfe565eb1781858d3d3007940822a4fbc49b8fc7e7f12377ed67004d7"
+    },
+    {
+      "path": "data/fetch/5.txt",
+      "bytes": 7528,
+      "sha256": "75ba7acf55871c6250473a462b72dfb00996695cdc28b8d0937599703f8fe237"
+    },
+    {
+      "path": "data/fetch/50.txt",
+      "bytes": 3009,
+      "sha256": "b645b680d1e0ac82927031377cba3347000cc467ec6754dad9fd395daac27f84"
+    },
+    {
+      "path": "data/fetch/6.txt",
+      "bytes": 199,
+      "sha256": "28d14d919d1eb688d2f21b36c7d2740c498306c08a966d4975833342090f6731"
+    },
+    {
+      "path": "data/fetch/7.txt",
+      "bytes": 225,
+      "sha256": "4f9556f07dcae8dcc0b6d1c767589f6042fdd0b7d0fc1a082def54e828cb2472"
+    },
+    {
+      "path": "data/fetch/8.txt",
+      "bytes": 3098,
+      "sha256": "d8875b24e414f340ade0ba29747c4d8c61c8ee4acd27e3ecafab6b6706a77e0c"
+    },
+    {
+      "path": "data/fetch/9.txt",
+      "bytes": 229,
+      "sha256": "b383c8764784738008598a4d8f3a1d2d6a72c31757e2c391fdc03ad8372b573c"
+    },
+    {
+      "path": "data/recent.txt",
+      "bytes": 22170,
+      "sha256": "2fb4b2c255b77addf81e144ab77fbef9406bdc44ecf5053e3df964f1f81eff15"
+    },
+    {
+      "path": "outbox/2026-11-23-archive.html",
+      "bytes": 100411,
+      "sha256": "eee15f85568ed8bde4c85f3f6855b7bc98df61d95fb34e4170d973488fedca72"
+    },
+    {
+      "path": "outbox/2026-11-23-email.html",
+      "bytes": 11086,
+      "sha256": "49312f8352cc1897626312119cfee3cf2b208f54666972451f847cf7542b411a"
+    },
+    {
+      "path": "published/2026-11-23.html",
+      "bytes": 555,
+      "sha256": "9dd815e55ad277e983db9ded2f3b77e0a457d2e17f5a5cbff9152d0f79309eee"
+    },
+    {
+      "path": "published/2026-11-23/ai.html",
+      "bytes": 37966,
+      "sha256": "a882e3348e2d7e5bbacffbfa8397e7eaa98149460a6d4f7ad616a46bb38d2628"
+    },
+    {
+      "path": "published/2026-11-23/blockchain.html",
+      "bytes": 42150,
+      "sha256": "aba3f4d48f63d3583ce71f2634e74a86c179a0dfcb0d697ebe74b092f481f84a"
+    },
+    {
+      "path": "published/2026-11-23/index.html",
+      "bytes": 22390,
+      "sha256": "adee41efd07b1e1d59a194acbc473660fce32467196b90b776c7d89559af96fb"
+    },
+    {
+      "path": "published/2026-11-23/innovation.html",
+      "bytes": 54889,
+      "sha256": "bad3b972d4738698eacbbb11e1af8d1226d890e65c5c574d4c54846d54776e07"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 397688,
+      "sha256": "ce3c43606d999c6d738936544ee7d716f427592425acc2ae6cd75b949db7f850"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "1f99ce1e5039c179e385d1978f37852d7621187eb63c5a981c3fa5106d5a1189"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "9dd815e55ad277e983db9ded2f3b77e0a457d2e17f5a5cbff9152d0f79309eee"
+    },
+    {
+      "path": "published/topics/global-payments-buyout.html",
+      "bytes": 1480,
+      "sha256": "b370d76d1783e1c7fc06281a09425b468d8364ca5a8558dce4566a46c7055895"
+    },
+    {
+      "path": "published/topics/hsbc-redcoin-hkd-stablecoin-rollout.html",
+      "bytes": 2443,
+      "sha256": "923435afceb64489dbb8c82f9ab81af528ed72168c9eb2be862d6449fe596109"
+    },
+    {
+      "path": "published/topics/mexico-card-interchange-cap.html",
+      "bytes": 1473,
+      "sha256": "a360ea210c4700e639aa305ee656c216781dc63264d7df16a8364cc43227e610"
+    },
+    {
+      "path": "source/2026-11-23-report.txt",
+      "bytes": 35904,
+      "sha256": "cbbc0beca41d52f3a842a021e64773dc66ab7a52e75a354a3e4147d0f3bc9f91"
+    },
+    {
+      "path": "source/2026-11-23-summary.txt",
+      "bytes": 2713,
+      "sha256": "afa3371dd60c6079d0602646490a348c630190d220349c19244244faff071774"
+    }
+  ]
+}

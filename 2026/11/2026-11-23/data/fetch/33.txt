@@ -1,0 +1,18 @@
+FINAL_URL: https://fintechnews.my/62512/blockchain/maybank-etiqa-tokenised-mgs-pilot/
+STATUS: fail
+CHARS: 1346
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Get the hottest Fintech Malaysia News once a month in your Inbox
+Maybank and its insurance arm Etiqa Life Insurance Berhad completed a pilot trade in Malaysian Government Securities (MGS) using tokenised deposits.
+The bank described it as Malaysia’s first trade in tokenised MGS.
+It ran the pilot under Bank Negara Malaysia’s Digital Asset Innovation Hub.
+The two companies tested a programmable delivery-versus-payment process across blockchain and conventional systems.
+The process linked payment to the delivery of the securities so neither could go through on its own.
+Maybank held the underlying cash and securities in custody.
+Dato’ Sri Khairussaleh Ramli, President and Group CEO of Maybank said,
+“We see significant long-term opportunities in strengthening cross-border flows as ASEAN progresses towards deeper digital integration through initiatives such as the ASEAN Digital Economy Framework Agreement (DEFA).
+Our next phase will focus on scaling up our infrastructure to advance commercial applications, including tokenised bonds, deposits and other digital assets.”
+Maybank also helped arrange Malaysia’s first tokenised sukuk issuance by sovereign wealth fund Khazanah Nasional Berhad earlier this year.
+Featured image: Edited by Fintech News Malaysia, based on image by zendaIA via Magnific
+Report Malaysia Fintech Report 2026 Read

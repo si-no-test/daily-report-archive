@@ -1,0 +1,22 @@
+FINAL_URL: https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/
+STATUS: ok
+CHARS: 2625
+---CONTENT---
+GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended
+Private equity firm GTCR is exploring a potential acquisition of payment processing solution provider Global Payments , according to GTCR’s Friday (Nov. 20) filing with the Securities and Exchange Commission .
+GTCR said in the filing that it is evaluating the move and has made no definitive decision.
+Bloomberg reported Friday, citing unnamed sources, that the transaction would be worth about $50 billion, including debt and a premium.
+Neither GTCR nor Global Payments immediately replied to PYMNTS’ request for comment.
+GTCR is currently Global Payments’ largest shareholder, with a 16% stake in the company. It acquired that position last year when it sold 55% of Worldpay to Global Payments, according to the report.
+Global Payments had a market value of $24.3 billion Friday after its shares rose 10%, and the firm is worth over $43 billion including debt, per the report.
+Reuters reported Friday that GTCR’s filing came days after reports that the company’s earlier consortium effort with private equity firm CD&R to take over Global Payments was dropped.
+Global Payments, which is one of the world’s largest payment processors, has been challenged in recent years by slowing growth in some of its business lines, greater competition and investors’ demands for greater profitability, according to the report.
+Before that report, it was reported Oct. 30 that GTCR and CD&R had teamed up on a joint bid to buy out Global Payments.
+At the time, Global Payments had an enterprise value of about $40 billion, and the report said that a leveraged buyout of the firm would be one of the largest such deals in history.
+PYMNTS reported Nov. 2 that from the perspective of merchants, a potential Global Payments buyout will face a commercial test: whether customers receive better services quickly enough to keep their businesses.
+Global Payments’ April 2025 acquisition of Worldpay was one of two “sweeping transactions” announced on the same day by Global Payments and by Worldpay’s co-owner FIS , PYMNTS reported at the time. Global Payments said it bought Worldpay for a net price of $22.7 billion and simultaneously sold its Issuer Solutions business to FIS for $13.5 billion. Worldpay was co-owned by FIS and GTCR.
+Mexico Relaxes Card Fee Rules to Promote Digital Payments
+GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended
+Singles’ Day Sold 170,000 Dog Outfits. Then Came the Cleanup.
+The Conference Board Says CEOs Should Be Prepared to Defend Algorithmic Pricing
+acquisitions , News , payment processing , PYMNTS News , What's Hot

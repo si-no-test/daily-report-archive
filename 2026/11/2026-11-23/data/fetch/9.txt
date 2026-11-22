@@ -1,0 +1,4 @@
+FINAL_URL: https://www.crowdfundinsider.com/2026/11/323850-hsbc-opens-tokenized-hong-kong-dollar-money-market-fund-class-to-retail-clients-via-redcoin-on-ethereum/
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 403: Forbidden

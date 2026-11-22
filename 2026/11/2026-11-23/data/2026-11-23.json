@@ -1,0 +1,303 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T07:16:34+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/",
+     "status": "ok",
+     "chars": 2625
+    }
+   ],
+   "date_evidence": "Mon, 23 Nov 2026（RSS pubDate，PYMNTS）",
+   "summary": "GTCR於11月20日向SEC申報評估收購Global Payments，彭博估計規模約500億美元。GTCR為最大股東持股16%，此前與CD&R聯合收購破局。",
+   "deep_facts": [
+    "GTCR持有Global Payments約16%股權，來自去年將Worldpay 55%股權出售給Global Payments",
+    "消息當日Global Payments股價漲10%、市值243億美元、含債逾430億美元",
+    "Global Payments 2025年4月以淨價227億美元買Worldpay、135億美元出售發卡處理業務予FIS"
+   ],
+   "display_title": "GTCR於11月20日向美國證交會申報正評估收購Global Payments，彭博估計交易規模含債務與溢價約500億美元",
+   "core_fact": "私募股權基金GTCR於11月20日（週五）向美國證券交易委員會申報，表示正評估收購支付處理商Global Payments，但尚未作出最終決定。彭博引述消息人士指出，交易規模含債務與溢價約500億美元。GTCR目前是Global Payments最大股東、持股約16%，該持股來自去年將Worldpay的55%股權出售給Global Payments的交易；消息傳出當天Global Payments股價上漲10%，市值約243億美元、含債企業價值逾430億美元。路透指出，這份申報距GTCR與CD&R聯合收購計畫告吹僅數日。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Mexico Relaxes Card Fee Rules to Promote Digital Payments",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/digital-payments/2026/mexico-relaxes-card-fee-rules-to-promote-digital-payments/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/digital-payments/2026/mexico-relaxes-card-fee-rules-to-promote-digital-payments/",
+     "status": "ok",
+     "chars": 2934
+    }
+   ],
+   "date_evidence": "Mon, 23 Nov 2026（RSS pubDate，PYMNTS）",
+   "summary": "墨西哥修正刷卡手續費上限草案，2029年前信用卡1%、簽帳卡0.3%，較去年提案寬鬆。",
+   "deep_facts": [
+    "政府估計新規每年節省約200億披索（約11億美元），主要由收單端受益",
+    "Jefferies估原提案使銀行2027年損失20億美元、2031年逾30億美元，新制2031年約18億美元",
+    "墨西哥85%民眾在500披索以下消費使用現金"
+   ],
+   "display_title": "墨西哥政府於11月20日公布放寬版刷卡手續費上限草案，2029年前分階段將信用卡與簽帳卡年均上限定為1%與0.3%",
+   "core_fact": "彭博11月20日依墨西哥法規草案平台公開文件報導，墨西哥政府修正後的提案將在2029年前分階段實施年均交換手續費上限，信用卡為1%、簽帳卡為0.3%；去年原始提案的信用卡上限為0.6%、簽帳卡0.3%。政府估計新規每年可節省約200億披索（約11億美元），主要由商家收單端受益。Jefferies分析師Inigo Vega估計，原提案將使銀行在2027年損失20億美元、2031年擴大至逾30億美元，新制下影響至2031年約為18億美元。"
+  },
+  {
+   "theme": "innovation",
+   "title": "跨境匯款今年衝 500 億元！數位至匯 11/25 將以參考價 120 元登錄興櫃",
+   "source": "TechNews",
+   "source_tier": "T2",
+   "url": "https://finance.technews.tw/2026/11/22/small-amount-foreign-exchange/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finance.technews.tw/2026/11/22/small-amount-foreign-exchange/",
+     "status": "fail",
+     "chars": 1355
+    }
+   ],
+   "date_evidence": "2026-11-22（RSS pubDate，TechNews）",
+   "summary": "數位至匯將以參考價120元登錄興櫃，今年跨境匯款可望突破500億元。",
+   "deep_facts": [],
+   "display_title": "數位至匯於11月22日宣布將於11月25日以每股參考價120元登錄興櫃，今年跨境匯款金額可望突破500億元",
+   "core_fact": "數位至匯董事長暨執行長魏仁裕表示，公司2023年取得金管會外籍移工國外小額匯兌業務許可，為台灣第三家持牌業者，將於11月25日以每股參考價120元登錄興櫃。公司2026年前10月自結營收4.78億元、營業利益1.89億元、稅後淨利1.67億元，毛利率由2025年的56%提升至59%；跨境匯款金額由2023年10億元攀升至2024年99億元、2025年240億元，今年可望突破500億元，APP下載量逾21.7萬次。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Paysafe Enlists Altimetrik to Boost System Reliability",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/partnerships/2026/paysafe-enlists-altimetrik-to-boost-system-reliability/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/partnerships/2026/paysafe-enlists-altimetrik-to-boost-system-reliability/",
+     "status": "ok",
+     "chars": 2837
+    }
+   ],
+   "date_evidence": "Sat, 21 Nov 2026 00:24:07 +0000",
+   "summary": "Paysafe攜手Altimetrik推動平台現代化與AI營運。",
+   "deep_facts": [],
+   "display_title": "Paysafe於11月18日宣布攜手AI工程公司Altimetrik推動平台現代化，以AI強化尖峰交易期間的系統可靠度",
+   "core_fact": "全球支付平台Paysafe與AI工程公司Altimetrik於11月18日（週三）發布新聞稿，宣布由Altimetrik協助Paysafe推動技術現代化與擴展，範圍涵蓋平台與產品工程、資料與AI、AI主導的代理式營運，並強化資料與機器學習基礎，同時改善尖峰支付期間的系統可靠度、Salesforce工程與使用者體驗工程。Paysafe在11月17日另推出協助企業發行自有品牌電子錢包的PaysafeGo，10月28日則宣布PaysafeWallet已於所有歐元區市場上線。"
+  },
+  {
+   "theme": "innovation",
+   "title": "Canadian Fintech Storspay Completes FINTRAC Money Services Business Registration to Support Cross-Border B2B Payroll Expansion",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/324044-canadian-fintech-storspay-completes-fintrac-money-services-business-registration-to-support-cross-border-b2b-payroll-expansion/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/324044-canadian-fintech-storspay-completes-fintrac-money-services-business-registration-to-support-cross-border-b2b-payroll-expansion/",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sun, 22 Nov 2026 10:24:35 +0000",
+   "summary": "Storspay完成FINTRAC貨幣服務業登記。",
+   "deep_facts": [],
+   "display_title": "Storspay於11月22日宣布完成加拿大金融交易與報告分析中心（FINTRAC）貨幣服務業登記，擴展跨境企業薪資撥付",
+   "core_fact": "由StorsApp Inc.經營、專注企業對企業跨境薪資與供應商付款的Storspay，於11月22日宣布完成向加拿大金融交易與報告分析中心（FINTRAC）的貨幣服務業登記，以支援其跨境企業薪資撥付業務擴張。該登記代表Storspay須依加拿大反洗錢與打擊資恐規範執行客戶身分確認、交易紀錄保存與可疑交易申報，才能合法經營匯款與資金移轉服務。"
+  },
+  {
+   "theme": "ai",
+   "title": "UK’s Financial Conduct Authority (FCA) Introduces AI Spotlight Observatory for Real-World AI Use Cases",
+   "source": "FCA／Crowdfund Insider",
+   "source_tier": "T1",
+   "url": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/324043-uks-financial-conduct-authority-fca-introduces-ai-spotlight-observatory-for-real-world-ai-use-cases/",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
+     "status": "ok",
+     "chars": 3573
+    }
+   ],
+   "date_evidence": "Sun, 22 Nov 2026（Crowdfund Insider RSS pubDate）；FCA新聞稿 First published 19/11/2026",
+   "summary": "FCA推出AI Spotlight Observatory，收錄逾200家機構、150個領域的AI實例。",
+   "deep_facts": [
+    "平台由CFTE負責分類法與資料庫、NayaOne負責平台設計開發",
+    "新增共同分類法、區分使用案例與實際導入、辨識跨市場模式三項能力",
+    "註冊後可查看目標客群資訊並直接向入選業者申請示範"
+   ],
+   "display_title": "英國金融行為監理總署（FCA）於11月19日推出全球首個監理機關AI應用觀測平台AI Spotlight Observatory，收錄逾200家機構、150個活動領域的實例",
+   "core_fact": "英國金融行為監理總署（FCA）於11月19日宣布推出AI Spotlight Observatory，稱為全球監理機關首創的同類資源。平台以逾200家機構、橫跨150個活動領域的實際案例為基礎，呈現金融業如何使用AI及趨勢發展方向，案例從打擊金融犯罪、強化合規流程，到代理式支付與神經符號AI等新興技術。平台由FCA與金融科技創業中心CFTE及技術夥伴NayaOne共同開發，開放所有人瀏覽，註冊後可查看目標客群等細節並直接向案例中的創新業者申請示範。"
+  },
+  {
+   "theme": "ai",
+   "title": "Amazon Nears $7.5 Billion Purchase of AI Startup Decart",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
+     "status": "ok",
+     "chars": 2908
+    }
+   ],
+   "date_evidence": "Mon, 23 Nov 2026（RSS pubDate，PYMNTS）",
+   "summary": "亞馬遜收購Decart談判進入後期，估值約75億美元。",
+   "deep_facts": [
+    "Decart是AWS Trainium3晶片早期採用者",
+    "Decart今年稍早曾被列為Anthropic收購對象但Anthropic放棄",
+    "美國科技股落入熊市、創新冠以來最差單週"
+   ],
+   "display_title": "亞馬遜（Amazon）於11月21日經《金融時報》報導進入以約75億美元收購AI新創Decart的後期談判",
+   "core_fact": "《金融時報》11月21日（週六）引述知情人士報導，亞馬遜收購AI新創Decart的談判已進入後期階段，交易將使Decart估值約75億美元，最快數日內可能達成，但仍可能破局。Decart的軟體能讓AI模型更有效率地運作並釋出晶片運算容量，有助亞馬遜雲端服務（AWS）與輝達競爭。亞馬遜去年底推出Trainium3 AI晶片，而Decart是該晶片的早期採用者；Decart今年稍早也曾被列為Anthropic的潛在收購對象，但Anthropic最終放棄。"
+  },
+  {
+   "theme": "ai",
+   "title": "Banks race to patch vulnerabilities amid amplified tech outage risk",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/banks-patching-vulnerabilities-tech-outage-risk-ai-cybersecurity/875329/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/banks-patching-vulnerabilities-tech-outage-risk-ai-cybersecurity/875329/",
+     "status": "ok",
+     "chars": 7225
+    }
+   ],
+   "date_evidence": "2026-11-20（RSS pubDate，Banking Dive）",
+   "summary": "專家指AI加速漏洞發現，銀行面臨修補引發的科技中斷風險。",
+   "deep_facts": [],
+   "display_title": "花旗集團（Citigroup）執行長Jane Fraser於11月18日表示全球科技堆疊修補量達過往五至十倍，AI找漏洞使銀行業科技中斷風險升高",
+   "core_fact": "Banking Dive與Cybersecurity Dive於11月18日（週三）合辦線上座談，專家指出過去八天微軟、美國聯邦航空總署、摩根大通、聯合航空、蘋果與美國國家安全局相繼發生系統中斷。花旗集團執行長Jane Fraser同日受訪表示，全球科技堆疊同時進行的修補量是過往的五至十倍，修補不順並不意外。美國合眾銀行資安長Ann Barron-DiCamillo指出前沿模型讓業界找到更多弱點；摩根大通也於11月19日表示部分第三方供應商遭網路攻擊，外洩部分客戶姓名與電子郵件。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "HSBC Opens Tokenized Hong Kong Dollar Money Market Fund Class to Retail Clients via RedCoin on Ethereum",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/323850-hsbc-opens-tokenized-hong-kong-dollar-money-market-fund-class-to-retail-clients-via-redcoin-on-ethereum/",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/323850-hsbc-opens-tokenized-hong-kong-dollar-money-market-fund-class-to-retail-clients-via-redcoin-on-ethereum/",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://scmp.com/business/banking-finance/article/3375028/hsbc-expands-redcoin-use-wealth-management-tokenised-fund-launch",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Sun, 22 Nov 2026 17:43:02 +0000",
+   "summary": "滙豐開放零售以RedCoin認購代幣化港元貨幣基金，最低100港元。",
+   "deep_facts": [],
+   "display_title": "滙豐（HSBC）於11月19日起開放香港零售客戶以RedCoin穩定幣認購代幣化港元貨幣市場基金，最低認購額100港元",
+   "core_fact": "滙豐自11月19日起推出旗下「滙豐環球貨幣基金－港元」的代幣化單位級別，開放香港零售客戶透過滙豐香港手機銀行認購，認購與交割必須使用滙豐港元穩定幣RedCoin，最低認購額為100港元，遠低於該基金一般的初始投資門檻10,000港元。該級別持續收費為0.38%，以以太坊為首條公鏈，僅於一級市場提供。RedCoin於10月23日透過PayMe推出、與港元1比1掛鉤，截至11月18日流通量約5.9億港元。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "Maybank Executes On-Chain Malaysian Government Securities Transaction via Etiqa Pilot",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/324247-maybank-executes-on-chain-malaysian-government-securities-transaction-via-etiqa-pilot/",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/324247-maybank-executes-on-chain-malaysian-government-securities-transaction-via-etiqa-pilot/",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://fintechnews.my/62512/blockchain/maybank-etiqa-tokenised-mgs-pilot/",
+     "status": "fail",
+     "chars": 1346
+    }
+   ],
+   "date_evidence": "Sun, 22 Nov 2026 21:42:19 +0000",
+   "summary": "Maybank與Etiqa完成大馬首筆代幣化政府公債試點交易。",
+   "deep_facts": [],
+   "display_title": "馬來亞銀行（Maybank）於11月20日經報導與旗下Etiqa Life完成馬來西亞首筆以代幣化存款交割的代幣化政府公債（MGS）試點交易",
+   "core_fact": "馬來亞銀行（Maybank）與旗下保險子公司Etiqa Life Insurance Berhad完成一筆以代幣化存款交割的馬來西亞政府公債（MGS）試點交易，銀行稱為馬來西亞首筆代幣化政府公債交易。試點在馬來西亞國家銀行數位資產創新中心框架下進行，由Maybank託管底層現金與證券；Maybank今年3月25日已完成首筆令吉代幣化存款跨境支付，並於今年稍早協助安排國庫控股（Khazanah）首檔代幣化伊斯蘭債券發行。"
+  },
+  {
+   "theme": "blockchain",
+   "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
+     "status": "fail",
+     "chars": 68
+    }
+   ],
+   "date_evidence": "Sun, 22 Nov 2026 18:58:57 +0000",
+   "summary": "Chainflip遭盜約1,200萬美元，提出10%賞金。",
+   "deep_facts": [],
+   "display_title": "Chainflip於11月21日遭攻擊者自金庫盜走約1,200萬美元資產，協議提出10%賞金要求歸還",
+   "core_fact": "跨鏈交換協議Chainflip於11月21日遭攻擊，攻擊者以疑似金鑰外洩的方式自金庫盜走資產，The Block最初報導損失約486萬美元，隨後協議揭露另有122.9枚比特幣被盜，總損失攀升至約1,200萬美元，涵蓋比特幣、以太幣與穩定幣。Chainflip原生代幣FLIP在攻擊後單日下跌約34%；協議於11月22日向攻擊者提出10%賞金，要求在11月23日（週一）前歸還其餘資產。"
+  }
+ ],
+ "search_log": {
+  "rss_feeds": 17,
+  "rss_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus"
+  ],
+  "mandatory_A": 10,
+  "mandatory_B": 5,
+  "mandatory_C": 3,
+  "regional_supplement": [
+   "台灣",
+   "日本"
+  ],
+  "other_lookups": [
+   "Maybank替代來源",
+   "HSBC替代來源",
+   "FCA官方新聞稿",
+   "Ledger Insights首頁",
+   "Kinexys日期查核",
+   "Project Faro日期查核",
+   "StraitsX日期查核"
+  ]
+ },
+ "notes": "週一審計窗 2026-11-20～2026-11-23；區塊鏈節兩則核心個案因 Crowdfund Insider／SCMP／fintechnews.my 403 或正文過短改採摘要版；OpenAI等AI代理規則、比特幣量子安全兩則因 CoinDesk 429 無法取得內容未採用；Faro（11/11）、StraitsX（11/18）、Kinexys×Hyundai Card（11/18）超出審計窗剔除。"
+}

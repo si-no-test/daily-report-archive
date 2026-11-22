@@ -1,0 +1,22 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/
+STATUS: ok
+CHARS: 2908
+---CONTENT---
+Amazon Nears $7.5 Billion Purchase of AI Startup Decart
+Amazon is reportedly closer to a $7.5 billion deal to acquire artificial intelligence startup Decart .
+That’s according to a report Saturday (Nov. 21) by the Financial Times (FT), citing sources familiar with the matter. The report notes that the purchase of Decart, whose software allows AI models to function more efficiently and free up computer chip capacity, helps Amazon Web Services compete with Nvidia .
+The sources said the negotiations were at an advanced stage for a deal valuing Decart at roughly $7.5 billion. A deal could come together in the coming days, though talks could still fall apart, the sources added.
+The FT noted that Amazon debuted its Trainium3 AI chip late last year to compete with Nvidia’s widely used graphics processing units. Decart was an early adopter of those chips.
+Decart was also reported as a potential acquisition target for Anthropic earlier this year, before that company walked away from the deal .
+The Wall Street Journal reported on Amazon’s interest in Decart in October. A spokesperson for Amazon declined to comment when reached by PYMNTS.
+This deal is happening as American tech stocks have fallen into “bear market territory,” the FT report added, logging their worst week since the COVID pandemic due to worries that the AI investment boom had begun to cool.
+In other AI news, recent PYMNTS Intelligence research shows consumers using the technology for money management in a variety of ways.
+“They can ask an AI assistant to compare financial products, explain annual fees, look up the meaning of an unfamiliar rate or help draft a message questioning a charge,” PYMNTS wrote in the report “Consumers Ask AI Twice: Which Card and Why the Fee?”
+“Of those specific tasks, comparing financial products had the broadest reach across generations,” the report added. “Even among baby boomers and seniors who used generative AI (Gen AI) in their personal lives, roughly one in eight used it to compare financial products, while just three in 100 used it to draft a dispute or support message.”
+The research found that 22.5% of consumers surveyed in September of this year had used Gen AI for money management at least once in the last 12 months, a figure little changed from a year earlier. What distinguished consumers was the extent to which they were using AI already, with close to 80% of power users turning to it for money management, and more than half using it for specific needs like crafting a budget.
+For all PYMNTS AI coverage, subscribe to the daily AI Newsletter .
+Amazon Nears $7.5 Billion Purchase of AI Startup Decart
+Mexico Relaxes Card Fee Rules to Promote Digital Payments
+GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended
+Singles’ Day Sold 170,000 Dog Outfits. Then Came the Cleanup.
+acquisitions , AI , AI infrastructure , Amazon , News , PYMNTS News , What's Hot

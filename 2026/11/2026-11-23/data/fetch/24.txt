@@ -1,0 +1,4 @@
+FINAL_URL: https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 429: Too Many Requests

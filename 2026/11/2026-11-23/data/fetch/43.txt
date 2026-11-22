@@ -1,0 +1,11 @@
+FINAL_URL: https://www.ledgerinsights.com/hyundai-card-jp-morgan-test-ai-agent-treasury-payments-on-dlt-standards-are-the-gap/
+STATUS: ok
+CHARS: 1774
+---CONTENT---
+Kinexys by JP Morgan has conducted a proof of concept in which an AI agent manages treasury liquidity in Hyundai Card’s blockchain deposit account.
+The agent was responsible for ensuring that a sufficient balance was maintained in Hyundai Card’s euro account. When the account needed topping up, the agent collected FX quotes and initiated a conversion from GBP to EUR. A Kinexys agent then checked the Hyundai Card agent’s identity and mandate before executing the trade. As a proof of concept the transactions were simulated, but the exercise was as much about governance as payments.
+The trial highlights three requirements. The Hyundai Card agent had to prove it was acting for Hyundai Card, which is a digital identity question. It also needed a mandate setting out which transactions it could execute. In the Kinexys design the agent drafts its own mandate, but only the company can approve it. After that, most transactions run automatically and only exceptions go to a human, which matters given the speed at which agents work. Finally, every transaction has to be auditable after the fact.
+Notably, a paper published by JP Morgan identifies the need for a common trust framework across the industry for working with agents. That’s essential for multibank payments. It calls for collaboration between clients, regulators and ecosystem partners. However, it does not refer to the standards bodies already working on the problem.
+Want the full story? Pro subscribers get complete articles, exclusive industry analysis, and early access to legislative updates that keep you ahead of the competition. Join the professionals who are choosing deeper insights over surface level news.
+Image Copyright: Joshua Olson | Dreamstime.com
+Facebook X Reddit Email LinkedIn WhatsApp

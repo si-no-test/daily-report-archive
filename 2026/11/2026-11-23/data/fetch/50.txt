@@ -1,0 +1,20 @@
+FINAL_URL: https://www.pymnts.com/partnerships/2026/paysafe-enlists-altimetrik-to-boost-system-reliability/
+STATUS: ok
+CHARS: 2837
+---CONTENT---
+Paysafe Enlists Altimetrik to Boost System Reliability
+Global payments platform Paysafe has tapped Altimetrik , an artificial intelligence (AI) engineering company, to modernize and scale its technology, the companies said in a Wednesday (Nov. 18) press release .
+Altimetrik will work across Paysafe’s platforms and product engineering, data and AI, and AI-led agentic operations to support modernization and scaling, help strengthen the data and machine learning foundation, and implement AI across the payments firm’s engineering and day-to-day operations, according to the release.
+The companies will also collaborate on improving Paysafe’s system reliability during peak payment periods, Salesforce engineering and user experience engineering, per the release.
+Paysafe’s global payments platform is built for the experience economy and connects businesses, consumers and fans across gaming, iGaming, video gaming, esports, events, travel, hospitality online trading and digital commerce.
+“We wanted a specialist partner that works with our product teams and answers for business results, and Altimetrik brings that, along with the AI capability to help us move faster,” Paysafe Chief Product Officer Bob Legters said in the release. “With this partnership, our engineers can focus on the product roadmap and the customers it serves.”
+Altimetrik helps clients modernize the systems, data and processes at the heart of their businesses, according to the release.
+“We know what it takes to keep a payments platform running around the clock and answerable to regulators because our teams have built and modernized these systems for banks and FinTech leaders around the world,” Altimetrik Chief Revenue Officer Gautam Samanta said in the release.
+Paysafe announced Tuesday (Nov. 17) that it launched a solution to help businesses launch their own digital wallets. The PaysafeGo solution is designed to give enterprises a way to launch branded wallets while avoiding the operational and regulatory complexity t0hat often comes with being a wallet operator, the company said.
+Legters said at the time in a press release: “Consumers increasingly expect seamless experiences wherever they engage with brands, and payments are a critical part of that journey.”
+Paysafe announced Oct. 28 that PaysafeWallet , a digital wallet that can be accessed through the PaysafeCard app, is now available in all euro area markets. PaysafeWallet brings together cash and digital money management in one experience, the company said.
+Amazon Nears $7.5 Billion Purchase of AI Startup Decart
+Mexico Relaxes Card Fee Rules to Promote Digital Payments
+GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended
+Singles’ Day Sold 170,000 Dog Outfits. Then Came the Cleanup.
+Digital Payments , digital wallets , News , Paysafe , PYMNTS News , What's Hot

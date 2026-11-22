@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty
+STATUS: fail
+CHARS: 68
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Binance hackers stole 192 tokens across 11 networks, court docs show

@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit
+STATUS: fail
+CHARS: 76
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+The future of onchain FX could start with users, not institutional liquidity

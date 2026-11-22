@@ -1,0 +1,8 @@
+[
+{"action":"create","topic_id":"global-payments-buyout","title":"Global Payments私有化收購案進展","theme":"innovation","keywords":["Global Payments","GTCR","CD&R","私有化","收購","Worldpay"],"headline":"GTCR於11月20日向美國證交會申報正評估收購Global Payments","one_line_update":"GTCR與CD&R聯合收購破局數日後，GTCR單獨申報評估收購，彭博估計交易規模含債務與溢價約500億美元。","source_title":"GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended","source_url":"https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/"},
+{"action":"create","topic_id":"mexico-card-interchange-cap","title":"墨西哥刷卡手續費上限法規制定進程","theme":"innovation","keywords":["墨西哥","交換手續費","刷卡手續費","信用卡","簽帳卡","去現金化"],"headline":"墨西哥政府於11月20日公布放寬版刷卡手續費上限草案","one_line_update":"修正草案改為2029年前分階段將信用卡與簽帳卡年均上限定為1%與0.3%，較去年0.6%信用卡上限提案寬鬆。","source_title":"Mexico Relaxes Card Fee Rules to Promote Digital Payments","source_url":"https://www.pymnts.com/digital-payments/2026/mexico-relaxes-card-fee-rules-to-promote-digital-payments/"},
+{"action":"skip"},
+{"action":"skip"},
+{"action":"match","topic_id":"hsbc-redcoin-hkd-stablecoin-rollout","headline":"滙豐於11月19日起開放香港零售客戶以RedCoin認購代幣化港元貨幣市場基金","one_line_update":"RedCoin用途由PayMe支付延伸至財富管理，代幣化基金單位級別以以太坊為首條公鏈，最低認購額100港元。","source_title":"HSBC Opens Tokenized Hong Kong Dollar Money Market Fund Class to Retail Clients via RedCoin on Ethereum","source_url":"https://www.crowdfundinsider.com/2026/11/323850-hsbc-opens-tokenized-hong-kong-dollar-money-market-fund-class-to-retail-clients-via-redcoin-on-ethereum/"},
+{"action":"skip"}
+]

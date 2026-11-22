@@ -1,0 +1,22 @@
+FINAL_URL: https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation
+STATUS: ok
+CHARS: 3573
+---CONTENT---
+New resource brings together real-world examples of AI adoption across financial services, helping firms identify emerging trends and opportunities.
+The FCA has launched a world-first AI Spotlight Observatory that provides firms, academics and innovators with a comprehensive view of how AI is being adopted across financial services.
+Based on practical use cases from more than 200 organisations and spanning 150 areas of activity, the online platform highlights how firms are using AI across the industry and where trends are developing.
+Developed in partnership with the Centre for Finance, Technology and Entrepreneurship (CFTE) and technology partner NayaOne, the Observatory helps meet the growing demand for greater visibility of AI adoption across the sector.
+The resource highlights a range of AI use cases shaping financial services, from solutions designed to combat financial crime and enhance compliance processes to emerging technologies such as agentic payments and neurosymbolic AI.
+By widening access to market intelligence, the Observatory will help firms of all sizes learn from developments across the market, better understand emerging technologies and make more informed decisions about adopting AI responsibly.
+Jessica Rusu, chief data, information and intelligence officer at the FCA, said: 'AI is creating significant opportunities across financial services, and we’re committed to helping firms understand how the technology is being used.
+'The AI Spotlight Observatory provides an open and accessible resource that brings together real-world examples of AI adoption, helping firms, innovators and researchers learn from developments across the sector and identify new opportunities for innovation and growth.'
+The FCA’s AI Spotlight Observatory is the first resource of its kind for a regulator globally.
+It builds on the FCA’s AI Spotlight Digital Showcase, a repository of practical AI solutions across specific themes, by adding new features and capabilities, such as a common taxonomy for comparison, a distinction between use cases and implementations, and the ability to identify emerging patterns across the market.
+The platform is open and accessible to all users. Registration is required to access more detailed insights, such as target client information, and to request demonstrations directly from innovators featured on the platform.
+The Observatory will continue to evolve through the addition of new use cases. Firms can apply to be showcased on the platform .
+CFTE has supported the development of the Observatory across three main areas: creating the taxonomy, building the repository, and socialising the Observatory with the market.
+The Observatory forms part of CFTE’s wider collaboration with the FCA on AI capability, industry engagement and market intelligence. Alongside initiatives such as the Agentic Academy, CFTE supports the FCA in helping the financial-services sector better understand, structure and respond to the opportunities and challenges created by AI.
+NayaOne has been responsible for the design and development of the Observatory platform, including the user interface, navigation, search and filtering capabilities.
+The platform builds on the FCA’s wider work on AI, including its
+AI Discussion Paper , AI Sprint , and AI Lab , which includes AI Live Testing and its groundbreaking Supercharged Sandbox supported by NVIDIA, NayaOne and Anthropic.
+Last month, the FCA published examples of AI good practice and areas of improvement to support the safe and responsible adoption of AI in financial services.

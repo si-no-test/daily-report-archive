@@ -1,0 +1,20 @@
+FINAL_URL: https://www.pymnts.com/digital-payments/2026/mexico-relaxes-card-fee-rules-to-promote-digital-payments/
+STATUS: ok
+CHARS: 2934
+---CONTENT---
+Mexico Relaxes Card Fee Rules to Promote Digital Payments
+Mexico is reportedly preparing to place less restrictive caps on the fees financial companies can charge for debit and credit cards amid efforts to boost digital payment use.
+The government’s revised proposal would phase in yearly average caps of 1% on credit cards and 0.3% for debit cards by 2029, Bloomberg News reported Friday (Nov. 20), citing documents posted to Mexico’s platform for draft regulations.
+Last year, Mexican policymakers suggested caps on credit and debit interchange fees at a respective 0.6% and 0.3%, the report added.
+Bloomberg said the rules are part of a push by the government to reduce the use of cash in Mexico and help the country’s financial services sector. Another proposed law would require the government to accept digital payment options for all services and mandate digital payments in some cases, the report added.
+“The revised draft will likely be read as a modest win for the industry, as participants avoided the much harsher terms of last year’s original proposal, and secured simpler disclosure rules, more flexible cross-border settlement and clearer transition timelines,” Gilberto Garcia , head of strategic advisory at Miranda Partners , wrote in a note last week, per Bloomberg.
+The report added that the government projects the new rules would save about 20 billion pesos ($1.1 billion) per year, mostly benefiting merchant acquirers. The government’s earlier proposal was expected to cost banks $2 billion in 2027, rising to more than $3 billion by 2031, according to Inigo Vega , a banking analyst at Jefferies . Under the new regime, Vega projected that the impact will reach $1.8 billion by 2031.
+The news follows a Financial Times report from August that Mexico was attempting to rejuvenate Codi , a real-time payments platform similar to Brazil’s popular Pix, as part of its drive to promote digital payments.
+Although earlier attempts had failed, the government said it was making a concerted effort toward digitization in a nation where 85% of the people use cash for purchases of 500 pesos (about $30) or less.
+The April 2025 PYMNTS Intelligence report “Digital Developments: Charting Digital Payment Growth in Latin America” found that Pix had enjoyed unprecedented growth while becoming one of Brazilians’ most preferred payment methods.
+“Since its introduction, Pix has significantly boosted financial inclusion by encouraging the opening of digital accounts across all societal segments and integrating more individuals into the financial ecosystem,” the report said.
+Mexico Relaxes Card Fee Rules to Promote Digital Payments
+GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended
+Singles’ Day Sold 170,000 Dog Outfits. Then Came the Cleanup.
+The Conference Board Says CEOs Should Be Prepared to Defend Algorithmic Pricing
+Interchange Fees , Latin America , mexico , News , PYMNTS News , What's Hot

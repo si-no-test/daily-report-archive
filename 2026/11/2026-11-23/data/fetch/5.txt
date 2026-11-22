@@ -1,0 +1,40 @@
+FINAL_URL: https://www.bankingdive.com/news/banks-patching-vulnerabilities-tech-outage-risk-ai-cybersecurity/875329/
+STATUS: ok
+CHARS: 7225
+---CONTENT---
+Banks race to patch vulnerabilities amid amplified tech outage risk
+With outages mounting and cyberattackers moving faster with AI, experts during a Banking Dive virtual event said lenders should reassess vendor risk and speed up incident response.
+Expect more technology outages similar to those occurring over the past week, as artificial intelligence models expose system vulnerabilities, including at banks, experts told Banking Dive Wednesday.
+Microsoft, the Federal Aviation Administration, JPMorgan Chase , United Airlines, Apple and the National Security Agency have all encountered outages over the last eight days, underscoring the challenge of keeping services functional while patching vulnerabilities, Cybersecurity Dive reported Thursday .
+“Everybody's updating a lot,” said Justin Herring, a New York-based partner at Mayer Brown. “New vulnerabilities are being found, and each update where you change things around inside of your system is an opportunity for things to break in unexpected ways.”
+“In theory, we should reach an equilibrium point, at some point, where we're finding vulnerabilities at roughly the same rate we're patching them,” Herring said during a live virtual event co-hosted by Banking Dive and Cybersecurity Dive . “But that is not going to happen in the foreseeable future.”
+Citi CEO Jane Fraser, addressing the topic Wednesday during an interview with Bloomberg , said she understands why the collection of recent outages has felt “unsettling,” but the degree of patching “going through the world’s tech stack at the same time is five-, tenfold what we’ve ever seen before. And it shouldn’t be a complete surprise to anyone that that doesn’t always go well.”
+Expect more outages and downtime for a while, as tech is upgraded and vulnerabilities are patched, which “will make us all a lot more resilient,” Fraser said. “That’s going to be very important because these models are powerful and in bad actors’ hands, they can be a problem.”
+Most large banks are grappling with this and racing to address weaknesses, Herring said.
+“The capacity to find vulnerabilities has grown much faster than the capacity to fix them,” he said. And “it's not like updating your iPhone. You update something, you have to check to make sure you're not breaking things, it requires a lot of testing.”
+Banks involved in Anthropic’s cyber defense initiative Project Glasswing “have been absolutely inundated with questions from their regulators” about how they're using such AI tools, how they're managing associated risks, how they're assessing the risk of outages associated with patching, and the risk that deploying these tools may break something, Herring said.
+It’s a “complicated process, and I think it's going to be an ongoing challenge for quite some time,” Herring said.
+With outages likely to continue, resiliency and getting ahead of improvements to critical systems that can create intermittent outages will be important, Ann Barron-DiCamillo, chief information security officer at U.S. Bank, said during the virtual event.
+“We as practitioners are trying to bring down the temperature as well. But it is really a different moment,” Barron-DiCamillo said. The goal is to “make sure that we're putting in those resiliency measures where we can to help address when those things do happen.”
+She cautioned against confusing “increased visibility with deteriorating security.”
+“If AI and frontier models have allowed us to do anything, they've allowed us to find substantially more weaknesses,” Barron-DiCamillo said. However, “simply counting a finding is no longer a meaningful metric.”
+Cyber teams seek to understand what’s externally exposed and exploitable, and connect that to critical services with a more material business impact, she said. That’s “a much better use of time.”
+The recent pace of tech outages has sparked cyberattack concerns. Incidentally, JPMorgan said Thursday that some of its third-party vendors were the target of a cyberattack, exposing certain marketing data including some of the bank’s customer names and email addresses. Payment networks Visa and Mastercard were affected, too.
+JPMorgan said there was no connection to the service disruption that occurred Monday.
+Banks and regulators are “intensely focused” on third-party risk, Herring noted. Company leadership should understand which vendors are critical, including the most important technical support vendors, he said.
+“Identifying those and understanding how you're mitigating that risk in terms of your business continuity plan, in terms of your contractual protections, is also a critical step,” he said.
+“Among the many things coming with the AI revolution that we're living through is even more dependence,” Herring said. Banks “are going to be more dependent on their service providers because these AI tools are generally built on external models.”
+Banks must “continuously reassess where your risks are and where the vulnerabilities are, and your controls have to evolve,” said Sepideh Rowland, a partner at financial services advisory firm Klaros Group.
+Third-party risks evolve, too, so banks need to stay on top of changes, Rowland noted.
+“Their control mechanisms shift and change over time,” she said. “Are they keeping you apprised? Do you understand what potential new risks are being posed by the third party?”
+And if it reaches a point where the risk posed by the third party means the partnership needs to end, “what does business continuity in that moment look like?” Rowland said.
+More broadly, panelists noted AI tools have democratized threat capabilities, changing the cybercrime landscape at an unprecedented pace.
+Criminals can exploit vulnerabilities “without even knowing how to code, because you can use AI tools to find and deploy them in new and novel ways,” Herring said. “That has made those types of threats, which were possible but rare, now very common.”
+AI enables bad actors to identify and operationalize a weakness much faster than the industry has seen, Barron-DiCamillo said. “It's not so much that we're seeing novel attacks because of AI. It's compression associated with the speed of vulnerabilities to exploitation that we've not seen in the past,” she said.
+Many bank leaders are focused on ensuring their internal controls are effective in practice, not just on paper, Herring said.
+Lenders should ensure their incident response plans are tested with actual decision-makers, including through table-top exercises, and that response plans have been updated to account for new tools and the need to act faster, Herring said.
+The speed at which threat actors can move with AI tools is straining incident response plans and how those are executed, he noted.
+“Things that might reasonably and sensibly have taken half a day to decide or act on a few years ago in an incident response plan might move sort of dangerously slow now,” Herring said.
+To act more quickly, banks might consider putting more authority in the hands of front-line leaders like chief information security officers, he said.
+‘What the hell is going on?’: Technology outages offer preview of US infrastructure’s messy, risky future
+Banking disruption resolved after thousands report access issues
