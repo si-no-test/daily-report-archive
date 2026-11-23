@@ -1,0 +1,12 @@
+[
+{"name":"貝寶","url":"https://www.paypal.com","intro":"全球主要數位錢包與線上支付業者，提供消費者錢包與商家收款服務。"},
+{"name":"Anthropic","url":"https://www.anthropic.com","intro":"美國AI公司，開發Claude系列大型語言模型與AI代理工具。"},
+{"name":"輝達","url":"https://www.nvidia.com","intro":"全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"},
+{"name":"谷歌","url":"https://www.google.com","intro":"全球最大搜尋引擎業者，旗下有Google錢包、雲端硬碟與Gemini AI。"},
+{"name":"派安盈","url":"https://www.payoneer.com","intro":"跨境支付業者，為全球中小企業與電商賣家提供跨境收付款服務。"},
+{"name":"威士","url":"https://www.visa.com","intro":"全球最大卡組織之一，經營支付網路並布局代理式商務與穩定幣結算。"},
+{"name":"美國貨幣監理署","url":"https://www.occ.gov","intro":"美國財政部轄下機關，負責核發與監理全國性銀行及聯邦信託銀行執照。"},
+{"name":"Robinhood","url":"https://robinhood.com","intro":"美國網路券商，提供股票、加密資產等零手續費交易服務。"},
+{"name":"Coinbase","url":"https://www.coinbase.com","intro":"美國最大加密資產交易平台之一，也提供託管與穩定幣相關服務。"},
+{"name":"Circle","url":"https://www.circle.com","intro":"美元穩定幣USDC的發行商。"}
+]

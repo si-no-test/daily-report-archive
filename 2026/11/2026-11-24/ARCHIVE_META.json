@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-24",
+  "archived_at": "2026-11-23T23:16:13Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "dfa453263346baac5347f077bb276f5e638ce283",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 26,
+  "total_bytes": 842806,
+  "files": [
+    {
+      "path": "data/2026-11-24-candidates.txt",
+      "bytes": 61920,
+      "sha256": "63ce7dae6170aba2237ebbfe5190bd1115b7eb81323011e1a7d729cdee28aa7e"
+    },
+    {
+      "path": "data/2026-11-24-glossary.json",
+      "bytes": 2334,
+      "sha256": "dea8328c15baf45d3a03186792161a61d1df2fb8db9a98d59f36415c90d941e9"
+    },
+    {
+      "path": "data/2026-11-24-manifest.txt",
+      "bytes": 3460,
+      "sha256": "6c2c3d5c86262ed7db6a967463c9040b80676ffd6353a42c3dcec8a58901caee"
+    },
+    {
+      "path": "data/2026-11-24-orgs.json",
+      "bytes": 1441,
+      "sha256": "208511e2f0aef9ccbc71ec9f22f7ac98c7366c9ff3c07c13c929be9fc0e143e4"
+    },
+    {
+      "path": "data/2026-11-24-topic-cases.json",
+      "bytes": 2286,
+      "sha256": "d82553b02ef301e510df872a7080db9bfa976bbce9ef07806090be0be8a5828d"
+    },
+    {
+      "path": "data/2026-11-24-topic-decisions.json",
+      "bytes": 3828,
+      "sha256": "d7519edc3302f9f1033fa561dab3f09c4730397a29b57b9edea1f6697c695a62"
+    },
+    {
+      "path": "data/2026-11-24-topic-markers.json",
+      "bytes": 981,
+      "sha256": "a6ddd6f0c142446b68d795e1576b725da1c839be48daa765b4b3057c0899aad8"
+    },
+    {
+      "path": "data/2026-11-24.json",
+      "bytes": 19149,
+      "sha256": "872d1b304b0e969e9d259fbdd993ce941975afc565bfcadde8476d7348c9994c"
+    },
+    {
+      "path": "outbox/2026-11-24-archive.html",
+      "bytes": 103201,
+      "sha256": "14c824118abf925e96a678ee74007106ca76a2ea84466bbaab5b420ae8d0d9c5"
+    },
+    {
+      "path": "outbox/2026-11-24-email.html",
+      "bytes": 10806,
+      "sha256": "613904a51995d789118c6e5c8a97fccca911f2eb395fb609653898e97794e30d"
+    },
+    {
+      "path": "published/2026-11-24.html",
+      "bytes": 555,
+      "sha256": "e63cd6b544bcf9c76ee92f637070cc85e0d804bc2bc8c11dcc5e3beba7a11166"
+    },
+    {
+      "path": "published/2026-11-24/ai.html",
+      "bytes": 34630,
+      "sha256": "4a2db646b3fd14a6ffa4d34420370d5d3cdb7f5093c157f65d27e34f65a3a3b7"
+    },
+    {
+      "path": "published/2026-11-24/blockchain.html",
+      "bytes": 52070,
+      "sha256": "90a1c44534cbe4c71549cd83b55a44e420a6475e7ddaeebc6c7ab210020adc44"
+    },
+    {
+      "path": "published/2026-11-24/index.html",
+      "bytes": 23271,
+      "sha256": "b7599fa6a23ade13c4f8c92401a0a04379581c876cb540ee5c5410dfbaa13aec"
+    },
+    {
+      "path": "published/2026-11-24/innovation.html",
+      "bytes": 54542,
+      "sha256": "c69c1bd10678838c85054cb4176159c2988713f3ff891151b6dda8e41ff8c3d1"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 401839,
+      "sha256": "176c375fab0cd2ce26212f70ef4ff1e4b428036b715f2f711fd9e86d5d5cc307"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "dcffeba8018fb05ef6d8c22e4fc7537627411abe6c574be37815ffe3bbb9234a"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "e63cd6b544bcf9c76ee92f637070cc85e0d804bc2bc8c11dcc5e3beba7a11166"
+    },
+    {
+      "path": "published/topics/bank-ai-agent-card-access-policy.html",
+      "bytes": 6367,
+      "sha256": "f3bb351803cf83351f77d36cf81717b222f3a537454bcc6998bac26872a2c739"
+    },
+    {
+      "path": "published/topics/nvidia-huang-leadership-security-probe.html",
+      "bytes": 1492,
+      "sha256": "994c61bf708947841ccbdd52588aacffc37fa5ca68823c9a6912e05510492584"
+    },
+    {
+      "path": "published/topics/okx-ice-tokenized-stock-venue.html",
+      "bytes": 6012,
+      "sha256": "40815fa3c0f1800931765889c0b225acdb0643886a59e5de55ed4bd352d973be"
+    },
+    {
+      "path": "published/topics/open-usd-consortium-stablecoin.html",
+      "bytes": 5322,
+      "sha256": "10445601ae948fa0f717087376216386938fbf2996036e848752747477816527"
+    },
+    {
+      "path": "published/topics/payoneer-payo-digital-trust-bank.html",
+      "bytes": 1581,
+      "sha256": "eefa80683e8f15f5cf9e5cc68f23510b867145f654d5a625c153c5ebfd768f6e"
+    },
+    {
+      "path": "published/topics/us-de-novo-bank-formation-wave.html",
+      "bytes": 6003,
+      "sha256": "0dc768d26ac85e825a9855b53e03289558e354babe4e1c0df9736bb374a28f61"
+    },
+    {
+      "path": "source/2026-11-24-report.txt",
+      "bytes": 36068,
+      "sha256": "2be4142dc55a874e7ddbca9240e66106ba58113d9e0af8904a3eb0ea952583c4"
+    },
+    {
+      "path": "source/2026-11-24-summary.txt",
+      "bytes": 2301,
+      "sha256": "05156900d0e61112090ee20cc14662db9c0a2a36cab6cb2ce18f0bd1bbc0c839"
+    }
+  ]
+}

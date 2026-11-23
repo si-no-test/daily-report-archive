@@ -1,0 +1,268 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T07:15:50+08:00",
+  "counts": {
+    "ai": 3,
+    "blockchain": 4,
+    "innovation": 5
+  },
+  "audit_window": {
+    "since": "2026-11-23",
+    "today": "2026-11-24"
+  },
+  "searches": {
+    "A_site": 10,
+    "B_topic": 5,
+    "C_rss_fallback": 3,
+    "region_supplement": 5,
+    "rss_feeds_ok": 14,
+    "rss_feeds_failed": [
+      "Finextra",
+      "Fintech Futures",
+      "Fintech Nexus"
+    ]
+  },
+  "items": [
+    {
+      "theme": "innovation",
+      "title": "PayPal Sets Virtual Card Rules for Agentic Commerce",
+      "display_title": "貝寶（PayPal）於11月23日正式生效代理式商務虛擬卡條款，由PayPal發給AI代理專屬虛擬卡完成對商家結算",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-sets-virtual-card-rules-for-agentic-commerce/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-sets-virtual-card-rules-for-agentic-commerce/",
+          "status": "ok",
+          "chars": 2815
+        }
+      ],
+      "date_evidence": "Mon, 23 Nov 2026 20:30:29 +0000",
+      "summary": "PayPal代理式商務虛擬卡條款於11月23日生效，AI代理購物以PayPal另發的虛擬卡結算給商家，費用由商家負擔、不適用賣家保障。",
+      "core_fact": "貝寶（PayPal）於11月10日預告、11月23日起正式生效「PayPal Checkout — Agentic Virtual Card」條款：消費者透過AI代理購物並選用PayPal付款時，PayPal可另發一張與錢包內原始支付工具不同的虛擬卡給代理服務，再以該卡把款項結算給美國合格商家帳戶。條款規定卡組織費用、交換費與相關評估費全由商家負擔，退款須退回同一張虛擬卡，且此類交易不適用PayPal賣家保障，爭議改走卡組織退單流程。",
+      "deep_facts": [
+        "條款規定卡組織費用、交換費與評估費由商家依收單合約負擔，且代理虛擬卡交易不適用PayPal賣家保障",
+        "退款必須退回同一張代理虛擬卡，爭議一律走卡組織退單流程",
+        "執行長Enrique Lores於10月27日法說會表示正與Meta等AI公司把PayPal整合進個人代理"
+      ]
+    },
+    {
+      "theme": "innovation",
+      "title": "AI-forward insurance startup Corgi applies for bank charter",
+      "display_title": "Corgi於11月23日經報導向美國貨幣監理署申設全國性銀行，承諾投入至少7,500萬美元初始資本",
+      "source": "Banking Dive",
+      "source_tier": "T2",
+      "url": "https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453/",
+          "status": "ok",
+          "chars": 3420
+        }
+      ],
+      "date_evidence": "Mon, 23 Nov 2026 09:41:23 -0500",
+      "summary": "Corgi向OCC申請全國性銀行執照並向FDIC申請存保，承諾投入至少7,500萬美元初始資本，服務約30萬名多為小企業主的保戶。",
+      "core_fact": "成立約兩年、以AI驅動的保險新創Corgi於上週向美國貨幣監理署（OCC）申請全國性銀行執照，並向聯邦存款保險公司（FDIC）申請存款保險，Banking Dive於11月23日報導。擬設銀行總部位於鹽湖城，另於舊金山與紐約設放款據點；Corgi目前服務約30萬名保險客戶、多為小企業主，執行長Nicolas Laqua表示將投入至少7,500萬美元初始資本，公司最新一輪募資約4.5億美元。",
+      "deep_facts": [
+        "擬設銀行總部在鹽湖城並於舊金山與紐約設放款據點，同步向FDIC申請存款保險",
+        "此執照將使母公司成為受聯準會監理的銀行控股公司，1997至2000年約45家保險業者曾改走儲貸路線以規避此身分",
+        "擬任銀行總裁為前Pacific West Bank執行長Jason Wessling，並延攬具法遵與授信背景主管"
+      ]
+    },
+    {
+      "theme": "innovation",
+      "title": "Natural Enables Voice Agents to Accept Payments Over the Phone",
+      "display_title": "Natural於11月23日推出Natural Voice，讓AI語音代理在通話中直接收取信用卡款項，公司累計募資逾4,000萬美元",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/natural-enables-voice-agents-to-accept-payments-over-the-phone/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "Mon, 23 Nov 2026 21:50:03 +0000",
+      "summary": "Natural推出Natural Voice，讓AI語音代理把來電者轉給Natural支付代理在通話中收取卡款，卡號不進入企業系統。",
+      "core_fact": "代理式支付基礎設施新創Natural於11月23日發布新聞稿，推出Natural Voice：企業的AI語音代理在通話中建立付款請求後，把來電者轉給Natural的支付代理並自行離線，由支付代理報出商家名稱、確認金額、收取卡號並在客戶口頭授權後扣款，卡號完全不進入企業系統。Natural於2025年11月取得980萬美元種子輪，今年7月再募3,000萬美元A輪，累計募資逾4,000萬美元。",
+      "deep_facts": []
+    },
+    {
+      "theme": "innovation",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "display_title": "Supertake於11月23日宣布完成2,000萬美元種子輪募資，以AI交易代理把用戶的市場觀點轉成股票投資組合",
+      "source": "TechCrunch",
+      "source_tier": "T2",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "Mon, 23 Nov 2026 22:02:05 +0000",
+      "summary": "Supertake完成2,000萬美元種子輪，由Adjacent領投，用AI把用戶的自然語言市場觀點轉成股票組合，串接Coinbase與Robinhood。",
+      "core_fact": "AI投資新創Supertake於11月23日宣布完成2,000萬美元種子輪募資，由Adjacent領投，Coinbase Ventures與Union Square Ventures跟投。用戶以自然語言描述對世界變化的判斷，AI與用戶反覆來回後轉成可投資的股票組合，目前串接Coinbase與Robinhood兩家券商，並以排行榜讓其他用戶跟投。執行長Lincoln Murr與技術長John Peterson皆出身Coinbase的AI產品與工程團隊。",
+      "deep_facts": []
+    },
+    {
+      "theme": "innovation",
+      "title": "Common Cents Law Sets Cash Rounding Rules for Transactions After Penny Shutdown",
+      "display_title": "美國信用合作社協會（America's Credit Unions）於11月23日表示《Common Cents法案》確立現金交易進位至5美分的全國規則",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/legal/2026/common-cents-law-sets-cash-rounding-rules-for-transactions-after-penny-shutdown/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "Mon, 23 Nov 2026 19:33:34 +0000",
+      "summary": "川普簽署Common Cents法案，建立現金交易進位至最接近5美分的全國框架並永久終止一分錢生產。",
+      "core_fact": "美國總統川普於11月20日簽署《Common Cents法案》（H.R. 10167），美國信用合作社協會於11月23日發布新聞稿表示，該法建立現金交易四捨五入至最接近5美分的全國框架，並永久終止一般流通用一分錢的生產；財政部已於2025年11月停止鑄造一分錢。眾議院於9月14日、參議院於9月28日先後通過此法案，發起人指出過去每鑄造一枚一分錢成本近4美分。",
+      "deep_facts": []
+    },
+    {
+      "theme": "ai",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "display_title": "Anthropic於11月23日推出Claude Ship，讓AI代理依團隊自訂政策自動審查、修正並核准程式變更",
+      "source": "TechCrunch",
+      "source_tier": "T2",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "status": "ok",
+          "chars": 4022
+        }
+      ],
+      "date_evidence": "Mon, 23 Nov 2026 22:05:50 +0000",
+      "summary": "Anthropic推出Claude Ship，含Code Review、PR Steward與Claude Approvals代理，可依團隊政策自動審查、修正並核准程式變更。",
+      "core_fact": "已在那斯達克掛牌的Anthropic於11月23日推出Claude Ship，是一組自動化程式碼審查、修正與核准的AI代理，共3項：已全面開放的Code Review，以及進入beta的PR Steward與Claude Approvals。PR Steward負責處理CI檢查失敗、合併衝突與審查意見，並在每次推送後說明改了什麼與如何回滾；Claude Approvals依團隊寫在儲存庫中的自然語言政策檔決定是否自動核准。審查設定分Quick、Standard、Deep共3級，先開放給GitHub上的Claude Team與Enterprise方案。",
+      "deep_facts": [
+        "Claude Ship由已全面開放的Code Review與beta中的PR Steward、Claude Approvals共3項代理組成",
+        "Claude Approvals依團隊寫在儲存庫內的自然語言政策檔決定自動核准，可結合Code Review結果與企業自有分類器訊號",
+        "官方建議先以僅觀察模式、單一儲存庫並設定每月支出上限試行，審查設定分Quick、Standard、Deep三級"
+      ]
+    },
+    {
+      "theme": "ai",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "display_title": "輝達（Nvidia）於11月23日宣布恢復黃仁勳執行長職務，股價開盤大漲30%",
+      "source": "TechCrunch",
+      "source_tier": "T2",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+          "status": "ok",
+          "chars": 5045
+        }
+      ],
+      "date_evidence": "Mon, 23 Nov 2026 14:21:59 +0000",
+      "summary": "輝達董事會一致決議恢復黃仁勳執行長暨總裁職務，事前諮詢美國政府高層確認無國安風險，股價開盤大漲30%。",
+      "core_fact": "輝達（Nvidia）董事會於11月23日宣布一致決議恢復黃仁勳執行長暨總裁職務，距其因承認婚外情、且其中一名對象遭美國政府懷疑為中國間諜而辭職不到兩週。董事會表示事前諮詢美國政府高層，確認黃仁勳不構成國安風險；輝達股價開盤大漲30%，美東時間上午9時51分報159.95美元、漲27%。財務長Colette Kress卸下代理執行長職務、續任財務長。",
+      "deep_facts": [
+        "董事會表示事前諮詢美國政府高層，確認黃仁勳不構成國安風險後一致決議其回任",
+        "美東時間上午9時51分股價報159.95美元、漲27%，財務長Colette Kress卸任代理執行長並續任財務長",
+        "董事會先前已委任獵才公司Heidrick & Struggles尋找繼任者，並在第三季法說會表態不讓其回任"
+      ]
+    },
+    {
+      "theme": "ai",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "display_title": "谷歌（Google）於11月23日將搜尋AI模式的個人智慧功能擴及Google錢包與雲端硬碟，僅可讀取帳戶資訊而不得動用資金",
+      "source": "TechCrunch",
+      "source_tier": "T2",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "Mon, 23 Nov 2026 19:14:46 +0000",
+      "summary": "Google將搜尋AI模式的個人智慧功能擴及Google錢包、雲端硬碟與Gemini應用程式，錢包串接僅可讀取、不得動用資金。",
+      "core_fact": "谷歌（Google）於11月23日宣布擴大搜尋AI模式的「個人智慧」功能，新增串接Google錢包、Google雲端硬碟與Gemini應用程式；此前已可串接Gmail、Google日曆與Google相簿共3項服務。串接錢包後，AI模式可協助用戶追蹤財務目標、削減日常支出並善用信用卡回饋，但僅能讀取帳戶資訊、無法移動或管理資金；串接屬自選，用戶可隨時開關。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "Payoneer gets conditional approval for trust bank",
+      "display_title": "派安盈（Payoneer）於11月23日宣布取得美國貨幣監理署有條件核准設立PAYO Digital信託銀行，申請歷時9個月",
+      "source": "Banking Dive",
+      "source_tier": "T2",
+      "url": "https://www.bankingdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875506/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.bankingdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875506/",
+          "status": "ok",
+          "chars": 2589
+        }
+      ],
+      "date_evidence": "Mon, 23 Nov 2026 12:23:28 -0500",
+      "summary": "Payoneer取得OCC有條件核准成立PAYO Digital信託銀行，將發行不上交易所的封閉型穩定幣PAYO-USD。",
+      "core_fact": "跨境支付業者派安盈（Payoneer）於11月23日宣布，取得美國貨幣監理署（OCC）有條件核准成立全國性信託銀行PAYO Digital Bank，距今年2月遞件約9個月。該行開業後將發行自有穩定幣PAYO-USD，作為Payoneer生態系內的餘額使用、不在交易所上架；客戶可將其存於核可的數位錢包，並以多種第三方穩定幣收付或轉換成當地法幣。擬任執行長Rob Morgan指出，三分之一的Payoneer客戶已在使用穩定幣。",
+      "deep_facts": [
+        "PAYO-USD定位為Payoneer生態系內的封閉餘額，不在交易所上架，可存於核可的數位錢包",
+        "擬任執行長Rob Morgan表示三分之一的Payoneer客戶已在使用穩定幣",
+        "Payoneer將於2027年中成為Nuvei子公司，該收購作價27.5億美元"
+      ]
+    },
+    {
+      "theme": "blockchain",
+      "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+      "display_title": "OKXICE於11月23日啟動代幣化證券交易場所，首批確認113檔資產全天候交易",
+      "source": "The Block",
+      "source_tier": "T1",
+      "url": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+      "deep_dived": true,
+      "degraded": true,
+      "fetch_log": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+          "status": "fail",
+          "chars": 0
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
+          "status": "fail",
+          "chars": 0
+        }
+      ],
+      "date_evidence": "Mon, 23 Nov 2026 14:01:02 +0000",
+      "summary": "OKX與ICE合資的OKXICE啟動代幣化證券場所，確認113檔資產全天候交易，先前有67家公司反對納入。",
+      "core_fact": "由OKX與洲際交易所（ICE）合資的OKXICE於11月23日啟動代幣化證券交易場所，確認首批113檔資產可全天候交易，發行人與資產管理機構陣容包括富達（Fidelity）、Strive、eToro、BitGo、Circle、Coinbase、Robinhood與Strategy。上線前共有67家公司反對其股票在該場所交易；紐約前州長古莫（Andrew Cuomo）表示，部分異議來自競爭對手鼓動企業退出，也有發行人只是希望多些準備時間。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks",
+      "display_title": "威士（Visa）於11月23日推出實驗性AI代理錢包，讓美國合格用戶透過付費任務賺取Open USD穩定幣",
+      "source": "The Block",
+      "source_tier": "T1",
+      "url": "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "Mon, 23 Nov 2026 11:22:51 +0000",
+      "summary": "Visa推出實驗性AI代理錢包，讓美國合格用戶的AI代理透過任務市集完成付費工作並賺取OUSD。",
+      "core_fact": "威士（Visa）於11月23日推出實驗性AI代理錢包，開放美國合格用戶讓旗下AI代理透過參與的任務市集完成付費工作，並以Open USD（OUSD）穩定幣領取報酬，等於把Visa既有的代理驗證基礎設施從代理付款延伸到代理收款。OUSD是Open Standard於6月30日發布、獲逾140家企業參與的聯盟型美元穩定幣，Visa為合作夥伴之一，其管理費依11月3日公布的標準為支付金額0.1個基點。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+      "display_title": "Cross River銀行（Cross River Bank）於11月23日攜LendingUSA推出比特幣擔保貸款，額度1萬至25萬美元",
+      "source": "The Block",
+      "source_tier": "T1",
+      "url": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [],
+      "date_evidence": "Mon, 23 Nov 2026 12:05:02 +0000",
+      "summary": "Cross River與LendingUSA推出比特幣擔保貸款，金額1萬至25萬美元，貸款成數30%、50%或70%。",
+      "core_fact": "美國Cross River銀行於11月23日與消費金融平台LendingUSA推出首款比特幣擔保貸款，借款金額介於1萬至25萬美元，借款人可選擇30%、50%或70%三種貸款成數，不必出售所持比特幣即可取得現金。此舉讓比特幣持有者在保留部位的同時取得流動性，也是該銀行首度推出以比特幣為擔保品的放款產品，透過金融科技平台夥伴對外銷售。",
+      "deep_facts": []
+    }
+  ]
+}
