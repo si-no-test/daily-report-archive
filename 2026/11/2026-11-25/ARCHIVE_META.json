@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-25",
+  "archived_at": "2026-11-24T23:13:54Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "7d23900dff0d2137de715e026782a67ac31b9015",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 23,
+  "total_bytes": 877429,
+  "files": [
+    {
+      "path": "data/2026-11-25-candidates.txt",
+      "bytes": 56798,
+      "sha256": "c6c1565b8d2572ee7b8ac9ad8660436833fcedd7eb44f6c7b4c9b2953028f59e"
+    },
+    {
+      "path": "data/2026-11-25-glossary.json",
+      "bytes": 2223,
+      "sha256": "edef2eb51d6831f247eb672f6da469bd9fafa480114da1eaeb2dae388540e960"
+    },
+    {
+      "path": "data/2026-11-25-manifest.txt",
+      "bytes": 3460,
+      "sha256": "3796ea3101a269b17c40917470e69bea1b31b0cf328cf171d3828fe4373d4fe1"
+    },
+    {
+      "path": "data/2026-11-25-orgs.json",
+      "bytes": 1778,
+      "sha256": "ca4c16d4e0fdd635c9517bb55b535b790bb7f6c525ce838744259da57ecb7e62"
+    },
+    {
+      "path": "data/2026-11-25-topic-cases.json",
+      "bytes": 1973,
+      "sha256": "785654115808e802456862d29da64669ce564b9dffb561818963b4c4e642c7bb"
+    },
+    {
+      "path": "data/2026-11-25-topic-decisions.json",
+      "bytes": 2042,
+      "sha256": "29f18659a13ec096ae258412d029d23d18500c1bb3f3a99abc09b3b60642bb13"
+    },
+    {
+      "path": "data/2026-11-25.json",
+      "bytes": 21145,
+      "sha256": "b716ae785d9073624a1a9276d08b27b0b1d5656c9bdbb48e11de17bcfc82ce9d"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 57062,
+      "sha256": "b0da1be022ba1dbd77ba6238c3a120caf4b87d21543dcc23c572256b1be75dc6"
+    },
+    {
+      "path": "outbox/2026-11-25-archive.html",
+      "bytes": 102886,
+      "sha256": "2c3c173df66b39da4ff09ffbc292ebf26912c51054cc39746f0fb6c880190758"
+    },
+    {
+      "path": "outbox/2026-11-25-email.html",
+      "bytes": 11425,
+      "sha256": "fceae9535654d5f6aa3a1b28e6313b783ae1b003f71326915ebbdb0583a42544"
+    },
+    {
+      "path": "published/2026-11-25.html",
+      "bytes": 555,
+      "sha256": "780f6904f208f38285b638e5e51400af5b803978470da2c7a4f63834cf5ee164"
+    },
+    {
+      "path": "published/2026-11-25/ai.html",
+      "bytes": 35892,
+      "sha256": "739b0637e09db1e9652ef2465559c4d680afc4c68f97e1ab3f96a56fc9161af1"
+    },
+    {
+      "path": "published/2026-11-25/blockchain.html",
+      "bytes": 47895,
+      "sha256": "83d81f64003f3e0fc6f2393140701ae73c085f2c03cfce90407bcc9e64dd0f17"
+    },
+    {
+      "path": "published/2026-11-25/index.html",
+      "bytes": 23656,
+      "sha256": "10ec6f6673ce6dd8726bd2c7e319321a5cc4cd6b336b9f564a1e82e2ffcc4fdf"
+    },
+    {
+      "path": "published/2026-11-25/innovation.html",
+      "bytes": 52009,
+      "sha256": "68c82711838e5aa4a0b77a3dfa073303ed2c37489bad8ab1db0276801f74162c"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 404610,
+      "sha256": "5c21895e006c0fb9c37d53d3a43cb5217e8687f2619fbf93cf3080609c9a3c3b"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "caad23520da38402304ee1910971cc946b4f127e7b49c5c15e7a62506c334d1d"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "780f6904f208f38285b638e5e51400af5b803978470da2c7a4f63834cf5ee164"
+    },
+    {
+      "path": "published/topics/bank-ai-agent-card-access-policy.html",
+      "bytes": 7261,
+      "sha256": "83b320a3c2117853aeb7d93552f117e617fccfb281b9209b85772581b84de8fc"
+    },
+    {
+      "path": "published/topics/swiss-financial-ledger-helvetia.html",
+      "bytes": 1641,
+      "sha256": "dde046a0d753b726a292fbc57539e87ac627fddfc3679509bf355e7237da7e35"
+    },
+    {
+      "path": "published/topics/western-union-intermex-merger.html",
+      "bytes": 2370,
+      "sha256": "a54010f7b2dbfc1a9a1e7a44bd3c3fb18defb5772179c5687a9e0b6221a62a90"
+    },
+    {
+      "path": "source/2026-11-25-report.txt",
+      "bytes": 36622,
+      "sha256": "c4653a74ac3f73e42b008e952a96b4b6ed4d40e67cbd0aaeb9f35b5a030c4bfb"
+    },
+    {
+      "path": "source/2026-11-25-summary.txt",
+      "bytes": 2779,
+      "sha256": "d66ddb8e46d4a2df76044e1a74a70ea3f1cb4d19ac8a58ef405e182177b147aa"
+    }
+  ]
+}

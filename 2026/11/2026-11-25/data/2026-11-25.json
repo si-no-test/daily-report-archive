@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T07:13:03+08:00",
+  "counts": {
+    "ai": 3,
+    "blockchain": 4,
+    "innovation": 5
+  },
+  "items": [
+    {
+      "theme": "innovation",
+      "title": "CheckAlt to Acquire Finexio, Expanding into End-to-End B2B Payments",
+      "display_title": "CheckAlt於11月24日宣布收購應付帳款自動化業者Finexio，把收款處理延伸到供應商付款全流程",
+      "source": "Finovate",
+      "source_tier": "T2",
+      "url": "https://finovate.com/checkalt-to-acquire-finexio-expanding-into-end-to-end-b2b-payments/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://finovate.com/checkalt-to-acquire-finexio-expanding-into-end-to-end-b2b-payments/",
+          "status": "ok",
+          "chars": 3832
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026（Finovate RSS pubDate）",
+      "summary": "CheckAlt同意收購應付帳款業者Finexio，結合應收處理與供應商付款自動化，提供銀行與企業收付一站式服務。",
+      "core_fact": "成立於2009年、總部位於紐約的支付處理業者CheckAlt於11月24日經Finovate報導宣布收購2015年成立、總部位於佛羅里達州的應付帳款業者Finexio，金額未揭露。CheckAlt原本為銀行、信用合作社與企業提供支票處理、遠端存款擷取與鎖箱收款服務；Finexio則提供從供應商註冊、付款執行到對帳的嵌入式應付帳款服務，協助企業把紙本支票轉為電子付款。交易完成後Finexio將改名為「Finexio, a CheckAlt company」，由CheckAlt執行長J. Patrick Law續任領導。",
+      "deep_facts": [
+        "交易完成後Finexio將改名為「Finexio, a CheckAlt company」，CheckAlt執行長J. Patrick Law續任",
+        "Finexio業務涵蓋供應商註冊、付款執行、詐欺防制與對帳，協助企業由紙本支票轉電子付款",
+        "CheckAlt成立於2009年、總部紐約；Finexio成立於2015年、總部佛羅里達州"
+      ]
+    },
+    {
+      "theme": "innovation",
+      "title": "Intermex sues Western Union",
+      "display_title": "國際匯款公司Intermex（International Money Express）於11月24日向德拉瓦州衡平法院控告西聯匯款（Western Union），要求履行5億美元併購協議",
+      "source": "Payments Dive",
+      "source_tier": "T2",
+      "url": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
+          "status": "ok",
+          "chars": 4637
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026（Payments Dive RSS pubDate）",
+      "summary": "Intermex於德拉瓦州衡平法院起訴西聯匯款，要求履行5億美元併購協議並請求損害賠償。",
+      "core_fact": "國際匯款業者Intermex於11月24日在德拉瓦州衡平法院起訴西聯匯款，主張西聯本月放棄的5億美元併購協議無效、要求強制履約並請求損害賠償。該案源於2025年8月西聯同意以每股16美元收購Intermex；加州金融保護與創新局曾在核准兩週後暫停核准，直到11月10日才附條件核准，而協議允許在11月10日前未完成交割時終止。Intermex指稱西聯在研究其營運期間取得每年至少5,000萬美元的成本節省效益，卻以拖延監理程序脫身。",
+      "deep_facts": [
+        "西聯2025年8月同意以每股16美元收購Intermex，協議允許11月10日前未交割即可終止",
+        "Intermex指西聯在併購規劃期間取得每年至少5,000萬美元成本節省效益",
+        "2025年匯往墨西哥匯款11年來首度下滑約4%至625億美元；美國自1月1日起開徵1%匯款消費稅"
+      ]
+    },
+    {
+      "theme": "innovation",
+      "title": "Open Banking Firm Trustly Raises $60 Million",
+      "display_title": "Trustly於11月24日經報導宣布向既有股東募得6,000萬美元，累計募資逾4.5億美元",
+      "source": "Finovate",
+      "source_tier": "T2",
+      "url": "https://finovate.com/open-banking-firm-trustly-raises-60-million/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://finovate.com/open-banking-firm-trustly-raises-60-million/",
+          "status": "ok",
+          "chars": 3858
+        }
+      ],
+      "date_evidence": "Wed, 25 Nov 2026（Finovate RSS pubDate）",
+      "summary": "Trustly向既有股東募得6,000萬美元，累計募資逾4.5億美元，用於建構以AI驅動的即時支付情報平台。",
+      "core_fact": "總部位於瑞典斯德哥爾摩、2008年成立的開放銀行支付業者Trustly宣布向既有股東募得6,000萬美元，其中包括一個月前Nordic Capital與Alfvén & Didrikson承諾的逾4,000萬美元，貝萊德（BlackRock）管理的基金也加碼參與，使累計募資逾4.5億美元。Trustly表示其支付網路服務逾5,000萬名消費者、年交易額逾1,200億美元，連接30多個市場的9,000家商家與1.2萬家銀行；今年9月曾裁員200人，2025年營收短少16.8%。",
+      "deep_facts": []
+    },
+    {
+      "theme": "innovation",
+      "title": "Community Banks Ask FDIC to Scrutinize Credit Union Buyers",
+      "display_title": "美國獨立社區銀行家協會（ICBA）於11月23日致函聯邦存款保險公司（FDIC），要求信用合作社收購銀行不得適用快速審查",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/legal/bank-regulation/2026/community-banks-ask-fdic-scrutinize-credit-union-buyers/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/legal/bank-regulation/2026/community-banks-ask-fdic-scrutinize-credit-union-buyers/",
+          "status": "ok",
+          "chars": 3010
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026 21:21:39 +0000",
+      "summary": "ICBA致函FDIC，要求把信合社列為社區銀行競爭者並使信合社收購銀行案不適用快速審查。",
+      "core_fact": "美國獨立社區銀行家協會於11月23日致函聯邦存款保險公司，回應該機關9月17日公布、旨在讓銀行併購審查更快更可預測的規則草案。ICBA支持草案方向，但要求對資產100億美元以下的社區銀行併購加速核准、把信用合作社列為社區銀行的競爭者，並確保免稅且不受社區再投資法規範的信用合作社收購銀行時接受適當審查。美國信用合作社協會則於11月24日發布聲明強烈反對將信合社收購銀行與銀行間併購區別對待。",
+      "deep_facts": []
+    },
+    {
+      "theme": "innovation",
+      "title": "Freightos Looks to Weave Payments Into Freight Transactions",
+      "display_title": "貨運數位平台Freightos於11月24日公布季報並宣布將把支付更深度嵌入貨運交易，季度交易量達49.4萬筆",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/earnings/2026/freightos-looks-to-weave-payments-into-freight-transactions/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/earnings/2026/freightos-looks-to-weave-payments-into-freight-transactions/",
+          "status": "ok",
+          "chars": 3466
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026 20:36:00 +0000",
+      "summary": "Freightos公布季報，交易量49.4萬筆年增15%，計畫2027年把支付更深度嵌入貨運交易。",
+      "core_fact": "數位貨運平台Freightos於11月24日公布季度財報，平台促成交易49.4萬筆、年增15%，營收僅成長2%至780萬美元，解決方案營收則下滑6%至480萬美元。執行長Pablo Pinillos表示，2027年的優先事項包括擴大海運產品、推廣企業採購與招標管理方案，以及把支付更深度整合進貨運交易；公司已與拉丁美洲貨運航空mas簽訂包含數位支付功能的協議，並與一家全球製藥企業簽下六位數美元的採購方案合約。",
+      "deep_facts": []
+    },
+    {
+      "theme": "ai",
+      "title": "Wells Fargo Tells Customers They Are Responsible for AI Agents",
+      "display_title": "富國銀行（Wells Fargo）於11月24日修改線上服務條款，明定客戶使用AI代理一切風險自負",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/news/banking/2026/wells-fargo-tells-customers-they-are-responsible-for-ai-agents/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/news/banking/2026/wells-fargo-tells-customers-they-are-responsible-for-ai-agents/",
+          "status": "ok",
+          "chars": 2790
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026 20:04:45 +0000",
+      "summary": "富國銀行11月24日更新線上服務協議，新增AI代理條款，明定客戶使用AI代理風險自負。",
+      "core_fact": "富國銀行於11月24日更新線上服務協議，新增AI代理使用條款，以大寫字體寫明「使用任何AI代理風險自負」。條款要求客戶自行監控代理活動、維持適當防護、確保代理在授權範圍內行事，並負責及時撤銷授權且保留撤銷證據供銀行查核；銀行並保留要求客戶向銀行登記代理、限制代理存取權限的權利。此舉緊接花旗日前的同類改約；達拉斯聯邦準備銀行本月對70位銀行業者的調查顯示，11.4%已限制客戶AI代理活動，22.9%準備在六個月內推出禁令。",
+      "deep_facts": [
+        "條款要求客戶負責及時撤銷代理授權並保留撤銷證據供銀行查核",
+        "富國銀行保留要求客戶向銀行登記AI代理並限制代理存取權限的權利",
+        "達拉斯聯儲調查70位銀行業者：11.4%已限制客戶AI代理活動、22.9%準備於六個月內推出禁令"
+      ]
+    },
+    {
+      "theme": "ai",
+      "title": "Expensify Unveils Insights, Bringing AI-Powered Analytics to Spend Management",
+      "display_title": "Expensify於11月24日經報導推出AI分析工具Insights，自動找出企業費用趨勢與流程瓶頸",
+      "source": "Finovate",
+      "source_tier": "T2",
+      "url": "https://finovate.com/expensify-unveils-insights-bringing-ai-powered-analytics-to-spend-management/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://finovate.com/expensify-unveils-insights-bringing-ai-powered-analytics-to-spend-management/",
+          "status": "ok",
+          "chars": 3395
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026（Finovate RSS pubDate）",
+      "summary": "Expensify推出AI分析工具Insights，自動找出企業費用趨勢與流程瓶頸。",
+      "core_fact": "總部位於舊金山、2008年成立的費用管理業者Expensify上週推出AI分析工具Insights，經Finovate於11月24日報導。工具分為支出、效率與合規三大模組：支出模組依商家、類別與期間追蹤費用並與前月比較，效率模組找出簽核卡關的環節，合規模組追蹤反覆發生的政策違規。Insights與該公司AI助理Concierge整合，使用者可對任一圖表點選「解釋」，由AI說明費用暴增原因並建議改善措施；此前Expensify已與Visa簽訂轉介協議、與AI原生ERP業者Rillet完成整合。",
+      "deep_facts": [
+        "Insights分為支出、效率、合規三大模組，效率模組可找出簽核卡關環節",
+        "與AI助理Concierge整合，可對任一圖表點選「解釋」由AI說明費用暴增原因",
+        "Expensify先前已與Visa簽訂商務卡客戶轉介協議並與AI原生ERP業者Rillet整合"
+      ]
+    },
+    {
+      "theme": "ai",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "display_title": "英國國家網路安全中心（NCSC）於11月24日發布警告，指自9月以來多起入侵事件涉及AI自動化攻擊工具",
+      "source": "TechCrunch",
+      "source_tier": "T2",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "status": "ok",
+          "chars": 3288
+        }
+      ],
+      "date_evidence": "Wed, 25 Nov 2026（TechCrunch AI RSS pubDate，文章日期2026/11/24）",
+      "summary": "英國NCSC警告AI驅動網攻明顯增加，自9月以來多起入侵涉及自主滲透測試工具。",
+      "core_fact": "英國國家網路安全中心於11月24日發表部落格文章，指出近幾個月AI驅動的網路攻擊明顯增加，自9月以來已發生多起涉及自主滲透測試工具的入侵事件，造成組織系統遭入侵與服務中斷。NCSC指出被利用的並非新型記憶體漏洞，甚至不是已知未修補漏洞，而是多年技術債累積的未處理弱點；攻擊工具會鎖定對外暴露系統，快速嘗試弱密碼清單或濫用開發者常用的API端點。美國聯邦調查局近期也發出類似警告。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "CFTC Says FIs Can Count Stablecoins as Financial Resources, Not Cash",
+      "display_title": "美國商品期貨交易委員會（CFTC）於11月23日發布幕僚指引，准許合格支付型穩定幣計入營運財務資源，但不得充當最低流動性資產",
+      "source": "PYMNTS",
+      "source_tier": "T1",
+      "url": "https://www.pymnts.com/cryptocurrency/2026/cftc-says-financial-institutions-can-count-stablecoins-financial-resources-not-cash/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.pymnts.com/cryptocurrency/2026/cftc-says-financial-institutions-can-count-stablecoins-financial-resources-not-cash/",
+          "status": "ok",
+          "chars": 6459
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026 23:02:08 +0000",
+      "summary": "CFTC幕僚准許合格支付型穩定幣計入營運財務資源，但不得用於最低流動性持有要求。",
+      "core_fact": "美國商品期貨交易委員會幕僚於11月23日發布諮詢指引，允許受監理的數位資產交易平台與結算機構，把比特幣、以太幣與合格支付型穩定幣計入足以支應至少12個月營運費用的財務資源，但須套用估值折扣與流動性限制；由於這些資產依一般公認會計原則不屬於現金或高流動性證券，不得用於滿足另一項最低流動性持有要求。PYMNTS Intelligence調查指出，收到穩定幣的企業有88%會立即換回傳統美元，僅13%的中型企業使用穩定幣。",
+      "deep_facts": [
+        "指引允許比特幣、以太幣與支付型穩定幣計入足以支應至少12個月營運費用的財務資源，須套用估值折扣",
+        "因不屬GAAP下現金或高流動性證券，不得滿足另一項最低流動性要求；此為幕僚觀點而非委員會規則",
+        "PYMNTS Intelligence：收到穩定幣的企業88%立即換回美元，中型企業僅13%使用穩定幣"
+      ]
+    },
+    {
+      "theme": "blockchain",
+      "title": "SNB, UBS, SIX explore Swiss distributed ledger for payments, securities settlement",
+      "display_title": "瑞士國家銀行（SNB）於11月24日宣布攜手瑞銀（UBS）與瑞士證券交易所集團（SIX）探索統一分散式帳本「Swiss Financial Ledger」，約七個月內決定批發型央行數位貨幣試點去向",
+      "source": "Ledger Insights",
+      "source_tier": "T2",
+      "url": "https://www.ledgerinsights.com/snb-ubs-six-explore-swiss-distributed-ledger-for-payments-securities-settlement/",
+      "deep_dived": true,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.ledgerinsights.com/snb-ubs-six-explore-swiss-distributed-ledger-for-payments-securities-settlement/",
+          "status": "ok",
+          "chars": 2029
+        }
+      ],
+      "date_evidence": "Wed, 25 Nov 2026（Ledger Insights RSS pubDate）",
+      "summary": "瑞士國家銀行宣布探索統一帳本Swiss Financial Ledger，參與者包括瑞銀與SIX等。",
+      "core_fact": "瑞士國家銀行於11月24日宣布將探索統一帳本Swiss Financial Ledger，把央行貨幣、商業銀行貨幣與證券納入同一分散式帳本，參與者包括瑞銀、SIX、蘇黎世州立銀行、瑞士郵政金融與結算平台Seturion等。該計畫屬Helvetia專案的一環，既服務國內，也規劃接軌由八家央行與五十多家民間機構參與的跨境支付計畫Agorá。瑞士央行目前在SIX數位資產平台上的批發型央行數位貨幣試點將持續到2027年年中，央行約有七個月時間決定延長、改發至多個帳本或只發至新帳本。",
+      "deep_facts": [
+        "計畫屬Helvetia專案，並規劃接軌八家央行與五十多家民間機構參與的Agorá跨境支付計畫",
+        "SIX平台上的批發型央行數位貨幣試點延續至2027年年中，央行約七個月內決定去向",
+        "Boerse Stuttgart旗下Seturion與SIX同列Helvetia策略委員會"
+      ]
+    },
+    {
+      "theme": "blockchain",
+      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
+      "display_title": "韓國金融監理機關於11月24日經報導表態支持由銀行控股發行穩定幣，金融科技業者可主導但銀行須持股過半",
+      "source": "CoinDesk",
+      "source_tier": "T1",
+      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
+          "status": "fail",
+          "chars": 0
+        },
+        {
+          "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection",
+          "status": "fail",
+          "chars": 65
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026 10:29:14 +0000",
+      "summary": "韓國監理機關支持銀行控股穩定幣，金融科技業者可主導但銀行須持股過半。",
+      "core_fact": "據CoinDesk於11月24日報導，韓國金融監理機關在歷經數月爭議後，表態支持由銀行控股的穩定幣發行架構，金融科技業者可以主導穩定幣事業，但任何發行商都必須由銀行持有過半股權。Cointelegraph同日報導，相關法案草案除了以銀行為主導發行穩定幣，也提出加密貨幣交易所單一股東持股上限20%的規定，可能改變韓國最大交易所Upbit的經營權結構。",
+      "deep_facts": []
+    },
+    {
+      "theme": "blockchain",
+      "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+      "display_title": "貝萊德（BlackRock）於11月24日在香港推出港元代幣化貨幣市場基金HKD Digital Liquidity Fund，資產規模1億美元並開放零售與機構投資人認購",
+      "source": "The Block",
+      "source_tier": "T1",
+      "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+      "deep_dived": false,
+      "degraded": false,
+      "fetch_log": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+          "status": "fail",
+          "chars": 0
+        }
+      ],
+      "date_evidence": "Tue, 24 Nov 2026 13:17:35 +0000",
+      "summary": "貝萊德在香港推出並開放港元代幣化貨幣基金HKD Digital Liquidity Fund，資產1億美元。",
+      "core_fact": "據The Block於11月24日報導，貝萊德在香港推出港元代幣化貨幣市場基金HKD Digital Liquidity Fund，資產規模為1億美元，同時開放香港零售與機構投資人參與。Cointelegraph同日報導指出，該基金接受以穩定幣認購。這是貝萊德代幣化貨幣基金產品線首度以港元計價並開放零售投資人，延續香港推動代幣化金融產品與穩定幣制度的政策方向。",
+      "deep_facts": []
+    }
+  ],
+  "search_log": {
+    "collect_feeds": "17 RSS（13 成功、4 HTTPError 改 site: 替代）",
+    "required_searches": {
+      "A": 10,
+      "B": 5,
+      "C": 4
+    },
+    "regional_supplement": [
+      "台灣",
+      "香港",
+      "日本",
+      "新加坡",
+      "中國"
+    ],
+    "supplementary_keyword": 0
+  }
+}

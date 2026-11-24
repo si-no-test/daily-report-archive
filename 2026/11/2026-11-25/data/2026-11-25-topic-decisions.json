@@ -1,0 +1,8 @@
+[
+ {"action":"skip"},
+ {"action":"match","topic_id":"western-union-intermex-merger","headline":"Intermex向德拉瓦州衡平法院控告西聯匯款，要求履行5億美元併購協議","one_line_update":"11月24日Intermex起訴西聯匯款，主張其終止併購無效並請求強制履約與損害賠償，指西聯藉加州監理審查延宕至11月10日終止期限脫身；西聯表示將全力抗辯。","source_title":"Intermex sues Western Union","source_url":"https://www.paymentsdive.com/news/intermex-sues-western-union/875625/"},
+ {"action":"match","topic_id":"bank-ai-agent-card-access-policy","headline":"富國銀行修改線上服務條款，明定客戶使用AI代理風險自負","one_line_update":"11月24日富國銀行繼花旗之後改約，要求客戶自行監控與撤銷AI代理授權，並保留要求代理登記與限制存取的權利；達拉斯聯儲調查顯示22.9%銀行準備於六個月內禁止代理。","source_title":"Wells Fargo Tells Customers They Are Responsible for AI Agents","source_url":"https://www.pymnts.com/news/banking/2026/wells-fargo-tells-customers-they-are-responsible-for-ai-agents/"},
+ {"action":"skip"},
+ {"action":"skip"},
+ {"action":"create","topic_id":"swiss-financial-ledger-helvetia","title":"瑞士央行Swiss Financial Ledger統一帳本與Helvetia批發型CBDC去向","theme":"blockchain","keywords":["瑞士國家銀行","SNB","Swiss Financial Ledger","Helvetia","SIX","瑞銀","Seturion","批發型央行數位貨幣"],"headline":"瑞士國家銀行攜瑞銀與SIX探索統一分散式帳本Swiss Financial Ledger","one_line_update":"11月24日瑞士央行宣布探索把央行貨幣、商業銀行貨幣與證券放上同一帳本，並將在約七個月內決定SIX平台上批發型CBDC試點（延續至2027年年中）的去向。","source_title":"SNB, UBS, SIX explore Swiss distributed ledger for payments, securities settlement","source_url":"https://www.ledgerinsights.com/snb-ubs-six-explore-swiss-distributed-ledger-for-payments-securities-settlement/"}
+]

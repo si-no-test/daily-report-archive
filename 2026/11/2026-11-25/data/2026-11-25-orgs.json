@@ -1,0 +1,13 @@
+[
+ {"name":"富國銀行","url":"https://www.wellsfargo.com","intro":"美國四大銀行之一，總部位於舊金山，業務涵蓋消費金融與企業金融。"},
+ {"name":"Trustly","url":"https://www.trustly.com","intro":"瑞典開放銀行支付業者，提供帳戶直付服務，連接歐美逾萬家銀行。"},
+ {"name":"Expensify","url":"https://www.expensify.com","intro":"美國費用管理與商務卡平台，協助企業處理報帳、簽核與費用分析。"},
+ {"name":"西聯匯款","url":"https://www.westernunion.com","intro":"全球大型跨境匯款業者，擁有遍布各國的實體代理據點與數位匯款服務。"},
+ {"name":"Freightos","url":"https://www.freightos.com","intro":"數位貨運訂艙平台，連結託運人、承攬業者與航空及海運公司。"},
+ {"name":"瑞士國家銀行","url":"https://www.snb.ch","intro":"瑞士中央銀行，負責貨幣政策並推動Helvetia批發型央行數位貨幣專案。"},
+ {"name":"瑞銀","url":"https://www.ubs.com","intro":"瑞士最大銀行集團，全球主要財富管理與投資銀行機構。"},
+ {"name":"貝萊德","url":"https://www.blackrock.com","intro":"全球最大資產管理公司，積極發展代幣化基金產品。"},
+ {"name":"美國商品期貨交易委員會","url":"https://www.cftc.gov","intro":"美國衍生性商品市場主管機關，監理期貨、交換與部分數位資產交易。"},
+ {"name":"聯邦存款保險公司","url":"https://www.fdic.gov","intro":"美國存款保險機構，同時負責州立非聯準會會員銀行的監理與併購審查。"},
+ {"name":"英國國家網路安全中心","url":"https://www.ncsc.gov.uk","intro":"英國政府網路安全主管單位，隸屬政府通訊總部，提供資安指引與事件應變。"}
+]
