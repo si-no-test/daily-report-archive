@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-26",
+  "archived_at": "2026-11-25T23:14:18Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "b83a1dc81a0d2dcc79aa085220195b7c9543b45c",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 24,
+  "total_bytes": 878987,
+  "files": [
+    {
+      "path": "data/2026-11-26-candidates.txt",
+      "bytes": 61892,
+      "sha256": "d293cf668c4537384b8822b9c6ecbe5a571c9d63eccae5f63d71bb6a87a7e427"
+    },
+    {
+      "path": "data/2026-11-26-glossary.json",
+      "bytes": 2229,
+      "sha256": "ddd4399527af6e7678a502cc39875604b15a54611a363daabf5e63d139fbf8b1"
+    },
+    {
+      "path": "data/2026-11-26-manifest.txt",
+      "bytes": 3460,
+      "sha256": "05f90066533ba6f78358686b2352fc3ace3dcb433f3c568e1267bb4f320e346e"
+    },
+    {
+      "path": "data/2026-11-26-orgs.json",
+      "bytes": 1340,
+      "sha256": "6f5df956c15132b2638e9d2dcae585f7b1ba0376d6d514dc78deb9950dfabd1c"
+    },
+    {
+      "path": "data/2026-11-26-topic-cases.json",
+      "bytes": 2749,
+      "sha256": "8741c366c202e464feb216c85f7a113ee6ddab4b98cb461c3f39c5265ebd344b"
+    },
+    {
+      "path": "data/2026-11-26-topic-decisions.json",
+      "bytes": 2849,
+      "sha256": "5c93121dbf8307f7928696ef1443cfe874f91e0dd6a16b7efd6c2c7066e2c7a3"
+    },
+    {
+      "path": "data/2026-11-26.json",
+      "bytes": 22741,
+      "sha256": "174689253d4418c631f0acce9c06a63a05a7788383d27c7a20be424adafcd122"
+    },
+    {
+      "path": "data/recent.txt",
+      "bytes": 22569,
+      "sha256": "2903be3dcac995e15ef27fb3eccfae89db2af2862c10478185389451ffb1e585"
+    },
+    {
+      "path": "outbox/2026-11-26-archive.html",
+      "bytes": 111140,
+      "sha256": "45f7addbdc04976ddaaebe3903bb99fd3cd4813a90a473d15daf7e9ffb772b77"
+    },
+    {
+      "path": "outbox/2026-11-26-email.html",
+      "bytes": 11363,
+      "sha256": "3ebf623478c67e740a6d70e2f835c2046596097f7729a5dfefd1f758a30bea1b"
+    },
+    {
+      "path": "published/2026-11-26.html",
+      "bytes": 555,
+      "sha256": "ded7c5f0199ebf58f26f9218af20c67cd0cc96483ed2719a388fbdc1065d599b"
+    },
+    {
+      "path": "published/2026-11-26/ai.html",
+      "bytes": 43779,
+      "sha256": "08ca92537ec1ceedb8716ca3db8da302e8c430b198320d15f339929c5404b07f"
+    },
+    {
+      "path": "published/2026-11-26/blockchain.html",
+      "bytes": 49101,
+      "sha256": "f5b3c76d6f8bc368bd01ccd0489d6942da7f94045786a5280247b6b8d6f218d3"
+    },
+    {
+      "path": "published/2026-11-26/index.html",
+      "bytes": 26691,
+      "sha256": "7349f2eafcb9e195682696fc6fbe2be1fa778e3dda0bb9c644e6cb17e71848c0"
+    },
+    {
+      "path": "published/2026-11-26/innovation.html",
+      "bytes": 57735,
+      "sha256": "5316eff708ee1f786dda7a5ddd6d6607e5ec27cb6f76294aac1d8746832c7fa7"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 408021,
+      "sha256": "c2add124013f04bcde4e544a34c5890646f533af3109d0ece2225af402495918"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "8a05c744c55c4a51c35701a37c942d2147478b950e0eb082c0fe71428cf1ea5e"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "ded7c5f0199ebf58f26f9218af20c67cd0cc96483ed2719a388fbdc1065d599b"
+    },
+    {
+      "path": "published/topics/bny-agentic-negotiation-protocol.html",
+      "bytes": 1500,
+      "sha256": "44f619b7ac30f5aaebf847afe87b16566ec390956e6e1535b07eb0f28020e4c8"
+    },
+    {
+      "path": "published/topics/highnote-national-bank-charter.html",
+      "bytes": 1446,
+      "sha256": "1046df93990472b9d4f3edc293126cc7a78240e900be76038fccfc87e98b84b9"
+    },
+    {
+      "path": "published/topics/hkma-tokenized-debt-platform.html",
+      "bytes": 1523,
+      "sha256": "21db2c47bf63ca511b9c60d5bbb59743dadb9272517fb5fda2208ad1f60e3e78"
+    },
+    {
+      "path": "published/topics/sbi-solana-global-onchain-finance.html",
+      "bytes": 1506,
+      "sha256": "fa044615ecd102f687156a9b191704a81fd801e3e669a8b59ef375e7c014f555"
+    },
+    {
+      "path": "source/2026-11-26-report.txt",
+      "bytes": 40452,
+      "sha256": "f6329502af408e2c9ed97d0162714987b25dca11812f037a4ff0b1b3ec50cf40"
+    },
+    {
+      "path": "source/2026-11-26-summary.txt",
+      "bytes": 2999,
+      "sha256": "bb38aefc3f829bc8fa1234893359935c40ed9a695e2d1f319ee07c12fc59112d"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+ {"name":"第一資本","url":"https://www.capitalone.com","intro":"美國大型銀行與信用卡發卡機構，以雲端原生科技架構著稱。"},
+ {"name":"Klarna","url":"https://www.klarna.com","intro":"瑞典先買後付與支付服務業者，提供分期付款、購物應用程式與虛擬卡。"},
+ {"name":"紐約梅隆銀行","url":"https://www.bny.com","intro":"全球最大託管銀行之一，提供資產託管、資金服務與市場交易基礎設施。"},
+ {"name":"Anthropic","url":"https://www.anthropic.com","intro":"美國AI公司，開發Claude系列大型語言模型並重視AI安全研究。"},
+ {"name":"聯合信貸銀行","url":"https://www.unicreditgroup.eu","intro":"義大利最大銀行集團之一，業務遍及中歐與東歐。"},
+ {"name":"香港金融管理局","url":"https://www.hkma.gov.hk","intro":"香港的中央銀行機構，負責貨幣與銀行體系穩定及金融基建。"},
+ {"name":"三井住友金融集團","url":"https://www.smfg.co.jp","intro":"日本三大金融集團之一，旗下包括三井住友銀行。"},
+ {"name":"SBI控股","url":"https://www.sbigroup.co.jp","intro":"日本金融集團，經營網路證券、銀行與數位資產業務。"},
+ {"name":"Exa","url":"https://exa.ai","intro":"為AI代理打造搜尋引擎與網頁資料服務的美國新創。"}
+]

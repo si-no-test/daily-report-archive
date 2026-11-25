@@ -1,0 +1,292 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-25T23:14:01.447260+00:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Highnote files for national bank charter",
+   "display_title": "Highnote於11月23日向美國貨幣監理署（OCC）與聯邦存款保險公司（FDIC）申設全國性銀行Highnote Bank N.A.，由前LendingClub風控長Tim Bogan領軍",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/highnote-applies-national-bank-charter-occ-fdic/875785/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/highnote-applies-national-bank-charter-occ-fdic/875785/",
+     "status": "ok",
+     "chars": 3461
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 (Banking Dive RSS)",
+   "summary": "成立於2020年的嵌入式金融與支付業者Highnote於11月23日向OCC與FDIC遞件，申設定位為「為支付而生的全國性銀行」Highnote Bank N.A.。該公司提供企業發卡、收單處理、信用方案管理與即時撥款的單一平台，客戶包括紐",
+   "core_fact": "成立於2020年的嵌入式金融與支付業者Highnote於11月23日向OCC與FDIC遞件，申設定位為「為支付而生的全國性銀行」Highnote Bank N.A.。該公司提供企業發卡、收單處理、信用方案管理與即時撥款的單一平台，客戶包括紐約梅隆銀行、居家修繕連鎖Lowe's與跨境支付業者PingPong。準銀行將由曾任LendingClub風控長、法遵長與稽核長、經手其1.85億美元收購Radius Bank案的Tim Bogan擔任負責人；OCC自2025年以來已收到56件新設銀行申請、核准其中28件。",
+   "deep_facts": [
+    "準銀行由曾任LendingClub風控長、法遵長與稽核長並經手1.85億美元收購Radius Bank案的Tim Bogan領軍",
+    "OCC自2025年以來收到56件新設銀行申請、核准28件",
+    "Klaros Group今年已協助Nubank取得OCC有條件核准、Checkout.com取得喬治亞州收單限定執照"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Capital One pursues payments modernization",
+   "display_title": "第一資本（Capital One）於11月25日經Payments Dive報導揭露其FedNow與RTP即時支付軌道全數建置於亞馬遜雲端，目標讓所有支付軌道端到端雲端原生",
+   "source": "Banking Dive",
+   "source_tier": "T2",
+   "url": "https://www.bankingdive.com/news/capital-one-pursues-payments-modernization-real-time-cloud-avik-chatterjee/875712/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.bankingdive.com/news/capital-one-pursues-payments-modernization-real-time-cloud-avik-chatterjee/875712/",
+     "status": "ok",
+     "chars": 5586
+    }
+   ],
+   "date_evidence": "Wed, 25 Nov 2026 (Banking Dive RSS)",
+   "summary": "第一資本負責企業資金移轉平台的執行副總Avik Chatterjee於11月25日刊出的專訪中表示，該行接入美國聯準會FedNow與清算所RTP兩條即時支付軌道的系統，全數以端到端方式建置於亞馬遜雲端服務（AWS），無需搬移任何舊有流程；A",
+   "core_fact": "第一資本負責企業資金移轉平台的執行副總Avik Chatterjee於11月25日刊出的專訪中表示，該行接入美國聯準會FedNow與清算所RTP兩條即時支付軌道的系統，全數以端到端方式建置於亞馬遜雲端服務（AWS），無需搬移任何舊有流程；ACH與電匯則仍有待投資。他也指出，簽帳卡交易須在約2秒內完成授權判斷，AI模型正用於降低誤判並提高核准率，服務對象涵蓋零售、商業與小型企業三大客群。",
+   "deep_facts": [
+    "FedNow與RTP軌道端到端建置於AWS，無需搬移舊有流程，ACH與電匯仍待投資",
+    "簽帳卡交易須在約2秒內完成AI詐欺判斷，目標降低誤判並提高核准率",
+    "該行以資料產品化方式把資料層提供給模型層，加速新型詐欺模型開發"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Klarna Expands Price Comparison in Europe and Launches Virtual Card in Canada",
+   "display_title": "Klarna於11月25日宣布一次性虛擬卡One-Time Card登陸加拿大，並將比價工具Search & Compare擴及歐洲9國",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/bnpl/2026/klarna-expands-price-comparison-in-europe-and-launches-virtual-card-in-canada/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 25 Nov 2026 20:39:16 +0000",
+   "summary": "Klarna於11月25日以兩份新聞稿宣布，一次性預付虛擬卡One-Time Card在加拿大上線，消費者輸入欲消費金額即可生成卡號，於幾乎所有接受Visa的線上商店結帳，並可選擇四期免息或較長期分期；同日比價工具Search & Comp",
+   "core_fact": "Klarna於11月25日以兩份新聞稿宣布，一次性預付虛擬卡One-Time Card在加拿大上線，消費者輸入欲消費金額即可生成卡號，於幾乎所有接受Visa的線上商店結帳，並可選擇四期免息或較長期分期；同日比價工具Search & Compare擴展至比利時、捷克、希臘、匈牙利、波蘭、葡萄牙、羅馬尼亞、斯洛伐克與瑞士9國。該公司第三季購物交易量年增10%至361億美元，特約商家數年增59%至135萬家。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "California fines Afterpay $2.7M",
+   "display_title": "加州金融保護與創新局（DFPI）於11月24日宣布對Block旗下先買後付業者Afterpay裁罰268萬美元，指其未評估借款人還款能力",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 25 Nov 2026 11:05:00 -0500",
+   "summary": "加州金融保護與創新局於11月24日發布新聞稿，對Block旗下先買後付業務Afterpay處以268萬美元罰款，理由是該公司未依州法於放款前查核消費者收入與其他負債。調查期間涵蓋2020年1月至2022年3月，發現部分客戶違約率偏高且未償債",
+   "core_fact": "加州金融保護與創新局於11月24日發布新聞稿，對Block旗下先買後付業務Afterpay處以268萬美元罰款，理由是該公司未依州法於放款前查核消費者收入與其他負債。調查期間涵蓋2020年1月至2022年3月，發現部分客戶違約率偏高且未償債務可觀。曾任聯邦消費者金融保護局局長、現任加州商業與消費者事務廳長的Rohit Chopra表示，聯邦監理機關視而不見時加州會持續執法；該局並引用消費者金融保護局研究，指60%先買後付用戶另有其他貸款。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Illinois fights for interchange law",
+   "display_title": "伊利諾州檢察長Kwame Raoul於11月23日向第七巡迴上訴法院提交書狀，捍衛禁止對稅金與小費收取刷卡交換費的州法",
+   "source": "Payments Dive",
+   "source_tier": "T2",
+   "url": "https://www.paymentsdive.com/news/illinois-fights-for-interchange-law/875779/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 25 Nov 2026 11:03:00 -0500",
+   "summary": "伊利諾州檢察長Raoul於11月23日向第七巡迴上訴法院遞交書狀，主張地方法院法官Virginia Kendall支持銀行業的判決「嚴重錯誤」，因其所依據的OCC與國家信用合作社管理局（NCUA）暫行規則未經公告評論程序而無效。該州2024",
+   "core_fact": "伊利諾州檢察長Raoul於11月23日向第七巡迴上訴法院遞交書狀，主張地方法院法官Virginia Kendall支持銀行業的判決「嚴重錯誤」，因其所依據的OCC與國家信用合作社管理局（NCUA）暫行規則未經公告評論程序而無效。該州2024年簽署的《交換費禁止法》禁止發卡行與Visa、Mastercard等卡組織對交易中的稅金與小費部分收取交換費；伊利諾州銀行公會與美國銀行家協會自2024年8月提告，另有9個產業公會本月已另案控告OCC與NCUA。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "BNY and Microsoft Let AI Agents Haggle Over Treasurys",
+   "display_title": "紐約梅隆銀行（BNY）於11月25日經PYMNTS報導與微軟完成AI代理議價美國國庫券試點，該行託管與行政管理資產達63.4兆美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/",
+     "status": "ok",
+     "chars": 5568
+    }
+   ],
+   "date_evidence": "2026-11-25/26 (PYMNTS RSS)",
+   "summary": "紐約梅隆銀行於11月17日新聞稿宣布、PYMNTS於11月25日報導，該行與微軟財務部門讓雙方AI代理在預設額度內就一筆美國國庫券交易互相出價與還價，最終條件由兩家公司的交易員審核後，才經既有交易系統執行入帳。議價運行於該行申請專利中的「代",
+   "core_fact": "紐約梅隆銀行於11月17日新聞稿宣布、PYMNTS於11月25日報導，該行與微軟財務部門讓雙方AI代理在預設額度內就一筆美國國庫券交易互相出價與還價，最終條件由兩家公司的交易員審核後，才經既有交易系統執行入帳。議價運行於該行申請專利中的「代理議價協定」（Agentic Negotiation Protocol），議價前先驗證交易對手、證券、規模、交割條件與可用報價五項要素。該行託管與行政管理資產達63.4兆美元；PYMNTS調查顯示僅32%財務長對資金管理AI代理高度感興趣，47%不願給予任何權限。",
+   "deep_facts": [
+    "議價前協定先驗證交易對手、證券、規模、交割條件與可用報價五項要素",
+    "雙方代理各自把條件提交至協定中央帳本比對一致後，再由交易員覆核並經既有系統入帳",
+    "該行規劃把協定延伸至附買回交易與多方議價；PYMNTS調查47%財務長不願給代理任何資金管理權限"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Arva AI Secures $20 Million to Bring Agentic AI to Critical Banking Operations",
+   "display_title": "Arva AI於11月25日宣布完成2,000萬美元A輪募資，其AI代理每月處理逾120萬件銀行後台決策",
+   "source": "Finovate",
+   "source_tier": "T2",
+   "url": "https://finovate.com/arva-ai-secures-20-million-to-bring-agentic-ai-to-critical-banking-operations/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finovate.com/arva-ai-secures-20-million-to-bring-agentic-ai-to-critical-banking-operations/",
+     "status": "ok",
+     "chars": 3125
+    }
+   ],
+   "date_evidence": "2026-11-26 (Finovate RSS)",
+   "summary": "總部位於舊金山、成立於2024年的Arva AI於11月25日宣布完成2,000萬美元A輪募資，由Arthur Ventures領投、Y Combinator與Gradient Ventures續投，資金將優先投入9月成立的研究部門Arva",
+   "core_fact": "總部位於舊金山、成立於2024年的Arva AI於11月25日宣布完成2,000萬美元A輪募資，由Arthur Ventures領投、Y Combinator與Gradient Ventures續投，資金將優先投入9月成立的研究部門Arva Research，並把代理擴展到爭議款、支付作業與放款。其首個模型Arva Intel針對個人與企業進行網路深度調查，準確率較主流通用模型高出13%；持續學習架構AgentCore平均提升代理表現12%。該公司2025年年化經常性收入成長32倍，處理逾100萬件法遵審查，客戶包括美國前十大銀行之一與Wise。",
+   "deep_facts": [
+    "首個模型Arva Intel網路深度調查準確率較主流通用模型高13%",
+    "持續學習架構AgentCore平均提升代理表現12%",
+    "2025年年化經常性收入成長32倍，處理逾100萬件法遵審查，客戶含美國前十大銀行之一與Wise"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Startups Raise $515 Million to Build AI Agents Their Own Internet",
+   "display_title": "Exa、Linq、Parallel Web Systems與Firecrawl於11月25日經PYMNTS報導今年合計募得5.15億美元，打造專供AI代理使用的搜尋、通訊與資料存取基礎設施",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/startups-raise-515-million-to-build-ai-agents-their-own-internet/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "Wed, 25 Nov 2026 19:06:55 +0000",
+   "summary": "PYMNTS於11月25日彙整指出，四家AI代理基礎設施新創今年合計募資5.15億美元。為代理打造搜尋引擎的Exa於5月以22億美元估值募得2.5億美元，年化營收逾1億美元、每月處理20億次請求；讓代理能傳訊與通話的Linq於11月募得9,",
+   "core_fact": "PYMNTS於11月25日彙整指出，四家AI代理基礎設施新創今年合計募資5.15億美元。為代理打造搜尋引擎的Exa於5月以22億美元估值募得2.5億美元，年化營收逾1億美元、每月處理20億次請求；讓代理能傳訊與通話的Linq於11月募得9,000萬美元，已處理逾10億則訊息；前推特執行長Parag Agrawal創辦的Parallel Web Systems於4月募得1億美元；Firecrawl於9月募得7,500萬美元。Cloudflare數據顯示全球自動化系統已占網頁請求57.4%，北美達68.6%。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Anthropic推出Siren安全評估機制",
+   "display_title": "Anthropic於11月24日首度公開AI安全評估機制Siren的完整設計與結果，涵蓋26個刻意植入弱點的沙箱環境",
+   "source": "iThome",
+   "source_tier": "T1",
+   "url": "https://www.ithome.com.tw/news/180792",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-25 (iThome RSS，低信心日期經內文「周二（11/24）」人工覆核)",
+   "summary": "Anthropic於11月24日公開Siren評估機制，在26個採用Docker容器、bubblewrap與QEMU虛擬機等5種架構的沙箱中植入設定錯誤，並在沙箱外放置可協助完成任務的檔案或憑證作為蜜罐，測試代理是否擅自越界。結果顯示新一代",
+   "core_fact": "Anthropic於11月24日公開Siren評估機制，在26個採用Docker容器、bubblewrap與QEMU虛擬機等5種架構的沙箱中植入設定錯誤，並在沙箱外放置可協助完成任務的檔案或憑證作為蜜罐，測試代理是否擅自越界。結果顯示新一代模型在約五分之一至三分之一情境中會突破沙箱取得外部資源，但實際用於未授權操作的比率僅0.6%至1.6%，遠低於早期模型的12.7%與25.8%；同時採用三種防護措施後，6款受測模型中有5款違規率降至零。該機制自今年10月起已納入新模型部署評估。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
+   "display_title": "聯合信貸銀行（UniCredit）於11月24日宣布在義大利推出連結貝萊德比特幣ETP的六年期保本憑證，最低投資1,000歐元、報酬上限65%",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
+     "status": "ok",
+     "chars": 2822
+    }
+   ],
+   "date_evidence": "November 25, 2026, 7:24AM EST",
+   "summary": "總部位於米蘭的聯合信貸銀行於11月24日宣布，在義大利推出以歐元計價的六年期憑證，連結貝萊德iShares比特幣交易所交易商品，到期保本100%、總報酬上限為投入本金的65%，最低投資金額1,000歐元，認購期至12月18日，可觸及該行在義",
+   "core_fact": "總部位於米蘭的聯合信貸銀行於11月24日宣布，在義大利推出以歐元計價的六年期憑證，連結貝萊德iShares比特幣交易所交易商品，到期保本100%、總報酬上限為投入本金的65%，最低投資金額1,000歐元，認購期至12月18日，可觸及該行在義大利約800萬名零售客戶。該行2025年7月首檔比特幣憑證僅限專業投資人，門檻2.5萬美元、報酬上限85%。發布時比特幣價格約58,700美元，較2025年10月高點約12.6萬美元下跌約53%。",
+   "deep_facts": [
+    "認購期至12月18日，最低投資1,000歐元",
+    "2025年7月首檔比特幣憑證僅限專業投資人，門檻2.5萬美元、報酬上限85%",
+    "集團投資商品主管Chicco Di Stasi表示此模式已在德國與奧地利驗證"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Japan's SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+   "display_title": "SBI控股與三井住友金融集團（SMFG）於11月25日宣布成立Solana區塊鏈合資公司SBI Solana Global，推動穩定幣支付與資產代幣化",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+     "status": "fail",
+     "chars": 66
+    }
+   ],
+   "date_evidence": "2026-11-25 (The Block RSS)",
+   "summary": "據The Block與Cointelegraph於11月25日報導，日本SBI控股與三井住友金融集團成立合資公司SBI Solana Global，將以Solana區塊鏈推動穩定幣支付、金融與現實世界資產代幣化以及鏈上資產管理，並探索AI代",
+   "core_fact": "據The Block與Cointelegraph於11月25日報導，日本SBI控股與三井住友金融集團成立合資公司SBI Solana Global，將以Solana區塊鏈推動穩定幣支付、金融與現實世界資產代幣化以及鏈上資產管理，並探索AI代理的小額支付。依SBI今年7月公開資訊，該合資公司由原SBI R3 Japan更名而來，三井住友金融集團為既有股東，規劃涵蓋日圓穩定幣發行與跨境結算。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
+   "display_title": "香港金融管理局（HKMA）於11月25日推出代幣化債務證券數位資產平台，滙豐、渣打、中銀香港與星展等十家銀行為首批直接參與者",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities",
+     "status": "fail",
+     "chars": 71
+    }
+   ],
+   "date_evidence": "2026-11-25 (The Block RSS)",
+   "summary": "據The Block與Cointelegraph於11月25日報導，香港金融管理局推出代幣化債務證券數位資產平台，支援多幣別結算，可處理債券發行、利息支付與到期償還，並提供24小時結算。首批直接參與者包括滙豐、渣打、中銀香港、星展銀行及另外",
+   "core_fact": "據The Block與Cointelegraph於11月25日報導，香港金融管理局推出代幣化債務證券數位資產平台，支援多幣別結算，可處理債券發行、利息支付與到期償還，並提供24小時結算。首批直接參與者包括滙豐、渣打、中銀香港、星展銀行及另外6家銀行，共10家。該平台由央行層級營運，使代幣化債券可在受監理的基礎設施上完成全生命週期作業。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "CoinList Promotes Tokenized Portfolios, Waitlist for Tokenized IPOs",
+   "display_title": "CoinList於11月25日經Crowdfund Insider報導聯手Ondo推出七組代幣化投資組合，並開放透過Superstate發行的代幣化IPO候補登記",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/325161-coinlist-promotes-tokenized-portfolios-waitlist-for-tokenized-ipos/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [],
+   "date_evidence": "2026-11-26 (Crowdfund Insider RSS)",
+   "summary": "數位資產平台CoinList於11月25日經Crowdfund Insider報導，與Ondo合作提供七組代幣化投資組合，涵蓋收益、成長與主題三類，其中包括由貝萊德產品支持的「七巨頭與加密」及「AI領導者」組合；投資人通過資格審查後可將代幣",
+   "core_fact": "數位資產平台CoinList於11月25日經Crowdfund Insider報導，與Ondo合作提供七組代幣化投資組合，涵蓋收益、成長與主題三類，其中包括由貝萊德產品支持的「七巨頭與加密」及「AI領導者」組合；投資人通過資格審查後可將代幣存放於自行控管的錢包。CoinList同時開放美國上市公司代幣化IPO與增資的候補登記，經由Superstate的Opening Bell發行。該平台成立於2017年，相關服務不對美國投資人開放，僅限核准司法管轄區。",
+   "deep_facts": []
+  }
+ ],
+ "notes": {
+  "must_do_searches": "[A]10/[B]5/[C]3 全數執行；site: 搜尋結果無審計窗內可採用條目",
+  "regional_searches": "台灣、新加坡、中國各補搜1次，無合格結果",
+  "feeds_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus"
+  ]
+ }
+}
