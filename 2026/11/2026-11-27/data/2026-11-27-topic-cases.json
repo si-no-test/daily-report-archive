@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **美國合眾銀行（U.S. Bank）**等發卡行於11月25日經PYMNTS報導加速把訂閱扣款轉移與取消功能納入行動銀行，萬事達卡稱採用者訂閱消費平均增10%",
+  "summary": "發卡行把訂閱扣款轉移、檢視與取消功能納入行動銀行，萬事達卡稱採用者訂閱消費平均增10%。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **內政部警政署刑事警察局**於11月26日揭露偽冒短劇App散布Android木馬，逾百起網銀盜轉累計財損逾1,742萬元",
+  "summary": "刑事局揭露偽冒短劇App散布Android木馬濫用無障礙權限，三個月逾百起網銀盜轉、財損逾1,742萬元。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **標普全球評級（S&P Global Ratings）**於11月25日宣布考慮調降輝達信用評等，可能由AA降至AA-",
+  "summary": "標普因治理與關鍵人物風險考慮將輝達評等由AA降至AA-，影響輝達保證的5,000億美元AI基建融資。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **OpenAI**於11月25日表示ChatGPT的Chat與Work合併後改用單一用量計量，並於12月擴及更多用戶",
+  "summary": "OpenAI把ChatGPT的Chat與Work合併為單一用量計量，12月擴及更多用戶。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **Payward（Kraken母公司）**於11月26日宣布旗下Krak將於2027年初在美推出兩款信用卡，以美元或比特幣最高回饋4%",
+  "summary": "Krak將於2027年初在美推出比特幣回饋信用卡與USDC擔保卡，由First Electronic Bank發卡。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **歐洲銀行管理局（EBA）**於11月26日示警DeFi門檻降低恐波及MiCA穩定幣，興業銀行歐元穩定幣逾半市值鎖在Morpho借貸金庫",
+  "summary": "EBA示警DeFi門檻降低波及MiCA穩定幣，SG FORGE的EURCV逾半市值存於Morpho金庫。",
+  "theme": "blockchain"
+ }
+]

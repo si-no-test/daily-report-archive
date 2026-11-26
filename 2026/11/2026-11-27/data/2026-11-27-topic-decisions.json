@@ -1,0 +1,51 @@
+[
+ {
+  "action": "skip",
+  "case_title": "- **美國合眾銀行（U.S. Bank）**等發卡行於11月25日經PYMNTS報導加速把訂閱扣款轉移與取消功能納入行動銀行，萬事達卡稱採用者訂閱消費平均增10%"
+ },
+ {
+  "action": "create",
+  "topic_id": "tw-online-banking-malware-fraud",
+  "title": "台灣網銀盜轉與Android木馬詐騙偵辦及防護進程",
+  "theme": "innovation",
+  "keywords": [
+   "網銀盜轉",
+   "刑事局",
+   "無障礙權限",
+   "Android木馬",
+   "銀行公會",
+   "OTP"
+  ],
+  "headline": "刑事局揭露偽冒短劇App散布Android木馬，逾百起網銀盜轉累計財損逾1,742萬元",
+  "one_line_update": "11月26日刑事局公布9月至11月21日逾百起網銀盜轉、涉22家金融機構，木馬濫用無障礙權限遠端操控手機；銀行公會將研議深夜交易加強臉部辨識。",
+  "source_title": "網銀盜轉案逾百起，刑事局揭露偽冒短劇App散布Android木馬，歹徒濫用無障礙權限盜轉存款",
+  "source_url": "https://www.ithome.com.tw/news/180826",
+  "case_title": "- **內政部警政署刑事警察局**於11月26日揭露偽冒短劇App散布Android木馬，逾百起網銀盜轉累計財損逾1,742萬元"
+ },
+ {
+  "action": "match",
+  "topic_id": "ai-datacenter-circular-financing-risk",
+  "headline": "標普考慮將輝達評等由AA降至AA-，AI基建融資保證價值受檢驗",
+  "one_line_update": "11月25日標普以治理與關鍵人物風險將輝達列入降評觀察，90天內完成審查；輝達保證25%的5,000億美元AI基建融資，放款方恐要求更高保證。",
+  "source_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "case_title": "- **標普全球評級（S&P Global Ratings）**於11月25日宣布考慮調降輝達信用評等，可能由AA降至AA-"
+ },
+ {
+  "action": "skip",
+  "case_title": "- **OpenAI**於11月25日表示ChatGPT的Chat與Work合併後改用單一用量計量，並於12月擴及更多用戶"
+ },
+ {
+  "action": "match",
+  "topic_id": "kraken-krak-card-global-rollout",
+  "headline": "Krak宣布2027年初在美推出比特幣回饋信用卡與USDC擔保卡",
+  "one_line_update": "11月26日Payward宣布Krak Credit Card與Krak Secured Card由First Electronic Bank發行，回饋最高4%、擔保卡以350至5,000美元USDC擔保；Krak簽帳卡持卡人已逾20萬。",
+  "source_title": "Kraken Parent Payward’s Krak to Launch US Credit Cards With Bitcoin Cashback in Early 2027",
+  "source_url": "https://www.crowdfundinsider.com/2026/11/325049-kraken-parent-paywards-krak-to-launch-us-credit-cards-with-bitcoin-cashback-in-early-2027/",
+  "case_title": "- **Payward（Kraken母公司）**於11月26日宣布旗下Krak將於2027年初在美推出兩款信用卡，以美元或比特幣最高回饋4%"
+ },
+ {
+  "action": "skip",
+  "case_title": "- **歐洲銀行管理局（EBA）**於11月26日示警DeFi門檻降低恐波及MiCA穩定幣，興業銀行歐元穩定幣逾半市值鎖在Morpho借貸金庫"
+ }
+]

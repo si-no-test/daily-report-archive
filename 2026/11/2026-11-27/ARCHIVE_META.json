@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-27",
+  "archived_at": "2026-11-26T23:15:33Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "c15c731d56394d26f924b902a62467d06a4ff8a2",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 22,
+  "total_bytes": 860481,
+  "files": [
+    {
+      "path": "data/2026-11-27-candidates.txt",
+      "bytes": 55545,
+      "sha256": "7c3c694d10afb08a555b8a92091c1525d3a3785a59f5b60ce2c090a8bb02f700"
+    },
+    {
+      "path": "data/2026-11-27-glossary.json",
+      "bytes": 2644,
+      "sha256": "f70950e34646a53b3595ba5e3ed24dc8500db23edf4d3b05d5bb43a6ed846943"
+    },
+    {
+      "path": "data/2026-11-27-manifest.txt",
+      "bytes": 3460,
+      "sha256": "6efa6b44550d32d476c5619416ef65cedea507f91819d3a3f18a9c00efd8f79b"
+    },
+    {
+      "path": "data/2026-11-27-orgs.json",
+      "bytes": 1946,
+      "sha256": "b5aa70fa26f278b2979a517d8a876d6067035ec014b4d0eb250f3eeca5a50798"
+    },
+    {
+      "path": "data/2026-11-27-topic-cases.json",
+      "bytes": 1907,
+      "sha256": "f213a8b4fc0cc3001425ef4eb4c6d674101fa824c9376b2f45109c4209f8cfa8"
+    },
+    {
+      "path": "data/2026-11-27-topic-decisions.json",
+      "bytes": 3165,
+      "sha256": "64c4d1919d55684531d303df52f61446a567ecfe5bf83c06a9fc1275f2acb481"
+    },
+    {
+      "path": "data/2026-11-27.json",
+      "bytes": 24171,
+      "sha256": "51e8246efc56e08975ff64c04944642644a2a6edac83b333e978eb46fe37b962"
+    },
+    {
+      "path": "outbox/2026-11-27-archive.html",
+      "bytes": 111282,
+      "sha256": "39a74a4ab935189333de3e917f24df2d2baadc43a25d44a5fc5b9411d591039f"
+    },
+    {
+      "path": "outbox/2026-11-27-email.html",
+      "bytes": 11995,
+      "sha256": "6d6494a8e36792bf07e7237051657202d5924ebccced94649a208e8ea68f83b8"
+    },
+    {
+      "path": "published/2026-11-27.html",
+      "bytes": 555,
+      "sha256": "788c6685e9b63f1506d41b37f2654e5d96f0efbdd63c5bca71f426242fbbb2f3"
+    },
+    {
+      "path": "published/2026-11-27/ai.html",
+      "bytes": 43370,
+      "sha256": "2c4e33dea925fdbd3c06c51c88e66a1671965b0a4032725754f0d7f298a86fe2"
+    },
+    {
+      "path": "published/2026-11-27/blockchain.html",
+      "bytes": 51196,
+      "sha256": "5a0ab0a662bbcc9b2509613cdf18cabdcfb5a71982434078d1be3f699db7964a"
+    },
+    {
+      "path": "published/2026-11-27/index.html",
+      "bytes": 24062,
+      "sha256": "a86fa5eebcf20535b7f90001f3b4b41e78e0b6e342779f3c9703dc3f066b8cd0"
+    },
+    {
+      "path": "published/2026-11-27/innovation.html",
+      "bytes": 56237,
+      "sha256": "c2580cba10394c295cb12a3dfa46300a4bb1e9eac6ea5a8ba0e4e59ff840a1f8"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 412454,
+      "sha256": "f5b54c69b6533865779e1e14f318bbb2f2ea1115b4f4550c01dabe164ca7fcf5"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "901307c6347d15c189d3b1cc7e1c8575a1eb5ebbe94db108b750f1d9dbc4be18"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "788c6685e9b63f1506d41b37f2654e5d96f0efbdd63c5bca71f426242fbbb2f3"
+    },
+    {
+      "path": "published/topics/ai-datacenter-circular-financing-risk.html",
+      "bytes": 6460,
+      "sha256": "061db37a5a16082c5fc874d9c452d4c608d229136a20b5ecf97448d009e8532a"
+    },
+    {
+      "path": "published/topics/kraken-krak-card-global-rollout.html",
+      "bytes": 2354,
+      "sha256": "8386149438229b82add96c6801730526477fbc80b423f3719a403967c1068f42"
+    },
+    {
+      "path": "published/topics/tw-online-banking-malware-fraud.html",
+      "bytes": 1580,
+      "sha256": "df03c544dd6ba59b544721199ed3aaddc365cf3d5662651e12cdc5815619ed4b"
+    },
+    {
+      "path": "source/2026-11-27-report.txt",
+      "bytes": 41547,
+      "sha256": "aa20dd70ef82f3fd2a403690f930263c256bd0da04f455695724676092ef829d"
+    },
+    {
+      "path": "source/2026-11-27-summary.txt",
+      "bytes": 3204,
+      "sha256": "b7efcd272a725f5c94c6b9400b4ec5c1aa54a515dd3be7fff318a2949a12556e"
+    }
+  ]
+}

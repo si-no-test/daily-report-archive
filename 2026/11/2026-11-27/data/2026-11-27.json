@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T07:15:15.573336+08:00",
+ "counts": {
+  "ai": 4,
+  "blockchain": 4,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "Banks Target Recurring Payments to Win More Card Spending",
+   "display_title": "美國合眾銀行（U.S. Bank）等發卡行於11月25日經PYMNTS報導加速把訂閱扣款轉移與取消功能納入行動銀行，萬事達卡稱採用者訂閱消費平均增10%",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/subscriptions/2026/banks-bring-subscription-management-into-their-apps/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/subscriptions/2026/banks-bring-subscription-management-into-their-apps/",
+     "status": "ok",
+     "chars": 5095
+    }
+   ],
+   "date_evidence": "Wed, 25 Nov 2026 21:19:25 +0000",
+   "summary": "PYMNTS於11月25日彙整指出，過去三個月美國、紐西蘭與阿聯的銀行密集推出訂閱扣款管理功能。美國合眾銀行（U.S. Bank）於10月19日上線Payment Switch，讓客戶在App內把合格訂閱扣款一鍵轉到該行信用卡；花旗於9月在",
+   "core_fact": "PYMNTS於11月25日彙整指出，過去三個月美國、紐西蘭與阿聯的銀行密集推出訂閱扣款管理功能。美國合眾銀行（U.S. Bank）於10月19日上線Payment Switch，讓客戶在App內把合格訂閱扣款一鍵轉到該行信用卡；花旗於9月在阿聯首度部署萬事達卡Smart Subscriptions，萬事達卡稱採用該技術的發卡行訂閱消費平均成長10%；Visa於11月19日推出Recurrent，紐西蘭Kiwibank為首家上線發卡行，可在App停止後續扣款；澳洲西太平洋銀行（Westpac）則直接受理取消申請。",
+   "deep_facts": [
+    "美國合眾銀行於10月19日上線Payment Switch，讓客戶在App內把合格訂閱扣款轉到該行信用卡",
+    "萬事達卡稱採用Smart Subscriptions的發卡行訂閱消費平均成長10%，花旗9月於阿聯為全球首度部署",
+    "PYMNTS與Paymentus研究指40%消費者曾為帳單問題聯絡客服，但僅10%業者投資付款後服務",
+    "澳洲西太平洋銀行直接在App受理訂閱取消，Kiwibank則仍需客戶向商戶終止"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "網銀盜轉案逾百起，刑事局揭露偽冒短劇App散布Android木馬，歹徒濫用無障礙權限盜轉存款",
+   "display_title": "內政部警政署刑事警察局於11月26日揭露偽冒短劇App散布Android木馬，逾百起網銀盜轉累計財損逾1,742萬元",
+   "source": "iThome",
+   "source_tier": "T1",
+   "url": "https://www.ithome.com.tw/news/180826",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ithome.com.tw/news/180826",
+     "status": "ok",
+     "chars": 2336
+    }
+   ],
+   "date_evidence": "2026-11-26  04:11:05（內文：刑事局於11月26日發布公告）",
+   "summary": "刑事局於11月26日召開記者會指出，自今年9月起至11月21日，165反詐騙諮詢專線已受理逾100起網銀盜轉案件，單一受害者損失數萬元至數十萬元，累計財損超過1,742萬元，涉及22家金融機構客戶，包括19家銀行及證券商與3家電子支付業者。",
+   "core_fact": "刑事局於11月26日召開記者會指出，自今年9月起至11月21日，165反詐騙諮詢專線已受理逾100起網銀盜轉案件，單一受害者損失數萬元至數十萬元，累計財損超過1,742萬元，涉及22家金融機構客戶，包括19家銀行及證券商與3家電子支付業者。科技犯罪防制中心檢視受害者手機，發現偽冒短劇App的Android惡意安裝檔，木馬取得無障礙權限後可在數十秒內自行取得簡訊、相機、裝置管理員等12類權限，部分帳戶於深夜遭盜轉且未收到OTP簡訊。",
+   "deep_facts": [
+    "9月至11月21日累計財損超過1,742萬元，涉及19家銀行及證券商與3家電子支付業者共22家機構客戶",
+    "木馬取得無障礙權限後可在數十秒內自行取得簡訊、相機、裝置管理員等12類權限",
+    "攻擊先以偽冒Google Play更新畫面誘導建立VPN連線，阻斷手機內建安全檢查",
+    "銀行公會將依此手法研議深夜網銀交易是否增加臉部辨識"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "FinCEN Extends Reporting Deadlines Amid Cyber-Related Service Disruption",
+   "display_title": "美國財政部金融犯罪執法局（FinCEN）於11月24日發布命令，將受資安事件影響的反洗錢申報期限延至12月30日",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/2026/fincen-extends-reporting-deadlines-amid-cyber-related-service-disruption/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/2026/fincen-extends-reporting-deadlines-amid-cyber-related-service-disruption/",
+     "status": "ok",
+     "chars": 2818
+    }
+   ],
+   "date_evidence": "Wed, 25 Nov 2026 23:51:23 +0000",
+   "summary": "FinCEN於11月24日發布命令，對原定11月18日至12月29日到期的部分申報給予有限度豁免，統一延至12月30日前完成，適用對象包括以安全資料傳輸模式（SDTM）批次申報《銀行保密法》報告的金融機構，以及須申報實質受益人資訊或更新Fi",
+   "core_fact": "FinCEN於11月24日發布命令，對原定11月18日至12月29日到期的部分申報給予有限度豁免，統一延至12月30日前完成，適用對象包括以安全資料傳輸模式（SDTM）批次申報《銀行保密法》報告的金融機構，以及須申報實質受益人資訊或更新FinCEN ID者。FinCEN於11月25日在BSA電子申報系統首頁公告，正調查一起導致部分系統遭未經授權存取的資安事件，並已主動將部分系統下線，FinCEN ID網站一度無法連線。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "UK APP Fraud Losses Rise 22% to £316 Million in First Half of 2026",
+   "display_title": "英國金融業公會（UK Finance）於11月26日經報導公布上半年授權推送支付詐欺損失3.16億英鎊，年增22%",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/325047-uk-app-fraud-losses-rise-22-to-316-million-in-first-half-of-2026/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/325047-uk-app-fraud-losses-rise-22-to-316-million-in-first-half-of-2026/",
+     "status": "ok",
+     "chars": 5635
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 16:04:12 +0000",
+   "summary": "英國金融業公會於11月26日公布，2026年上半年授權推送支付（APP）詐欺損失達3.16億英鎊、年增22%，案件數增25%至138,345件；同期未經授權詐欺損失反降2%至3.435億英鎊，業界另成功攔阻8.105億英鎊。投資詐騙損失最高",
+   "core_fact": "英國金融業公會於11月26日公布，2026年上半年授權推送支付（APP）詐欺損失達3.16億英鎊、年增22%，案件數增25%至138,345件；同期未經授權詐欺損失反降2%至3.435億英鎊，業界另成功攔阻8.105億英鎊。投資詐騙損失最高達1.263億英鎊、年增29%，預付費用詐騙損失大增73%；3.16億英鎊中有2.057億英鎊返還受害人，返還率由62%升至65%，58%案件起源於線上平台、16%起於電信網路。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Credit Building Moves Beyond the Monthly Loan Payment",
+   "display_title": "Chime於11月經PYMNTS報導揭露信用卡交換手續費收入年增81%，信用建立產品全面轉向擔保卡模式",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/consumer-finance/2026/credit-building-moves-beyond-the-monthly-loan-payment/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/consumer-finance/2026/credit-building-moves-beyond-the-monthly-loan-payment/",
+     "status": "ok",
+     "chars": 4834
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 00:41:20 +0000",
+   "summary": "PYMNTS於11月26日報導，沃爾瑪支持的OnePay於11月6日停辦信用建立貸款（每月最低1美元、12個月300美元無息貸款），改以4月推出、連結存款帳戶的擔保信用卡Builder Card承接；Chime亦關閉原Credit Buil",
+   "core_fact": "PYMNTS於11月26日報導，沃爾瑪支持的OnePay於11月6日停辦信用建立貸款（每月最低1美元、12個月300美元無息貸款），改以4月推出、連結存款帳戶的擔保信用卡Builder Card承接；Chime亦關閉原Credit Builder卡新申請，改由可自動從支票帳戶轉入擔保金的Chime Card承接。Chime季報顯示信用卡交換手續費收入年增81%，第三季信用卡交易占消費量29%、去年同期僅16%，並預計2027年推出無擔保信用卡；PYMNTS估計美國有4,400萬名次級信用成年人，其中35%沒有任何信用卡或商店卡。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "display_title": "標普全球評級（S&P Global Ratings）於11月25日宣布考慮調降輝達信用評等，可能由AA降至AA-",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+     "status": "ok",
+     "chars": 2110
+    }
+   ],
+   "date_evidence": "Wed, 25 Nov 2026 22:44:32 +0000",
+   "summary": "標普全球評級於11月25日表示，雖然輝達財務表現強勁，但執行長黃仁勳遭撤換後又復職，暴露「高層監督薄弱、缺乏接班規劃」與「關鍵人物風險」，因此考慮調降其評等，預計在90天內完成審查，評等可能由AA降至AA-（量表第四高級）。輝達8月宣布與高",
+   "core_fact": "標普全球評級於11月25日表示，雖然輝達財務表現強勁，但執行長黃仁勳遭撤換後又復職，暴露「高層監督薄弱、缺乏接班規劃」與「關鍵人物風險」，因此考慮調降其評等，預計在90天內完成審查，評等可能由AA降至AA-（量表第四高級）。輝達8月宣布與高盛、Apollo、黑石等六家金融機構安排5,000億美元AI基礎建設融資，原條件由輝達保證25%貸款；據彭博報導，放款方在此事件前已要求輝達提高保證比例。",
+   "deep_facts": [
+    "標普預計90天內完成審查，評等可能由AA降至AA-（量表第四高級）",
+    "輝達8月與高盛、Apollo、黑石等六家金融機構安排5,000億美元AI基建融資，原保證25%貸款",
+    "據彭博報導，放款方在黃仁勳風波前已要求輝達提高保證比例"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work",
+   "display_title": "OpenAI於11月25日表示ChatGPT的Chat與Work合併後改用單一用量計量，並於12月擴及更多用戶",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-most-users-wont-hit-limits-faster-after-merger-of-chat-and-work/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-most-users-wont-hit-limits-faster-after-merger-of-chat-and-work/",
+     "status": "ok",
+     "chars": 2611
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 03:17:33 +0000",
+   "summary": "據PYMNTS引述TechCrunch報導，OpenAI發言人於11月25日表示，ChatGPT將Chat與Work合併後共用單一用量計量，僅少數重度使用者可能更快觸及上限，使用Instant模型的對話不計入共享額度；更新已於本週開始推送，",
+   "core_fact": "據PYMNTS引述TechCrunch報導，OpenAI發言人於11月25日表示，ChatGPT將Chat與Work合併後共用單一用量計量，僅少數重度使用者可能更快觸及上限，使用Instant模型的對話不計入共享額度；更新已於本週開始推送，12月擴及更多用戶。ChatGPT Work於7月推出，可跨使用者的應用程式與檔案採取行動、單一專案可運作數小時，並產出試算表、簡報、文件與網頁應用；Anthropic亦於9月把Claude Cowork與聊天整併為「one Claude」。",
+   "deep_facts": [
+    "使用Instant模型的對話不計入Chat與Work的共享用量額度",
+    "合併更新本週開始推送，12月擴及更多用戶",
+    "ChatGPT Work於7月推出，可跨應用程式與檔案行動、單一專案運作數小時並產出試算表與簡報",
+    "Anthropic於9月把Claude Cowork與聊天整併為one Claude"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "美祭先進 AI 晶片新管制，亞洲資料中心融資市場急踩煞車",
+   "display_title": "Bridge Data Centres於11月26日傳66億美元貸款遭銀行暫緩，美國AI晶片新管制使亞洲資料中心融資急踩煞車",
+   "source": "TechNews",
+   "source_tier": "T2",
+   "url": "https://finance.technews.tw/2026/11/26/us-chip-controls-impact-asian-financing/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://finance.technews.tw/2026/11/26/us-chip-controls-impact-asian-financing/",
+     "status": "fail",
+     "chars": 937
+    },
+    {
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+     "status": "fail",
+     "chars": 1461
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 08:50:57 +0000",
+   "summary": "TechNews於11月26日報導，美國針對先進AI晶片祭出新出口限制，凡位於新加坡、馬來西亞、印尼、泰國與巴西的企業採購先進AI晶片須先取得美國政府許可，已出租算力給中國企業的資料中心也須在90天內另行申請許可。貝恩資本旗下Bridge ",
+   "core_fact": "TechNews於11月26日報導，美國針對先進AI晶片祭出新出口限制，凡位於新加坡、馬來西亞、印尼、泰國與巴西的企業採購先進AI晶片須先取得美國政府許可，已出租算力給中國企業的資料中心也須在90天內另行申請許可。貝恩資本旗下Bridge Data Centres尋求的66億美元貸款、Partners Group支持的Digital Halo 3.72億美元融資，均傳出銀行要求加強盡職調查或暫停參與。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Check the firm before you invest, FCA warns, as AI scams rise",
+   "display_title": "英國金融行為監理總署（FCA）於11月26日示警涉AI投資詐騙通報一年增近400%，受害者平均損失28,188英鎊",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/325222-check-the-firm-before-you-invest-fca-warns-as-ai-scams-rise/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/325222-check-the-firm-before-you-invest-fca-warns-as-ai-scams-rise/",
+     "status": "ok",
+     "chars": 3964
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 09:55:41 +0000",
+   "summary": "FCA於11月26日發布調查指出，向Report Fraud通報且提及疑似使用AI的投資詐騙，由2024/25年度193件增至2025/26年度956件，增幅近400%，投資詐騙受害者平均損失28,188英鎊。由Kantar於10月20日至",
+   "core_fact": "FCA於11月26日發布調查指出，向Report Fraud通報且提及疑似使用AI的投資詐騙，由2024/25年度193件增至2025/26年度956件，增幅近400%，投資詐騙受害者平均損失28,188英鎊。由Kantar於10月20日至26日訪問2,558名英國民眾的調查顯示，62%成人自認能辨識AI投資詐騙，但僅49%認為能分辨名人影音是否經AI生成；35歲以下族群中74%自認能辨識、56%相信過去一年看過AI生成投資廣告，卻只有38%會在投資前查核業者是否獲FCA授權。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Kraken Parent Payward’s Krak to Launch US Credit Cards With Bitcoin Cashback in Early 2027",
+   "display_title": "Payward（Kraken母公司）於11月26日宣布旗下Krak將於2027年初在美推出兩款信用卡，以美元或比特幣最高回饋4%",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/325049-kraken-parent-paywards-krak-to-launch-us-credit-cards-with-bitcoin-cashback-in-early-2027/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/325049-kraken-parent-paywards-krak-to-launch-us-credit-cards-with-bitcoin-cashback-in-early-2027/",
+     "status": "ok",
+     "chars": 5633
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 11:40:48 +0000",
+   "summary": "Payward於11月26日宣布，旗下金融App Krak將推出Krak Credit Card與Krak Secured Card，預計2027年初出貨，兩卡皆為Visa Signature卡，由First Electronic Bank",
+   "core_fact": "Payward於11月26日宣布，旗下金融App Krak將推出Krak Credit Card與Krak Secured Card，預計2027年初出貨，兩卡皆為Visa Signature卡，由First Electronic Bank依Visa授權發行、金融科技業者Cardless負責專案管理與客服。回饋依平台資產分級，餘額低於1,000美元為1%，達15萬美元以上可達4%，高階費率僅適用每月前1萬美元消費、超過部分降為2%；擔保卡須存入350至5,000美元的USDC作為擔保，期間仍可享最高4%年化收益。Krak簽帳卡今年推出後全球持卡人已逾20萬。",
+   "deep_facts": [
+    "兩卡由First Electronic Bank依Visa授權發行，Cardless負責專案管理與客服",
+    "回饋依平台資產分級：低於1,000美元為1%，15萬美元以上4%，高階費率僅適用每月前1萬美元消費",
+    "擔保卡以350至5,000美元USDC擔保，期間仍可享最高4%年化收益",
+    "Payward調查顯示約30%美國成人沒有信用卡，64%對傳統點數規則不滿"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "EU banking regulator concerned about impact of DeFi on investors, stablecoins",
+   "display_title": "歐洲銀行管理局（EBA）於11月26日示警DeFi門檻降低恐波及MiCA穩定幣，興業銀行歐元穩定幣逾半市值鎖在Morpho借貸金庫",
+   "source": "Ledger Insights",
+   "source_tier": "T2",
+   "url": "https://www.ledgerinsights.com/eu-banking-regulator-concerned-about-impact-of-defi-on-investors-stablecoins/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.ledgerinsights.com/eu-banking-regulator-concerned-about-impact-of-defi-on-investors-stablecoins/",
+     "status": "ok",
+     "chars": 1796
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 19:05:20 +0000",
+   "summary": "歐洲銀行管理局於11月26日經Ledger Insights報導發布評估，指出歐盟參與DeFi的程度雖仍有限，但三項變化正降低進入門檻：加密交易所在自家平台提供DeFi服務並自居中介、錢包業者整合穩定幣被動收益功能、以及AI代理代替散戶處理",
+   "core_fact": "歐洲銀行管理局於11月26日經Ledger Insights報導發布評估，指出歐盟參與DeFi的程度雖仍有限，但三項變化正降低進入門檻：加密交易所在自家平台提供DeFi服務並自居中介、錢包業者整合穩定幣被動收益功能、以及AI代理代替散戶處理技術操作。EBA點名USDC是涉入DeFi最深的MiCA穩定幣；歐元穩定幣中，法國興業銀行旗下SG FORGE的EURCV逾半市值存放在Morpho借貸協議的金庫，Monerium的EURe則有40%被借出至Aave。",
+   "deep_facts": [
+    "EBA指出交易所自居中介、錢包整合穩定幣被動收益、AI代理代為操作三項變化降低DeFi門檻",
+    "SG FORGE的EURCV逾半市值存放在Morpho借貸協議金庫",
+    "Monerium的EURe有40%被借出至Aave",
+    "USDC是涉入DeFi最深的MiCA穩定幣"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+   "display_title": "渣打銀行（Standard Chartered）旗下加密託管商Zodia Custody於11月26日證實發生資料外洩，客戶與員工聯絡資訊遭曝光",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "status": "fail",
+     "chars": 65
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 12:38:51 +0000",
+   "summary": "CoinDesk與Cointelegraph於11月26日報導，渣打銀行支持的加密資產託管商Zodia Custody證實發生資料外洩事件，外洩內容包括客戶與員工的聯絡資訊，公司表示並未發生未經授權的交易，客戶託管資產未受影響。Zodia ",
+   "core_fact": "CoinDesk與Cointelegraph於11月26日報導，渣打銀行支持的加密資產託管商Zodia Custody證實發生資料外洩事件，外洩內容包括客戶與員工的聯絡資訊，公司表示並未發生未經授權的交易，客戶託管資產未受影響。Zodia Custody是由渣打銀行支持、主打機構客戶的加密資產託管業者；同一天密碼管理服務1Password也證實後端遭入侵、客戶姓名與電子郵件外洩，顯示金融與資安服務商的客戶資料正成為攻擊者的共同目標。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+   "display_title": "LayerZero Labs於11月25日宣布新增三星卡（Samsung Card）、Kakao Pay與ZAN為Zero區塊鏈驗證節點",
+   "source": "The Block",
+   "source_tier": "T1",
+   "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 02:22:43 +0000",
+   "summary": "The Block於11月25日報導，跨鏈協議業者LayerZero Labs宣布，韓國三星卡、韓國行動支付業者Kakao Pay以及ZAN將成為其即將上線的Zero區塊鏈驗證節點。Zero以零知識證明把交易執行與驗證分離，驗證節點只需驗證",
+   "core_fact": "The Block於11月25日報導，跨鏈協議業者LayerZero Labs宣布，韓國三星卡、韓國行動支付業者Kakao Pay以及ZAN將成為其即將上線的Zero區塊鏈驗證節點。Zero以零知識證明把交易執行與驗證分離，驗證節點只需驗證證明、不必重複執行每筆交易，藉此去除一層冗餘運算，定位為面向機構金融的交易、清算與結算基礎設施。三星卡與Kakao Pay分屬韓國發卡與行動支付業者，代表韓國支付業者直接取得公鏈驗證席次。",
+   "deep_facts": []
+  }
+ ],
+ "search_log": {
+  "rss_feeds": 17,
+  "rss_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus"
+  ],
+  "mandatory_searches": {
+   "A": 10,
+   "B": 5,
+   "C": 3
+  },
+  "regional_supplementary": [
+   "台灣",
+   "香港",
+   "韓國",
+   "新加坡",
+   "中國"
+  ],
+  "backfill_keyword_searches": 0
+ }
+}

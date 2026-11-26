@@ -1,0 +1,57 @@
+[
+ {
+  "name": "美國合眾銀行",
+  "url": "https://www.usbank.com",
+  "intro": "美國大型商業銀行，總部位於明尼亞波利斯，提供零售、信用卡與企業金融服務。"
+ },
+ {
+  "name": "金融犯罪執法局",
+  "url": "https://www.fincen.gov",
+  "intro": "美國財政部轄下負責反洗錢與金融犯罪情資的機構，受理金融機構的可疑交易申報。"
+ },
+ {
+  "name": "英國金融業公會",
+  "url": "https://www.ukfinance.org.uk",
+  "intro": "代表英國銀行與金融服務業的產業公會，定期發布詐欺損失等產業統計。"
+ },
+ {
+  "name": "Chime",
+  "url": "https://www.chime.com",
+  "intro": "美國大型數位銀行服務商，以免月費帳戶、提早撥薪與擔保信用卡吸引大眾客群。"
+ },
+ {
+  "name": "標普全球評級",
+  "url": "https://www.spglobal.com/ratings",
+  "intro": "全球三大信用評等機構之一，為企業、政府與債券提供信用評等。"
+ },
+ {
+  "name": "OpenAI",
+  "url": "https://openai.com",
+  "intro": "ChatGPT開發商，美國生成式AI主要業者。"
+ },
+ {
+  "name": "英國金融行為監理總署",
+  "url": "https://www.fca.org.uk",
+  "intro": "英國金融服務業的行為監理機關，負責業者授權與消費者保護。"
+ },
+ {
+  "name": "歐洲銀行管理局",
+  "url": "https://www.eba.europa.eu",
+  "intro": "歐盟銀行業監理協調機構，也負責MiCA下電子貨幣型穩定幣的相關監理。"
+ },
+ {
+  "name": "渣打銀行",
+  "url": "https://www.sc.com",
+  "intro": "總部位於倫敦的國際銀行集團，業務以亞洲、非洲與中東市場為主。"
+ },
+ {
+  "name": "LayerZero Labs",
+  "url": "https://layerzero.network",
+  "intro": "跨鏈通訊協議LayerZero的開發商，並推出面向機構金融的Zero區塊鏈。"
+ },
+ {
+  "name": "Payward",
+  "url": "https://www.kraken.com",
+  "intro": "加密貨幣交易所Kraken的母公司，旗下另有金融App Krak。"
+ }
+]
