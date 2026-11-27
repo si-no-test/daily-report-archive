@@ -1,0 +1,284 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T07:14:14+08:00",
+ "counts": {
+  "ai": 3,
+  "blockchain": 3,
+  "innovation": 5
+ },
+ "items": [
+  {
+   "theme": "innovation",
+   "title": "TrueLayer and Papa Johns Pit Pay by Bank Against Cards in Agentic Commerce",
+   "display_title": "TrueLayer於11月27日宣布與棒約翰（Papa Johns）完成AI代理以Pay by Bank付款的試點，其付款網路已在22國上線、服務3,000萬名歐洲消費者",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/payment-methods/2026/truelayer-and-papa-johns-pit-pay-by-bank-against-cards-in-agentic-commerce/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/payment-methods/2026/truelayer-and-papa-johns-pit-pay-by-bank-against-cards-in-agentic-commerce/",
+     "status": "ok",
+     "chars": 2947
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 22:54:20 +0000",
+   "summary": "TrueLayer與棒約翰完成AI代理以Pay by Bank付款的試點，客戶於銀行端設定限額並在銀行App授權。",
+   "core_fact": "英國開放銀行付款網路TrueLayer於11月27日發布新聞稿，宣布與披薩連鎖棒約翰完成試點：顧客在棒約翰的AI助理協助下點餐後，由AI代理直接從顧客綁定在棒約翰帳戶的銀行帳戶付款。試點採用駿懋銀行（Lloyds）與國民西敏寺銀行（NatWest）的可變動定期付款（VRP）API，並在英國金融行為監理總署（FCA）的「Supercharged Sandbox」中進行。顧客事先在自己的銀行設定AI代理不可超過的支出上限，授權在銀行App內完成，代理全程拿不到任何帳密。TrueLayer於10月8日才完成由CDP Venture Capital領投的2,700萬美元增資，網路已在22國上線、使用者達3,000萬名歐洲消費者。",
+   "deep_facts": [
+    "試點採用Lloyds與NatWest的可變動定期付款（VRP）API，於FCA Supercharged Sandbox中進行",
+    "客戶在自己銀行設定AI代理不可超過的支出上限，授權於銀行App完成，代理不取得任何帳密",
+    "TrueLayer於10月8日獲CDP Venture Capital領投2,700萬美元，網路已在22國上線、服務3,000萬名歐洲消費者"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks",
+   "display_title": "Shopify於11月25日宣布在AI代理訂單的退單答辯中自動附上客戶授權紀錄，對應已有1.32億名消費者使用AI協助購物",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/",
+     "status": "ok",
+     "chars": 3013
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 19:30:32 +0000",
+   "summary": "Shopify在AI代理訂單的退單答辯自動附上授權紀錄。",
+   "core_fact": "電商平台Shopify於11月25日在更新日誌宣布，當AI購物助理替顧客下單、顧客事後向發卡行主張未授權付款時，Shopify會自動把結帳時的資訊加入商家的退單答辯，內容包括顧客為助理設定的支出上限、結帳時記錄的付款核准，以及可辨識時的助理名稱，商家不需任何操作。同日Shopify也把AI撰寫答辯的功能從「未收到商品」擴及所有退單事由，並新增付款驗證證明與退單通知對象設定。PYMNTS Intelligence調查顯示，已有1.32億名消費者用AI協助購物，5,840萬名成年人以AI作為線上購物研究起點，24%願意讓代理同時負責選購與付款。",
+   "deep_facts": [
+    "答辯自動附上客戶為助理設定的支出上限、結帳時付款核准紀錄與助理名稱",
+    "AI撰寫答辯功能由「未收到商品」擴及所有退單事由，並新增退單通知對象設定",
+    "PYMNTS Intelligence調查：1.32億名消費者用AI協助購物、24%願讓代理同時選購與付款"
+   ]
+  },
+  {
+   "theme": "innovation",
+   "title": "Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses",
+   "display_title": "Kalshi於11月26日經《金融時報》報導推廣預測市場作為中小企業避險工具，已有約500家企業在平台上對沖風險",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/economy/markets/2026/kalshi-promotes-prediction-market-as-hedging-solution-for-small-businesses/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/economy/markets/2026/kalshi-promotes-prediction-market-as-hedging-solution-for-small-businesses/",
+     "status": "ok",
+     "chars": 2771
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 21:57:33 +0000",
+   "summary": "Kalshi推廣預測市場作為中小企業避險工具，約500家企業已使用。",
+   "core_fact": "美國受監理預測市場Kalshi於11月26日經《金融時報》報導，正把平台定位為企業避險工具，業務開發總監Nicolas Hull表示已有約500家企業在Kalshi上對沖財務風險，例如新關稅、某月大雪、當地球隊無緣季後賽或停電等事件；他形容這「幾乎是一種微型保險」，且接觸過的中小企業幾乎都從未避險。Kalshi會拒絕可能產生不當誘因的需求，例如曾婉拒保險公司對沖野火風險的請求。報導並指出Herisson、Castle Tech等新創正把事件合約包裝後推銷給中小企業，而Kalshi同時面臨多州指其預測市場屬賭博的訴訟。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails",
+   "display_title": "美國聯邦銀行監理機關於11月24日經律師事務所Moore & Van Allen歸納The Clearing House年會五大重點，監理方向由規範式條文轉向彈性護欄",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/legal/bank-regulation/2026/federal-bank-regulators-trade-strict-rulebooks-for-loose-guardrails/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/legal/bank-regulation/2026/federal-bank-regulators-trade-strict-rulebooks-for-loose-guardrails/",
+     "status": "ok",
+     "chars": 2924
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 20:02:02 +0000",
+   "summary": "美國聯邦銀行監理機關轉向彈性護欄而非嚴格新規。",
+   "core_fact": "律師事務所Moore & Van Allen於11月24日發表其參與紐約The Clearing House年會的五大觀察，PYMNTS於11月27日報導整理。重點包括：監理機關即使未達正式裁罰，也嚴肅看待監理意見；對新進業者保持開放，包括研議讓非銀行機構取得有限用途的聯準會帳戶；對AI與數位資產沿用既有風險規則。穩定幣用途仍集中在跨境轉帳與加密貨幣出入金，代幣化存款則在企業與批發支付取得進展。期中選舉後的國會在2028年大選前，較可能推動小範圍兩黨法案而非全面性銀行立法。",
+   "deep_facts": []
+  },
+  {
+   "theme": "innovation",
+   "title": "Open Banking Provider Salt Edge Teams Up with AI Agents focused Neumetria",
+   "display_title": "Salt Edge於11月27日宣布與Neumetria合作，以串接逾5,000家金融機構的開放銀行資料，供AI代理在授信前評估客戶還款能力",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/325368-open-banking-provider-salt-edge-teams-up-with-ai-agents-focused-neumetria/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/325368-open-banking-provider-salt-edge-teams-up-with-ai-agents-focused-neumetria/",
+     "status": "ok",
+     "chars": 5772
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 13:20:18 +0000",
+   "summary": "Salt Edge與Neumetria合作，以開放銀行資料供AI代理評估客戶財務能力。",
+   "core_fact": "開放銀行解決方案商Salt Edge於11月27日宣布與Neumetria合作，主攻歐洲與北美的銀行、放款機構、金融科技業者與AI代理開發者。Salt Edge的資料聚合服務連接50多國、逾5,000家金融機構，其中涵蓋PSD2下逾2,700家歐洲機構，透過單一API提供經客戶同意且標準化的帳戶資料；Neumetria則把多銀行交易流轉換為收入模式、流動性、既有負債與整體財務能力的即時評估。兩家公司讓AI代理在採取任何行動前，先依機構自訂政策檢核，並保留每個決策所依據的資料與規則紀錄。",
+   "deep_facts": []
+  },
+  {
+   "theme": "ai",
+   "title": "Small AI Models Give Banks a Way to Keep Sensitive Data In-House",
+   "display_title": "Baseten於11月20日發布開放權重決策模型bison-1，在Artificial Analysis 19款決策模型評比中排名第一，每百萬token收費0.10美元",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/small-ai-models-give-banks-a-way-to-keep-sensitive-data-in-house/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/news/artificial-intelligence/2026/small-ai-models-give-banks-a-way-to-keep-sensitive-data-in-house/",
+     "status": "ok",
+     "chars": 5000
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 09:00:37 +0000",
+   "summary": "小型開放權重模型讓銀行可在行內運行AI；Baseten決策模型bison-1評比居首。",
+   "core_fact": "PYMNTS於11月27日整理本週小模型動態指出，舊金山推論服務商Baseten於11月20日發布兩款以Google Gemma 4為基礎的開放權重決策模型bison-1與groundhog-1。決策模型不生成文字，而是在「核准／暫緩」等固定選項中做選擇並給出信心水準；bison-1在Artificial Analysis決策指數19款模型中排名第一，也最能判斷自己何時可能出錯，收費每百萬token 0.10美元，groundhog-1僅0.035美元。Baseten舉例：一張看似可付款的發票，其實已在先前郵件中被取消，模型可一次讀完整份政策或郵件串找出問題。Baseten於6月以最高130億美元估值募得15億美元。",
+   "deep_facts": [
+    "bison-1與groundhog-1以Google Gemma 4為基礎，groundhog-1每百萬token僅0.035美元",
+    "Baseten於6月以最高130億美元估值募得15億美元",
+    "Thinking Machines的Inkling 2 Mini可離線運行於32GB記憶體MacBook Pro，PrismML把270億參數模型壓縮至5.9GB"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "AI Helps Merchants Stop Holiday Fraud Without Losing Good Customers",
+   "display_title": "PYMNTS Intelligence於11月27日發布分析，指85%商家把「防詐不犧牲顧客體驗」列為最大挑戰，近半數估計多達5%正常訂單遭誤拒",
+   "source": "PYMNTS",
+   "source_tier": "T1",
+   "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/ai-helps-merchants-stop-holiday-fraud-without-losing-good-customers/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/ai-helps-merchants-stop-holiday-fraud-without-losing-good-customers/",
+     "status": "ok",
+     "chars": 6348
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 09:00:53 +0000",
+   "summary": "AI風控協助商家在購物季減少誤拒、兼顧防詐與營收。",
+   "core_fact": "PYMNTS於11月27日黑色星期五前夕發布分析，引用其報告《Orchestrating Trust》指出，85%受訪商家把「防詐同時不損及顧客體驗」列為最大挑戰，47%估計多達5%的正常訂單被誤判為詐欺而拒絕；8月的支付優化追蹤報告則顯示，83%受訪者表示AI在過去一年明顯降低誤判與相關客戶流失。文中引用Adobe數據，2025年美國黑色星期五線上消費118億美元、年增9.1%，網購星期一達142.5億美元。文章並指出沃爾瑪本週開放顧客使用Meta的AI代理Muse尋找優惠，代理購物行為與惡意自動化愈來愈難區分。",
+   "deep_facts": [
+    "85%商家把防詐不損顧客體驗列為最大挑戰，47%估計多達5%正常訂單遭誤拒",
+    "83%受訪者表示AI過去一年明顯降低誤判與客戶流失",
+    "沃爾瑪本週開放顧客使用Meta的AI代理Muse尋找黑色星期五優惠"
+   ]
+  },
+  {
+   "theme": "ai",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "display_title": "輝達（Nvidia）於11月26日經《華爾街日報》報導，要求戴爾與美超微暫停對馬來西亞、新加坡、泰國與印尼出貨AI伺服器",
+   "source": "TechCrunch",
+   "source_tier": "T2",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+     "status": "fail",
+     "chars": 1267
+    }
+   ],
+   "date_evidence": "Thu, 26 Nov 2026 20:03:54 +0000",
+   "summary": "輝達要求製造夥伴暫停對東南亞四國出貨伺服器。",
+   "core_fact": "TechCrunch於11月26日引述《華爾街日報》報導，輝達已要求戴爾（Dell）、美超微（Super Micro）等製造夥伴，暫停對馬來西亞、新加坡、泰國與印尼的伺服器出貨，期間未定，以評估區域夥伴是否符合美國出口規定。背景是中國企業透過這些國家的資料中心遠端使用輝達晶片，美國商務部已於本月稍早關閉此漏洞；智庫Institute for Progress估計，這類遠端資料中心約供應中國24%的AI運算能力。輝達此舉代表四國新建與擴建中的AI資料中心，短期內可能面臨設備到位延遲。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Tether Invests in Argentine Fintech Lemon to Expand Stablecoin USDT and XAUT in Latin America",
+   "display_title": "泰達（Tether）於11月27日宣布投資阿根廷金融科技業者Lemon，推動USDT與黃金代幣XAUT融入拉美日常金融，Lemon擁有450萬名驗證用戶",
+   "source": "Crowdfund Insider",
+   "source_tier": "T2",
+   "url": "https://www.crowdfundinsider.com/2026/11/325202-tether-invests-in-argentine-fintech-lemon-to-expand-stablecoin-usdt-and-xaut-in-latin-america/",
+   "deep_dived": true,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.crowdfundinsider.com/2026/11/325202-tether-invests-in-argentine-fintech-lemon-to-expand-stablecoin-usdt-and-xaut-in-latin-america/",
+     "status": "ok",
+     "chars": 6100
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 14:39:20 +0000",
+   "summary": "泰達投資阿根廷Lemon，推動USDT與XAUT在拉美日常使用。",
+   "core_fact": "穩定幣USDT發行商泰達於11月27日宣布投資阿根廷金融科技公司Lemon，金額未揭露，目的在加速美元穩定幣USDT與黃金代幣XAUT在拉丁美洲的日常使用。Lemon成立於2019年，在拉美擁有450萬名驗證用戶，在阿根廷與祕魯的數位資產市場活躍用戶數居領先地位，並正擴展哥倫比亞；先前已透過由Kingsway Capital、F-Prime與ParaFi領投的A、B輪募得逾6,600萬美元。依Chainalysis 2026年報告，阿根廷是拉美第二大數位資產經濟體，過去12個月活動規模達885億美元、成長15.3%。",
+   "deep_facts": [
+    "Lemon擁450萬名驗證用戶，在阿根廷與祕魯活躍用戶數領先並擴展哥倫比亞",
+    "Lemon成立於2019年，A、B輪由Kingsway Capital、F-Prime、ParaFi領投累計逾6,600萬美元",
+    "Chainalysis：阿根廷為拉美第二大數位資產經濟體，12個月活動規模885億美元、成長15.3%"
+   ]
+  },
+  {
+   "theme": "blockchain",
+   "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "display_title": "巴西證券交易所（B3）於11月27日宣布聯手六家大型金融機構推出與巴西里爾1:1掛鉤的穩定幣，最快於2027年第一季上線",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+   "deep_dived": true,
+   "degraded": true,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+     "status": "fail",
+     "chars": 0
+    },
+    {
+     "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027",
+     "status": "fail",
+     "chars": 71
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 10:51:27 +0000",
+   "summary": "B3與六家金融機構籌發里爾1:1穩定幣，最快2027年第一季上線。",
+   "core_fact": "巴西證券交易所B3於11月27日表示，正與六家大型金融機構合作推出與巴西里爾掛鉤的穩定幣，由旗下Banco B3發行，以里爾1:1作為準備，其他金融機構可自上線時起加入；依Cointelegraph同日報導，該穩定幣最快於2027年第一季推出，時程較原先規劃延後至2027年。B3目前尚未公開參與機構名單與發行規模，相關細節仍待正式上線前揭露。",
+   "deep_facts": []
+  },
+  {
+   "theme": "blockchain",
+   "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+   "display_title": "歐洲央行（ECB）候任總裁Pablo Hernández de Cos於11月27日經報導表態偏好以區塊鏈為基礎的代幣化銀行存款，並曾警告民間數位貨幣與銀行持有比特幣的風險",
+   "source": "CoinDesk",
+   "source_tier": "T1",
+   "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+   "deep_dived": false,
+   "degraded": false,
+   "fetch_log": [
+    {
+     "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+     "status": "fail",
+     "chars": 0
+    }
+   ],
+   "date_evidence": "Fri, 27 Nov 2026 11:22:42 +0000",
+   "summary": "歐洲央行候任總裁偏好代幣化銀行存款，警告民間數位貨幣與銀行持有比特幣風險。",
+   "core_fact": "CoinDesk於11月27日報導，獲選接任拉加德（Christine Lagarde）出任歐洲央行總裁的Pablo Hernández de Cos，偏好以區塊鏈為基礎的銀行業務模式，相較於穩定幣與比特幣，更支持代幣化銀行存款，並曾公開警告民間數位貨幣的風險，以及銀行持有比特幣的風險。報導於11月27日刊出，正值歐盟各國監理機關對穩定幣與去中心化金融如何監理意見分歧之際，其立場將影響歐洲央行未來數年對歐元穩定幣與代幣化存款的政策取向。",
+   "deep_facts": []
+  }
+ ],
+ "notes": {
+  "searches_A": 10,
+  "searches_B": 5,
+  "searches_C": 3,
+  "regional_supplement": [
+   "台灣",
+   "香港",
+   "新加坡"
+  ],
+  "supplement_searches": 0,
+  "alt_fetch": "ECB另以搜尋尋找替代來源未得可抓全文；BoJ、ASEAN+3 The Block 403（未採為核心）",
+  "feeds_failed": [
+   "Finextra",
+   "Fintech Futures",
+   "Fintech Nexus"
+  ]
+ }
+}

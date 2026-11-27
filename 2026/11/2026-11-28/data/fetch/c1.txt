@@ -1,0 +1,19 @@
+FINAL_URL: https://www.pymnts.com/news/payment-methods/2026/truelayer-and-papa-johns-pit-pay-by-bank-against-cards-in-agentic-commerce/
+STATUS: ok
+CHARS: 2947
+---CONTENT---
+TrueLayer and Papa Johns Pit Pay by Bank Against Cards in Agentic Commerce
+Pay by Bank network TrueLayer and pizza retailer Papa Johns completed a pilot that showed that an artificial intelligence (AI) agent could complete a Pay by Bank payment to a retailer, TrueLayer said in a Friday (Nov. 27) press release .
+The pilot demonstrated that non-card payments can help maintain competition in payment acceptance in the case of agentic commerce, and that these payments are better suited to agentic commerce because they eliminate the need to share card detailers, the company said in the release.
+In the pilot, the Papa Johns AI helped the customer with their order and then paid from the bank account the customer had linked to their Papa Johns account, the release said.
+Open banking made possible the linking of the bank account, an inbuilt guardrail enabled the customer to set a spending limit with their bank that cannot be exceeded by an AI agent, and authorization happened within the user’s bank app, so no credentials or passwords were shared with the agent, per the release.
+The pilot used Lloyd’s and NatWest ’s variable recurring payment application programming interfaces for agentic payments, and it was conducted through the United Kingdom’s Financial Conduct Authority ’s Supercharged Sandbox , according to the release.
+TrueLayer CEO and Co-Founder Francesco Simoneschi said in the release that as agentic commerce grows, consumers want a safe, simple way for their agents to make purchases on their behalf, merchants want to control the customer experience while also cutting cost and risk, and agents will seek the payment rail that is fastest, most secure and lowest cost.
+“That’s Pay by Bank: instant, secure and governed by a digital mandate, with spending limits the customer sets with their own bank,” Simoneschi said. “Today, it’s pizza. Tomorrow, it’s everything else.”
+TrueLayer announced Oct. 8 that it secured a $27 million investment led by CDP Venture Capital and with participation by new and existing investors. The company said at the time that its Pay by Bank network was live in 22 countries, was powering payments for well-known European businesses and was being used by 30 million European consumers.
+PYMNTS reported in February that eBay invested in TrueLayer as part of a partnership with the Pay by Bank provider. TrueLayer said this collaboration would allow eBay’s U.K. buyers to pay directly from their bank accounts, authorizing transactions through their own banking apps in seconds.
+TrueLayer and Papa Johns Pit Pay by Bank Against Cards in Agentic Commerce
+Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses
+Hackers Hit US Air Force and FIFA While Lloyds and UK Agency Report Outages
+Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails
+agentic commerce , AI Agents , food and beverages , News , Papa Johns , partnerships , PYMNTS News , TrueLayer , What's Hot

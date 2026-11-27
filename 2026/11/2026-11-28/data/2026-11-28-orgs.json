@@ -1,0 +1,11 @@
+[
+ {"name": "TrueLayer", "url": "https://truelayer.com", "intro": "英國開放銀行支付網路業者，提供帳戶直付（Pay by Bank）與資料串接服務。"},
+ {"name": "Shopify", "url": "https://www.shopify.com", "intro": "加拿大電商平台，提供商家開店、結帳與支付等一站式服務。"},
+ {"name": "Kalshi", "url": "https://kalshi.com", "intro": "受美國商品期貨交易委員會監理的預測市場交易平台。"},
+ {"name": "Salt Edge", "url": "https://www.saltedge.com", "intro": "開放銀行與帳戶資料聚合服務商，以單一API串接多國金融機構。"},
+ {"name": "Baseten", "url": "https://www.baseten.co", "intro": "美國AI推論服務商，替企業在正式環境中運行各類AI模型。"},
+ {"name": "Lemon", "url": "https://www.lemon.me", "intro": "阿根廷金融科技公司，以單一App整合數位資產、儲蓄、轉帳與預付卡服務。"},
+ {"name": "泰達（Tether）", "url": "https://tether.to", "intro": "全球最大美元穩定幣USDT與黃金代幣XAUT的發行商。"},
+ {"name": "輝達（Nvidia）", "url": "https://www.nvidia.com", "intro": "全球主要AI晶片（GPU）供應商，AI運算基礎設施核心廠商。"},
+ {"name": "歐洲央行（ECB）", "url": "https://www.ecb.europa.eu", "intro": "歐元區中央銀行，負責歐元貨幣政策與支付體系監督。"}
+]

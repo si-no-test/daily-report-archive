@@ -1,0 +1,4 @@
+FINAL_URL: https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin
+STATUS: fail
+CHARS: 0
+NOTE: HTTPError: HTTP Error 429: Too Many Requests

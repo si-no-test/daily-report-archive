@@ -1,0 +1,6 @@
+FINAL_URL: https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027
+STATUS: fail
+CHARS: 71
+NOTE: 正文過短（<1500 字元），可能是殼頁/摘要頁
+---CONTENT---
+Austria-supervised crypto firms report 20.4B euros in H1 trading volume

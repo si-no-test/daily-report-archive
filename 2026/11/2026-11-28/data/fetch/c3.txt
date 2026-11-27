@@ -1,0 +1,26 @@
+FINAL_URL: https://www.pymnts.com/news/artificial-intelligence/2026/small-ai-models-give-banks-a-way-to-keep-sensitive-data-in-house/
+STATUS: ok
+CHARS: 5000
+---CONTENT---
+Small AI Models Give Banks a Way to Keep Sensitive Data In-House
+Thinking Machines, PrismML and Sarvam released smaller AI models that allow enterprises to run AI on local hardware, potentially reducing cloud costs and exposure of sensitive data.
+Baseten’s bison-1 ranked first among 19 decision models in Artificial Analysis testing, with potential applications in payment approvals, compliance and invoice processing.
+OpenAI and Alibaba introduced voice model upgrades to improve conversational AI, while Google expanded access to Genie 4 for training robots and software agents in simulated environments.
+After a month of frontier flagship launches, this week belonged to smaller models built to run on a desk instead of a data center. Thinking Machines, PrismML and Sarvam each shipped a model small enough for a laptop or a single chip, and Baseten’s open decision model beat Google’s and Microsoft’s in Artificial Analysis testing. For a bank, that is the difference between sending customer data to a cloud vendor and keeping it in the building.
+Thinking Machines and PrismML Move AI Onto the Laptop
+Thinking Machines Lab released Inkling 2 Mini on Nov. 20 with open weights, meaning any company can download it and run it on its own hardware. The lab was founded in 2025 by former OpenAI Chief Technology Officer Mira Murati and raised $2 billion at a $12 billion valuation before shipping a product. Artificial Analysis found Inkling 2 Mini matched a model with five times as many active parameters at one-sixth the cost per task. It runs offline on a MacBook Pro with 32GB of memory. A compliance team could review documents on a laptop with nothing leaving the device.
+PrismML released Ternary Bonsai 2.5 27B on Tuesday (Nov. 24) under an Apache 2.0 license, which allows free commercial use. PrismML is a Caltech spinout led by professor Babak Hassibi that raised a $22 million seed round from Khosla Ventures and Cerberus. PrismML uses a compression technique to shrink a 27-billion-parameter AI model to 5.9GB, small enough to run on a phone. The company says the smaller model retains most of the original model’s accuracy and can process sensitive data directly on the user’s device.
+Sarvam AI released an updated Sarvam-105B on Sunday (Nov. 22) with open weights, built for customer support and voice agents in Indian languages. The Bengaluru-based lab is the flagship of India’s push for home-grown AI and became a unicorn in June in a round led by HCLTech, with banking and insurance among its target markets. Sarvam says the new model runs on a single workstation chip and costs about a third of what it did in February.
+Baseten Takes the Lead in Decision Models
+Baseten released bison-1 and groundhog-1 on Nov. 20, two open-weight decision models built on Google’s Gemma 4. Baseten is a San Francisco inference provider, meaning it runs other companies’ models in production, and raised $1.5 billion in June at a valuation of up to $13 billion. A decision model does not write text. It picks from fixed options, such as approve or hold, and says how confident it is.
+Bison-1 ranks first of 19 decision models on the Artificial Analysis Decision Index and is the best at knowing when it might be wrong. Both models can read a full policy or email thread in one pass. Baseten’s example is an invoice that looks ready to pay but was canceled in an earlier message. Bison-1 costs $0.10 per million tokens, the small chunks of text AI companies use to meter usage, and groundhog-1 costs $0.035.
+Google opened Genie 4 to all paying Gemini API customers on Nov. 19, with pricing for the first time. The world model generates interactive simulated environments for training robots and software agents before they operate in the real world.
+OpenAI and Alibaba Update Voice Models as GPT-6 Designs Proteins
+OpenAI released GPT-Live-1.1 on Nov. 19 with better pronunciation and transcription in multilingual calls, and added a standby mode that pauses the model until someone speaks. Alibaba listed qwen-audio-3.1-live on Monday, a voice model that keeps talking to a caller while a second model works on the request, so the line never goes silent.
+OpenAI reported on Tuesday that its GPT-6 models can design proteins without specialized biology tools. In lab tests with research partner Onava, about 1 in 9 designed proteins attached to its intended target, and 70% of redesigned antibody fragments kept working. OpenAI said the same capability that helps design medicines could be misused and that it assesses the risk under its Preparedness Framework.
+For all PYMNTS AI coverage, subscribe to the daily AI Newsletter .
+Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses
+Hackers Hit US Air Force and FIFA While Lloyds and UK Agency Report Outages
+Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails
+Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks
+AI , AI models , Alibaba , Featured News , News , OpenAI , open source , PYMNTS News

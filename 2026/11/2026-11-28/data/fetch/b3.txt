@@ -1,0 +1,43 @@
+FINAL_URL: https://www.crowdfundinsider.com/2026/11/325202-tether-invests-in-argentine-fintech-lemon-to-expand-stablecoin-usdt-and-xaut-in-latin-america/
+STATUS: ok
+CHARS: 6100
+---CONTENT---
+Tether , the issuer of stablecoin USDT and focused sharply on the bitcoin and cryptocurrnecy sector, revealed that it had placed capital into Lemon , a financial technology company based in Argentina.
+The move, whose exact size was not disclosed in the official statement, is designed to accelerate the everyday adoption of the firm’s dollar-linked token USD₮ and its gold-backed token XAU₮ throughout Latin America.
+By backing Lemon, Tether seeks to help the Argentine platform create lower-cost, easier-to-use financial tools that incorporate these digital assets into routine money management.Lemon operates as a single mobile application that unites digital assets with conventional financial activities.
+Customers can set aside funds, generate returns, purchase shares in publicly listed companies, conduct cross-border transfers, and, in markets where the option is available, make purchases using Visa prepaid virtual cards.
+The platform’s central objective is to eliminate friction so that people can access and direct their money at any moment and from any location without unnecessary intermediate steps.
+A notable feature already available on the app is a unified Digital Dollar balance underpinned by USD₮.
+Lemon manages conversion rates, currency choices, and underlying networks behind the scenes, allowing users to concentrate solely on spending, saving, or sending funds.
+Access to XAU₮ further enables holders to acquire and retain fractional amounts of gold , removing the traditional requirement for large upfront purchases while still permitting straightforward monitoring and management within the same interface.
+Paolo Ardoino , Tether’s chief executive, emphasized that in Argentina and the broader region the dollar-linked token has evolved beyond a pure savings instrument.
+Individuals now employ it to receive compensation, cover expenses, and move money internationally.
+He noted that the investment in Lemon illustrates the speed at which both digital dollars and tokenized gold are embedding themselves into ordinary financial routines across Latin America.
+Marcelo Cavazzoli , founder and chief executive of Lemon, observed that Argentina has long shown a pronounced community preference for digital assets, accompanied by organic demand that is already well established throughout the region.
+He added that users increasingly prefer a single form of currency capable of serving every purpose rather than navigating among multiple options.
+Data cited from the 2026 Geography of Cryptocurrency Report by Chainalysis places Argentina as the second-largest digital-asset economy in Latin America .
+The country recorded $88.5 billion in activity over the preceding twelve months, representing a 15.3 percent increase.
+Ongoing inflation and sharp movements in local currency values continue to encourage households and businesses to turn toward U.S. dollar-linked instruments for preserving value, sending remittances, and conducting commerce.
+In this environment, tokens that track the dollar function both as protection against instability and as practical tools for daily payments.
+Tether ’s broader mission centers on opening financial services to anyone, anywhere.
+Across Latin America, digital dollars have already begun shifting from emergency reserves into ordinary use.
+The capital commitment to Lemon is intended to equip the company with the resources needed to meet rising demand at greater scale, thereby rendering both USD₮ and XAU₮ as straightforward to employ as conventional money that people already recognize.
+Lemon itself has grown rapidly.
+It reports 4.5 million verified users across Latin America and holds leading positions by active-user count in the digital asset markets of Argentina and Peru, while it continues to expand operations in Colombia.
+The firm processes substantial volumes of stablecoin transactions in the region and has previously unified various dollar-denominated digital balances into its single Digital Dollar presentation.
+Founded in 2019 by Cavazzoli, the company has earlier raised more than $66 million through Series A and Series B rounds led by Kingsway Capital, F-Prime, and ParaFi.
+The partnership aims to move stablecoins from being viewed primarily as specialized digital-asset products toward serving as underlying technology for ordinary financial solutions.
+By combining Lemon’s established user base and simplified interface with Tether ’s widely circulated tokens, the collaboration seeks to broaden access to lower-cost savings, payments, and transfers while incorporating fractional gold exposure into everyday portfolios.
+In a region where currency volatility has long shaped financial behavior, the investment underscores a continuing transition: digital assets are increasingly integrated into the infrastructure that supports how people earn, hold, spend, and transfer value.
+The undisclosed capital placement provides Lemon with additional means to refine products that conceal technical complexity, potentially widening the circle of individuals who routinely interact with dollar-linked and gold -linked tokens without specialized knowledge or large minimum amounts.
+Sponsored Links by DQ Promote
+Reg A - Form 1-A Filings Beta
+Beta. Initial Form 1-A only. Target raise is the stated Amount to be Raised, totaled. Compared with the same dates one year earlier.
+YTD : Jan 1, 2026 - Nov 27, 2026 vs Jan 1, 2025 - Nov 27, 2025
+Number of Filings 142 Prior 135 +5.2%
+Target Raise, Total $3.56B Prior $3.70B -3.9%
+This YTD Year prior Change
+the leading digital news service covering the global Fintech Industry, including digital assets, crowdfunding, tokenization, and other innovations in capital markets. email us
+Source: DisclosureQuest . Initial Form 1-A only.
+Created by Crowded Media Group
+This display counts initial Form 1-A filings only. It does not represent subsequent filings, including Form 1-A/A amendments or Form 1-A POS post-qualification updates filed by the issuer. Amounts are the stated Amount to be Raised on the initial filing, not capital raised and not amounts revised in later filings.

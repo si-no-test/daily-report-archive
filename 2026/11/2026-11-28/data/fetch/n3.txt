@@ -1,0 +1,42 @@
+FINAL_URL: https://www.crowdfundinsider.com/2026/11/325368-open-banking-provider-salt-edge-teams-up-with-ai-agents-focused-neumetria/
+STATUS: ok
+CHARS: 5772
+---CONTENT---
+Neumetria , which provides a behavioral understanding layer for financial platforms and AI agents, has entered a partnership with Salt Edge , an open banking solutions provider.
+The collaboration targets clients across Europe and North America, combining consented account data with interpretive analysis to give banks, lenders , fintechs , and AI agent developers a clearer, more current picture of individual customers before they extend credit, engage, or take automated actions. Institutions retain full control over their own policies and decisions.
+Open banking has simplified access to account information, yet raw data alone rarely equates to genuine insight.
+Temporary surges in funds can be hard to separate from sustained changes in financial circumstances.
+Likewise, it can be difficult to tell whether a customer is establishing a new pattern of behaviour or departing from a long-standing one. Income streams, spending habits, savings balances, and credit obligations are typically scattered across multiple accounts and different institutions.
+Assembling a consistent, up-to-date view of this activity demands substantial connectivity infrastructure that is expensive and complex for most organisations to build and maintain internally.
+Salt Edge addresses the connectivity challenge by supplying consented and normalised account data drawn from a customer’s various banks through a single integration.
+Its data aggregation service connects to more than 5,000 financial institutions in over 50 countries, including PSD2 coverage of more than 2,700 European institutions.
+Rather than managing bank-by-bank connections, Neumetria can build on this consistent feed of current account activity.
+This frees Neumetria to concentrate on the subsequent layer: transforming transaction streams into an evidence-based portrait of the person behind the accounts.
+That portrait encompasses income patterns, liquidity position, existing commitments, and overall financial capacity.
+Customers also benefit from a simpler experience.
+Instead of uploading paper or PDF statements, they can link their accounts in a few clicks.
+Together, the two companies enable clients to ground AI agents in a multi-bank perspective of income, obligations, and liquidity before any action is taken.
+Proposed actions can be assessed against an institution’s own policy, with a retained record of the underlying data and rules that produced each outcome.
+Current capacity and liquidity measures can sit alongside traditional bureau data , helping lenders support thin-file customers, gig workers, and those with irregular income.
+Credit and repayment schedules can be aligned more closely with observed income cycles.
+Early indicators of financial strain can be identified before they escalate into arrears, and systems can determine when it is appropriate to prompt a customer versus when it is better to remain silent.
+Amr Mohamed , founder and chief executive officer of Neumetria, noted that AI agents require more than a simple balance figure before they act. Salt Edge supplies consented access to activity across a customer ’s accounts, while Neumetria converts that activity into a current assessment of income, commitments, and liquidity.
+The institution continues to set the policy and remains accountable for outcomes. Neumetria makes those rules executable and ensures the resulting decisions can be reconstructed later.
+Alina Beleuta , chief growth officer at Salt Edge, observed that AI is only as powerful and credible as the data it can access responsibly.
+Open banking places users in control and allows consent-based, real-time financial information to complement conventional credit histories.
+In combination, the approach can help lenders evaluate risk more accurately, broaden access to financing , and give individuals a portable financial profile that travels with them across countries and continents.Europe and North America represent the two priority regions for the partnership.
+In Europe, Neumetria is moving into additional markets that feature distinct regulatory environments, especially as the region transitions from PSD2 toward PSD3 and the Payment Services Regulation.
+Relying on Salt Edge’s single API avoids months of work building and maintaining separate bank integrations in each jurisdiction.
+The companies also intend to collaborate beyond Europe , including in North America, where Salt Edge has recently expanded its data aggregation coverage.
+By pairing broad, consented data connectivity with a specialised behavioural understanding layer, the partnership offers financial institutions and AI agent builders a practical route to more informed risk assessment, better product recommendations, and more precise automated actions—while preserving institutional oversight and decision authority at every step.
+Sponsored Links by DQ Promote
+Reg A - Form 1-A Filings Beta
+Beta. Initial Form 1-A only. Target raise is the stated Amount to be Raised, totaled. Compared with the same dates one year earlier.
+YTD : Jan 1, 2026 - Nov 27, 2026 vs Jan 1, 2025 - Nov 27, 2025
+Number of Filings 142 Prior 135 +5.2%
+Target Raise, Total $3.56B Prior $3.70B -3.9%
+This YTD Year prior Change
+the leading digital news service covering the global Fintech Industry, including digital assets, crowdfunding, tokenization, and other innovations in capital markets. email us
+Source: DisclosureQuest . Initial Form 1-A only.
+Created by Crowded Media Group
+This display counts initial Form 1-A filings only. It does not represent subsequent filings, including Form 1-A/A amendments or Form 1-A POS post-qualification updates filed by the issuer. Amounts are the stated Amount to be Raised on the initial filing, not capital raised and not amounts revised in later filings.

@@ -1,0 +1,37 @@
+FINAL_URL: https://www.pymnts.com/cybersecurity/fraud-prevention/2026/ai-helps-merchants-stop-holiday-fraud-without-losing-good-customers/
+STATUS: ok
+CHARS: 6348
+---CONTENT---
+AI Helps Merchants Stop Holiday Fraud Without Losing Good Customers
+Fraud prevention is becoming a profitability strategy. AI-powered controls can help retailers maximize legitimate sales rather than simply minimize fraud losses.
+False declines can undermine holiday shopping economics. Rejecting legitimate transactions wastes customer acquisition spending, erodes margins and redirects demand to competitors.
+AI is redefining the economics of payment acceptance. Connecting fraud intelligence with contribution margins, customer lifetime value and fulfillment costs can help merchants make more profitable transaction-level decisions.
+Somewhere between a retailer’s holiday advertising budget and its reported Cyber Monday sales sits a financial decision most shoppers never see. Whether accepting their money is worth the risk.
+Black Friday presents an unusual economic problem for fraud prevention systems because much of what makes holiday shopping commercially attractive can also make it appear suspicious. Consumers make larger purchases, shop with unfamiliar retailers, send merchandise to multiple addresses and use payment credentials they rarely use.
+Retailers acquire concentrations of first-time customers whose behavior cannot be evaluated against established purchase histories.
+And artificial intelligence is making that calculation both more sophisticated and more consequential. Criminals can manufacture credible customer identities, automate fraudulent purchases and imitate legitimate shopping behavior. Retailers, meanwhile, can deploy their own sophisticated AI tools to evaluate transactions against behavioral and financial signals, determining how much profitable business their fraud controls allow them to conduct.
+Read more: The Small Business Cheat Sheet for Winning the Holidays Without Losing Money
+Lost Business Is the Hidden Cost of a Successful Fraud Strategy
+Retailers today are starting to evaluate fraud controls against recovered contribution margins, customer retention, authentication abandonment and realized post-purchase losses, rather than measuring their effectiveness exclusively through blocked transactions or chargeback rates.
+According to PYMNTS Intelligence’s report, “ Orchestrating Trust: The Future of Fraud Prevention in Payments ,” 85% of merchants surveyed identify preventing fraud without compromising the customer experience as their biggest fraud management challenge. Nearly half (47%) estimate that up to 5% of legitimate orders are incorrectly rejected as fraudulent.
+During a shopping weekend built around time-sensitive promotions and competitive pricing, cart abandonment as a result of authorization frictions can represent a particularly direct transfer of revenue to competitors.
+Adobe’s figures for the 2025 holiday season placed online Black Friday purchases in the United States at $11.8 billion, a 9.1% increase from the prior year. Cyber Monday sales reached $14.25 billion, holding the title for the year’s biggest online shopping day.
+Traditional fraud systems were designed primarily to answer whether a transaction appeared sufficiently trustworthy to proceed. Emerging AI-powered payment systems can introduce a more commercially nuanced question: What is the expected financial return of accepting, rejecting or further investigating it?
+The opportunity is to make fraud prevention less of a constraint on growth and more of a capability that enables it.
+See also: Winning the Next Cart: How Shoppers Choose Stores
+Agentic Commerce Is Impacting Fraud Prevention Beyond Cyber Monday
+The profitability of holiday transactions is not fully established when retailers close their Cyber Monday books. Returns, disputed purchases, chargebacks and fulfillment-related fraud can continue eroding the economics of holiday sales well into the following quarter.
+The emergence of AI-assisted shopping introduces another complication for retailers. Some of the behaviors associated with malicious automation are beginning to resemble those associated with legitimate commerce. Walmart , for example, this week announced its customers can now use Meta ‘s AI agent, Muse, to find Black Friday deals.
+Shopping agents can rapidly compare products, navigate websites and initiate purchases on behalf of consumers. Fraudsters also rely on automated systems to interact with merchant infrastructure at scale.
+The implications extend beyond Thanksgiving weekend. As commerce becomes more automated, a merchant’s ability to establish the provenance, permissions and intent behind a transaction could become as commercially important as its ability to authenticate a payment credential.
+Read also: Hacking Is Getting Cheaper Faster Than Enterprises Can Make Software Safer
+Research cited in PYMNTS Intelligence’s August 2026 edition of the Optimizing Payments Tracker® Series, “ The Performance Gap: Why Every Transaction Is a Growth Opportunity ,” found that 83% of respondents reported that AI had meaningfully reduced false positives and associated customer churn over the preceding year.
+The potential advantage of AI, in other words, is not simply detecting more suspicious transactions. It is reducing the number of legitimate transactions that merchants must sacrifice to achieve an acceptable level of protection.
+It also makes authentication a more strategic variable. Rather than automatically declining an uncertain transaction, a merchant can evaluate whether additional verification is economically preferable to rejection. For other purchases, the expected cost of introducing another checkout step may outweigh the incremental protection it provides.
+That distinction creates an opportunity to incorporate contribution margins, fulfillment expenses, fraud liability and customer lifetime value into payment decision-making.
+For all PYMNTS digital transformation and B2B coverage, subscribe to the daily digital transformation and B2B newsletters .
+Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses
+Hackers Hit US Air Force and FIFA While Lloyds and UK Agency Report Outages
+Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails
+Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks
+Black Friday , featured insights , Main Feature , News , payments fraud , Payments Intelligence , PYMNTS Intelligence , PYMNTS News , Retail

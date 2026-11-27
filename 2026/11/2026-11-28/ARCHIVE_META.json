@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-28",
+  "archived_at": "2026-11-27T23:14:33Z",
+  "source_repo": "si-no-test/financial-daily-report",
+  "source_commit": "551c55f12ab9ae982206e5b8c6fff0cf99ee4f8d",
+  "archive_repo": "si-no-test/daily-report-archive",
+  "mode": "PROD",
+  "test_mode": false,
+  "file_count": 36,
+  "total_bytes": 901222,
+  "files": [
+    {
+      "path": "data/2026-11-28-candidates.txt",
+      "bytes": 48643,
+      "sha256": "527484fbe50957038b02517fb205f2e0f033fbf4ed9fd06eaa077e205161fb30"
+    },
+    {
+      "path": "data/2026-11-28-glossary.json",
+      "bytes": 2338,
+      "sha256": "d45f2957e0314923b465b9ef8fe89aa3c01fb45a0252ab3af7121e34f9c77d53"
+    },
+    {
+      "path": "data/2026-11-28-manifest.txt",
+      "bytes": 3460,
+      "sha256": "54e1fb0a874c3df178782b863eaa5fb460e8003185588ad2a5cc27f4663e01ea"
+    },
+    {
+      "path": "data/2026-11-28-orgs.json",
+      "bytes": 1369,
+      "sha256": "66a06a511fdf6d10e5b60c1138c71a5ae62b5fc8cbae9cddafde9eb37df9c6e1"
+    },
+    {
+      "path": "data/2026-11-28-topic-cases.json",
+      "bytes": 2019,
+      "sha256": "37c7e6266b5e5896dec8d3b9ce6a13b4ebb38037fa5e7a59ca1ca69a19144c79"
+    },
+    {
+      "path": "data/2026-11-28-topic-decisions.json",
+      "bytes": 885,
+      "sha256": "ca2fff585ef619e413ba77a0a8d49bc2ac9187207d9ef50c5e1663bc7847e877"
+    },
+    {
+      "path": "data/2026-11-28.json",
+      "bytes": 19446,
+      "sha256": "e81dd6215cc75d5fb50a5b2bf9679cbdfaaeeac77e5fd245be00152f60e5f97e"
+    },
+    {
+      "path": "data/collect_stdout.txt",
+      "bytes": 48873,
+      "sha256": "c65ab7a71952fca4d53bc304c3bb86ad5b7cbd5e01a0ba7de6f16c4d15ede80f"
+    },
+    {
+      "path": "data/fetch/b1.txt",
+      "bytes": 225,
+      "sha256": "11326c6de7bab9289cd401424bc23010405d68e1e24d780d0525d8736a750c66"
+    },
+    {
+      "path": "data/fetch/b2.txt",
+      "bytes": 181,
+      "sha256": "dfafbe2198ec7cd6fae6293cafc2d4a7fd65c24d6b6a7d010adcdfdd33bc81ab"
+    },
+    {
+      "path": "data/fetch/b3.txt",
+      "bytes": 6316,
+      "sha256": "b66d6baf7efeb03b86a3930db8efe2d1bec5caac5f8ebc2d79c3f33c1d8c7720"
+    },
+    {
+      "path": "data/fetch/c1.txt",
+      "bytes": 3147,
+      "sha256": "6da825fbf312beef89c5abcba62d941fdf8c3e5307a84687b13d9f5e0d7fcfbd"
+    },
+    {
+      "path": "data/fetch/c2.txt",
+      "bytes": 3223,
+      "sha256": "e006291589c6b8d9ac6773992447fe858e558a93fdfe02a716c8d72fa67c1d5a"
+    },
+    {
+      "path": "data/fetch/c3.txt",
+      "bytes": 5192,
+      "sha256": "2224d9e0a489ce9214d024142090ff7716a1d1c10f5b4d925563aeb3457d1f61"
+    },
+    {
+      "path": "data/fetch/c4.txt",
+      "bytes": 6548,
+      "sha256": "bd95951163d1bb0f356f731192a34a4686ad9312cdbb08af68b9efb810b7e70b"
+    },
+    {
+      "path": "data/fetch/c5.txt",
+      "bytes": 212,
+      "sha256": "c91ce427a288df595543b85f85124a711ca7f3e2c0defc9071186451e7543b47"
+    },
+    {
+      "path": "data/fetch/c5b.txt",
+      "bytes": 262,
+      "sha256": "85cd1aeae4e9d51604f836c4a7d9a1d3cd0df9ded01bb6e401beb44f5a9d8c2f"
+    },
+    {
+      "path": "data/fetch/c6.txt",
+      "bytes": 202,
+      "sha256": "2aa941219bcddd901228f219689ff2e6c0ea55c9320c1e4d09e725c154c6ee31"
+    },
+    {
+      "path": "data/fetch/n1.txt",
+      "bytes": 2968,
+      "sha256": "5561c4194d9d57020ca83ec5acf7577aa217d591685c8139755b1f1e4e2f13d5"
+    },
+    {
+      "path": "data/fetch/n2.txt",
+      "bytes": 3102,
+      "sha256": "c2af56d313f7d8c6ab7159bb05ef189d3055e50d693c11464c35eb4ddc62c9d7"
+    },
+    {
+      "path": "data/fetch/n3.txt",
+      "bytes": 5954,
+      "sha256": "d726eb1095529efca83b5ee629eacff84b3de981b1786f6d5cf01ab794945e6b"
+    },
+    {
+      "path": "data/fetch/n4.txt",
+      "bytes": 1491,
+      "sha256": "8c082bb4734a3c53228c6aa476f78299aefc0bbe6214ab3a59ed03d35fe1fde4"
+    },
+    {
+      "path": "data/selfcheck_stdout.txt",
+      "bytes": 3517,
+      "sha256": "54340cab36778b55318a07e3bc892c630f3d741298ffa3fbcae94e97562465e5"
+    },
+    {
+      "path": "outbox/2026-11-28-archive.html",
+      "bytes": 100083,
+      "sha256": "24dc935890bf6ebdd52ab6a070f9312bc43389c625999825acb4d65c6ad3a988"
+    },
+    {
+      "path": "outbox/2026-11-28-email.html",
+      "bytes": 11161,
+      "sha256": "a7ed1190a967b7b8f283ed0ce73a165b29e1191ffd30a678bae14da7b36c0f6a"
+    },
+    {
+      "path": "published/2026-11-28.html",
+      "bytes": 555,
+      "sha256": "13a6c9c99d0fea589918760ca20f52482d4cda72a7e1c6f5c2f9b097ab40b1c7"
+    },
+    {
+      "path": "published/2026-11-28/ai.html",
+      "bytes": 37163,
+      "sha256": "6cd6ebf87881d9619a900b9ae9bb7b66ad0d4ce0450951a78228d7503f15501f"
+    },
+    {
+      "path": "published/2026-11-28/blockchain.html",
+      "bytes": 42946,
+      "sha256": "1db4c9a98535b00429fffe14ad921ead432e28f569308956a56563c07e01fc53"
+    },
+    {
+      "path": "published/2026-11-28/index.html",
+      "bytes": 24314,
+      "sha256": "428a7b7cfb0f721f9f6d065f5f52c30cea113363b80543345d300441526ed17b"
+    },
+    {
+      "path": "published/2026-11-28/innovation.html",
+      "bytes": 57613,
+      "sha256": "75103165bdeeb0481dbaecf9a5a058d993c75351bf44ca76c8de9ff253c64c3f"
+    },
+    {
+      "path": "published/glossary.html",
+      "bytes": 415280,
+      "sha256": "681f4d610b0e3b25a6af06fd117ab161d115d46b09e9743a845f888c902e6a58"
+    },
+    {
+      "path": "published/index.html",
+      "bytes": 792,
+      "sha256": "2384a79e8ad88ff10a693337b5d368add5c4617a673065103113b111d3352a4c"
+    },
+    {
+      "path": "published/latest.html",
+      "bytes": 555,
+      "sha256": "13a6c9c99d0fea589918760ca20f52482d4cda72a7e1c6f5c2f9b097ab40b1c7"
+    },
+    {
+      "path": "published/topics/brazil-b3-real-stablecoin-rollout.html",
+      "bytes": 1607,
+      "sha256": "5082d26d25c571d43e8e422aeb41f7013ac644824046d0a66936c991abdb8775"
+    },
+    {
+      "path": "source/2026-11-28-report.txt",
+      "bytes": 36924,
+      "sha256": "31f694976448b77fa080bd0e87637c586424b4a1bc1a8aa0d5492f9c4500978e"
+    },
+    {
+      "path": "source/2026-11-28-summary.txt",
+      "bytes": 2656,
+      "sha256": "14ac830b81f150ee9ab423a99f47a23cab730d3d085a326a1c4490e5f39f020f"
+    }
+  ]
+}

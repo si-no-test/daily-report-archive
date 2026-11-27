@@ -1,0 +1,18 @@
+FINAL_URL: https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/
+STATUS: ok
+CHARS: 3013
+---CONTENT---
+Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks
+Shopify now provides its merchants with more evidence for chargebacks on agentic orders, the company said in a Wednesday (Nov. 25) entry on its changelog .
+This change is meant to solve the challenge merchants have faced when an artificial intelligence (AI) shopping assistant placed an order for the customer, the customer later said they didn’t authorize the payment and the merchant’s own records couldn’t show what the customer set up, according to the changelog.
+“Shopify-provided information from checkout is now added to your chargeback response for these orders,” Shopify said in the changelog. “The response includes a Payment authorization record with the spending limit that the customer set for the assistant, the payment approval that was recorded at checkout and the assistant’s name when it’s known. The written defense uses this record too. It’s added automatically, so you don’t need to do anything.”
+In other Wednesday additions to its changelog, Shopify said it now enables merchants to get AI-written responses for every chargeback reason, in addition to the “product not received” disputes for which this capability was previously available; provides merchants with payment verification proof to use when a customer’s bank files a chargeback that says a purchase wasn’t authorized; and allows merchants to choose which staff get chargeback notifications , so that merchants can ensure these notifications reach the staff who handle their disputes.
+PYMNTS reported in October that agentic commerce is creating a new transaction type before the payments industry has fully developed the rules for accepting it. While payment stacks have become fine-tuned for transaction authorization, agentic commerce inserts a new question, the report said: “Was this machine authorized to make this decision?”
+The PYMNTS Intelligence report “ Holiday Retail’s AI Test Starts With Who Gets to Hit Buy ” found that 132 million consumers have used AI to help them buy something, 58.4 million U.S. adults start their online retail research with AI and 24% of adults would let an agent handle both shopping and buying.
+“The industry is moving from a world in which AI provides information to one in which it can increasingly take action,” the report said. “That transition has implications for merchandising, loyalty, payments, customer data and even the economics of customer acquisition.”
+PYMNTS reported Nov. 3 that when Shopify reported its quarterly earnings, the company said it was seeing a jump in revenue as consumers increasingly use AI agents to evaluate and purchase products.
+Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses
+Hackers Hit US Air Force and FIFA While Lloyds and UK Agency Report Outages
+Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails
+Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks
+agentic commerce , AI , News , PYMNTS News , Retail , Shopify , What's Hot

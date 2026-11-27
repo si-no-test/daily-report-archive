@@ -1,0 +1,20 @@
+FINAL_URL: https://www.pymnts.com/economy/markets/2026/kalshi-promotes-prediction-market-as-hedging-solution-for-small-businesses/
+STATUS: ok
+CHARS: 2771
+---CONTENT---
+Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses
+Kalshi is promoting itself as a hedging platform for businesses to find new growth and to mitigate the legal threats to other parts of its prediction market business, such as sports, the Financial Times reported Thursday (Nov. 26).
+About 500 businesses have used Kalshi to hedge financial risks, Nicolas Hull , director of business development at Kalshi, said in the report.
+Examples of ways companies could use, or have used, Kalshi’s platform include protecting their business from the risk of new tariffs, a snowy month, a local sports team’s playoff miss or a power outage, according to the report.
+Kalshi declines requests that could create “perverse incentives” for traders, Hull said in the report. For example, the company declined an insurance company’s request to hedge wildfire risk, per the report.
+Hull said in the report that Kalshi’s platform offers “almost a form of microinsurance” and that “almost all of the small businesses I’ve spoken to have never previously hedged.”
+There is a wave of new brokerage startups that package and pitch event contracts to small businesses that face risks that could be traded on prediction markets, the FT reported. Examples of these startups include Herisson and Castle Tech , according to the report.
+Reuters reported in August that a handful of small businesses had begun using prediction market platforms to hedge risks . Companies of this size can’t get help from Wall Street banks in hedging risks that in some cases could kill their business, the report said.
+The report cited the examples of a goat herding firm that aimed to manage the risk that its labor costs could soar if a gap in state labor law wasn’t fixed; a bar that wanted to manage the risk that its profits could be lowered by its promotion that offered refunds if the local basketball team won a game; and a tea company that sought a contract that would help cover a potential surge in freight costs.
+The report of Kalshi’s focus on this business came as the company faces several legal battles in which states allege that its prediction markets are gambling.
+There have also been reports that Kalshi plans to expand into stock trading , is readying the launch of a futures market tracking inflation metrics and obtained regulatory permission to list precious metals-related perpetual futures on its platform.
+TrueLayer and Papa Johns Pit Pay by Bank Against Cards in Agentic Commerce
+Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses
+Hackers Hit US Air Force and FIFA While Lloyds and UK Agency Report Outages
+Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails
+Kalshi , News , prediction markets , PYMNTS News , SMBs , What's Hot

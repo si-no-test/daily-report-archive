@@ -1,0 +1,32 @@
+[
+ {
+  "title": "- **TrueLayer**於11月27日宣布與棒約翰（Papa Johns）完成AI代理以Pay by Bank付款的試點，其付款網路已在22國上線、服務3,000萬名歐洲消費者",
+  "summary": "TrueLayer與棒約翰以Lloyds、NatWest的VRP API在FCA沙盒完成AI代理帳戶直付試點，客戶於銀行端設定代理支出上限。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Shopify**於11月25日宣布在AI代理訂單的退單答辯中自動附上客戶授權紀錄，對應已有1.32億名消費者使用AI協助購物",
+  "summary": "Shopify自動在AI代理訂單的退單答辯附上支出上限、付款核准與助理名稱等授權紀錄。",
+  "theme": "innovation"
+ },
+ {
+  "title": "- **Baseten**於11月20日發布開放權重決策模型bison-1，在Artificial Analysis 19款決策模型評比中排名第一，每百萬token收費0.10美元",
+  "summary": "Baseten發布以Gemma 4為基礎的開放權重決策模型bison-1與groundhog-1，可在行內部署做核准／暫緩判斷。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **PYMNTS Intelligence**於11月27日發布分析，指85%商家把「防詐不犧牲顧客體驗」列為最大挑戰，近半數估計多達5%正常訂單遭誤拒",
+  "summary": "PYMNTS分析指85%商家視防詐不損體驗為最大挑戰，AI風控轉向兼顧誤拒率與毛利。",
+  "theme": "ai"
+ },
+ {
+  "title": "- **泰達（Tether）**於11月27日宣布投資阿根廷金融科技業者Lemon，推動USDT與黃金代幣XAUT融入拉美日常金融，Lemon擁有450萬名驗證用戶",
+  "summary": "泰達投資阿根廷Lemon，推動USDT與XAUT進入拉美450萬用戶的日常收付。",
+  "theme": "blockchain"
+ },
+ {
+  "title": "- **巴西證券交易所（B3）**於11月27日宣布聯手六家大型金融機構推出與巴西里爾1:1掛鉤的穩定幣，最快於2027年第一季上線",
+  "summary": "B3旗下Banco B3將與六家金融機構發行里爾1:1穩定幣，最快2027年第一季上線。",
+  "theme": "blockchain"
+ }
+]

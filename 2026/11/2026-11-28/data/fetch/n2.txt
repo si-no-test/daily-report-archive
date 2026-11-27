@@ -1,0 +1,16 @@
+FINAL_URL: https://www.pymnts.com/legal/bank-regulation/2026/federal-bank-regulators-trade-strict-rulebooks-for-loose-guardrails/
+STATUS: ok
+CHARS: 2924
+---CONTENT---
+Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails
+Federal banking regulators are shifting toward flexible guardrails rather than strict new rules. This move arrives as banks face rapid shifts in artificial intelligence (AI), digital assets and payment rails. For payments leaders and FinTechs, the message is that there is a need to build strong internal controls now while regulators step back from rigid rulebooks.
+In a Tuesday (Nov. 24) blog post , law firm Moore & Van Allen shared five takeaways from The Clearing House Annual Conference in New York. The firm noted that regulators are treating supervisory observations seriously even when issues fall short of formal enforcement. Regulators also remain open to new entrants, including proposed limited-purpose Federal Reserve accounts for nonbanks, while applying existing risk rules to AI and digital assets. Meanwhile, stablecoin use remains focused on cross-border transfers and crypto ramps, whereas tokenized deposits are gaining ground for commercial and wholesale payments.
+“Rather, discussions at the conference reflected a regulatory approach increasingly defined by guardrails rather than prescriptive measures, allowing room for innovation while leaving regulated institutions responsible for compliance and remediation,” the post said.
+The rest of the conference highlighted two pressing pressures on banks and payment providers. First, a post-midterm Congress with an approaching 2028 election cycle will likely pursue targeted oversight and narrow bipartisan bills rather than sweeping banking laws. Second, AI agents acting for consumers blur liability and authorization rules when disputed payments occur.
+“Taken together, the conference discussions point toward a regulatory environment in which each institution’s own risk management and governance frameworks are increasingly critical,” the Moore & Van Allen post said.
+PYMNTS has closely tracked how the GENIUS Act , which is the first major U.S. digital asset law, is pulling stablecoins into the banking perimeter and sparking battles over yields, deposits and payment infrastructure. PYMNTS has also reported that acquirers and merchants see promise in agentic commerce but face fraud, identity and legacy integration hurdles. Looking ahead, payments leaders and FinTechs can expect to see continued efforts to manage digital assets and nonbank payment access, tougher liability questions around AI-driven transactions, and closer scrutiny of how banks manage risk without a rigid regulatory safety net.
+Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses
+Hackers Hit US Air Force and FIFA While Lloyds and UK Agency Report Outages
+Federal Bank Regulators Trade Strict Rulebooks for Loose Guardrails
+Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks
+AI , banking , digital assets , digital transformation , News , PYMNTS News , stablecoins
